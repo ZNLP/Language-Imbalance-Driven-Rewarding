@@ -91,6 +91,8 @@ bash scripts/ebatch_inference_for_eval.sh
 
 We provide some results in this section. More detailed results can be found in our paper.
 
+### General Instruction Following
+
 + Head-to-head Performance
 <div align=center>
 <img width="90%" src="assets/head_to_head.png"/>
@@ -109,12 +111,15 @@ We provide some results in this section. More detailed results can be found in o
     <p align="center">The Multilingual MT-Bench Benchmark</p>
     <img src="assets/multilingual_NLP_tasks.png" width="60%" height="60%">
     <p align="center">The Multilingual NLP Benchmarks</p>
-    <img src="assets/mgsm.png" width="60%" height="60%">
-    <p align="center">Model performances on MGSM benchmark on LLama-3-8B-Instruct</p>
 </p>
 </details>
 </div>
 
+### Arithmetic Reasoning
++ Performances on MGSM benchmark o
+<div align=center>
+<img width="90%" src="assets/mgsm.png"/>
+</div>
 
 ## Schedule
 
