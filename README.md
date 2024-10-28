@@ -84,7 +84,7 @@ Our training is mostly performed on [LLaMA-Factory](https://github.com/hiyouga/L
 ## 📈 Evaluation
 
 ```bash
-bash scripts/ebatch_inference_for_eval.sh
+bash scripts/batch_inference_for_eval.sh
 ```
 
 ## 👀 Experiments
