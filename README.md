@@ -7,10 +7,10 @@
 <div align="center">
 <br>
 <a>Wen Yang</a><sup><span>1,2*</span></sup>, 
-<a href="https://scholar.google.com/citations?user=juR8ZS4AAAAJ&hl=zh-CN">Junhong Wu</a><sup><span>1,2*</span></sup>,
-<a href="https://github.com/October2001">Chen Wang</a><sup><span>1,2</span></sup>,
-<a>Chengqing Zong</a><sup><span>1,2</span></sup>,
-<a>Jiajun Zhang</a><sup><span>1,2,3,4🌟</span></sup>,
+<a href="https://scholar.google.com/citations?user=Ci4l4yQAAAAJ&hl=zh-CN">Junhong Wu</a><sup><span>1,2*</span></sup>,
+<a href="https://scholar.google.com/citations?user=FgrrqlAAAAAJ&hl=zh-CN">Chen Wang</a><sup><span>1,2</span></sup>,
+<a href="https://scholar.google.com/citations?user=l8lvKOQAAAAJ&hl=zh-CN">Chengqing Zong</a><sup><span>1,2</span></sup>,
+<a href="https://scholar.google.com/citations?user=93zngeYAAAAJ&hl=zh-CN">Jiajun Zhang</a><sup><span>1,2,3,4🌟</span></sup>,
 <br>
     
 \* Equal contribution 🌟 Corresponding author
