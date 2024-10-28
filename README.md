@@ -116,7 +116,7 @@ We provide some results in this section. More detailed results can be found in o
 </div>
 
 ### Arithmetic Reasoning
-+ Performances on MGSM benchmark o
++ Performances on MGSM benchmark
 <div align=center>
 <img width="90%" src="assets/mgsm.png"/>
 </div>
