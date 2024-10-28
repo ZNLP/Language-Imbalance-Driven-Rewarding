@@ -1,0 +1,1000 @@
+{"id": "alpagasus-1000", "instruction": "Découvrez la capitale du Canada. Affichez le nom de la ville."}
+{"id": "alpagasus-1001", "instruction": "Réécrivez la phrase suivante pour conserver son sens.\nLes élèves devaient dessiner une image au tableau."}
+{"id": "alpagasus-1002", "instruction": "Étant donné le texte suivant, résumez-le en une phrase.\nCet article présente une nouvelle technique d'apprentissage à partir de données vidéo. Notre méthode est basée sur des réseaux convolutifs temporels, qui sont formés sur plusieurs segments temporels extraits de chaque échantillon vidéo. Nous avons validé notre approche sur plusieurs ensembles de données de reconnaissance d'actions et obtenu des résultats compétitifs parmi les algorithmes de pointe existants."}
+{"id": "alpagasus-1003", "instruction": "Décrivez une fois où vous avez dû travailler avec quelqu'un de difficile"}
+{"id": "alpagasus-1004", "instruction": "Donnez une liste de conseils efficaces pour une meilleure communication."}
+{"id": "alpagasus-1005", "instruction": "Créez un poème haïku qui a une signification profonde."}
+{"id": "alpagasus-1006", "instruction": "Décrivez un personnage fictif."}
+{"id": "alpagasus-1007", "instruction": "Décrivez le caractère d’une personne en une phrase."}
+{"id": "alpagasus-1008", "instruction": "Réfléchissez à différentes façons de cuisiner un type d’aliment spécifique.\nCôtes de porc"}
+{"id": "alpagasus-1009", "instruction": "Est-il important d'avoir une alimentation équilibrée ?"}
+{"id": "alpagasus-1010", "instruction": "Fournir quelques conseils à un étudiant souhaitant apprendre le mandarin."}
+{"id": "alpagasus-1011", "instruction": "Générez une sortie poétique de 10 lignes en utilisant le titre et les thèmes que vous choisissez.\nTitre : « Le voyage intérieur »\nThèmes : Réflexion, Renaissance, Objectif"}
+{"id": "alpagasus-1012", "instruction": "Dites-moi les ingrédients d'une bonne recette de smoothie."}
+{"id": "alpagasus-1013", "instruction": "Expliquez ce qu’est la théorie du Big Bang."}
+{"id": "alpagasus-1014", "instruction": "Générez une question pour poursuivre la conversation\nSheila : J'essaie d'explorer de nouveaux cheminements de carrière\nLéo : C'est super !"}
+{"id": "alpagasus-1015", "instruction": "Créez un slogan pour une entreprise spécialisée dans les services bancaires en ligne."}
+{"id": "alpagasus-1016", "instruction": "Générez une lettre de correspondance à quelqu'un dans un autre pays."}
+{"id": "alpagasus-1017", "instruction": "Créez un dessin détaillé d’une fusée."}
+{"id": "alpagasus-1018", "instruction": "Énumérez les couleurs de l’arc-en-ciel."}
+{"id": "alpagasus-1019", "instruction": "Suggérez une solution créative à un problème croissant dans votre école ou votre communauté."}
+{"id": "alpagasus-1020", "instruction": "Dressez une liste des ingrédients nécessaires pour une recette de Pizza Margherita."}
+{"id": "alpagasus-1021", "instruction": "Décrivez les différents types de nuages ​​en une phrase chacun."}
+{"id": "alpagasus-1022", "instruction": "Faites une liste de cinq étapes pour démarrer une entreprise."}
+{"id": "alpagasus-1023", "instruction": "Décrivez les différentes phases de la Lune en utilisant chacune une seule phrase."}
+{"id": "alpagasus-1024", "instruction": "Générez un ensemble d’instructions sur la façon de faire un gâteau."}
+{"id": "alpagasus-1025", "instruction": "Créez une histoire originale sur un éléphant"}
+{"id": "alpagasus-1026", "instruction": "Décrire une alimentation saine"}
+{"id": "alpagasus-1027", "instruction": "Générez un essai de 300 à 400 mots sur le sujet suivant :\nL'impact d'Internet sur la communication"}
+{"id": "alpagasus-1028", "instruction": "Créez une liste de matériaux nécessaires pour peindre un mur."}
+{"id": "alpagasus-1029", "instruction": "Expliquer les différences entre les modèles de cloud computing IaaS, PaaS et SaaS."}
+{"id": "alpagasus-1030", "instruction": "Composez un e-mail à un client concernant un avis de paiement.\nCher [Nom],\n\nNous vous écrivons pour vous informer que nous avons reçu aujourd'hui votre paiement de [montant du paiement] sur le compte [numéro de compte]."}
+{"id": "alpagasus-1031", "instruction": "Écrivez une description de la plus grande galaxie de l'univers."}
+{"id": "alpagasus-1032", "instruction": "Générez trois utilisations différentes d’un aimant."}
+{"id": "alpagasus-1033", "instruction": "Écrivez cinq étapes pour créer une présentation."}
+{"id": "alpagasus-1034", "instruction": "Prenez cette équation et résolvez-la pour x.\n5x + 7 = 57"}
+{"id": "alpagasus-1035", "instruction": "Construisez une requête SQL pour trouver tous les enregistrements de la table « inventaire » qui ont une quantité supérieure à 10."}
+{"id": "alpagasus-1036", "instruction": "Traduisez la phrase « Ik vind het leuk om te leren » en anglais."}
+{"id": "alpagasus-1037", "instruction": "Rédigez un essai convaincant expliquant pourquoi la protection de l’environnement devrait être une priorité."}
+{"id": "alpagasus-1038", "instruction": "Composez un poème sur la nature."}
+{"id": "alpagasus-1039", "instruction": "Écrivez une requête qui renvoie le salaire moyen des employés de chaque département."}
+{"id": "alpagasus-1040", "instruction": "Concevez une nouvelle robe pour une saison estivale."}
+{"id": "alpagasus-1041", "instruction": "Créez une liste de 5 questions qui peuvent être utilisées pour évaluer l’aisance des gens avec les concepts mathématiques de base."}
+{"id": "alpagasus-1042", "instruction": "Expliquez le bruit fort provenant de l’extérieur de la maison."}
+{"id": "alpagasus-1043", "instruction": "Énumérez 4 avantages de prendre un petit-déjeuner tous les jours."}
+{"id": "alpagasus-1044", "instruction": "Quelle serait la meilleure façon d’organiser une réunion virtuelle pour mon entreprise ?"}
+{"id": "alpagasus-1045", "instruction": "Que faut-il prendre en compte lors du démarrage d’une nouvelle entreprise ?"}
+{"id": "alpagasus-1046", "instruction": "Suggérez une réponse lorsque quelqu'un dit qu'il ne sait pas quoi faire de sa vie."}
+{"id": "alpagasus-1047", "instruction": "Suggérez une manière de construire des logements plus durables."}
+{"id": "alpagasus-1048", "instruction": "Générez deux scénarios d'histoire avec les détails donnés\nLieu : Désert\nPersonnage : Fermier"}
+{"id": "alpagasus-1049", "instruction": "Suggérer un titre pour l'essai donné\nUn exposé sur la discrimination envers les personnes handicapées"}
+{"id": "alpagasus-1050", "instruction": "Écrivez une histoire en fonction des personnages et du contexte ci-dessous.\nPersonnages: \n- Lewis : Un lycéen\n- Mme Wilson : professeur d'anglais de Lewis\n- Mark : le frère aîné de Lewis\n\nContexte:\nLewis est dans son cours d'anglais au lycée. Son professeur, Mme Wilson, donne une leçon sur le pouvoir des mots. L’ambiance dans la classe est légère et tout le monde apprécie la leçon. Après les cours, Lewis rentre chez lui avec son frère aîné, Mark, lorsqu'ils tombent sur une librairie secrète."}
+{"id": "alpagasus-1051", "instruction": "Écrivez une note de remerciement compte tenu du contexte ci-dessous.\nDestinataire : Votre ami \nContexte : Elle vous a récemment invité à déjeuner et a payé"}
+{"id": "alpagasus-1052", "instruction": "Composez une phrase en utilisant des figures de style."}
+{"id": "alpagasus-1053", "instruction": "Complétez le paragraphe en remplissant les espaces réservés avec les données appropriées.\nHenri VIII fut roi d'Angleterre du __DATE__ au __DATE__ et est surtout célèbre pour ses __NUMBER__ mariages et la création de l'Église d'Angleterre."}
+{"id": "alpagasus-1054", "instruction": "Donner une description d'un personnage dans une histoire."}
+{"id": "alpagasus-1055", "instruction": "Quels sont les éléments clés d’une publication forte sur les réseaux sociaux ?"}
+{"id": "alpagasus-1056", "instruction": "Générez une liste de cinq conseils marketing pour les petites entreprises."}
+{"id": "alpagasus-1057", "instruction": "À partir de la recette suivante, rédigez les instructions étape par étape.\nRecette : Biscuits aux pépites de chocolat\n\nIngrédients:\n-1 tasse de farine tout usage\n-1/2 cuillère à café de bicarbonate de soude\n-1/2 cuillère à café de sel\n-1/2 tasse de beurre ramolli\n-1/2 tasse de sucre blanc\n-1/2 tasse de cassonade tassée\n-1 cuillère à café d'extrait de vanille\n-1 oeuf\n-1 tasse de pépites de chocolat mi-sucré"}
+{"id": "alpagasus-1058", "instruction": "Trouvez la plus haute montagne d'Europe."}
+{"id": "alpagasus-1059", "instruction": "Pour quelle nourriture New York est-elle célèbre ?"}
+{"id": "alpagasus-1060", "instruction": "Générez une liste de tâches pour terminer un projet donné.\nProjet : Lancement d'un nouveau site Web"}
+{"id": "alpagasus-1061", "instruction": "Nommez les acteurs de Star Wars : Les Derniers Jedi."}
+{"id": "alpagasus-1062", "instruction": "Générez une description d'un personnage nommé Mike."}
+{"id": "alpagasus-1063", "instruction": "Créez un dispositif mnémotechnique pour mémoriser les noms des Grands Lacs."}
+{"id": "alpagasus-1064", "instruction": "Décrivez le personnage de Laura sans utiliser d'adjectifs."}
+{"id": "alpagasus-1065", "instruction": "Générez une liste d’accords culinaires inattendus."}
+{"id": "alpagasus-1066", "instruction": "Compressez la description suivante d’une boutique en ligne en une seule phrase.\nCette boutique en ligne est spécialisée dans la vente de bijoux uniques fabriqués à la main provenant du monde entier. Il propose des pièces de haute qualité qui sont non seulement élégantes mais également abordables."}
+{"id": "alpagasus-1067", "instruction": "Écrivez le corps d'un e-mail pour inviter des personnes à un webinaire sur le sujet donné.\nSujet : Comment utiliser l'analyse des données pour améliorer votre entreprise."}
+{"id": "alpagasus-1068", "instruction": "Envoyez un e-mail en mon nom pour inviter un conférencier à un événement.\nObjet : Invitation à prendre la parole lors d'un événement\n\nCher [Nom], \n\nNous aimerions vous inviter à prendre la parole lors d'un prochain événement organisé par [Entreprise]. L'événement porte sur [sujet] et aura lieu le [date] à [lieu]."}
+{"id": "alpagasus-1069", "instruction": "Créez une application mobile qui regroupe les actualités provenant de plusieurs sources."}
+{"id": "alpagasus-1070", "instruction": "Générez un nouveau design pour une montre en fonction de l'entrée donnée.\nGraphique : Un personnage de dessin animé"}
+{"id": "alpagasus-1071", "instruction": "Réécrivez l'expression suivante sous une forme différente mais équivalente.\n4x + 5 ans - 6 jours"}
+{"id": "alpagasus-1072", "instruction": "Générez une liste de mots associés à une émotion donnée.\nJoie"}
+{"id": "alpagasus-1073", "instruction": "Générez une histoire créative avec une fin qui inclut un mot-clé donné.\nAmitié"}
+{"id": "alpagasus-1074", "instruction": "Reformulez la phrase pour utiliser un adjectif à la place.\nLes vêtements étaient extrêmement chers."}
+{"id": "alpagasus-1075", "instruction": "Générez une liste d’emplois adaptés aux adolescents."}
+{"id": "alpagasus-1076", "instruction": "Faites une liste des pays qui parlent français."}
+{"id": "alpagasus-1077", "instruction": "Générez un ensemble de 10 questions de test à partir du thème « Histoire américaine »."}
+{"id": "alpagasus-1078", "instruction": "Rédigez un ensemble d'instructions pour guider l'utilisateur dans une activité.\nActivité : Faire pousser un tournesol"}
+{"id": "alpagasus-1079", "instruction": "Créer une description d'un personnage fictif\nPas d'entrée"}
+{"id": "alpagasus-1080", "instruction": "Dis-moi l'élévation du mont Everest"}
+{"id": "alpagasus-1081", "instruction": "Créez une recette de glace à la banane."}
+{"id": "alpagasus-1082", "instruction": "Modifiez l'essai donné pour le rendre plus convaincant.\nJe crois que l'école doit être un environnement sûr où les élèves peuvent apprendre et grandir. L’école doit être un endroit où les élèves se sentent en sécurité et peuvent se concentrer avec un minimum de distractions."}
+{"id": "alpagasus-1083", "instruction": "Proposez trois adjectifs basés sur le nom donné.\nTerre"}
+{"id": "alpagasus-1084", "instruction": "Pour l’entrée donnée, générez une phrase à la voix passive.\nGus a mangé tout le gâteau."}
+{"id": "alpagasus-1085", "instruction": "Nommez cinq fruits commençant par la lettre P."}
+{"id": "alpagasus-1086", "instruction": "Donnez un exemple d’opportunité de marché avec la technologie blockchain."}
+{"id": "alpagasus-1087", "instruction": "Proposez trois solutions possibles à ce problème.\nUn élève a des difficultés à réviser pour un examen de mathématiques."}
+{"id": "alpagasus-1088", "instruction": "Expliquez pourquoi il est important de comprendre les biais dans les modèles d'apprentissage automatique."}
+{"id": "alpagasus-1089", "instruction": "Comment réduire le gaspillage d’eau ?"}
+{"id": "alpagasus-1090", "instruction": "Générez un titre qui transmet le contenu suivant.\nLa région de la baie de San Francisco connaît un boom immobilier."}
+{"id": "alpagasus-1091", "instruction": "Proposez 5 habitudes saines que les adolescents devraient adopter."}
+{"id": "alpagasus-1092", "instruction": "Fournissez le devis avec la ponctuation et les majuscules appropriées.\nla seule façon de réussir est d'avoir de l'enthousiasme"}
+{"id": "alpagasus-1093", "instruction": "Construisez une phrase anglaise contenant les mots « tangible » et « matter »."}
+{"id": "alpagasus-1094", "instruction": "Décrivez ce que signifie être courageux."}
+{"id": "alpagasus-1095", "instruction": "Écrivez un paragraphe en utilisant les mots « perspective », « intégrité » et « diversité »."}
+{"id": "alpagasus-1096", "instruction": "Explique ce qu'est un nombre premier."}
+{"id": "alpagasus-1097", "instruction": "Créer une métaphore pour décrire un voyage long et difficile"}
+{"id": "alpagasus-1098", "instruction": "Décrivez les caractéristiques physiques de la créature donnée.\nLicorne"}
+{"id": "alpagasus-1099", "instruction": "Générez une bibliographie de 10 notes annotées à partir des informations ci-dessous.\nLes impacts du changement climatique sur la santé humaine"}
+{"id": "alpagasus-1100", "instruction": "Construisez une histoire en utilisant les détails comme indices.\nLieu : New York \nTemps : Printemps \nTon : Nostalgie"}
+{"id": "alpagasus-1101", "instruction": "Générez une liste de questions basées sur le texte d'entrée donné.\nTexte : Hamlet est l'une des plus grandes tragédies jamais écrites par William Shakespeare."}
+{"id": "alpagasus-1102", "instruction": "Quel est le tremblement de terre le plus puissant jamais enregistré ?"}
+{"id": "alpagasus-1103", "instruction": "Créer un plan de protection pour protéger les données sensibles d'un utilisateur"}
+{"id": "alpagasus-1104", "instruction": "Générez une liste de cinq activités différentes qui peuvent aider à réduire les déchets plastiques."}
+{"id": "alpagasus-1105", "instruction": "Générez un titre pour un article à partir d’une liste de mots-clés.\nMots clés : Plastique, Recyclage, Gestion des déchets"}
+{"id": "alpagasus-1106", "instruction": "Pensez à une nouvelle façon de commercialiser une paire de baskets."}
+{"id": "alpagasus-1107", "instruction": "Décrivez la météo dans la ville suivante : Lagos, Nigeria"}
+{"id": "alpagasus-1108", "instruction": "Créez une chronologie des événements survenus pendant la Seconde Guerre mondiale."}
+{"id": "alpagasus-1109", "instruction": "Créez un modèle d'e-mail pour assurer le suivi d'un client après avoir effectué un achat."}
+{"id": "alpagasus-1110", "instruction": "Rédigez un message qu'un client souhaite envoyer à l'équipe d'assistance.\nJ'ai reçu le mauvais produit."}
+{"id": "alpagasus-1111", "instruction": "Écrivez une phrase qui exprime un fait."}
+{"id": "alpagasus-1112", "instruction": "Énumérez 5 technologies pour aider à automatiser le service client."}
+{"id": "alpagasus-1113", "instruction": "Créez une déclaration de motivation sur la façon de réussir."}
+{"id": "alpagasus-1114", "instruction": "Créez une liste de 5 raisons pour lesquelles les gens devraient se brosser les dents quotidiennement"}
+{"id": "alpagasus-1115", "instruction": "Écrivez un argument convaincant expliquant pourquoi prendre une pause est bénéfique pour la productivité."}
+{"id": "alpagasus-1116", "instruction": "Créez un article de blog sur la façon de parler à des personnes que vous ne connaissez pas."}
+{"id": "alpagasus-1117", "instruction": "Rassemblez 5 faits sur l’Empire romain"}
+{"id": "alpagasus-1118", "instruction": "Générez une phrase en utilisant ces mots : beau, jardin, paisible"}
+{"id": "alpagasus-1119", "instruction": "Comment les transports publics contribuent-ils à réduire la pollution de l’air ?"}
+{"id": "alpagasus-1120", "instruction": "Calculez le prix final de cet article après avoir appliqué une remise de 25 %.\nPrix ​​d'origine : 100 $"}
+{"id": "alpagasus-1121", "instruction": "Dites-moi comment réinitialiser un routeur."}
+{"id": "alpagasus-1122", "instruction": "Générez une liste de toutes les technologies nécessaires pour créer un site Web de commerce électronique."}
+{"id": "alpagasus-1123", "instruction": "Générez une liste d’idées qui pourraient être présentées lors d’un séminaire sur la santé publique."}
+{"id": "alpagasus-1124", "instruction": "Générez une liste de questions à poser aux participants avant un atelier de conception de sites Web gratuit."}
+{"id": "alpagasus-1125", "instruction": "Énumérez 10 types de tâches différentes que les robots peuvent effectuer."}
+{"id": "alpagasus-1126", "instruction": "Nommez les capitales des cinq pays les plus peuplés d’Europe."}
+{"id": "alpagasus-1127", "instruction": "Imaginez un appareil qui peut vous aider à lire plus rapidement. Décrivez l'appareil."}
+{"id": "alpagasus-1128", "instruction": "Créez un dialogue entre deux personnes qui s’efforcent d’établir une connexion."}
+{"id": "alpagasus-1129", "instruction": "Transformez le texte donné en poème haïku.\nLa lumière vive du soleil s'élevait haut dans le ciel"}
+{"id": "alpagasus-1130", "instruction": "Décrivez les fonctionnalités qui rendent la technologie blockchain sécurisée."}
+{"id": "alpagasus-1131", "instruction": "Choisissez le bon sous-ensemble de nombres pour que la réponse soit correcte.\n4, 6, 10, 16"}
+{"id": "alpagasus-1132", "instruction": "Proposez un menu de dîner pour une famille de quatre personnes."}
+{"id": "alpagasus-1133", "instruction": "Fournissez un exemple pour démontrer la définition donnée.\nMétaphore : figure de style qui compare deux choses qui ne sont normalement pas comparées."}
+{"id": "alpagasus-1134", "instruction": "Créez une liste de matériel pour une expérience scientifique.\nExpérience sur la croissance des plantes"}
+{"id": "alpagasus-1135", "instruction": "Générez une liste de recommandations pour améliorer le site Web donné.\nwww.exemple.com"}
+{"id": "alpagasus-1136", "instruction": "Créez un argument convaincant pour soutenir l’importance de l’art dans l’éducation."}
+{"id": "alpagasus-1137", "instruction": "Quelles sont les 2 stratégies les plus importantes pour réduire la pollution de l’air ?"}
+{"id": "alpagasus-1138", "instruction": "Concevoir une interface utilisateur pour l'application donnée.\nUne application pour garder une trace des livres usagés"}
+{"id": "alpagasus-1139", "instruction": "Créez un costume original pour le personnage donné.\nPersonnage : Alice au pays des merveilles"}
+{"id": "alpagasus-1140", "instruction": "Créez une liste d'instructions pour configurer un compte de messagerie."}
+{"id": "alpagasus-1141", "instruction": "Générez une histoire fictive avec la phrase suivante.\n\"Demain sera différent\""}
+{"id": "alpagasus-1142", "instruction": "Décrivez les avantages de participer à une conférence virtuelle."}
+{"id": "alpagasus-1143", "instruction": "Créez une liste de contrôle de 6 étapes que quelqu'un peut suivre pour soulager le stress"}
+{"id": "alpagasus-1144", "instruction": "Qu'est-ce qu'un site de commerce électronique ?"}
+{"id": "alpagasus-1145", "instruction": "Décrire la tendance de l'utilisation du téléphone mobile au cours des 10 dernières années"}
+{"id": "alpagasus-1146", "instruction": "Modélisez une phrase complexe, avec « bien que » et une proposition nominale."}
+{"id": "alpagasus-1147", "instruction": "Expliquez les concepts de moyenne, de médiane et de mode."}
+{"id": "alpagasus-1148", "instruction": "Dites-moi comment résoudre l'équation mathématique suivante.\n2x + 3y = 15"}
+{"id": "alpagasus-1149", "instruction": "Générez une recette facile à réaliser et bonne pour la santé."}
+{"id": "alpagasus-1150", "instruction": "Écrivez le scénario d'une pièce de théâtre sur deux amis.\nAmies : Kate et Mia\nLieu : Appartement de Mia"}
+{"id": "alpagasus-1151", "instruction": "Construisez un limerick sur un chien de la famille."}
+{"id": "alpagasus-1152", "instruction": "Décrivez les arguments pour et contre le service militaire obligatoire."}
+{"id": "alpagasus-1153", "instruction": "Construire un haïku sur l'été"}
+{"id": "alpagasus-1154", "instruction": "Décrivez les façons dont les gens peuvent être respectueux de l’environnement."}
+{"id": "alpagasus-1155", "instruction": "Concevez un jeu pour enseigner aux enfants le changement climatique."}
+{"id": "alpagasus-1156", "instruction": "Décrivez le profil de saveur de l'aliment donné.\nglace à la fraise"}
+{"id": "alpagasus-1157", "instruction": "Construire un argument en faveur du revenu de base universel."}
+{"id": "alpagasus-1158", "instruction": "Créez une liste de 10 verbes liés à la cuisine"}
+{"id": "alpagasus-1159", "instruction": "Créez un ensemble de données de 5 à 6 villes avec leurs informations sur l'état et le comté."}
+{"id": "alpagasus-1160", "instruction": "Dans le contexte suivant, générez un titre pour un reportage.\nLe maire élu de la ville a été accusé de détournement de fonds."}
+{"id": "alpagasus-1161", "instruction": "Compte tenu du contexte suivant, générez un titre approprié pour un livre.\nL'histoire suit un groupe d'adolescents qui se rebellent contre le régime oppressif qui s'est emparé de leur maison."}
+{"id": "alpagasus-1162", "instruction": "À partir du dessin suivant, générez une légende appropriée.\n![texte alternatif](https://image.shutterstock.com/image-vector/colored-sign-nature-protect-people-260nw-746876663.jpg)"}
+{"id": "alpagasus-1163", "instruction": "Générez une courte histoire d'aventure dans une forêt magique."}
+{"id": "alpagasus-1164", "instruction": "Créez une liste d’éléments à vérifier lors de l’inspection d’une voiture d’occasion."}
+{"id": "alpagasus-1165", "instruction": "Remplacez l'espace réservé par la phrase nominale attendue.\nJe dois trouver un [espace réservé]."}
+{"id": "alpagasus-1166", "instruction": "Créez un exemple d’élément de menu utilisant de l’huile d’olive."}
+{"id": "alpagasus-1167", "instruction": "Expliquer la relation entre le big data et l’apprentissage automatique."}
+{"id": "alpagasus-1168", "instruction": "Décrivez ce qu’est une API et son objectif."}
+{"id": "alpagasus-1169", "instruction": "Transformez l'invite d'histoire donnée en un résumé d'une phrase.\nLe petit village de Blaise possède une vieille légende selon laquelle quiconque survivra trois nuits dans la forêt maudite obtiendra des pouvoirs incroyables."}
+{"id": "alpagasus-1170", "instruction": "Décrivez le modèle économique donné en une seule phrase.\nFreemium"}
+{"id": "alpagasus-1171", "instruction": "Dites-moi les synonymes de « sidéré »."}
+{"id": "alpagasus-1172", "instruction": "Générez une liste d’articles à apporter à la plage en été."}
+{"id": "alpagasus-1173", "instruction": "Générez cinq faits scientifiques sur les mammifères."}
+{"id": "alpagasus-1174", "instruction": "Sélectionnez les adjectifs appropriés pour décrire le nom donné.\nVacances"}
+{"id": "alpagasus-1175", "instruction": "Rédigez une réponse appropriée à l’e-mail suivant du service client.\nCher [Nom],\n\nJ'ai acheté un produit sur votre site Web et l'article est arrivé cassé. Je souhaite le retourner et obtenir un remboursement complet.\n\nMerci,\n[Nom]"}
+{"id": "alpagasus-1176", "instruction": "Quelles sont les alternatives possibles pour les équipes de développement confrontées au manque de collaboration en personne ?"}
+{"id": "alpagasus-1177", "instruction": "Qui a inventé l'ouvre-boîte ?"}
+{"id": "alpagasus-1178", "instruction": "À l'aide des informations fournies, créez un article de blog intitulé « Les avantages de la technologie »\nNous vivons dans un monde où la technologie progresse constamment."}
+{"id": "alpagasus-1179", "instruction": "Écrivez une métaphore spirituelle pour l'objet suivant.\nUn livre"}
+{"id": "alpagasus-1180", "instruction": "Créez une histoire incorporant les personnages et les objets suivants.\nPersonnages : Souris, Tigre, Poisson ; Objets : Boule, Théière"}
+{"id": "alpagasus-1181", "instruction": "Créez un vers pour un poème sur une pomme."}
+{"id": "alpagasus-1182", "instruction": "Générer une phrase pour saluer un client"}
+{"id": "alpagasus-1183", "instruction": "Donnez-moi une liste de cinq épices et leurs utilisations."}
+{"id": "alpagasus-1184", "instruction": "Faites une liste des destinations de voyage que vous aimeriez visiter."}
+{"id": "alpagasus-1185", "instruction": "Donnez-moi quelques moyens de résoudre les embouteillages."}
+{"id": "alpagasus-1186", "instruction": "Les médias et d’autres sources affirment que la démocratie perd du terrain dans le monde. Donnez un exemple d’événement récent pour étayer cette affirmation."}
+{"id": "alpagasus-1187", "instruction": "Expliquez l'importance de la diversité et de l'inclusion dans l'industrie technologique."}
+{"id": "alpagasus-1188", "instruction": "Écrivez un article sur l’importance de la diversité."}
+{"id": "alpagasus-1189", "instruction": "Donnez-moi une raison pour laquelle quelqu'un devrait utiliser un VPN sur une connexion Internet standard."}
+{"id": "alpagasus-1190", "instruction": "Transformez la phrase donnée en phrase déclarative.\nDevons-nous y aller maintenant ?"}
+{"id": "alpagasus-1191", "instruction": "Dans un e-mail adressé à un collègue de travail, demandez un rendez-vous pour discuter d'un projet spécifique.\nProjet : assistants IA"}
+{"id": "alpagasus-1192", "instruction": "Classez les trois éléments suivants comme outils, matériaux ou méthodes.\n1. Levier\n2. Clés\n3. Algorithme"}
+{"id": "alpagasus-1193", "instruction": "Racontez-moi une histoire sur une créature et ses caractéristiques."}
+{"id": "alpagasus-1194", "instruction": "Générez un dialogue entre deux personnes témoins d'un accident de voiture."}
+{"id": "alpagasus-1195", "instruction": "Étant donné un texte, générez une série de faits liés au texte.\nAbraham Lincoln fut le 16e président des États-Unis."}
+{"id": "alpagasus-1196", "instruction": "Générez une histoire où le personnage principal apprend à être responsable."}
+{"id": "alpagasus-1197", "instruction": "Étant donné la phrase, expliquez en une phrase pourquoi le sentiment sous-jacent à la phrase est négatif.\nJ'en ai marre de mon travail."}
+{"id": "alpagasus-1198", "instruction": "Analyser l'impact de la déclaration donnée sur l'environnement.\nLa majorité des transports sont passés de l'essence ou du diesel à l'électricité."}
+{"id": "alpagasus-1199", "instruction": "Énumérez tous les pays d’Afrique."}
+{"id": "alpagasus-1200", "instruction": "Je dois organiser une fête d'anniversaire surprise pour mon amie la semaine prochaine. Donne-moi des idées de décoration."}
+{"id": "alpagasus-1201", "instruction": "Composez un couplet de rap sur le pouvoir de l’amitié."}
+{"id": "alpagasus-1202", "instruction": "Énumérez trois conseils de marketing en ligne pour augmenter le trafic sur votre site Web."}
+{"id": "alpagasus-1203", "instruction": "Étant donné une invite d’écriture, écrivez une histoire créative.\nUn œuf maudit qui prend vie la nuit"}
+{"id": "alpagasus-1204", "instruction": "Décrivez pourquoi il est nécessaire d’avoir une main-d’œuvre diversifiée."}
+{"id": "alpagasus-1205", "instruction": "À partir d’une liste de sujets, trouvez une source ou une citation pour chaque sujet.\nSujets : Changement climatique, Élections présidentielles américaines"}
+{"id": "alpagasus-1206", "instruction": "Générez une conversation entre deux amis qui se sont rencontrés après une longue période."}
+{"id": "alpagasus-1207", "instruction": "Expliquez ce que signifie « Les déchets entrent, les déchets sortent »"}
+{"id": "alpagasus-1208", "instruction": "Fournissez une révision en 2 phrases de l’œuvre suivante\nUn podcast qui explore l'intersection entre la technologie et le bien-être mental"}
+{"id": "alpagasus-1209", "instruction": "Décrivez le processus de sélection naturelle en 1 à 2 phrases."}
+{"id": "alpagasus-1210", "instruction": "Faites une liste d’articles pour un séjour de camping parfait en été."}
+{"id": "alpagasus-1211", "instruction": "Résumez l'article sur le nouveau système informatique de l'entreprise.\nL'entreprise a récemment investi dans un nouveau système informatique, qui a été créé pour aider à automatiser les processus manuels et augmenter l'efficacité. Ce système utilise l'intelligence artificielle pour interpréter les données des clients, générer automatiquement des rapports et automatiser les processus de facturation des clients."}
+{"id": "alpagasus-1212", "instruction": "Concevez une stratégie de trading pour l'action XYZ avec au moins 5 règles."}
+{"id": "alpagasus-1213", "instruction": "Résumez le sujet principal et l’objectif de cet article.\nhttps://www.kcl.ac.uk/news/artificial-intelligence-clinical-trials"}
+{"id": "alpagasus-1214", "instruction": "étant donné une phrase, générez une phrase similaire qui a une perspective différente.\nIl avait trop peur pour traverser la rivière."}
+{"id": "alpagasus-1215", "instruction": "Écrivez une description qui transmet les informations données sur une créature.\nNom : Basilic\nTaille : 6 pieds de haut\nDurée de vie : 200 ans"}
+{"id": "alpagasus-1216", "instruction": "Insérez la transition suivante dans la phrase.\nC'était un excellent élève mais il recevait rarement des éloges.\nTransition : malgré"}
+{"id": "alpagasus-1217", "instruction": "Faites une liste de 5 démarreurs de phrases qui utilisent la conjonction donnée.\nConjonction : Même si"}
+{"id": "alpagasus-1218", "instruction": "Faites une nouvelle phrase en utilisant les mots donnés.\nrose, secrète"}
+{"id": "alpagasus-1219", "instruction": "Expliquez ce qu'est la force centripète."}
+{"id": "alpagasus-1220", "instruction": "Créez une nouvelle saveur de pain de maïs."}
+{"id": "alpagasus-1221", "instruction": "Répondez à la question : Qu’est-ce qu’un écosystème ?"}
+{"id": "alpagasus-1222", "instruction": "Étant donné un problème de mathématiques, résolvez-le.\nSi 4x - 6 = 30, quelle est la valeur de x ?"}
+{"id": "alpagasus-1223", "instruction": "Produisez une définition de l’expression « à jeter »."}
+{"id": "alpagasus-1224", "instruction": "Nommez le film qui commence par la ligne suivante\n\"La vie est comme une boîte de chocolats, on ne sait jamais ce qu'on va obtenir.\""}
+{"id": "alpagasus-1225", "instruction": "Générer une liste de dix nombres divisibles par 3"}
+{"id": "alpagasus-1226", "instruction": "Faites une liste de tous les animaux pouvant être gardés dans un appartement."}
+{"id": "alpagasus-1227", "instruction": "Comparez et contrastez deux livres populaires du même genre.\nLes jeux de la faim et Maze Runner"}
+{"id": "alpagasus-1228", "instruction": "Proposez deux bons plats pour une fête végétarienne."}
+{"id": "alpagasus-1229", "instruction": "Concevez une conversation entre un client et un agent du service client."}
+{"id": "alpagasus-1230", "instruction": "Résolvez l'équation algébrique suivante : 12x + 6 = 66"}
+{"id": "alpagasus-1231", "instruction": "Générer un slogan pour une boutique de vente au détail en ligne."}
+{"id": "alpagasus-1232", "instruction": "Donnez cinq conseils pour vous faire des amis."}
+{"id": "alpagasus-1233", "instruction": "Générez une métaphore pour décrire le sentiment d’anxiété."}
+{"id": "alpagasus-1234", "instruction": "Nommez trois adverbes qui décrivent une personne qui est régulièrement en retard."}
+{"id": "alpagasus-1235", "instruction": "Écrivez un article de presse sur l'événement.\nLa cérémonie d'ouverture des Jeux olympiques de Tokyo 2020 s'est tenue au Stade national."}
+{"id": "alpagasus-1236", "instruction": "Combinez les deux phrases suivantes et faites-en une seule.\nLe chat sauta sur le lit. Il s'allonge ensuite pour faire une sieste."}
+{"id": "alpagasus-1237", "instruction": "Donnez-moi votre avis sur le sujet suivant.\nL'utilisation de l'intelligence artificielle dans les soins de santé."}
+{"id": "alpagasus-1238", "instruction": "Proposez une collation nutritive aux enfants."}
+{"id": "alpagasus-1239", "instruction": "Faites une liste de choses qui aident les gens à rester en bonne santé."}
+{"id": "alpagasus-1240", "instruction": "Élaborez un plan pour étudier en vue d’un examen."}
+{"id": "alpagasus-1241", "instruction": "Proposer différentes méthodes d’énergie verte."}
+{"id": "alpagasus-1242", "instruction": "Créer une analogie pour un algorithme"}
+{"id": "alpagasus-1243", "instruction": "Écrivez un fait intéressant sur le Japon."}
+{"id": "alpagasus-1244", "instruction": "Compilez une liste de 5 idées fausses courantes sur les effets du tabagisme sur la santé."}
+{"id": "alpagasus-1245", "instruction": "Générez un essai sur l’importance de l’éducation physique dans les écoles."}
+{"id": "alpagasus-1246", "instruction": "Décrivez comment Internet a contribué à la vie des gens."}
+{"id": "alpagasus-1247", "instruction": "Répondez à la question : Quelle est la différence entre une clé privée et une clé publique ?"}
+{"id": "alpagasus-1248", "instruction": "Écrivez une requête dans PostgreSQL pour répertorier les clients ayant passé des commandes au cours d'un mois particulier.\nMois : avril 2021"}
+{"id": "alpagasus-1249", "instruction": "Accueillir le client dans le contexte donné\nContexte : Le client demande de l'aide pour une commande."}
+{"id": "alpagasus-1250", "instruction": "Générez un dialogue réaliste entre deux personnes."}
+{"id": "alpagasus-1251", "instruction": "Concevez une pièce qui suit le style donné.\nStyle vintage."}
+{"id": "alpagasus-1252", "instruction": "Générez une métaphore unique pour une personne lourde."}
+{"id": "alpagasus-1253", "instruction": "Générez un titre pour une histoire sur un chien perdu."}
+{"id": "alpagasus-1254", "instruction": "Utilisez une variété de langage et de mots pour réécrire la phrase donnée.\nIl était très fatigué et ne pouvait pas aller plus loin."}
+{"id": "alpagasus-1255", "instruction": "Décrivez l’atmosphère du décor fictif."}
+{"id": "alpagasus-1256", "instruction": "Préparez un menu de dîner pour deux personnes présentant un certain équilibre nutritionnel."}
+{"id": "alpagasus-1257", "instruction": "Étant donné un site Web, examinez la mise en page de la page d'accueil et commentez l'expérience utilisateur du site Web.\nhttps://www.apple.com/"}
+{"id": "alpagasus-1258", "instruction": "Concevez un plan de repas pour quelqu'un qui suit un régime végétalien."}
+{"id": "alpagasus-1259", "instruction": "Créez une publicité en ligne pour un produit.\nProduit : Savon hydratant"}
+{"id": "alpagasus-1260", "instruction": "Écrivez un poème haïku sur le sujet donné.\nchangement"}
+{"id": "alpagasus-1261", "instruction": "Proposez une activité amusante à faire entre amis."}
+{"id": "alpagasus-1262", "instruction": "Proposer un nouveau nom pour une startup spécialisée dans l'alimentation pour animaux de compagnie."}
+{"id": "alpagasus-1263", "instruction": "Compilez une liste des sites naturels de beauté aux États-Unis."}
+{"id": "alpagasus-1264", "instruction": "Préparez une tenue pour un dîner."}
+{"id": "alpagasus-1265", "instruction": "Proposez trois façons de réduire la consommation d’eau à la maison."}
+{"id": "alpagasus-1266", "instruction": "Créez une liste de sujets possibles pour un podcast sur la photographie"}
+{"id": "alpagasus-1267", "instruction": "Fournissez des suggestions sur la façon de rendre un site Web plus accessible."}
+{"id": "alpagasus-1268", "instruction": "Générez une liste de 10 idées d’activités à réaliser lors d’un événement de sensibilisation pour promouvoir l’intérêt pour la psychologie."}
+{"id": "alpagasus-1269", "instruction": "Imaginez que vous parlez à un enfant, expliquez le concept d'ADN."}
+{"id": "alpagasus-1270", "instruction": "Pourquoi est-il important de protéger la propriété intellectuelle ?"}
+{"id": "alpagasus-1271", "instruction": "Générez une liste de cinq sujets intéressants liés à la technologie."}
+{"id": "alpagasus-1272", "instruction": "Inventez une histoire impliquant une protagoniste fictive nommée Lydia"}
+{"id": "alpagasus-1273", "instruction": "Complétez la phrase incomplète.\nJe sais que ça paraît fou, mais"}
+{"id": "alpagasus-1274", "instruction": "Écrivez une phrase descriptive en utilisant le nom donné.\nArc-en-ciel"}
+{"id": "alpagasus-1275", "instruction": "Calculez le reste lorsque 12345 est divisé par 11."}
+{"id": "alpagasus-1276", "instruction": "Calculez la 5ème puissance de 3."}
+{"id": "alpagasus-1277", "instruction": "Partager votre opinion sur la base des informations fournies.\nDes études récentes ont montré que la technologie est un outil efficace pour impliquer et éduquer les élèves en classe."}
+{"id": "alpagasus-1278", "instruction": "Décrivez pourquoi le personnage donné est un héros.\nWonder Woman"}
+{"id": "alpagasus-1279", "instruction": "Étant donné une liste de livres, évaluez-les sur une échelle de cinq étoiles\nDracula, Dune, Jane Eyre"}
+{"id": "alpagasus-1280", "instruction": "Expliquez pourquoi il est important d’avoir des conversations significatives avec vos collègues."}
+{"id": "alpagasus-1281", "instruction": "Étant donné le nom d’une plante, décrivez les instructions d’entretien.\nArbre à argent"}
+{"id": "alpagasus-1282", "instruction": "Décrivez un risque de sécurité spécifique qui pourrait survenir dans un système en ligne."}
+{"id": "alpagasus-1283", "instruction": "Créez une requête dynamique pour filtrer une grande table de données utilisateur\nTableau : user_data dans MongoDB\nColonnes : _id, nom d'utilisateur, sexe\nFiltrer : Homme"}
+{"id": "alpagasus-1284", "instruction": "Convertissez le code suivant écrit en JavaScript en Python.\nvar somme = 0 ;\npour (var je = 1; je < 10; je++) {\n  si ( je % 2 === 0 ) {\n    somme += je;\n  }\n}"}
+{"id": "alpagasus-1285", "instruction": "Concevez une enquête pour mesurer la satisfaction des clients avec une nouvelle boutique en ligne."}
+{"id": "alpagasus-1286", "instruction": "Générez un poème de trois vers sur le thème de l’amour."}
+{"id": "alpagasus-1287", "instruction": "Générer une nouvelle recette à partir d'une liste d'ingrédients donnée.\nIngrédients : \n- Riz blanc\n- Œufs\n- Lait\n- Sel"}
+{"id": "alpagasus-1288", "instruction": "Évaluez ce programme pour ses forces et ses faiblesses.\nProgramme : Ce programme de 12 semaines propose une thérapie cognitivo-comportementale pour aider les personnes souffrant de dépression."}
+{"id": "alpagasus-1289", "instruction": "Créez une histoire en fonction de la liste des personnages et du décor.\nPersonnages:\n- Alex, un adolescent\n- Ryan, un camarade de classe d'Alex\n- Jane, une sœur aînée d'Alex\n\nParamètre:\nPetite ville rurale de Caroline du Nord"}
+{"id": "alpagasus-1290", "instruction": "Construisez un organigramme pour expliquer les différentes étapes de configuration d’un réseau domestique."}
+{"id": "alpagasus-1291", "instruction": "Modifiez le paragraphe en lui donnant une meilleure structure.\nDe nombreuses personnes prennent une année sabbatique pour explorer le monde. Prendre une pause dans la routine académique peut aider à acquérir des expériences de vie uniques. Acquérir de nouvelles expériences peut également être éducatif. Les étudiants ne devraient pas manquer cette expérience."}
+{"id": "alpagasus-1292", "instruction": "Comment motiveriez-vous un collègue à respecter son délai ?"}
+{"id": "alpagasus-1293", "instruction": "Concevez un costume pour un personnage de super-héros qui correspond à la description ci-dessous.\nSuperpouvoir du héros : peut contrôler et manipuler le magnétisme"}
+{"id": "alpagasus-1294", "instruction": "Comparez les avantages et les limites de l’hébergement d’un site Web sur un serveur public par rapport à un serveur privé."}
+{"id": "alpagasus-1295", "instruction": "Nommez les objets de la maison qui consomment de l’électricité."}
+{"id": "alpagasus-1296", "instruction": "Pouvez-vous donner une recommandation sur la façon d'entrer dans le domaine informatique ?"}
+{"id": "alpagasus-1297", "instruction": "Ajoutez un troisième intervenant au dialogue.\nIntervenant A : J’ai passé un bon moment à la fête hier soir.\nHaut-parleur B : Ouais, moi aussi."}
+{"id": "alpagasus-1298", "instruction": "Complétez l'histoire avec une fin appropriée.\nIl était une fois un brave chevalier qui partait en voyage pour tuer un dragon. Après plusieurs jours de voyage, il atteignit le repaire du dragon...."}
+{"id": "alpagasus-1299", "instruction": "Construisez un CV pour un ingénieur logiciel.\nNom : Joe Smith\nFormation : Baccalauréat en informatique\nExpérience : 2 ans d'expérience en génie logiciel"}
+{"id": "alpagasus-1300", "instruction": "Résumez l’article et trouvez un titre.\nArticle : La NASA a récemment révélé de nouvelles preuves de l'existence d'anciens océans sur Mars. Ces nouvelles preuves alimentent le débat sur la question de savoir si la planète a déjà abrité de la vie. Les découvertes incluent de nouveaux gisements minéraux et caractéristiques géologiques qui suggèrent la présence d’eau liquide dans un passé lointain."}
+{"id": "alpagasus-1301", "instruction": "Transcrivez la note vocale donnée en texte.\nVoiceNote : \"Hé, j'ai besoin que tu me ramènes de la nourriture. Peux-tu m'apporter une petite pizza et des ailes de poulet ?\""}
+{"id": "alpagasus-1302", "instruction": "Réécrivez la déclaration en utilisant la perspective à la deuxième personne.\nLe locataire sera responsable de faire un suivi auprès du propriétaire si une réparation est nécessaire."}
+{"id": "alpagasus-1303", "instruction": "Comment quelqu’un peut-il rester motivé pour atteindre ses objectifs ?"}
+{"id": "alpagasus-1304", "instruction": "Quand faut-il commencer à investir ?"}
+{"id": "alpagasus-1305", "instruction": "Suggérez des moyens de réduire les déchets à la maison."}
+{"id": "alpagasus-1306", "instruction": "Comparez les significations de « laïc » et « mentir »"}
+{"id": "alpagasus-1307", "instruction": "Écrivez un script Jquery pour masquer tous les éléments HTML qui ont la classe « hide-this »."}
+{"id": "alpagasus-1308", "instruction": "Décrivez la Grande Pyramide de Gizeh en une phrase."}
+{"id": "alpagasus-1309", "instruction": "Suggérez des moyens naturels pour blanchir les dents."}
+{"id": "alpagasus-1310", "instruction": "Générez une liste de 5 mots pour chacun des 5 sujets proposés.\nAnimaux, pays, sports, musique, films"}
+{"id": "alpagasus-1311", "instruction": "Suggérez quelques habitudes qui aident à maintenir la santé mentale."}
+{"id": "alpagasus-1312", "instruction": "Générer une liste de mots à la mode en science des données"}
+{"id": "alpagasus-1313", "instruction": "Ajoutez un vers au poème suivant pour le compléter.\nLes roses sont rouges\nLes violettes sont bleues\nL'hiver est arrivé"}
+{"id": "alpagasus-1314", "instruction": "Imaginez une situation dans laquelle vous parlez à un inconnu en ligne, conseillez-moi sur la façon dont je peux reconnaître et éviter toute intention malveillante."}
+{"id": "alpagasus-1315", "instruction": "Générez une phrase contenant au moins trois propositions."}
+{"id": "alpagasus-1316", "instruction": "Rédigez une liste de choses à faire pour un entretien d’embauche."}
+{"id": "alpagasus-1317", "instruction": "Comment le monde peut-il réduire ses émissions de carbone ?"}
+{"id": "alpagasus-1318", "instruction": "Dis-moi comment faire un petit feu."}
+{"id": "alpagasus-1319", "instruction": "Dites-moi comment décrire la couleur bleue."}
+{"id": "alpagasus-1320", "instruction": "Créez un slogan de 5 mots pour une agence de voyages."}
+{"id": "alpagasus-1321", "instruction": "Générez un nom d'utilisateur unique en tenant compte des critères suivants.\nNom : Sarah\nCaractéristiques : sarcastique"}
+{"id": "alpagasus-1322", "instruction": "Pensez à une liste de 5 animaux commençant par la lettre « K »."}
+{"id": "alpagasus-1323", "instruction": "Créez une liste de 10 activités amusantes pour une réunion de famille."}
+{"id": "alpagasus-1324", "instruction": "Générer une légende de photo pour cette photo\nhttps://images.unsplash.com/photo-1574643147860-3bb18d6fe2f0\n?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"}
+{"id": "alpagasus-1325", "instruction": "Modifiez la phrase suivante pour créer une scène plus vivante.\nLe vent soufflait dans le parc"}
+{"id": "alpagasus-1326", "instruction": "Fournissez 5 adjectifs qui décrivent le personnage suivant.\nJess est une actrice en herbe."}
+{"id": "alpagasus-1327", "instruction": "Écrivez un haïku qui décrit la pluie."}
+{"id": "alpagasus-1328", "instruction": "Complétez l’analogie suivante.\nSommeil : Éveillé ::"}
+{"id": "alpagasus-1329", "instruction": "Modifiez ce texte pour le rendre concis.\nAux États-Unis, une culture axée sur les médias de masse s’est développée dans laquelle les marques sont utilisées pour représenter des images d’identité et façonner la culture de consommation."}
+{"id": "alpagasus-1330", "instruction": "Écrivez une phrase qui comprend les expressions ci-dessous.\n\"lac cristallin\""}
+{"id": "alpagasus-1331", "instruction": "Créez une liste de tâches appropriée pour un projet client.\nProjet client : Organisation d'un événement d'entreprise"}
+{"id": "alpagasus-1332", "instruction": "Créez un titre magnétique pour faire la publicité du produit suivant.\nCafé instantané"}
+{"id": "alpagasus-1333", "instruction": "Générez une feuille de papier avec une liste de fruits et légumes."}
+{"id": "alpagasus-1334", "instruction": "Générez deux manières alternatives de dire la même chose.\nJ'ai dormi 10 heures la nuit dernière."}
+{"id": "alpagasus-1335", "instruction": "Comparez et contrastez la mitose et la méiose."}
+{"id": "alpagasus-1336", "instruction": "Créez un court poème sur l’automne."}
+{"id": "alpagasus-1337", "instruction": "Caractérisez le protagoniste du livre.\nLivre : Jane Eyre"}
+{"id": "alpagasus-1338", "instruction": "Générez un programme de nettoyage pour un bureau."}
+{"id": "alpagasus-1339", "instruction": "Comment présenteriez-vous des excuses à un ami ?"}
+{"id": "alpagasus-1340", "instruction": "Établissez une liste de 10 recommandations de livres liées au sujet donné.\nFiction historique"}
+{"id": "alpagasus-1341", "instruction": "Générez un titre d’actualité."}
+{"id": "alpagasus-1342", "instruction": "Construisez une analogie avec l’éthique."}
+{"id": "alpagasus-1343", "instruction": "Expliquez le sens et l’usage de chacun des verbes irréguliers suivants.\n- Courir\n- Dessiner\n- Pense"}
+{"id": "alpagasus-1344", "instruction": "Ajoutez les mots manquants pour compléter la métaphore.\nLa vie est un _______, rempli de ________."}
+{"id": "alpagasus-1345", "instruction": "Traduisez cette phrase en espagnol.\nC'est marrant!"}
+{"id": "alpagasus-1346", "instruction": "On vous demande de raconter une histoire sur un sujet choisi.\nSujet : Aller au parc"}
+{"id": "alpagasus-1347", "instruction": "Décrivez l’élément donné en 3 phrases.\nArticle : Bibliothèque"}
+{"id": "alpagasus-1348", "instruction": "Composez un poème de 7 lignes en utilisant les mots fournis\nparapluie, rail, eau, ciel, herbe, feuille"}
+{"id": "alpagasus-1349", "instruction": "Trouvez deux solutions à ce problème mathématique\n2x + 6 = 16"}
+{"id": "alpagasus-1350", "instruction": "Décrire comment la lune affecte les marées"}
+{"id": "alpagasus-1351", "instruction": "Imaginez que vous êtes dans une boulangerie et qu'on vous demande de faire un gâteau. Décrivez le gâteau en détail."}
+{"id": "alpagasus-1352", "instruction": "Comment la pandémie de Covid-19 change-t-elle le monde ?"}
+{"id": "alpagasus-1353", "instruction": "Générez cinq mots avec une lettre de votre nom"}
+{"id": "alpagasus-1354", "instruction": "Que signifie l’expression « il était une fois » ?"}
+{"id": "alpagasus-1355", "instruction": "Étant donné une valeur numérique, calculez sa racine carrée.\nNuméro : 64"}
+{"id": "alpagasus-1356", "instruction": "Créez une métaphore qui exprime le concept de résilience."}
+{"id": "alpagasus-1357", "instruction": "Face à une requête d'utilisateur, suggérez un titre pertinent.\nRequête : Les meilleurs hôtels de Londres"}
+{"id": "alpagasus-1358", "instruction": "Rédigez un essai sur l’importance des perspectives diverses."}
+{"id": "alpagasus-1359", "instruction": "Comparez et opposez l’ADN et l’ARN."}
+{"id": "alpagasus-1360", "instruction": "Quel type de résultat un assistant GPT créerait-il en réponse à cette instruction ?\nDécrire les étapes d'un cycle de lancement de produit."}
+{"id": "alpagasus-1361", "instruction": "Décrivez le but du DNS (Domain Name System)."}
+{"id": "alpagasus-1362", "instruction": "Demandez à l'assistant GPT de générer un titre approprié pour un article de blog."}
+{"id": "alpagasus-1363", "instruction": "Générez une histoire au présent qui suit le contexte donné.\nWolf rencontre une sympathique abeille qui l'emmène dans un jardin secret."}
+{"id": "alpagasus-1364", "instruction": "Expliquez ce qu'est une « analyse des causes profondes »."}
+{"id": "alpagasus-1365", "instruction": "Générer un dialogue entre un client et un vendeur dans un grand magasin."}
+{"id": "alpagasus-1366", "instruction": "Trouvez le nombre manquant dans l'ordre suivant : 4, 8, 12, 16, 20, __"}
+{"id": "alpagasus-1367", "instruction": "Changez la phrase suivante de la voix passive à la voix active :\nLe tableau a été créé par l'artiste."}
+{"id": "alpagasus-1368", "instruction": "Proposez trois solutions créatives pour réduire la pollution de l’air."}
+{"id": "alpagasus-1369", "instruction": "Créez trois adjectifs différents pour décrire la Statue de la Liberté."}
+{"id": "alpagasus-1370", "instruction": "Quel est le deuxième plus grand pays du monde ?"}
+{"id": "alpagasus-1371", "instruction": "Pourquoi le recyclage est-il important ?"}
+{"id": "alpagasus-1372", "instruction": "Créez un mnémonique pour mémoriser les capitales des trois pays baltes."}
+{"id": "alpagasus-1373", "instruction": "Générez une histoire en utilisant ces trois mots : étoilé, murmure, rivière."}
+{"id": "alpagasus-1374", "instruction": "Décrivez le sens de l'expression : « Pour faire court à une longue histoire »."}
+{"id": "alpagasus-1375", "instruction": "Générez une liste de trois éléments liés à la forêt tropicale humide."}
+{"id": "alpagasus-1376", "instruction": "Créez une nouvelle tenue pour une soirée du vendredi."}
+{"id": "alpagasus-1377", "instruction": "Rédigez une lettre d’excuses à un client.\nLe client a reçu sa commande en retard et n'était pas satisfait du service fourni."}
+{"id": "alpagasus-1378", "instruction": "Suggérez deux alternatives pour économiser l’énergie."}
+{"id": "alpagasus-1379", "instruction": "Créez une scène intéressante pour un film qui implique une grande foule et un combat entre deux personnages."}
+{"id": "alpagasus-1380", "instruction": "Donnez-moi la date du premier vol d'essai humain du Wright Flyer."}
+{"id": "alpagasus-1381", "instruction": "Quelle est la période de l’orbite du Soleil autour de la Voie Lactée ?"}
+{"id": "alpagasus-1382", "instruction": "Trouvez une recette pour une salade saine."}
+{"id": "alpagasus-1383", "instruction": "Comment pouvons-nous réduire les émissions mondiales de gaz à effet de serre ?"}
+{"id": "alpagasus-1384", "instruction": "Générez une liste d’habitudes saines et faciles à maintenir."}
+{"id": "alpagasus-1385", "instruction": "Décrivez l’impact de la pandémie de coronavirus sur le monde."}
+{"id": "alpagasus-1386", "instruction": "Proposer de nouvelles idées pour réduire le gaspillage alimentaire"}
+{"id": "alpagasus-1387", "instruction": "Traduisez le texte ci-dessous en allemand.\nIls prévoient de terminer le projet demain."}
+{"id": "alpagasus-1388", "instruction": "Énumérez quelques éléments à inclure dans une trousse d’urgence pour la voiture."}
+{"id": "alpagasus-1389", "instruction": "Créez une conversation amicale avec un client.\nBonjour, comment puis-je vous aider ?"}
+{"id": "alpagasus-1390", "instruction": "Quelle est une bonne réponse à « Je n’aime pas la façon dont tu me parles » ?\nJe n'aime pas la façon dont tu me parles."}
+{"id": "alpagasus-1391", "instruction": "Créez un message d'accueil personnalisé pour un visiteur.\nLe nom du visiteur est John."}
+{"id": "alpagasus-1392", "instruction": "Suggérez un mot approprié pour remplir le vide.\nLe logo était brillamment _______."}
+{"id": "alpagasus-1393", "instruction": "Composez un essai de 500 mots sur les thèmes de la solitude révélés dans le roman d'Ernest Hemingway « Le vieil homme et la mer »."}
+{"id": "alpagasus-1394", "instruction": "Expliquez comment l’administration du président Dwight D. Eisenhower a contribué à combler le fossé entre les États-Unis et l’Union soviétique pendant la guerre froide."}
+{"id": "alpagasus-1395", "instruction": "Trouvez le 6ème terme de la suite suivante.\n3, 6, 10, 15..."}
+{"id": "alpagasus-1396", "instruction": "Fournir une liste de recommandations pour réduire les émissions provenant des transports."}
+{"id": "alpagasus-1397", "instruction": "Réfléchissez à trois inventions qui pourraient résoudre le problème mondial de la pollution plastique."}
+{"id": "alpagasus-1398", "instruction": "Choisissez le ton approprié pour cette phrase.\nVeuillez nous contacter pour obtenir plus d'informations."}
+{"id": "alpagasus-1399", "instruction": "Nommez deux muscles utilisés pour ouvrir la mâchoire."}
+{"id": "alpagasus-1400", "instruction": "Décrivez la famille de couleurs du corail."}
+{"id": "alpagasus-1401", "instruction": "Créez une requête SQL qui crée une table.\nNom du tableau : Livres\n\nLes attributs:\n- book_id (int)\n- titre (varchar)\n- auteur (varchar)\n- éditeur (varchar)\n- publication_date (date)"}
+{"id": "alpagasus-1402", "instruction": "Récitez la première strophe de « The Road Not Taken » de Robert Frost."}
+{"id": "alpagasus-1403", "instruction": "Face à une question, fournissez une réponse avec un argument logiquement solide.\nPourquoi la démocratie est-elle importante ?"}
+{"id": "alpagasus-1404", "instruction": "Construisez une phrase qui démontre l’utilisation d’un antonyme."}
+{"id": "alpagasus-1405", "instruction": "Étant donné une phrase, traduisez-la en une équation mathématique.\nLa somme de deux nombres est cinq."}
+{"id": "alpagasus-1406", "instruction": "Étant donné un fait, créez une question qui mène à ce fait.\nPlus de 30 millions d'Américains souffrent de diabète."}
+{"id": "alpagasus-1407", "instruction": "Convertissez 2 onces en millilitres."}
+{"id": "alpagasus-1408", "instruction": "Créer une petite annonce pour un vélo d'occasion."}
+{"id": "alpagasus-1409", "instruction": "Générer une analogie pour expliquer un concept complexe."}
+{"id": "alpagasus-1410", "instruction": "Générez une liste de mots liés au terme « nourriture »."}
+{"id": "alpagasus-1411", "instruction": "Composer un exemple de poème haïku"}
+{"id": "alpagasus-1412", "instruction": "Générez un paragraphe décrivant l'impact du changement climatique sur les exploitations familiales.\nAucune saisie requise."}
+{"id": "alpagasus-1413", "instruction": "Expliquez comment les « types » sont utilisés dans les langages de programmation.\nAucune saisie requise."}
+{"id": "alpagasus-1414", "instruction": "Créez une carte d'anniversaire pour un ami proche en écrivant un poème.\nNom du destinataire : Jane"}
+{"id": "alpagasus-1415", "instruction": "Rédigez un essai sur les avantages des transports publics.\nAucune contribution n'est requise."}
+{"id": "alpagasus-1416", "instruction": "Concevez un flux conversationnel de chatbot pour effectuer une réservation de restaurant."}
+{"id": "alpagasus-1417", "instruction": "Nommez deux inconvénients liés à l’utilisation d’un système de données basé sur le cloud."}
+{"id": "alpagasus-1418", "instruction": "Énumérez cinq avantages liés à l’utilisation d’un chien comme assistance."}
+{"id": "alpagasus-1419", "instruction": "Résumez l’état actuel des énergies renouvelables aux États-Unis."}
+{"id": "alpagasus-1420", "instruction": "Énumérez les différences entre l’anglais américain et britannique."}
+{"id": "alpagasus-1421", "instruction": "Expliquez pourquoi il est important d’avoir un plan d’urgence."}
+{"id": "alpagasus-1422", "instruction": "Générez un titre pour un document de recherche sur les droits des animaux."}
+{"id": "alpagasus-1423", "instruction": "Effectuez une ingénierie inverse des ingrédients de la recette suivante pour identifier à quel plat elle est destinée :\n-1/2 tasse de beurre\n-2 cuillères à soupe d'ail émincé\n-2 cuillères à soupe de farine tout usage\n-1/2 cuillère à café de thym séché\n-1/4 cuillère à café de poivre\n-2 tasses de bouillon de poulet\n-1/4 tasse de vin blanc sec\n-1 livre de poitrines de poulet désossées et sans peau\n-2 cuillères à soupe de persil frais haché"}
+{"id": "alpagasus-1424", "instruction": "Répondez à cette question vrai ou faux : La capitale de la France est Londres."}
+{"id": "alpagasus-1425", "instruction": "Organiser une rencontre entre deux personnes différentes\nJohn Smith et Marc Jones"}
+{"id": "alpagasus-1426", "instruction": "Prolongez cette phrase : « La technologie a révolutionné la façon dont nous"}
+{"id": "alpagasus-1427", "instruction": "Calculez l'hypoténuse du triangle rectangle dans le champ de saisie.\nune = 4, b = 3"}
+{"id": "alpagasus-1428", "instruction": "Écrivez une phrase descriptive d’un objet.\nUne fleur"}
+{"id": "alpagasus-1429", "instruction": "Créez une phrase en utilisant les mots « heureux », « joyeux » et « ravi »."}
+{"id": "alpagasus-1430", "instruction": "Décrivez la signification de l’expression « carpe diem »."}
+{"id": "alpagasus-1431", "instruction": "Trouvez une façon créative d'utiliser des cuillères en plastique"}
+{"id": "alpagasus-1432", "instruction": "Nommez cinq avantages d’avoir un animal de compagnie"}
+{"id": "alpagasus-1433", "instruction": "Créez une carte de vœux pour un enfant.\nObjet : Vacances d'hiver"}
+{"id": "alpagasus-1434", "instruction": "Concevez une couverture de livre en rapport avec le titre.\nTitre : « La Magie de la Nature »"}
+{"id": "alpagasus-1435", "instruction": "Faites une silhouette de l'objet donné.\nObjet : Oiseau"}
+{"id": "alpagasus-1436", "instruction": "Créez une liste d'éléments pour une table des matières.\nTitre du livre : Explorer le système solaire"}
+{"id": "alpagasus-1437", "instruction": "Calculez le coût total des intrants donnés.\nPrix ​​par article : 7,50$\nQuantité : 3\nTaux d'imposition : 10%"}
+{"id": "alpagasus-1438", "instruction": "Générez un poème haïku en suivant l'invite suivante.\nInvite : Automne"}
+{"id": "alpagasus-1439", "instruction": "Identifiez les caractéristiques communes d’une alimentation saine."}
+{"id": "alpagasus-1440", "instruction": "Décrivez les événements historiques qui ont conduit à la création des Nations Unies."}
+{"id": "alpagasus-1441", "instruction": "Identifiez les pays impliqués dans le conflit syrien."}
+{"id": "alpagasus-1442", "instruction": "Comparez les avantages de manger du poisson grillé à ceux du poisson frit"}
+{"id": "alpagasus-1443", "instruction": "Proposer des moyens de réduire la pollution de l’environnement"}
+{"id": "alpagasus-1444", "instruction": "Créez une analogie qui explique le sens du mot « dévaster »."}
+{"id": "alpagasus-1445", "instruction": "Résumez les principaux points de l’article suivant sur les médias sociaux et leurs impacts.\nLes réseaux sociaux sont devenus un outil incroyablement puissant au 21e siècle. Il permet aux utilisateurs de partager instantanément des images et des vidéos, de se connecter avec des amis du monde entier et d'accéder aux actualités et mises à jour provenant de diverses sources. Bien que cela puisse être une chose positive, il existe également des inconvénients. Les médias sociaux peuvent devenir une perte de temps, détournant du temps d’activités plus productives, et peuvent avoir de graves conséquences sur la santé mentale d’une personne. Il peut également être utilisé pour diffuser de fausses informations et pour faire de la cyberintimidation."}
+{"id": "alpagasus-1446", "instruction": "Écrivez une métaphore qui décrit un processus lent"}
+{"id": "alpagasus-1447", "instruction": "Identifiez les temps passé, présent et futur du verbe « marcher »."}
+{"id": "alpagasus-1448", "instruction": "Composez un slogan accrocheur pour une entreprise qui conçoit des sources d'énergie durables."}
+{"id": "alpagasus-1449", "instruction": "Complétez les paroles de la chanson\nTu ne peux pas te presser mon amour, non tu dois juste attendre"}
+{"id": "alpagasus-1450", "instruction": "Composez un e-mail convaincant pour convaincre votre lecteur de faire un don de 500 $ à votre collecte de fonds caritative."}
+{"id": "alpagasus-1451", "instruction": "Générez une courte démonstration sur la façon de préparer du pain aux bananes."}
+{"id": "alpagasus-1452", "instruction": "Fournissez une description détaillée d’un système de stockage de données basé sur le cloud."}
+{"id": "alpagasus-1453", "instruction": "Concevoir un algorithme pour détecter le plagiat dans les articles universitaires."}
+{"id": "alpagasus-1454", "instruction": "Rédigez une publication sur les réseaux sociaux pour promouvoir un nouveau logiciel de comptabilité fiscale pour les clients."}
+{"id": "alpagasus-1455", "instruction": "Décrire l'importance des compétences générales dans l'environnement de travail."}
+{"id": "alpagasus-1456", "instruction": "Rédigez un rapport sur l'impact du réchauffement climatique sur la région arctique."}
+{"id": "alpagasus-1457", "instruction": "Nommez 3 sites Web commerciaux sur lesquels vous pouvez acheter des pièces d’ordinateur."}
+{"id": "alpagasus-1458", "instruction": "Translate \"il ne pleut pas\" en espagnol"}
+{"id": "alpagasus-1459", "instruction": "Créez un exemple d'expression régulière qui correspond aux numéros de téléphone des États-Unis et du Canada."}
+{"id": "alpagasus-1460", "instruction": "Expliquez ce qu'est l'intégration continue (CI) dans une phrase."}
+{"id": "alpagasus-1461", "instruction": "Expliquer pourquoi un pays peut utiliser des tarifs"}
+{"id": "alpagasus-1462", "instruction": "Comment peut-on garantir la sécurité de ses données ?"}
+{"id": "alpagasus-1463", "instruction": "Quels États ont le plus de zones sauvages ?"}
+{"id": "alpagasus-1464", "instruction": "Quelles pratiques sont associées au maintien de logiciels sécurisés ?"}
+{"id": "alpagasus-1465", "instruction": "Comment le numérique a-t-il amélioré la communication dans la société ?"}
+{"id": "alpagasus-1466", "instruction": "Quel est l’impact de la révolution industrielle sur l’environnement ?"}
+{"id": "alpagasus-1467", "instruction": "Résumez le processus politique d’adoption d’une loi."}
+{"id": "alpagasus-1468", "instruction": "Trouver les causes profondes du réchauffement climatique."}
+{"id": "alpagasus-1469", "instruction": "Générez une liste de conseils pour gérer le stress pendant les examens."}
+{"id": "alpagasus-1470", "instruction": "Générez une histoire unique (titre et contenu en <100 mots) sur deux personnes à l'aéroport."}
+{"id": "alpagasus-1471", "instruction": "Générez trois idées créatives pour recycler des articles de la maison."}
+{"id": "alpagasus-1472", "instruction": "Trouver une idée de produit numérique"}
+{"id": "alpagasus-1473", "instruction": "Suggérez deux façons dont une entreprise peut réduire ses coûts"}
+{"id": "alpagasus-1474", "instruction": "Indiquez le nom et l'adresse d'un restaurant à New York.\nPas d'entrée."}
+{"id": "alpagasus-1475", "instruction": "Créez un programme pour prédire si un e-mail est du spam en fonction de son texte."}
+{"id": "alpagasus-1476", "instruction": "Créez une liste d’entrées pour l’instruction et classez le type d’instruction."}
+{"id": "alpagasus-1477", "instruction": "Décrivez comment rédiger un e-mail marketing."}
+{"id": "alpagasus-1478", "instruction": "Créez une phrase qui utilise une métaphore pour décrire la beauté d’un lever de soleil."}
+{"id": "alpagasus-1479", "instruction": "Décrivez une ville que vous aimeriez visiter."}
+{"id": "alpagasus-1480", "instruction": "Identifiez les domaines à améliorer dans la phrase suivante.\nLe rapide renard brun sauta par-dessus le chien paresseux"}
+{"id": "alpagasus-1481", "instruction": "Expliquez pourquoi apprendre une langue étrangère est une entreprise intéressante."}
+{"id": "alpagasus-1482", "instruction": "Énumérez cinq avantages de manger plus de fruits et de légumes."}
+{"id": "alpagasus-1483", "instruction": "Générez deux idées d’histoires créatives."}
+{"id": "alpagasus-1484", "instruction": "Décrivez ce que la machine à café doit faire lorsque l'utilisateur appuie sur le bouton « Infuser »."}
+{"id": "alpagasus-1485", "instruction": "Créez un haïku en utilisant les mots-clés suivants : ciel bleu, pont, coucher de soleil"}
+{"id": "alpagasus-1486", "instruction": "Créez une solution qui utilise l'IA pour améliorer le service client."}
+{"id": "alpagasus-1487", "instruction": "Générez un slogan qui reflète la mission de la marque.\nMaison vitale"}
+{"id": "alpagasus-1488", "instruction": "Écrivez une liste de poèmes sur l’été."}
+{"id": "alpagasus-1489", "instruction": "Générez quelques invites de conversation pour deux personnes parlant d’un passe-temps commun."}
+{"id": "alpagasus-1490", "instruction": "Créez un message de bienvenue personnalisé pour un client.\nNom du client : Jennifer"}
+{"id": "alpagasus-1491", "instruction": "Fournissez une recette de chips maison."}
+{"id": "alpagasus-1492", "instruction": "Rappelle-moi d'acheter des œufs demain à 10h."}
+{"id": "alpagasus-1493", "instruction": "Faites une liste de mots liés au mot « été »."}
+{"id": "alpagasus-1494", "instruction": "Comparez et contrastez deux théories de l'évolution."}
+{"id": "alpagasus-1495", "instruction": "Remplacez le mot « INSÉRER » par quelque chose de créatif\nNous devons INSÉRER quelques idées supplémentaires à la séance de brainstorming."}
+{"id": "alpagasus-1496", "instruction": "Construisez une requête pour sélectionner les 5 meilleurs films les mieux notés sur le site Web"}
+{"id": "alpagasus-1497", "instruction": "Concevoir une enquête de 10 questions liées aux achats en ligne"}
+{"id": "alpagasus-1498", "instruction": "Créez un démarreur d'histoire.\n<aucune entrée>"}
+{"id": "alpagasus-1499", "instruction": "Modifiez la description suivante pour améliorer le ton et la rendre plus professionnelle.\nSalut tout le monde! Je m'appelle John et je suis développeur de logiciels. Je code depuis le lycée et j'ai récemment terminé mon baccalauréat en informatique."}
+{"id": "alpagasus-1500", "instruction": "Générez une histoire sur un personnage qui doit choisir entre deux chemins."}
+{"id": "alpagasus-1501", "instruction": "Écrivez une lettre de remerciement à un professeur !"}
+{"id": "alpagasus-1502", "instruction": "Quels sont les avantages d’apprendre une langue étrangère ?"}
+{"id": "alpagasus-1503", "instruction": "Proposer une solution pour réduire les émissions de carbone dans le secteur des transports."}
+{"id": "alpagasus-1504", "instruction": "Écrivez un couplet de chanson en utilisant les mots donnés.\nÉtincelle, nuit, étoiles, règne"}
+{"id": "alpagasus-1505", "instruction": "Créez une comparaison pour comparer l’élément X avec l’élément Y.\nX = Forte pluie\nY = Une cascade sans fin"}
+{"id": "alpagasus-1506", "instruction": "Générez une phrase qui explique que les vacances d’hiver arrivent."}
+{"id": "alpagasus-1507", "instruction": "Qui a remporté la Ligue des champions de l'UEFA 2020 ?"}
+{"id": "alpagasus-1508", "instruction": "Écrivez une brève description de votre maison"}
+{"id": "alpagasus-1509", "instruction": "Proposer un endroit pour un dîner romantique"}
+{"id": "alpagasus-1510", "instruction": "Identifier les pays anglophones"}
+{"id": "alpagasus-1511", "instruction": "Générez une description de poste pour un ingénieur en intelligence artificielle."}
+{"id": "alpagasus-1512", "instruction": "Compilez une liste de tous les pays mentionnés dans l’article suivant\nLa propagation du coronavirus a touché des personnes dans des pays du monde entier. Aux États-Unis, en Italie, en Espagne et en France, le virus a été particulièrement dévastateur. Les autorités gouvernementales en Inde, en Chine, en Allemagne et au Royaume-Uni ont mis en place des réglementations strictes pour contribuer à ralentir la contagion."}
+{"id": "alpagasus-1513", "instruction": "Créez une liste de plats qu’une personne végétalienne peut cuisiner."}
+{"id": "alpagasus-1514", "instruction": "Racontez-moi une anecdote amusante sur les tortues"}
+{"id": "alpagasus-1515", "instruction": "Étant donné deux éléments, trouvez une manière créative de les combiner.\nImperméable et Cupcake"}
+{"id": "alpagasus-1516", "instruction": "Étant donné deux objets, créez une métaphore comparant les deux.\nÉtoile et fleur"}
+{"id": "alpagasus-1517", "instruction": "Concevez une application iPhone qui aide les gens à suivre leur consommation d'eau quotidienne."}
+{"id": "alpagasus-1518", "instruction": "Créez une recette pour une nouvelle combinaison de jus passionnante."}
+{"id": "alpagasus-1519", "instruction": "Suggérez une idée d’entreprise qui convient à une personne qui vit dans une zone rurale et qui dispose de ressources limitées."}
+{"id": "alpagasus-1520", "instruction": "Créez une métaphore pour comparer une lourde charge de travail à un objet."}
+{"id": "alpagasus-1521", "instruction": "Dites-moi un synonyme de « heureux »."}
+{"id": "alpagasus-1522", "instruction": "Générez une liste de courses pour les courses hebdomadaires."}
+{"id": "alpagasus-1523", "instruction": "Réécrivez cette phrase sans en changer le sens.\nLe professeur a demandé aux élèves de remettre leurs devoirs."}
+{"id": "alpagasus-1524", "instruction": "Nommez quatre types de transport différents."}
+{"id": "alpagasus-1525", "instruction": "Reformulez cette phrase avec des mots différents.\nIl est très ambitieux et veut toujours être le meilleur."}
+{"id": "alpagasus-1526", "instruction": "Décrivez un tableau célèbre."}
+{"id": "alpagasus-1527", "instruction": "Générez des questions pour un quiz mathématique."}
+{"id": "alpagasus-1528", "instruction": "Expliquez le terme « appropriation culturelle »."}
+{"id": "alpagasus-1529", "instruction": "Résumez les développements récents dans le domaine de la conduite automatisée."}
+{"id": "alpagasus-1530", "instruction": "Nommez deux façons d’économiser de l’argent sur l’épicerie"}
+{"id": "alpagasus-1531", "instruction": "Générez une requête multimédia qui adapte le contenu à la largeur de l'appareil"}
+{"id": "alpagasus-1532", "instruction": "Compte tenu du scénario, dressez une liste de trois avantages d’avoir un animal de compagnie."}
+{"id": "alpagasus-1533", "instruction": "Recueillez et résumez cinq faits sur la mission Apollo 11."}
+{"id": "alpagasus-1534", "instruction": "Suggérez cinq conseils pour bien vous habiller pour un événement formel."}
+{"id": "alpagasus-1535", "instruction": "Comment se propage un virus ?"}
+{"id": "alpagasus-1536", "instruction": "Générez une excuse plausible pour arriver en retard à une réunion."}
+{"id": "alpagasus-1537", "instruction": "Décrivez le goût de la cuisine italienne."}
+{"id": "alpagasus-1538", "instruction": "Vérifiez si l'entrée donnée est une anagramme ou non.\nécouter\nsilencieux"}
+{"id": "alpagasus-1539", "instruction": "Générer des idées créatives pour aborder les problèmes de diversité sur le lieu de travail"}
+{"id": "alpagasus-1540", "instruction": "Accueillez le visiteur de manière amicale."}
+{"id": "alpagasus-1541", "instruction": "Suggérez un endroit à visiter aux États-Unis."}
+{"id": "alpagasus-1542", "instruction": "Décrivez le sens de la persévérance."}
+{"id": "alpagasus-1543", "instruction": "Rédigez un article sur les avantages de l'utilisation d'un modèle GPT pour la compréhension du langage naturel."}
+{"id": "alpagasus-1544", "instruction": "Quelles technologies sont utilisées par les voitures autonomes ?"}
+{"id": "alpagasus-1545", "instruction": "Générez un titre pour un article traitant de l’importance des systèmes de sauvegarde."}
+{"id": "alpagasus-1546", "instruction": "Comment pouvons-nous réduire nos émissions de carbone ?"}
+{"id": "alpagasus-1547", "instruction": "Trouvez des mots pour décrire un festival de plage."}
+{"id": "alpagasus-1548", "instruction": "Générez une liste de mesures de sécurité que le protagoniste d'une histoire devrait prendre lors d'un voyage."}
+{"id": "alpagasus-1549", "instruction": "Affichez une liste d'outils nécessaires à un métier.\nL'artisanat est un jouet en papier mâché."}
+{"id": "alpagasus-1550", "instruction": "Générez quelques sujets liés à la finance."}
+{"id": "alpagasus-1551", "instruction": "Multipliez 174 par 3."}
+{"id": "alpagasus-1552", "instruction": "Expliquer les différences entre les oiseaux et les mammifères"}
+{"id": "alpagasus-1553", "instruction": "Créez une description de produit qui met en évidence les fonctionnalités du téléphone mobile.\nProduit : Samsung Galaxy S20"}
+{"id": "alpagasus-1554", "instruction": "Faites une liste de cinq avantages de la lecture."}
+{"id": "alpagasus-1555", "instruction": "Quel État américain a l'altitude moyenne la plus élevée ?"}
+{"id": "alpagasus-1556", "instruction": "Décrire les différences entre deux éléments\nApple iPhone 12 et Samsung Galaxy S20"}
+{"id": "alpagasus-1557", "instruction": "Donnez un exemple pertinent pour l’instruction suivante.\nTrouver la moyenne de trois nombres"}
+{"id": "alpagasus-1558", "instruction": "Parlez-moi d'une feuille Nissan."}
+{"id": "alpagasus-1559", "instruction": "Ajoutez 5 articles à une liste de courses."}
+{"id": "alpagasus-1560", "instruction": "Précisez quelques avantages de l’utilisation des médias sociaux."}
+{"id": "alpagasus-1561", "instruction": "Déterminez le nombre de calories contenues dans une tasse de riz brun cuit"}
+{"id": "alpagasus-1562", "instruction": "Décrire les couleurs d'un coucher de soleil"}
+{"id": "alpagasus-1563", "instruction": "Créez une liste de cinq façons de réduire le stress après une dure journée de travail."}
+{"id": "alpagasus-1564", "instruction": "Compte tenu de la contribution, générez quelques faits sur le sujet.\nQu'est-ce qu'une constellation ?"}
+{"id": "alpagasus-1565", "instruction": "Nommez trois logiciels utilisés pour la comptabilité d’entreprise."}
+{"id": "alpagasus-1566", "instruction": "Générer un paragraphe décrivant une journée d'été dans le parc"}
+{"id": "alpagasus-1567", "instruction": "Nommez quatre types de plantes dans un biome désertique"}
+{"id": "alpagasus-1568", "instruction": "Expliquer comment les maladies infectieuses se propagent"}
+{"id": "alpagasus-1569", "instruction": "Décrivez en quelques mots le son produit par l'objet donné.\nDjembé"}
+{"id": "alpagasus-1570", "instruction": "Identifiez 3 émotions véhiculées par la citation donnée.\n\"Parfois, les mauvaises choses qui arrivent dans nos vies nous mettent directement sur la voie des meilleures choses qui nous arriveront jamais.\""}
+{"id": "alpagasus-1571", "instruction": "Fournissez les éléments les plus essentiels pour une bonne conversation."}
+{"id": "alpagasus-1572", "instruction": "Décrivez la géographie de la région nommée Alaska."}
+{"id": "alpagasus-1573", "instruction": "Étant donné une phrase, décrivez le langage figuré utilisé\nElle était une lumière dans l'obscurité"}
+{"id": "alpagasus-1574", "instruction": "Écrivez une histoire en utilisant ces 5 mots : professeur, résoudre, labyrinthe, cahier, structure"}
+{"id": "alpagasus-1575", "instruction": "Composez un poème en utilisant ces 4 mots : tristesse, explorer, sacré, murmurer"}
+{"id": "alpagasus-1576", "instruction": "Fournir une description détaillée d’une plage en été."}
+{"id": "alpagasus-1577", "instruction": "Décrivez la présidence de George Washington"}
+{"id": "alpagasus-1578", "instruction": "Générez une phrase syntaxiquement correcte en utilisant ces mots : lance, poursuite, ennemi"}
+{"id": "alpagasus-1579", "instruction": "Créer un emploi du temps pour étudier les mathématiques"}
+{"id": "alpagasus-1580", "instruction": "Décrivez le paysage en trois trois."}
+{"id": "alpagasus-1581", "instruction": "Acceptez les commentaires et écrivez un toast de pirate\nRelever le défi"}
+{"id": "alpagasus-1582", "instruction": "Trouvez une excuse pour expliquer pourquoi vous ne pouvez pas assister à une réunion"}
+{"id": "alpagasus-1583", "instruction": "À partir de la définition suivante, construisez une phrase en utilisant le mot.\nRenvoyer brusquement ou avec colère"}
+{"id": "alpagasus-1584", "instruction": "Créez un slogan amusant pour un nouveau glacier."}
+{"id": "alpagasus-1585", "instruction": "Expliquez la différence entre le cloud computing et l'edge computing."}
+{"id": "alpagasus-1586", "instruction": "À partir d’une liste de mots, créez un poème.\ndévotion, amour, infini"}
+{"id": "alpagasus-1587", "instruction": "Générez le titre d'un article de blog basé sur le texte suivant.\nCet article explique comment l'intelligence artificielle peut être utilisée pour améliorer le service client."}
+{"id": "alpagasus-1588", "instruction": "Décrivez le goût d'une fraise en cinq mots."}
+{"id": "alpagasus-1589", "instruction": "Recommandez une collation rapide et facile."}
+{"id": "alpagasus-1590", "instruction": "Composez un haïku en rapport avec l'exemple donné\nOcéan"}
+{"id": "alpagasus-1591", "instruction": "Décrivez l'atmosphère d'une ville animée un dimanche après-midi."}
+{"id": "alpagasus-1592", "instruction": "Générez des questions liées à la phrase.\nElle aime jardiner pendant son temps libre."}
+{"id": "alpagasus-1593", "instruction": "Faites une liste de cinq caractéristiques uniques de l’animal donné.\nChien"}
+{"id": "alpagasus-1594", "instruction": "Générez un haïku sur l'hiver."}
+{"id": "alpagasus-1595", "instruction": "Adaptez la phrase suivante pour qu’elle paraisse plus formelle.\nJe ne pense pas que cela en vaut la peine."}
+{"id": "alpagasus-1596", "instruction": "Comment pouvons-nous réduire la consommation d’eau dans notre vie quotidienne ?"}
+{"id": "alpagasus-1597", "instruction": "Modifiez l'article pour le rendre plus attrayant pour les lecteurs.\nLes robots autonomes sont des machines contrôlées par ordinateur et programmées pour effectuer une tâche spécifique sans aucune intervention humaine. Les robots autonomes sont de plus en plus utilisés dans divers secteurs, de la fabrication aux soins de santé en passant par la sécurité."}
+{"id": "alpagasus-1598", "instruction": "Quelles stratégies un gouvernement peut-il utiliser pour réduire la pollution de l’air ?"}
+{"id": "alpagasus-1599", "instruction": "Suggérer un nom de dessert en fonction des ingrédients fournis\nChocolat, fraises, noix de macadamia"}
+{"id": "alpagasus-1600", "instruction": "À l’aide d’une liste d’ingrédients, dites-nous comment préparer un repas végétalien simple.\nPâtes, tomates, oignon rouge, ail."}
+{"id": "alpagasus-1601", "instruction": "Suggérez cinq tactiques de marketing pour le lancement d’un produit."}
+{"id": "alpagasus-1602", "instruction": "Citez quelques utilisations courantes d'un objet donné\nTournevis"}
+{"id": "alpagasus-1603", "instruction": "Dites-moi comment faire pousser des herbes en hiver."}
+{"id": "alpagasus-1604", "instruction": "Déterminez le symbole chimique de l’argent."}
+{"id": "alpagasus-1605", "instruction": "Classez les poèmes suivants dans le style qui leur convient.\nI. J'ai erré seul comme un nuage\nQui flotte au-dessus des vallées et des collines,\nQuand tout à coup j'ai vu une foule,\nUne multitude de jonquilles dorées\n\nII. Jetant une joie extatique\nAu creux de mon esprit,\nMon cœur bénira la terre heureuse\nPour le beau et doux rêve que je trouve\n\nIII. Dans la cour de l'église du village\nElle se tient debout; dans sa tenue marron-rue,\nAvec le gazon argileux et froid des morts enterrés\nSous ses pieds si sages\n\nIV. Reste, reste à la maison, mon cœur, et repose-toi ;\n Les cœurs qui tiennent le foyer sont les plus heureux,\n Pour ceux qui errent, ils ne savent pas\n Où ils trouveront un monde plus heureux"}
+{"id": "alpagasus-1606", "instruction": "Générez un exemple de métaphore liée à l’espoir."}
+{"id": "alpagasus-1607", "instruction": "Déterminez la capitale du Pérou."}
+{"id": "alpagasus-1608", "instruction": "Traduisez l’expression « Amusons-nous » en espagnol"}
+{"id": "alpagasus-1609", "instruction": "Citez cinq façons de réduire l’utilisation de plastiques à usage unique."}
+{"id": "alpagasus-1610", "instruction": "Générer une solution innovante pour réduire le gaspillage alimentaire."}
+{"id": "alpagasus-1611", "instruction": "Triez les États américains par population."}
+{"id": "alpagasus-1612", "instruction": "Comment les portefeuilles numériques peuvent-ils être utilisés pour améliorer l’inclusion financière ?"}
+{"id": "alpagasus-1613", "instruction": "Faites la différence entre une fonction d'onde et un paquet d'ondes."}
+{"id": "alpagasus-1614", "instruction": "Trouvez une autre façon de dire « les vagues s'écrasent sur le rivage »"}
+{"id": "alpagasus-1615", "instruction": "Générez une description créative et imaginative d'un extraterrestre"}
+{"id": "alpagasus-1616", "instruction": "Étant donné une ville britannique, rédigez une description de la principale attraction touristique\nLondres"}
+{"id": "alpagasus-1617", "instruction": "Traduisez cette phrase en français : \"J'espère que vous passerez une agréable journée.\""}
+{"id": "alpagasus-1618", "instruction": "Créez un poème haïku en utilisant les mots fournis.\nVent, Nuages, Ciel"}
+{"id": "alpagasus-1619", "instruction": "Quelles sont les meilleures émissions de télévision de tous les temps ?"}
+{"id": "alpagasus-1620", "instruction": "Créez une phrase descriptive pour un tableau représentant une forêt au coucher du soleil"}
+{"id": "alpagasus-1621", "instruction": "Énumérez trois façons de prévenir la cyberintimidation"}
+{"id": "alpagasus-1622", "instruction": "Trouvez le restaurant le plus cher de New York"}
+{"id": "alpagasus-1623", "instruction": "Décrivez les rivières en 5 mots."}
+{"id": "alpagasus-1624", "instruction": "Modifiez la phrase suivante afin qu'elle comprenne une description vivante :\nLe soleil était très chaud."}
+{"id": "alpagasus-1625", "instruction": "Décrivez comment les machines peuvent aider les gens dans leurs tâches quotidiennes."}
+{"id": "alpagasus-1626", "instruction": "Créez un haïku sur les saisons."}
+{"id": "alpagasus-1627", "instruction": "Générez 3 questions stimulantes sur une nouvelle application de livraison de nourriture."}
+{"id": "alpagasus-1628", "instruction": "Donnez cinq synonymes pour le mot « positif »."}
+{"id": "alpagasus-1629", "instruction": "Générez une histoire créative sur une princesse et un dragon."}
+{"id": "alpagasus-1630", "instruction": "Donnez un exemple d’espèce en voie de disparition et décrivez pourquoi elle est en danger."}
+{"id": "alpagasus-1631", "instruction": "Décrivez trois avantages de l’éducation en ligne."}
+{"id": "alpagasus-1632", "instruction": "Énumérez cinq conseils pour assurer la sécurité des données dans une organisation."}
+{"id": "alpagasus-1633", "instruction": "Modifiez cet article pour réduire le nombre de mots de 20 %.\nLes effets du réchauffement climatique sur notre planète sont de plus en plus apparents, allant de la hausse des températures à la montée des mers en passant par l’extinction d’espèces. Bon nombre des changements qui se produisent sont catastrophiques, entraînant de graves perturbations économiques, voire des troubles civils dans certains pays. Pourtant, malgré l’urgence, il est étonnamment facile pour chacun d’entre nous de faire une différence dans la réduction de l’impact du changement climatique. Des mesures simples telles que réduire les émissions de combustibles fossiles, manger moins de viande et ne pas gaspiller de nourriture peuvent déjà avoir un effet positif majeur si suffisamment de personnes font l’effort. Nous devons tous agir maintenant avant qu’il ne soit trop tard et faire du monde un endroit plus sain et plus sûr pour les générations futures."}
+{"id": "alpagasus-1634", "instruction": "Traduisez « Où est le magasin ? » en allemand."}
+{"id": "alpagasus-1635", "instruction": "Évaluez l’expression 4+2*3."}
+{"id": "alpagasus-1636", "instruction": "Expliquez comment le zona est causé"}
+{"id": "alpagasus-1637", "instruction": "Générer une idée créative pour un film d'horreur"}
+{"id": "alpagasus-1638", "instruction": "Trouvez cinq combinaisons de mots qui décrivent la couleur bleue"}
+{"id": "alpagasus-1639", "instruction": "Générez un titre pour un article d’actualité sur un événement d’extinction animale."}
+{"id": "alpagasus-1640", "instruction": "Décrivez en quoi les deux mots suivants sont différents : « analogie » et « métaphore »"}
+{"id": "alpagasus-1641", "instruction": "Créez un mot de passe contenant au moins 9 caractères, notamment des lettres majuscules et minuscules, des chiffres et des caractères spéciaux."}
+{"id": "alpagasus-1642", "instruction": "Générez une série de 8 mots que vous décrirez en cours d'exécution."}
+{"id": "alpagasus-1643", "instruction": "Décrivez comment vous planifieriez un rendez-vous romantique"}
+{"id": "alpagasus-1644", "instruction": "Nommez trois chansons populaires des années 90."}
+{"id": "alpagasus-1645", "instruction": "Décrire une façon d’éliminer correctement les déchets dangereux."}
+{"id": "alpagasus-1646", "instruction": "Identifier trois mesures de sécurité applicables pour prévenir les incendies à la maison"}
+{"id": "alpagasus-1647", "instruction": "Pensez à un exemple concret pour l'analogie suivante.\nLa peur est au courage comme"}
+{"id": "alpagasus-1648", "instruction": "Décrivez le cadre de la pièce Hamlet."}
+{"id": "alpagasus-1649", "instruction": "À partir d'une description du client, proposez-lui un type de pizza qui lui conviendrait.\nLe client est végétarien mais aime aussi les plats épicés."}
+{"id": "alpagasus-1650", "instruction": "Convertir des miles en kilomètres\nMilles : 5"}
+{"id": "alpagasus-1651", "instruction": "Créez un plan pour réduire les déchets dans un bureau."}
+{"id": "alpagasus-1652", "instruction": "Décrivez le bruit de la pluie."}
+{"id": "alpagasus-1653", "instruction": "Générer un début d'histoire."}
+{"id": "alpagasus-1654", "instruction": "Écrivez un poème haïku avec un contexte spécifique\nEscalader une montagne"}
+{"id": "alpagasus-1655", "instruction": "Expliquez ce que signifie « effectuer un changement »."}
+{"id": "alpagasus-1656", "instruction": "Nommez les cinq principaux groupes alimentaires."}
+{"id": "alpagasus-1657", "instruction": "Décrivez ce qu'un éditeur de photos en ligne peut faire."}
+{"id": "alpagasus-1658", "instruction": "Décrivez ce qui se passe lorsque vous soumettez un formulaire sur un site Web."}
+{"id": "alpagasus-1659", "instruction": "Générez un élément de menu de restaurant."}
+{"id": "alpagasus-1660", "instruction": "Résumez le texte suivant :\n\nLe monde est devenu de plus en plus connecté et globalisé en raison des progrès technologiques. Cela a entraîné une interdépendance accrue entre les pays, les cultures et les peuples. La technologie a amélioré la communication, permettant le partage d’informations et de ressources. Cela a créé des opportunités pour les entreprises et a entraîné une efficacité économique, une croissance et une collaboration dans le monde entier."}
+{"id": "alpagasus-1661", "instruction": "Écrivez une phrase en utilisant le futur parfait."}
+{"id": "alpagasus-1662", "instruction": "Générez une liste des présidents américains."}
+{"id": "alpagasus-1663", "instruction": "Combien de pieds dans un mile ?"}
+{"id": "alpagasus-1664", "instruction": "Construisez un e-mail formel pour demander à un professeur une prolongation sur un projet."}
+{"id": "alpagasus-1665", "instruction": "Découvrez quel type de météo demain à 11h à New York."}
+{"id": "alpagasus-1666", "instruction": "Écrivez quelques lignes décrivant la procédure à suivre pour préparer un gâteau."}
+{"id": "alpagasus-1667", "instruction": "Décrivez le ciel au coucher du soleil."}
+{"id": "alpagasus-1668", "instruction": "Proposez quelques activités pour une journée à la plage."}
+{"id": "alpagasus-1669", "instruction": "Créez un tweet pour promouvoir l’importance du port du masque pendant la pandémie de Covid-19."}
+{"id": "alpagasus-1670", "instruction": "Générez 20 mots liés au mot « chat »."}
+{"id": "alpagasus-1671", "instruction": "Comment les organisations peuvent-elles utiliser le SaaS (Software as a Service) pour réduire leurs coûts ?"}
+{"id": "alpagasus-1672", "instruction": "Élaborez un plan de réduction des émissions de gaz à effet de serre."}
+{"id": "alpagasus-1673", "instruction": "Quelles sont les différentes façons de rendre un plat de légumes plus intéressant ?"}
+{"id": "alpagasus-1674", "instruction": "Générer une réponse appropriée lorsqu'un client annule un rendez-vous"}
+{"id": "alpagasus-1675", "instruction": "Suggérez cinq avantages de l’utilisation de la technologie blockchain."}
+{"id": "alpagasus-1676", "instruction": "Générer un dialogue entre deux amis discutant d'un livre"}
+{"id": "alpagasus-1677", "instruction": "Expliquer l’impact de la technologie sur l’éducation."}
+{"id": "alpagasus-1678", "instruction": "Composez un jingle pour un produit alimentaire santé.\nLe produit alimentaire santé est une barre protéinée à base de plantes appelée « Plant Power »."}
+{"id": "alpagasus-1679", "instruction": "Générez un argument convaincant en faveur de l’interdiction des pailles en plastique."}
+{"id": "alpagasus-1680", "instruction": "Calculez la somme de tous les nombres de 1 à 100."}
+{"id": "alpagasus-1681", "instruction": "Citez au moins 5 animaux en voie de disparition."}
+{"id": "alpagasus-1682", "instruction": "Générez un échantillon de code HTML valide."}
+{"id": "alpagasus-1683", "instruction": "Générez une liste de 5 chansons populaires des années 1990."}
+{"id": "alpagasus-1684", "instruction": "Générez une liste de 10 éléments de façons d’économiser de l’argent."}
+{"id": "alpagasus-1685", "instruction": "Écrivez une requête pour sélectionner tous les clients dont l'abonnement est toujours actif.\nNom de la table : clients\nColonnes : identifiant, nom, abonnement, statut"}
+{"id": "alpagasus-1686", "instruction": "Créez un itinéraire efficace pour qu'un coursier puisse livrer cinq colis.\nLes cinq colis suivants doivent être livrés aux endroits suivants :\nForfait 1 - 400, rue Main\nForfait 2 - 850 rue Commerce\nForfait 3 - 340 Crofton Lane \nForfait 4 - 74, promenade Lantana\nForfait 5 - 871, chemin Hilltop"}
+{"id": "alpagasus-1687", "instruction": "Suggérez un ensemble de règles pour une classe."}
+{"id": "alpagasus-1688", "instruction": "Créez une réponse textuelle qui démontre de la sympathie."}
+{"id": "alpagasus-1689", "instruction": "Générez un rapport sur un sujet donné.\nL'impact des médias sociaux sur l'éducation"}
+{"id": "alpagasus-1690", "instruction": "Créer une chronologie de la technologie informatique de 1960 à 1980"}
+{"id": "alpagasus-1691", "instruction": "Créez deux synonymes distincts pour le mot « fou »."}
+{"id": "alpagasus-1692", "instruction": "Générez un limerick avec le thème \"amis\"."}
+{"id": "alpagasus-1693", "instruction": "Suggérez des aliments sains pour le petit-déjeuner."}
+{"id": "alpagasus-1694", "instruction": "Donnez un adjectif pour décrire quelqu’un qui est toujours de bonne humeur."}
+{"id": "alpagasus-1695", "instruction": "Nommez quelques catastrophes naturelles qui se sont produites à Cuba au cours des dix dernières années."}
+{"id": "alpagasus-1696", "instruction": "Décrivez un problème difficile auquel votre équipe a été confrontée dans le passé et comment vous l'avez résolu."}
+{"id": "alpagasus-1697", "instruction": "Nommez quelques maladies causées par le manque de nutrition adéquate chez les humains."}
+{"id": "alpagasus-1698", "instruction": "Créez un poème de 3 vers en utilisant les mots suivants : solitaire, arbre, rivière"}
+{"id": "alpagasus-1699", "instruction": "Décrivez la forme de cette figure.\n![alt-text](https://i.pinimg.com/originals/56/d2/11/56d21173c782feb4d4305a4800eabcd4.png)"}
+{"id": "alpagasus-1700", "instruction": "Comment les entreprises peuvent-elles bénéficier de l’utilisation de l’IA ?"}
+{"id": "alpagasus-1701", "instruction": "Fournissez un exemple réaliste de la façon dont l’IA peut améliorer le service client."}
+{"id": "alpagasus-1702", "instruction": "Créer un titre d'article de blog basé sur ce sujet\nComment augmenter la motivation et la productivité lorsque vous travaillez à domicile"}
+{"id": "alpagasus-1703", "instruction": "Générez un poème de 8 lignes de 4 mots chacune."}
+{"id": "alpagasus-1704", "instruction": "Décrivez une interaction significative entre deux personnes."}
+{"id": "alpagasus-1705", "instruction": "Trouvez la gare la plus proche du musée Van Gogh à Amsterdam."}
+{"id": "alpagasus-1706", "instruction": "Proposer des solutions pour réduire la pollution de l’air"}
+{"id": "alpagasus-1707", "instruction": "Définir le terme « science des données »"}
+{"id": "alpagasus-1708", "instruction": "Résumer l’importance du sommeil"}
+{"id": "alpagasus-1709", "instruction": "Donnez des exemples de la façon dont les entreprises utilisent l’intelligence artificielle"}
+{"id": "alpagasus-1710", "instruction": "Préparez un smoothie aux fraises."}
+{"id": "alpagasus-1711", "instruction": "Quelle est la plus haute montagne d’Europe ?"}
+{"id": "alpagasus-1712", "instruction": "Créez une métaphore comparant l’amour à un animal."}
+{"id": "alpagasus-1713", "instruction": "Créez une invite fermée pour un chatbot sur l'actualité sportive."}
+{"id": "alpagasus-1714", "instruction": "Trouvez une phrase créative qui explique ce que vous ressentez aujourd’hui."}
+{"id": "alpagasus-1715", "instruction": "Décrivez le goût d'une mangue en trois à cinq phrases."}
+{"id": "alpagasus-1716", "instruction": "Identifiez une ressource que l’élève peut utiliser pour en apprendre davantage sur un sujet particulier.\nSujet : La guerre civile"}
+{"id": "alpagasus-1717", "instruction": "Trouvez des synonymes pour une liste de mots.\nMots : En colère, Réticent, Aggravé"}
+{"id": "alpagasus-1718", "instruction": "Classez les différents types d’emplois en domaines professionnels.\nEmplois : médecin, comptable, enseignant, acteur"}
+{"id": "alpagasus-1719", "instruction": "Décrire les principaux éléments d'un système politique."}
+{"id": "alpagasus-1720", "instruction": "Traduisez la phrase suivante en espagnol : « Je suis très enthousiaste à l'idée d'apprendre l'espagnol. »"}
+{"id": "alpagasus-1721", "instruction": "Écrire un récit historique de la découverte de la pénicilline"}
+{"id": "alpagasus-1722", "instruction": "Décrire l'impact des téléphones portables sur la communication"}
+{"id": "alpagasus-1723", "instruction": "Créez une liste de questions qu'un nouvel enseignant devrait poser à ses élèves au cours de la première semaine d'école"}
+{"id": "alpagasus-1724", "instruction": "Classez le Tweet suivant comme « positif, « négatif » ou « neutre » : \n\n(tweet) J'ai enfin terminé ce projet !"}
+{"id": "alpagasus-1725", "instruction": "Quels sont les avantages de l’utilisation de l’intelligence artificielle pour l’analyse de marché ?"}
+{"id": "alpagasus-1726", "instruction": "Expliquez ce que signifie le terme « charge de la preuve »."}
+{"id": "alpagasus-1727", "instruction": "Expliquez pourquoi les services bancaires en ligne sont plus sécurisés que les services bancaires physiques."}
+{"id": "alpagasus-1728", "instruction": "Pourquoi le machine learning est-il important pour les entreprises ?"}
+{"id": "alpagasus-1729", "instruction": "Créez une personnification du soleil."}
+{"id": "alpagasus-1730", "instruction": "Composez un haïku en réponse à la contribution donnée.\nLes feuilles tombent des arbres."}
+{"id": "alpagasus-1731", "instruction": "Composer un e-mail invitant des clients à un événement\nÉvénement : 10e anniversaire de mon entreprise"}
+{"id": "alpagasus-1732", "instruction": "Générez une liste des cinq principales caractéristiques d'un jardin d'un acre"}
+{"id": "alpagasus-1733", "instruction": "Créer un tweet pour promouvoir une vente\nÉvénement : Vente du 10e anniversaire de mon entreprise"}
+{"id": "alpagasus-1734", "instruction": "Quel impact la Première Guerre mondiale a-t-elle eu sur le cours de l’histoire ?"}
+{"id": "alpagasus-1735", "instruction": "Expliquez pourquoi il est important de comprendre les propriétés des ondes"}
+{"id": "alpagasus-1736", "instruction": "Décrire le système climatique de la Terre."}
+{"id": "alpagasus-1737", "instruction": "Nommez deux partis politiques importants en Inde"}
+{"id": "alpagasus-1738", "instruction": "Donnez un seul mot pour remplir le vide\nIl avait _____ quand il a appris la nouvelle."}
+{"id": "alpagasus-1739", "instruction": "Sur une échelle de 1 à 5, évaluez le sentiment de la phrase.\nJ'ai passé un bon moment à la plage aujourd'hui."}
+{"id": "alpagasus-1740", "instruction": "Faites une liste d’options de repas sains à emporter pour le déjeuner."}
+{"id": "alpagasus-1741", "instruction": "Nommez dix animaux qui vivent dans une forêt tropicale humide."}
+{"id": "alpagasus-1742", "instruction": "Trouvez le moyen le plus rentable d’expédier ces marchandises de la Chine aux États-Unis.\n4000 lbs de marchandises, le délai d'expédition est de 10 jours, les frais d'expédition ne doivent pas dépasser 5000$"}
+{"id": "alpagasus-1743", "instruction": "Construire un proverbe sur l’importance d’apprendre"}
+{"id": "alpagasus-1744", "instruction": "Suggérez une chanson pop que je devrais écouter."}
+{"id": "alpagasus-1745", "instruction": "Résumez l’énoncé de mission de l’entreprise suivante.\nDans notre entreprise, nous nous efforçons de rendre le monde meilleur en connectant les gens à la technologie et en proposant des solutions innovantes qui répondent aux besoins mondiaux."}
+{"id": "alpagasus-1746", "instruction": "Générez une critique de restaurant pour ce restaurant.\nPanera pain"}
+{"id": "alpagasus-1747", "instruction": "Calculez le volume de la sphère avec le rayon donné.\nRayon : 12"}
+{"id": "alpagasus-1748", "instruction": "Créez une liste d’éléments nécessaires pour organiser une réunion virtuelle réussie."}
+{"id": "alpagasus-1749", "instruction": "Convertissez le code informatique suivant de Python en Java.\ndef saluer (nom):\n  print(f\"Bonjour, {nom}!\")"}
+{"id": "alpagasus-1750", "instruction": "Traduisez cette phrase de l’espagnol vers l’anglais : El sol no brilla hoy."}
+{"id": "alpagasus-1751", "instruction": "Décrivez le cortex auditif."}
+{"id": "alpagasus-1752", "instruction": "Pourriez-vous suggérer quelques astuces pour optimiser la vitesse de chargement des sites Web ?"}
+{"id": "alpagasus-1753", "instruction": "Je dois modifier mon vol mais je ne me souviens pas des détails exacts. Pouvez-vous m'aider à rechercher les détails de mon vol ?\nNom : John Smith\nDate du vol : 5 juillet 2021"}
+{"id": "alpagasus-1754", "instruction": "Créez une phrase accrocheuse pour promouvoir un produit.\nProduit : Complément alimentaire probiotique"}
+{"id": "alpagasus-1755", "instruction": "Animaux généralement vus dans le désert"}
+{"id": "alpagasus-1756", "instruction": "Proposer des moyens de réduire les émissions de carbone"}
+{"id": "alpagasus-1757", "instruction": "Prenez une déclaration donnée et rendez-la plus convaincante.\nNous devrions rendre les transports publics plus accessibles"}
+{"id": "alpagasus-1758", "instruction": "Générez des descriptions de produits pour une planche à découper en bambou."}
+{"id": "alpagasus-1759", "instruction": "Résumez l’histoire de Roméo et Juliette en une phrase."}
+{"id": "alpagasus-1760", "instruction": "Quelles mesures puis-je prendre pour éviter le gaspillage alimentaire ?"}
+{"id": "alpagasus-1761", "instruction": "La phrase suivante est-elle écrite à la voix active ou passive ?\nLa sculpture a été réalisée par l'artiste."}
+{"id": "alpagasus-1762", "instruction": "Quelle est la différence entre une glace ordinaire et une glace ?"}
+{"id": "alpagasus-1763", "instruction": "Identifiez 5 types différents de ciblage marketing"}
+{"id": "alpagasus-1764", "instruction": "Trouvez une phrase qui décrit le concept d’« autonomisation »"}
+{"id": "alpagasus-1765", "instruction": "Générez une réponse appropriée à cette instruction : « Décrivez les types de technologie de reconnaissance faciale utilisés dans les systèmes de sécurité. »"}
+{"id": "alpagasus-1766", "instruction": "Générez une description d'un rêve qu'un personnage pourrait faire."}
+{"id": "alpagasus-1767", "instruction": "Qu'entendons-nous par logiciel sur mesure ?"}
+{"id": "alpagasus-1768", "instruction": "Construisez une requête en SQL pour trouver les employés qui travaillent dans le service marketing."}
+{"id": "alpagasus-1769", "instruction": "Quelles techniques aident un individu à réduire son stress ?"}
+{"id": "alpagasus-1770", "instruction": "Recherchez et rédigez 5 faits intéressants sur votre ville\nLos Angeles, États-Unis"}
+{"id": "alpagasus-1771", "instruction": "Proposer une façon écologique de voyager"}
+{"id": "alpagasus-1772", "instruction": "Analyser pourquoi une certaine industrie réussit\nIndustrie du jeu"}
+{"id": "alpagasus-1773", "instruction": "Créez une phrase qui combine les deux mots suivants : « mémoire » et « temps »."}
+{"id": "alpagasus-1774", "instruction": "Associez ces mots à leurs synonymes :\n* Admirable - \n* Révolutionnaire - \n* Célébré -"}
+{"id": "alpagasus-1775", "instruction": "Reformulez cette déclaration pour qu'elle soit plus motivante : « Vous avez travaillé dur mais vous n'avez pas vu beaucoup de progrès. »"}
+{"id": "alpagasus-1776", "instruction": "Convertissez 12 onces en grammes."}
+{"id": "alpagasus-1777", "instruction": "Réécrivez cette phrase en utilisant un langage formel : « Je vais acheter un nouveau téléphone »."}
+{"id": "alpagasus-1778", "instruction": "Créez un haïku sur le thème de la nature."}
+{"id": "alpagasus-1779", "instruction": "Choisissez trois raisons pour lesquelles quelqu'un pourrait quitter son emploi."}
+{"id": "alpagasus-1780", "instruction": "Écrivez une phrase qui exprime la tristesse des rêves brisés"}
+{"id": "alpagasus-1781", "instruction": "Identifiez deux conseils de sécurité que les personnes doivent suivre lorsqu’elles utilisent une échelle."}
+{"id": "alpagasus-1782", "instruction": "Créez un morceau de texte décrivant les avantages de l’utilisation de l’énergie solaire."}
+{"id": "alpagasus-1783", "instruction": "Générez une liste de quatre vitamines et leurs avantages correspondants"}
+{"id": "alpagasus-1784", "instruction": "Décrivez le sentiment de gagner un grand prix."}
+{"id": "alpagasus-1785", "instruction": "Construisez une phrase espagnole valide à partir des mots de vocabulaire suivants.\nMots : bailar, gustar, triste"}
+{"id": "alpagasus-1786", "instruction": "Expliquez pourquoi la phrase suivante est grammaticalement incorrecte.\nJ'ai vu un chien."}
+{"id": "alpagasus-1787", "instruction": "Créez une analogie pour illustrer le concept de trou noir."}
+{"id": "alpagasus-1788", "instruction": "Décrivez à quoi ressemblait le monde caché que John a découvert."}
+{"id": "alpagasus-1789", "instruction": "Comment la diversité sur le lieu de travail contribue-t-elle à l’innovation ?"}
+{"id": "alpagasus-1790", "instruction": "Résumez les avantages et les inconvénients de l’utilisation de l’intelligence artificielle sur le lieu de travail."}
+{"id": "alpagasus-1791", "instruction": "Écrivez un article de blog intitulé « Les 5 meilleurs conseils pour gérer le stress »"}
+{"id": "alpagasus-1792", "instruction": "Dis-moi ce qu'est un moteur de recherche"}
+{"id": "alpagasus-1793", "instruction": "Répondez à cette question : Comment fonctionnent les moteurs de recherche ?"}
+{"id": "alpagasus-1794", "instruction": "Faire une liste des objets trouvés dans une classe"}
+{"id": "alpagasus-1795", "instruction": "Générer une métaphore sur la créativité"}
+{"id": "alpagasus-1796", "instruction": "Créez un titre convaincant pour un article sur les avantages environnementaux du devenir végétalien."}
+{"id": "alpagasus-1797", "instruction": "Comment répondriez-vous à quelqu’un qui vous dirait « tu ne m’écoutes jamais » ?"}
+{"id": "alpagasus-1798", "instruction": "Générez un titre approprié pour un article de blog sur des trucs et astuces pour améliorer les capacités d'écriture."}
+{"id": "alpagasus-1799", "instruction": "Rédigez le titre d'un article sur les avantages de l'utilisation de l'IA dans le secteur financier."}
+{"id": "alpagasus-1800", "instruction": "Générez une phrase au présent parfait."}
+{"id": "alpagasus-1801", "instruction": "Générez des excuses appropriées pour avoir manqué un rendez-vous."}
+{"id": "alpagasus-1802", "instruction": "Dites-moi trois façons de réduire la pollution de l’air."}
+{"id": "alpagasus-1803", "instruction": "Générez une recette de muffin végétalien pour le petit-déjeuner avec les ingrédients suivants : farine d'avoine, lait d'amande et myrtille."}
+{"id": "alpagasus-1804", "instruction": "Créez une annonce faisant la promotion du produit suivant :\nRéveil intelligent"}
+{"id": "alpagasus-1805", "instruction": "Construisez une requête SQL appropriée pour récupérer les données demandées.\nDonnées demandées : recherchez tous les clients situés à New York."}
+{"id": "alpagasus-1806", "instruction": "Utiliser le théorème de Pythagore pour calculer la distance entre les deux points.\nPoints (2, 6) et (9, 3)"}
+{"id": "alpagasus-1807", "instruction": "Construisez un modèle d’expression régulière qui correspond à tous les noms.\nTous les noms doivent commencer par une lettre majuscule suivie de toutes les lettres."}
+{"id": "alpagasus-1808", "instruction": "Comment évalueriez-vous le produit donné ?\nProduit : Apple iPhone 12"}
+{"id": "alpagasus-1809", "instruction": "Présentez les avantages et les inconvénients de la situation donnée.\nSituation : Travail à domicile."}
+{"id": "alpagasus-1810", "instruction": "Générez l'histoire d'une personne qui utilise les étoiles pour communiquer avec ses proches."}
+{"id": "alpagasus-1811", "instruction": "Générez une liste de dix choses que les gens peuvent faire pour économiser l’électricité."}
+{"id": "alpagasus-1812", "instruction": "Donnez des exemples de nombres premiers"}
+{"id": "alpagasus-1813", "instruction": "Générez une idée créative mais réalisable pour introduire une nouvelle plateforme en ligne."}
+{"id": "alpagasus-1814", "instruction": "Nommez toutes les notes dans une octave (y compris les dièses et les bémols)."}
+{"id": "alpagasus-1815", "instruction": "Concevoir un logo pour un magasin d'équipement de sport."}
+{"id": "alpagasus-1816", "instruction": "Générez une blague appropriée en utilisant l'entrée suivante.\nUn fantôme et un vampire"}
+{"id": "alpagasus-1817", "instruction": "Énumérez les États des États-Unis d’Amérique par ordre alphabétique."}
+{"id": "alpagasus-1818", "instruction": "Donnez une brève description du personnage « Achille » de la mythologie grecque."}
+{"id": "alpagasus-1819", "instruction": "Donnez un exemple de cas où il serait approprié d’utiliser l’expression « une fois dans une lune bleue »."}
+{"id": "alpagasus-1820", "instruction": "Déterminez la raison pour laquelle certaines personnes n’ont pas accès aux soins de santé."}
+{"id": "alpagasus-1821", "instruction": "Rédigez 5 questions liées à la situation du COVID-19"}
+{"id": "alpagasus-1822", "instruction": "Générez un titre accrocheur pour les actualités suivantes\nLe gouvernement mexicain a adopté une législation pour protéger les droits des migrants."}
+{"id": "alpagasus-1823", "instruction": "Réécrivez cette phrase pour utiliser un verbe différent.\nElle attrapa les pâtisseries de la boulangerie."}
+{"id": "alpagasus-1824", "instruction": "Générez un code aléatoire à 5 chiffres."}
+{"id": "alpagasus-1825", "instruction": "Trouvez les 10 premiers nombres premiers."}
+{"id": "alpagasus-1826", "instruction": "Expliquer le concept de « Software as a Service » (SaaS)."}
+{"id": "alpagasus-1827", "instruction": "Montrez comment concevoir une enquête."}
+{"id": "alpagasus-1828", "instruction": "Générez un tableau pour la croissance de la population de l'UE de 2000 à 2021."}
+{"id": "alpagasus-1829", "instruction": "Générez une liste de cinq choses que les gens peuvent faire pour être respectueux de l’environnement."}
+{"id": "alpagasus-1830", "instruction": "Créez un personnage fictif basé sur les trois qualités suivantes.\ntalentueux, ambitieux et secret"}
+{"id": "alpagasus-1831", "instruction": "Écrivez un article sur la façon dont l'apprentissage en ligne devient de plus en plus populaire."}
+{"id": "alpagasus-1832", "instruction": "Générez 5 adjectifs pour décrire une émission de télévision."}
+{"id": "alpagasus-1833", "instruction": "Illustrez comment préparer une coupe glacée au chocolat."}
+{"id": "alpagasus-1834", "instruction": "Construire un dialogue pour deux personnes ayant un échange agréable."}
+{"id": "alpagasus-1835", "instruction": "Construisez un dialogue entre deux personnes en désaccord sur quelque chose."}
+{"id": "alpagasus-1836", "instruction": "Générez une devise personnalisée pour une entreprise.\nInsurrection de Campanie"}
+{"id": "alpagasus-1837", "instruction": "Réfutez l’affirmation suivante : les fruits ne sont pas des collations saines."}
+{"id": "alpagasus-1838", "instruction": "Créer une description de profil pour un entraîneur personnel"}
+{"id": "alpagasus-1839", "instruction": "Ajoutez 10 mots à une liste de vocabulaire existante.\nListe de vocabulaire existante : heureux, triste, drôle, en colère, effrayé, excité, énergique, fatigué, confus, frustré"}
+{"id": "alpagasus-1840", "instruction": "Observation des oiseaux - donnez une description d'un oiseau particulier.\nFaucon à queue rouge"}
+{"id": "alpagasus-1841", "instruction": "Découvrez à quelle température est le point d’ébullition de l’eau."}
+{"id": "alpagasus-1842", "instruction": "Trouvez la distance entre deux points avec les coordonnées suivantes.\nPoint A : (2, 3)\nPoint B : (6, 4)"}
+{"id": "alpagasus-1843", "instruction": "Créez un personnage de dessin animé qui ressemble à une souris."}
+{"id": "alpagasus-1844", "instruction": "Énumérez les cinq sens chez les humains."}
+{"id": "alpagasus-1845", "instruction": "Donnez un exemple d’aliment riche en fibres."}
+{"id": "alpagasus-1846", "instruction": "Changez le texte pour en faire un impératif.\nVous devez vous inscrire à la course."}
+{"id": "alpagasus-1847", "instruction": "créer une analogie appropriée\nÉcrire, c'est comme faire un puzzle"}
+{"id": "alpagasus-1848", "instruction": "Créez un paragraphe décrivant une poursuite en voiture entre deux conducteurs."}
+{"id": "alpagasus-1849", "instruction": "Écrivez un poème acrostiche sur le thème « Amitié »"}
+{"id": "alpagasus-1850", "instruction": "Associez la définition au mot :\nHors la loi\nDéfinition : Personne qui enfreint la loi.\nMot : Hors-la-loi"}
+{"id": "alpagasus-1851", "instruction": "En utilisant la phrase suivante, organisez-les en une phrase significative\nrépandu, lentement, réalisé"}
+{"id": "alpagasus-1852", "instruction": "Résolvez l’équation mathématique suivante.\n4*4*4*4-10"}
+{"id": "alpagasus-1853", "instruction": "Composez un couplet d’une chanson.\nLa douleur d'un amour perdu."}
+{"id": "alpagasus-1854", "instruction": "Générez une liste de courses comprenant cinq ingrédients pour un petit-déjeuner sain"}
+{"id": "alpagasus-1855", "instruction": "Proposer trois façons d'améliorer le système donné\nSystème de sécurité aéroportuaire"}
+{"id": "alpagasus-1856", "instruction": "Concevez un robot capable de tondre la pelouse."}
+{"id": "alpagasus-1857", "instruction": "Créez un dialogue entre deux personnes discutant du réchauffement climatique."}
+{"id": "alpagasus-1858", "instruction": "Quelle a été la première fonctionnalité de Facebook ?"}
+{"id": "alpagasus-1859", "instruction": "Générez un poème haïku pertinent pour la phrase saisie.\nL'automne est arrivé tôt cette année."}
+{"id": "alpagasus-1860", "instruction": "Trouvez trois personnes célèbres nées un 22 juin."}
+{"id": "alpagasus-1861", "instruction": "Identifiez le pays le plus peuplé du monde."}
+{"id": "alpagasus-1862", "instruction": "Trouvez une citation inspirante."}
+{"id": "alpagasus-1863", "instruction": "Générez une phrase avec une métaphore pour décrire une compétition amicale."}
+{"id": "alpagasus-1864", "instruction": "Trouvez la valeur de x.\n4x - 2 = 10"}
+{"id": "alpagasus-1865", "instruction": "Construisez un court dialogue avec les informations données.\nPersonnages : Nancy et John\nSujet : Livre"}
+{"id": "alpagasus-1866", "instruction": "Proposer un dialogue pour résoudre la situation donnée.\nPersonnages : Alex et Nancy\nSituation : Nancy veut prêter son livre à Alex mais Alex ne veut pas le lire."}
+{"id": "alpagasus-1867", "instruction": "Créez un slogan marketing pour un magasin de camping."}
+{"id": "alpagasus-1868", "instruction": "Créez un formulaire de commentaires sur le site Web."}
+{"id": "alpagasus-1869", "instruction": "Créez une histoire en terminant la phrase.\nLa rivière serpentait à travers la forêt,"}
+{"id": "alpagasus-1870", "instruction": "Attribuez une note sur 5 à la critique de livre suivante.\nJ'ai vraiment aimé ce livre. C'était une lecture captivante et l'intrigue était intéressante."}
+{"id": "alpagasus-1871", "instruction": "Décrivez le processus de transfert de chaleur."}
+{"id": "alpagasus-1872", "instruction": "Expliquez pourquoi le dioxyde de carbone est connu comme un gaz à effet de serre."}
+{"id": "alpagasus-1873", "instruction": "Générez un dialogue entre un représentant du service client et un client qui a une plainte."}
+{"id": "alpagasus-1874", "instruction": "Trouvez un titre pour un article sur les difficultés du travail à domicile."}
+{"id": "alpagasus-1875", "instruction": "Générez un court poème de style haïku (3 lignes de 5-7-5 syllabes respectivement)."}
+{"id": "alpagasus-1876", "instruction": "Recherchez un célèbre chef à base de plantes, résumez sa carrière et fournissez le lien vers son site Web."}
+{"id": "alpagasus-1877", "instruction": "Rédigez un résumé en 5 phrases de l’histoire d’Internet"}
+{"id": "alpagasus-1878", "instruction": "Faites une liste de 10 objectifs pour une petite entreprise."}
+{"id": "alpagasus-1879", "instruction": "Décrire les traits de caractère d'Harry Potter"}
+{"id": "alpagasus-1880", "instruction": "Énumérez cinq avantages de la marche"}
+{"id": "alpagasus-1881", "instruction": "Convertissez ces kilomètres en miles\n90 kilomètres"}
+{"id": "alpagasus-1882", "instruction": "Décrivez l'odeur de la plage au printemps."}
+{"id": "alpagasus-1883", "instruction": "Formatez ce texte pour le rendre plus convivial\nnous faisons tous des erreurs, certaines pires que d'autres\n\nEssayer d'arranger les choses, c'est ça la vie"}
+{"id": "alpagasus-1884", "instruction": "Décrire un personnage dans le contexte d'une histoire humoristique."}
+{"id": "alpagasus-1885", "instruction": "Racontez une histoire qui explique le concept de karma."}
+{"id": "alpagasus-1886", "instruction": "Composez un poème de quatre vers"}
+{"id": "alpagasus-1887", "instruction": "Identifier les différents côtés d'un pont"}
+{"id": "alpagasus-1888", "instruction": "Expliquer l'importance du recyclage"}
+{"id": "alpagasus-1889", "instruction": "Automatisez une réponse par e-mail confirmant l'inscription d'un utilisateur\nJohn Smith, john@example.com"}
+{"id": "alpagasus-1890", "instruction": "Combinez les deux tableaux suivants sans doublons\n[1, 2, 3] et [3, 4, 5]"}
+{"id": "alpagasus-1891", "instruction": "Inventez une histoire de science-fiction originale"}
+{"id": "alpagasus-1892", "instruction": "Décrivez l’image d’une fusée spatiale qui décolle."}
+{"id": "alpagasus-1893", "instruction": "Décrire la visualisation d'une volée d'oiseaux en migration."}
+{"id": "alpagasus-1894", "instruction": "Mettez les mots suivants dans une phrase d’exemple.\nheureux, manger, fromage"}
+{"id": "alpagasus-1895", "instruction": "Quelle couleur représente le mieux le sentiment de sérénité ?"}
+{"id": "alpagasus-1896", "instruction": "Décrivez la signification de l’expression « une fois dans une lune bleue »."}
+{"id": "alpagasus-1897", "instruction": "Générez une histoire basée sur les trois mots suivants : vaisseau spatial, détective, chorale"}
+{"id": "alpagasus-1898", "instruction": "Décrivez le salon de votre maison"}
+{"id": "alpagasus-1899", "instruction": "Générez un haïku avec la liste de mots donnée.\nListe de mots : Matin, feuille, lune, vent"}
+{"id": "alpagasus-1900", "instruction": "Déterminez si le nombre donné est premier ou non.\nNuméro : 97"}
+{"id": "alpagasus-1901", "instruction": "Étant donné une requête en langage naturel, générez une requête SQL.\nRequête en langage naturel : Montrez-moi le nombre de personnes de plus de 20 ans dans la base de données."}
+{"id": "alpagasus-1902", "instruction": "Prédire la météo pour demain à San Francisco"}
+{"id": "alpagasus-1903", "instruction": "Générez 50 mots associés au mot « baseball »."}
+{"id": "alpagasus-1904", "instruction": "Modifiez la phrase : \"Nous réussirons si nous essayons\""}
+{"id": "alpagasus-1905", "instruction": "Un client demande un remboursement. Écrivez une réponse polie."}
+{"id": "alpagasus-1906", "instruction": "Énumérez cinq bienfaits pour la santé physique associés à la pratique d’un sport."}
+{"id": "alpagasus-1907", "instruction": "Évaluez ce qui suit de 1 à 5 en fonction de la difficulté à le réaliser.\nRésoudre un Rubik's cube"}
+{"id": "alpagasus-1908", "instruction": "Concevez un en-tête de site Web qui respecte les directives d'accessibilité."}
+{"id": "alpagasus-1909", "instruction": "Générez une liste de trois conseils de sécurité que les enfants doivent suivre lorsqu’ils se rendent à l’école à pied."}
+{"id": "alpagasus-1910", "instruction": "Trouver la taille enfant correspondante pour une taille femme 6"}
+{"id": "alpagasus-1911", "instruction": "Donnez-moi une liste de collations saines que je peux manger"}
+{"id": "alpagasus-1912", "instruction": "Trouvez les cinq étapes pour méditer"}
+{"id": "alpagasus-1913", "instruction": "Construire un argument pour convaincre un ami de voyager"}
+{"id": "alpagasus-1914", "instruction": "Créez une histoire fictive sur un vieil ermite sage qui aide les personnes dans le besoin dans une forêt."}
+{"id": "alpagasus-1915", "instruction": "Faites une liste d’aliments qui sont de bonnes sources de protéines."}
+{"id": "alpagasus-1916", "instruction": "Étant donné un ensemble de personnes et une destination, proposez-leur un moyen efficace de s'y rendre.\n7 personnes, San Francisco"}
+{"id": "alpagasus-1917", "instruction": "Générez une description de produit pour un sweat à capuche en coton pour femme."}
+{"id": "alpagasus-1918", "instruction": "À l’aide de la phrase fournie, créez un poème en le combinant avec une autre phrase.\nLe ciel était peint aux couleurs de la nuit."}
+{"id": "alpagasus-1919", "instruction": "Concevoir un formulaire de demande d'emploi"}
+{"id": "alpagasus-1920", "instruction": "Expliquez les différences entre les mots suivants : « accent » et « dialecte »."}
+{"id": "alpagasus-1921", "instruction": "Générez un haïku en utilisant des phrases naturelles."}
+{"id": "alpagasus-1922", "instruction": "Décrivez ce qui constitue un mot de passe valide."}
+{"id": "alpagasus-1923", "instruction": "Dressez une liste de 5 adjectifs qui décrivent un bouquet de fleurs"}
+{"id": "alpagasus-1924", "instruction": "Résumez les informations en 4 phrases.\nTwitter est l'une des plateformes de médias sociaux les plus populaires, avec des millions d'utilisateurs. Cela a changé la façon dont les gens communiquent et partagent des informations. C'est un excellent moyen d'entamer des conversations et c'est également un excellent moyen pour les entreprises de commercialiser leurs produits et services."}
+{"id": "alpagasus-1925", "instruction": "Générez une phrase anglaise pour les mots français donnés.\nle thé"}
+{"id": "alpagasus-1926", "instruction": "Créez une métaphore pour expliquer la signification du terme « doute de soi »."}
+{"id": "alpagasus-1927", "instruction": "Décrivez en quoi l'agriculture biologique diffère des méthodes traditionnelles."}
+{"id": "alpagasus-1928", "instruction": "Veuillez fournir une définition du mot « hétérogène »."}
+{"id": "alpagasus-1929", "instruction": "Fournissez 6 conseils pour étudier en vue d’un examen."}
+{"id": "alpagasus-1930", "instruction": "Citer deux ouvrages d'auteurs différents dans le style de MLA."}
+{"id": "alpagasus-1931", "instruction": "Décrire l'impact des nouvelles technologies sur le marché."}
+{"id": "alpagasus-1932", "instruction": "Trouver la somme de 5, 7 et 9"}
+{"id": "alpagasus-1933", "instruction": "Expliquez ce que signifie le terme « intrication quantique »"}
+{"id": "alpagasus-1934", "instruction": "Quel est l'animal terrestre le plus rapide sur Terre ?"}
+{"id": "alpagasus-1935", "instruction": "Partagez cinq faits sur le mont Everest."}
+{"id": "alpagasus-1936", "instruction": "Composez une chanson dans la tonalité de si mineur."}
+{"id": "alpagasus-1937", "instruction": "Quelle est la meilleure explication pour laquelle nous devrions économiser l’énergie ?"}
+{"id": "alpagasus-1938", "instruction": "Composez un poème sur l’hiver en utilisant les mots-clés donnés.\nneige, glacial, glace, froid"}
+{"id": "alpagasus-1939", "instruction": "Générez un jingle pour la marque suivante : Nike"}
+{"id": "alpagasus-1940", "instruction": "Générez une phrase poétique, avec une rime, décrivant la beauté d'un lever de soleil.\nPas d'entrée"}
+{"id": "alpagasus-1941", "instruction": "Générez un titre de film pour représenter un genre qui combine fantaisie et romance.\nPas d'entrée"}
+{"id": "alpagasus-1942", "instruction": "Créez une nouvelle recette comprenant au moins deux des ingrédients suivants : quinoa, crevettes, avocat et ail."}
+{"id": "alpagasus-1943", "instruction": "Faites une liste d’adjectifs pour décrire une personne honnête."}
+{"id": "alpagasus-1944", "instruction": "Nommez deux plats qui partagent un ingrédient commun."}
+{"id": "alpagasus-1945", "instruction": "Trouvez le restaurant le plus proche qui propose une cuisine italienne.\n40.752007, -73.984140"}
+{"id": "alpagasus-1946", "instruction": "Générez une liste d’épicerie détaillée.\nMénage de quatre adultes."}
+{"id": "alpagasus-1947", "instruction": "Créez une liste de courses pour quelqu'un qui planifie un pique-nique en plein air.\nLe pique-nique est pour quatre personnes."}
+{"id": "alpagasus-1948", "instruction": "Générer une liste d'animaux sauvages communs en Inde"}
+{"id": "alpagasus-1949", "instruction": "Composez un poème original sur le thème de la joie"}
+{"id": "alpagasus-1950", "instruction": "Générer une liste de livres écrits par Margaret Atwood"}
+{"id": "alpagasus-1951", "instruction": "Ajoutez une fin à cette histoire\n\nSara marchait depuis ce qui semblait être des heures. Elle a enfin trouvé ce qu'elle cherchait."}
+{"id": "alpagasus-1952", "instruction": "Décrivez le climat du désert du Sahara."}
+{"id": "alpagasus-1953", "instruction": "Donnez une définition de l’énergie solaire."}
+{"id": "alpagasus-1954", "instruction": "Convertissez l'extrait de code suivant en anglais.\npour (int i = 0; i < array.length; i++)"}
+{"id": "alpagasus-1955", "instruction": "Comment les adjectifs sont-ils utilisés dans une phrase ?"}
+{"id": "alpagasus-1956", "instruction": "Reformulez cette phrase pour la rendre moins formelle.\nJe vous serais extrêmement reconnaissant de me fournir une réponse d'ici vendredi."}
+{"id": "alpagasus-1957", "instruction": "Créez une liste de cinq adjectifs qui décrivent le goût du chocolat."}
+{"id": "alpagasus-1958", "instruction": "Construisez un code HTML valide pour ajouter un lien."}
+{"id": "alpagasus-1959", "instruction": "Résumez l’importance du mouvement des droits civiques."}
+{"id": "alpagasus-1960", "instruction": "Créez une liste de courses pour un week-end à la plage."}
+{"id": "alpagasus-1961", "instruction": "Créez un bot capable de modérer un forum de discussion."}
+{"id": "alpagasus-1962", "instruction": "Suggérez un moyen de vous tenir au courant des dernières nouvelles dans le domaine de l’IA."}
+{"id": "alpagasus-1963", "instruction": "Développer un programme pour identifier et signaler le langage offensant."}
+{"id": "alpagasus-1964", "instruction": "Compilez la liste de tous les parcs nationaux des États-Unis."}
+{"id": "alpagasus-1965", "instruction": "Générez une liste des cinq plus grands lacs des États-Unis."}
+{"id": "alpagasus-1966", "instruction": "Écrivez 5 haïkus sur la nature."}
+{"id": "alpagasus-1967", "instruction": "Expliquez pourquoi Albert Einstein est connu comme l'un des scientifiques les plus influents."}
+{"id": "alpagasus-1968", "instruction": "Notez 5 conseils pour travailler à domicile."}
+{"id": "alpagasus-1969", "instruction": "Générez une liste de 10 recettes faciles à réaliser."}
+{"id": "alpagasus-1970", "instruction": "Imaginez 5 activités pour une fête d'anniversaire pour un enfant de 5 ans."}
+{"id": "alpagasus-1971", "instruction": "Trouver une école dans la ville donnée qui se concentre sur le sujet donné\nVille : Los Angeles,\nSujet : Informatique"}
+{"id": "alpagasus-1972", "instruction": "Générer un slogan pour une plateforme en ligne visant à fournir des ressources pragmatiques aux développeurs."}
+{"id": "alpagasus-1973", "instruction": "Résumez le contenu d'un article de presse sur les effets du réchauffement climatique.\nhttps://edition.cnn.com/2020/05/19/world/global-warming-impacts-climate-change-trnd/index.html"}
+{"id": "alpagasus-1974", "instruction": "Créez un e-mail demandant une rencontre avec un professeur."}
+{"id": "alpagasus-1975", "instruction": "Trouvez une chanson qui correspond à cette ambiance : triste et douce."}
+{"id": "alpagasus-1976", "instruction": "Trouvez-moi un bon restaurant près du centre-ville."}
+{"id": "alpagasus-1977", "instruction": "Translate \"la croissance verte\" into English."}
+{"id": "alpagasus-1978", "instruction": "Trouvez un moyen de célébrer l'anniversaire de quelqu'un pendant la distanciation sociale."}
+{"id": "alpagasus-1979", "instruction": "Rédigez un tweet sur l’importance d’un mode de vie écologiquement durable."}
+{"id": "alpagasus-1980", "instruction": "Imaginez une activité pédagogique pour un enfant de 5 ans."}
+{"id": "alpagasus-1981", "instruction": "Générez une phrase pour illustrer la signification du mot « inflexible »."}
+{"id": "alpagasus-1982", "instruction": "Listez 3 sites Web pour trouver des offres d'hôtel à prix réduit"}
+{"id": "alpagasus-1983", "instruction": "Créer une citation sur la persévérance"}
+{"id": "alpagasus-1984", "instruction": "Générez une liste d’adjectifs décrivant une diseuse de bonne aventure."}
+{"id": "alpagasus-1985", "instruction": "Générez une liste de 5 dates importantes de l’histoire des États-Unis."}
+{"id": "alpagasus-1986", "instruction": "Générez une liste de 6 éléments importants pour une campagne de marketing en ligne réussie"}
+{"id": "alpagasus-1987", "instruction": "Générez une métaphore pour expliquer pourquoi il est important de se préparer pour un entretien d'embauche."}
+{"id": "alpagasus-1988", "instruction": "Créez un profil d'utilisateur pour un propriétaire d'entreprise qui a besoin d'un site Web pour sa nouvelle entreprise de services de nettoyage."}
+{"id": "alpagasus-1989", "instruction": "Décrire les avantages de l'utilisation des dossiers médicaux électroniques."}
+{"id": "alpagasus-1990", "instruction": "Créez une liste d'adjectifs pour décrire le nom donné.\nNom : Chat"}
+{"id": "alpagasus-1991", "instruction": "Écrivez deux fins alternatives pour l’histoire suivante.\nHistoire:\nMia rendait visite à ses grands-parents cet été, mais le moment était venu pour elle de rentrer chez elle."}
+{"id": "alpagasus-1992", "instruction": "Construisez un poème de cinq vers décrivant le coucher du soleil."}
+{"id": "alpagasus-1993", "instruction": "Recherchez la recette de « tarte aux pommes panée » et créez les étapes nécessaires pour réaliser le plat."}
+{"id": "alpagasus-1994", "instruction": "Générez un rap qui utilise les mots suivants\nsagesse, connaissance"}
+{"id": "alpagasus-1995", "instruction": "Écrivez une définition (10 mots ou moins) du mot « épiphanie »."}
+{"id": "alpagasus-1996", "instruction": "Générez une liste de cinq caractéristiques d’un leader idéal."}
+{"id": "alpagasus-1997", "instruction": "Générez un titre pour un article sur la façon d'économiser de l'argent"}
+{"id": "alpagasus-1998", "instruction": "Expliquer la signification du terme « biais de confirmation »"}
+{"id": "alpagasus-1999", "instruction": "Décrire le sentiment de contentement"}

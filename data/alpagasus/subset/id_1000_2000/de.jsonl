@@ -1,0 +1,1000 @@
+{"id": "alpagasus-1000", "instruction": "Finden Sie die Hauptstadt von Kanada heraus. Geben Sie den Namen der Stadt aus."}
+{"id": "alpagasus-1001", "instruction": "Schreiben Sie den folgenden Satz so um, dass seine Bedeutung erhalten bleibt.\nDie Schüler wurden angewiesen, ein Bild an die Tafel zu zeichnen."}
+{"id": "alpagasus-1002", "instruction": "Fassen Sie den folgenden Text in einem Satz zusammen.\nDieses Dokument stellt eine neuartige Technik zum Lernen aus Videodaten vor. Unsere Methode basiert auf temporalen Faltungsnetzwerken, die anhand mehrerer zeitlicher Segmente trainiert werden, die aus jeder Videoprobe extrahiert werden. Wir haben unseren Ansatz anhand mehrerer Datensätze zur Aktionserkennung validiert und im Vergleich zu den bestehenden hochmodernen Algorithmen konkurrenzfähige Ergebnisse erzielt."}
+{"id": "alpagasus-1003", "instruction": "Beschreiben Sie eine Situation, in der Sie mit jemandem zusammenarbeiten mussten, der schwierig war"}
+{"id": "alpagasus-1004", "instruction": "Geben Sie eine Liste mit effizienten Tipps für eine bessere Kommunikation."}
+{"id": "alpagasus-1005", "instruction": "Erstellen Sie ein Haiku-Gedicht mit tiefer Bedeutung."}
+{"id": "alpagasus-1006", "instruction": "Beschreibe eine fiktive Figur."}
+{"id": "alpagasus-1007", "instruction": "Beschreibe den Charakter einer Person in einem Satz."}
+{"id": "alpagasus-1008", "instruction": "Überlegen Sie sich verschiedene Möglichkeiten, ein bestimmtes Gericht zuzubereiten.\nSchweinekoteletts"}
+{"id": "alpagasus-1009", "instruction": "Ist eine ausgewogene Ernährung wichtig?"}
+{"id": "alpagasus-1010", "instruction": "Geben Sie einem Schüler, der Mandarin lernen möchte, einige Ratschläge."}
+{"id": "alpagasus-1011", "instruction": "Erstellen Sie eine poetische Ausgabe von 10 Zeilen mit dem Titel und den Themen Ihrer Wahl.\nTitel: „Die Reise ins Innere“\nThemen: Reflexion, Wiedergeburt, Zweck"}
+{"id": "alpagasus-1012", "instruction": "Verrate mir die Zutaten für ein tolles Smoothie-Rezept."}
+{"id": "alpagasus-1013", "instruction": "Erklären Sie, was die Urknalltheorie ist."}
+{"id": "alpagasus-1014", "instruction": "Erstellen Sie eine Frage, um das Gespräch fortzusetzen\nSheila: Ich versuche, neue Karrierewege zu erkunden\nLeo: Das ist großartig!"}
+{"id": "alpagasus-1015", "instruction": "Erstellen Sie einen Slogan für ein Unternehmen, das sich mit Online-Banking beschäftigt."}
+{"id": "alpagasus-1016", "instruction": "Erstellen Sie einen Brieffreundschaftsbrief an jemanden in einem anderen Land."}
+{"id": "alpagasus-1017", "instruction": "Erstellen Sie eine detaillierte Zeichnung einer Rakete."}
+{"id": "alpagasus-1018", "instruction": "Listen Sie die Farben des Regenbogens auf."}
+{"id": "alpagasus-1019", "instruction": "Schlagen Sie eine kreative Lösung für ein zunehmendes Problem in Ihrer Schule oder Gemeinde vor."}
+{"id": "alpagasus-1020", "instruction": "Stellen Sie eine Liste der notwendigen Zutaten für ein Pizza Margherita-Rezept zusammen."}
+{"id": "alpagasus-1021", "instruction": "Beschreibe die unterschiedlichen Wolkenarten jeweils in einem Satz."}
+{"id": "alpagasus-1022", "instruction": "Erstellen Sie eine Liste mit fünf Schritten zur Unternehmensgründung."}
+{"id": "alpagasus-1023", "instruction": "Beschreiben Sie die verschiedenen Mondphasen jeweils mit einem einzigen Satz."}
+{"id": "alpagasus-1024", "instruction": "Erstellen Sie eine Anleitung zum Kuchenbacken."}
+{"id": "alpagasus-1025", "instruction": "Erfinden Sie eine originelle Geschichte über einen Elefanten"}
+{"id": "alpagasus-1026", "instruction": "Beschreiben Sie eine gesunde Ernährung"}
+{"id": "alpagasus-1027", "instruction": "Verfassen Sie einen 300–400 Wörter langen Aufsatz zum folgenden Thema:\nDer Einfluss des Internets auf die Kommunikation"}
+{"id": "alpagasus-1028", "instruction": "Erstellen Sie eine Liste der zum Streichen einer Wand benötigten Materialien."}
+{"id": "alpagasus-1029", "instruction": "Erklären Sie die Unterschiede zwischen den Cloud-Computing-Modellen IaaS, PaaS und SaaS."}
+{"id": "alpagasus-1030", "instruction": "Verfassen Sie eine E-Mail an einen Kunden bezüglich einer Zahlungsaufforderung.\nSehr geehrter [Name],\n\nWir schreiben Ihnen, um Sie darüber zu informieren, dass Ihre Zahlung in Höhe von [Zahlungsbetrag] heute auf das Konto [Kontonummer] eingegangen ist."}
+{"id": "alpagasus-1031", "instruction": "Schreiben Sie eine Beschreibung der größten Galaxie im Universum."}
+{"id": "alpagasus-1032", "instruction": "Erzeugen Sie drei verschiedene Einsatzmöglichkeiten eines Magneten."}
+{"id": "alpagasus-1033", "instruction": "Beschreiben Sie fünf Schritte zum Erstellen einer Präsentation."}
+{"id": "alpagasus-1034", "instruction": "Nehmen Sie diese Gleichung und lösen Sie sie nach x auf.\n5x + 7 = 57"}
+{"id": "alpagasus-1035", "instruction": "Erstellen Sie eine SQL-Abfrage, um alle Datensätze aus der Tabelle „Inventar“ zu finden, deren Menge größer als 10 ist."}
+{"id": "alpagasus-1036", "instruction": "Übersetzen Sie den Satz „Ik vind het leuk om te leren“ ins Englische."}
+{"id": "alpagasus-1037", "instruction": "Schreiben Sie einen überzeugenden Aufsatz darüber, warum Umweltschutz Priorität haben sollte."}
+{"id": "alpagasus-1038", "instruction": "Verfassen Sie ein Gedicht über die Natur."}
+{"id": "alpagasus-1039", "instruction": "Schreiben Sie eine Abfrage, die das Durchschnittsgehalt der Mitarbeiter in jeder Abteilung zurückgibt."}
+{"id": "alpagasus-1040", "instruction": "Entwerfen Sie ein neues Kleid für die Sommersaison."}
+{"id": "alpagasus-1041", "instruction": "Erstellen Sie eine Liste mit fünf Fragen, mit denen Sie die Vertrautheit einer Person mit grundlegenden mathematischen Konzepten beurteilen können."}
+{"id": "alpagasus-1042", "instruction": "Geben Sie eine Erklärung für das laute Geräusch von außerhalb des Hauses."}
+{"id": "alpagasus-1043", "instruction": "Listen Sie 4 Vorteile auf, die es hat, jeden Tag zu frühstücken."}
+{"id": "alpagasus-1044", "instruction": "Wie kann ich für mein Unternehmen am besten ein virtuelles Meeting organisieren?"}
+{"id": "alpagasus-1045", "instruction": "Was ist bei einer Existenzgründung zu beachten?"}
+{"id": "alpagasus-1046", "instruction": "Schlagen Sie eine Antwort vor, wenn jemand sagt, er wisse nicht, was er mit seinem Leben anfangen soll."}
+{"id": "alpagasus-1047", "instruction": "Schlagen Sie einen Weg vor, um nachhaltigeren Wohnraum zu schaffen."}
+{"id": "alpagasus-1048", "instruction": "Erstelle zwei Story-Szenarien mit den angegebenen Details\nOrt: Wüste\nCharakter: Bauer"}
+{"id": "alpagasus-1049", "instruction": "Schlagen Sie einen Titel für den vorliegenden Aufsatz vor\nEine Enthüllung über die Diskriminierung behinderter Menschen"}
+{"id": "alpagasus-1050", "instruction": "Schreiben Sie eine Geschichte mit den unten aufgeführten Charakteren und dem Kontext.\nCharaktere: \n- Lewis: Ein Highschool-Schüler\n- Ms. Wilson: Lewis‘ Englischlehrerin\n- Mark: Lewis‘ älterer Bruder\n\nKontext:\nLewis ist in seiner Highschool-Englischklasse. Seine Lehrerin, Ms. Wilson, hält eine Lektion über die Macht der Worte. Die Stimmung im Klassenzimmer ist locker und alle haben Spaß an der Lektion. Nach dem Unterricht geht Lewis mit seinem älteren Bruder Mark nach Hause, als sie über einen geheimen Buchladen stolpern."}
+{"id": "alpagasus-1051", "instruction": "Schreiben Sie eine Dankeskarte im unten stehenden Kontext.\nEmpfänger: Ihre Freundin\nKontext: Sie hat Sie kürzlich zum Mittagessen eingeladen und bezahlt"}
+{"id": "alpagasus-1052", "instruction": "Bilden Sie einen Satz mit Redewendungen."}
+{"id": "alpagasus-1053", "instruction": "Vervollständigen Sie den Absatz, indem Sie die Platzhalter mit den entsprechenden Daten ausfüllen.\nHeinrich VIII. war von __DATE__ bis __DATE__ König von England und ist vor allem für seine __NUMBER__ Ehen und die Gründung der Church of England bekannt."}
+{"id": "alpagasus-1054", "instruction": "Beschreiben Sie eine Figur in einer Geschichte."}
+{"id": "alpagasus-1055", "instruction": "Was sind die Schlüsselelemente eines überzeugenden Social-Media-Posts?"}
+{"id": "alpagasus-1056", "instruction": "Erstellen Sie eine Liste mit fünf Marketingtipps für kleine Unternehmen."}
+{"id": "alpagasus-1057", "instruction": "Schreiben Sie die Anweisungen für das folgende Rezept Schritt für Schritt auf.\nRezept: Chocolate Chip Cookies\n\nZutaten:\n-1 Tasse Allzweckmehl\n-1/2 Teelöffel Backpulver\n-1/2 Teelöffel Salz\n-1/2 Tasse Butter, weich\n-1/2 Tasse weißer Zucker\n-1/2 Tasse brauner Zucker\n-1 Teelöffel Vanilleextrakt\n-1 Ei\n-1 Tasse halbsüße Schokoladenstückchen"}
+{"id": "alpagasus-1058", "instruction": "Finden Sie den höchsten Berg Europas."}
+{"id": "alpagasus-1059", "instruction": "Für welches Essen ist New York berühmt?"}
+{"id": "alpagasus-1060", "instruction": "Erstellen Sie eine Aufgabenliste, um ein bestimmtes Projekt abzuschließen.\nProjekt: Starten einer neuen Website"}
+{"id": "alpagasus-1061", "instruction": "Nennen Sie die Schauspieler in Star Wars: Die letzten Jedi."}
+{"id": "alpagasus-1062", "instruction": "Erstellen Sie eine Beschreibung einer Figur namens Mike."}
+{"id": "alpagasus-1063", "instruction": "Erstellen Sie eine Eselsbrücke, um sich die Namen der Großen Seen zu merken."}
+{"id": "alpagasus-1064", "instruction": "Beschreiben Sie den Charakter von Laura ohne Adjektive zu verwenden."}
+{"id": "alpagasus-1065", "instruction": "Erstellen Sie eine Liste mit unerwarteten Speisenkombinationen."}
+{"id": "alpagasus-1066", "instruction": "Fassen Sie die folgende Beschreibung eines Onlineshops in einem Satz zusammen.\nDieser Onlineshop ist auf den Verkauf von einzigartigem, handgefertigtem Schmuck aus aller Welt spezialisiert. Er bietet hochwertige Stücke, die nicht nur stilvoll, sondern auch erschwinglich sind."}
+{"id": "alpagasus-1067", "instruction": "Verfassen Sie den Text einer E-Mail, um Personen zu einem Webinar zum angegebenen Thema einzuladen.\nThema: So nutzen Sie Datenanalysen, um Ihr Geschäft zu verbessern."}
+{"id": "alpagasus-1068", "instruction": "Senden Sie in meinem Namen eine E-Mail, um einen Gastredner zu einer Veranstaltung einzuladen.\nBetreff: Einladung zu einem Vortrag bei einer Veranstaltung\n\nSehr geehrter [Name], \n\nWir möchten Sie einladen, bei einer bevorstehenden Veranstaltung von [Unternehmen] zu sprechen. Die Veranstaltung dreht sich um [Thema] und findet am [Datum] in [Ort] statt."}
+{"id": "alpagasus-1069", "instruction": "Erstellen Sie eine mobile App, die Nachrichten aus mehreren Quellen zusammenfasst."}
+{"id": "alpagasus-1070", "instruction": "Erstellen Sie auf Grundlage der gegebenen Eingaben ein neues Design für eine Uhr.\nGrafik: Eine Zeichentrickfigur"}
+{"id": "alpagasus-1071", "instruction": "Schreiben Sie den folgenden Ausdruck in eine andere, aber gleichwertige Form um.\n4x + 5y - 6z"}
+{"id": "alpagasus-1072", "instruction": "Erstellen Sie eine Liste mit Wörtern, die mit einer bestimmten Emotion verknüpft sind.\nFreude"}
+{"id": "alpagasus-1073", "instruction": "Erstelle eine kreative Geschichte mit einem Ende, das ein bestimmtes Schlüsselwort enthält.\nFreundschaft"}
+{"id": "alpagasus-1074", "instruction": "Formulieren Sie den Satz um und verwenden Sie stattdessen ein Adjektiv.\nDie Kleidung war extrem teuer."}
+{"id": "alpagasus-1075", "instruction": "Erstellen Sie eine Liste mit für Teenager geeigneten Jobs."}
+{"id": "alpagasus-1076", "instruction": "Erstellen Sie eine Liste der Länder, in denen Französisch gesprochen wird."}
+{"id": "alpagasus-1077", "instruction": "Erstellen Sie einen Satz von 10 Testfragen zum Thema „Amerikanische Geschichte“."}
+{"id": "alpagasus-1078", "instruction": "Schreiben Sie eine Reihe von Anweisungen, um den Benutzer durch eine Aktivität zu führen.\nAktivität: Eine Sonnenblume züchten"}
+{"id": "alpagasus-1079", "instruction": "Beschreibung einer fiktiven Figur erstellen\nKeine Eingabe"}
+{"id": "alpagasus-1080", "instruction": "Sag mir die Höhe des Mount Everest"}
+{"id": "alpagasus-1081", "instruction": "Erstellen Sie ein Rezept für Bananeneis."}
+{"id": "alpagasus-1082", "instruction": "Bearbeiten Sie den vorliegenden Aufsatz, um ihn überzeugender zu machen.\nIch glaube, dass die Schule eine sichere Umgebung sein sollte, in der Schüler lernen und wachsen können. Die Schule sollte ein Ort sein, an dem sich Schüler sicher und geborgen fühlen und sich mit minimalen Ablenkungen konzentrieren können."}
+{"id": "alpagasus-1083", "instruction": "Schlagen Sie drei Adjektive basierend auf dem angegebenen Nomen vor.\nErde"}
+{"id": "alpagasus-1084", "instruction": "Generieren Sie für die gegebene Eingabe einen Satz im Passiv.\nGus hat den ganzen Kuchen gegessen."}
+{"id": "alpagasus-1085", "instruction": "Nennen Sie fünf Früchte, die mit dem Buchstaben P beginnen."}
+{"id": "alpagasus-1086", "instruction": "Nennen Sie ein Beispiel für eine Marktchance mit der Blockchain-Technologie."}
+{"id": "alpagasus-1087", "instruction": "Geben Sie drei mögliche Lösungen für dieses Problem an.\nEin Schüler hat Schwierigkeiten, für einen Mathetest zu lernen."}
+{"id": "alpagasus-1088", "instruction": "Erklären Sie, warum es wichtig ist, Verzerrungen in Modellen des maschinellen Lernens zu verstehen."}
+{"id": "alpagasus-1089", "instruction": "Wie können wir die Wasserverschwendung reduzieren?"}
+{"id": "alpagasus-1090", "instruction": "Erstellen Sie eine Überschrift, die den folgenden Inhalt vermittelt.\nDie San Francisco Bay Area erlebt einen Immobilienboom."}
+{"id": "alpagasus-1091", "instruction": "Schlagen Sie 5 gesunde Gewohnheiten vor, die sich Teenager aneignen sollten."}
+{"id": "alpagasus-1092", "instruction": "Geben Sie im Zitat die richtige Zeichensetzung und Groß- und Kleinschreibung an.\nDer einzige Weg zum Erfolg ist Begeisterung"}
+{"id": "alpagasus-1093", "instruction": "Bilden Sie einen englischen Satz, der die Wörter „tangible“ (berührend) und „matter“ (materiell) enthält."}
+{"id": "alpagasus-1094", "instruction": "Beschreiben Sie, was es bedeutet, mutig zu sein."}
+{"id": "alpagasus-1095", "instruction": "Schreiben Sie einen Absatz mit den Wörtern „Perspektive“, „Integrität“ und „Vielfalt“."}
+{"id": "alpagasus-1096", "instruction": "Erklären Sie, was eine Primzahl ist."}
+{"id": "alpagasus-1097", "instruction": "Erstellen Sie eine Metapher zur Beschreibung einer langen und schwierigen Reise"}
+{"id": "alpagasus-1098", "instruction": "Beschreiben Sie die körperlichen Merkmale des betreffenden Lebewesens.\nEinhorn"}
+{"id": "alpagasus-1099", "instruction": "Erstellen Sie anhand der folgenden Informationen eine kommentierte Bibliographie mit 10 Kommentaren.\nDie Auswirkungen des Klimawandels auf die menschliche Gesundheit"}
+{"id": "alpagasus-1100", "instruction": "Konstruieren Sie eine Geschichte und verwenden Sie die Details als Hinweise.\nOrt: New York City\nZeit: Frühling\nTon: Nostalgie"}
+{"id": "alpagasus-1101", "instruction": "Erstellen Sie eine Liste mit Fragen basierend auf dem gegebenen Eingabetext.\nText: Hamlet ist eine der größten Tragödien, die William Shakespeare je geschrieben hat."}
+{"id": "alpagasus-1102", "instruction": "Welches war das stärkste jemals aufgezeichnete Erdbeben?"}
+{"id": "alpagasus-1103", "instruction": "Erstellen Sie einen Schutzplan zum Schutz vertraulicher Benutzerdaten"}
+{"id": "alpagasus-1104", "instruction": "Erstellen Sie eine Liste mit fünf verschiedenen Aktivitäten, die zur Reduzierung von Plastikmüll beitragen können."}
+{"id": "alpagasus-1105", "instruction": "Erstellen Sie anhand einer Liste von Schlüsselwörtern einen Titel für einen Aufsatz.\nSchlüsselwörter: Kunststoff, Recycling, Abfallwirtschaft"}
+{"id": "alpagasus-1106", "instruction": "Überlegen Sie sich eine neue Möglichkeit, ein Paar Turnschuhe zu vermarkten."}
+{"id": "alpagasus-1107", "instruction": "Beschreiben Sie das Wetter in der folgenden Stadt: Lagos, Nigeria"}
+{"id": "alpagasus-1108", "instruction": "Erstellen Sie eine Zeitleiste der Ereignisse des Zweiten Weltkriegs."}
+{"id": "alpagasus-1109", "instruction": "Erstellen Sie eine E-Mail-Vorlage, um nach einem Kauf noch einmal bei einem Kunden nachzufragen."}
+{"id": "alpagasus-1110", "instruction": "Schreiben Sie eine Nachricht, die ein Kunde an das Support-Team senden möchte.\nIch habe das falsche Produkt erhalten."}
+{"id": "alpagasus-1111", "instruction": "Schreiben Sie einen Satz, der eine Tatsache ausdrückt."}
+{"id": "alpagasus-1112", "instruction": "Listen Sie 5 Technologien zur Automatisierung des Kundendienstes auf."}
+{"id": "alpagasus-1113", "instruction": "Verfassen Sie eine motivierende Aussage darüber, wie Sie Erfolg erreichen."}
+{"id": "alpagasus-1114", "instruction": "Erstellen Sie eine Liste mit 5 Gründen, warum Menschen täglich ihre Zähne putzen sollten"}
+{"id": "alpagasus-1115", "instruction": "Schreiben Sie ein überzeugendes Argument, warum sich eine Pause positiv auf die Produktivität auswirkt."}
+{"id": "alpagasus-1116", "instruction": "Erstellen Sie einen Blogbeitrag darüber, wie Sie mit Leuten sprechen, die Sie nicht kennen."}
+{"id": "alpagasus-1117", "instruction": "Sammeln Sie 5 Fakten über das Römische Reich"}
+{"id": "alpagasus-1118", "instruction": "Bilden Sie einen Satz mit diesen Wörtern: schön, Garten, friedlich"}
+{"id": "alpagasus-1119", "instruction": "Wie trägt der öffentliche Nahverkehr zur Verringerung der Luftverschmutzung bei?"}
+{"id": "alpagasus-1120", "instruction": "Berechnen Sie den Endpreis für diesen Artikel nach Abzug eines Rabatts von 25 %.\nUrsprünglicher Preis: 100 $"}
+{"id": "alpagasus-1121", "instruction": "Sagen Sie mir, wie man einen Router zurücksetzt."}
+{"id": "alpagasus-1122", "instruction": "Erstellen Sie eine Liste aller Technologien, die zum Erstellen einer E-Commerce-Website erforderlich sind."}
+{"id": "alpagasus-1123", "instruction": "Erstellen Sie eine Liste mit Ideen, die bei einem Seminar zum Thema öffentliche Gesundheit vorgestellt werden könnten."}
+{"id": "alpagasus-1124", "instruction": "Erstellen Sie eine Liste mit Fragen, die Sie den Teilnehmern vor einem kostenlosen Webdesign-Workshop stellen möchten."}
+{"id": "alpagasus-1125", "instruction": "Zählen Sie 10 verschiedene Arten von Jobs auf, die Roboter erledigen können."}
+{"id": "alpagasus-1126", "instruction": "Nennen Sie die Hauptstädte der fünf bevölkerungsreichsten Länder Europas."}
+{"id": "alpagasus-1127", "instruction": "Stellen Sie sich ein Gerät vor, mit dem Sie schneller lesen können. Beschreiben Sie das Gerät."}
+{"id": "alpagasus-1128", "instruction": "Erstellen Sie einen Dialog zwischen zwei Personen, die sich bemühen, eine Verbindung herzustellen."}
+{"id": "alpagasus-1129", "instruction": "Wandeln Sie den vorgegebenen Text in ein Haiku-Gedicht um.\nDas helle Licht der Sonne stieg hoch in den Himmel"}
+{"id": "alpagasus-1130", "instruction": "Beschreiben Sie, welche Merkmale die Blockchain-Technologie sicher machen."}
+{"id": "alpagasus-1131", "instruction": "Wählen Sie die richtige Teilmenge der Zahlen aus, damit die Antwort richtig ist.\n4, 6, 10, 16"}
+{"id": "alpagasus-1132", "instruction": "Schlagen Sie ein Abendmenü für eine vierköpfige Familie vor."}
+{"id": "alpagasus-1133", "instruction": "Geben Sie ein Beispiel an, um die gegebene Definition zu veranschaulichen.\nMetapher: eine Redefigur, die einen Vergleich zwischen zwei Dingen anstellt, die normalerweise nicht verglichen werden."}
+{"id": "alpagasus-1134", "instruction": "Erstellen Sie eine Materialliste für ein wissenschaftliches Experiment.\nExperiment zum Pflanzenwachstum"}
+{"id": "alpagasus-1135", "instruction": "Erstellen Sie eine Liste mit Empfehlungen zur Verbesserung der angegebenen Website.\nwww.example.com"}
+{"id": "alpagasus-1136", "instruction": "Entwickeln Sie ein überzeugendes Argument, um die Bedeutung der Kunst in der Bildung zu untermauern."}
+{"id": "alpagasus-1137", "instruction": "Was sind die beiden wichtigsten Strategien zur Reduzierung der Luftverschmutzung?"}
+{"id": "alpagasus-1138", "instruction": "Entwerfen Sie eine Benutzeroberfläche für die angegebene Anwendung.\nEine Anwendung zum Verfolgen gebrauchter Bücher"}
+{"id": "alpagasus-1139", "instruction": "Überlege dir ein originelles Kostüm für die jeweilige Figur.\nFigur: Alice im Wunderland"}
+{"id": "alpagasus-1140", "instruction": "Erstellen Sie eine Liste mit Anweisungen zum Einrichten eines E-Mail-Kontos."}
+{"id": "alpagasus-1141", "instruction": "Erstelle eine fiktive Geschichte mit dem folgenden Satz.\n„Morgen wird alles anders sein“"}
+{"id": "alpagasus-1142", "instruction": "Beschreiben Sie die Vorteile der Teilnahme an einer virtuellen Konferenz."}
+{"id": "alpagasus-1143", "instruction": "Erstellen Sie eine Checkliste mit 6 Schritten, die jemand unternehmen kann, um Stress abzubauen"}
+{"id": "alpagasus-1144", "instruction": "Was ist eine E-Commerce-Website?"}
+{"id": "alpagasus-1145", "instruction": "Beschreiben Sie den Trend der Mobiltelefonnutzung in den letzten 10 Jahren"}
+{"id": "alpagasus-1146", "instruction": "Bilden Sie einen komplexen Satz mit „obwohl“ und einem Nominalsatz."}
+{"id": "alpagasus-1147", "instruction": "Erklären Sie die Begriffe Mittelwert, Median und Modus."}
+{"id": "alpagasus-1148", "instruction": "Sagen Sie mir, wie ich die folgende mathematische Gleichung lösen kann.\n2x + 3y = 15"}
+{"id": "alpagasus-1149", "instruction": "Erstellen Sie ein Rezept, das einfach zuzubereiten und gut für die Gesundheit ist."}
+{"id": "alpagasus-1150", "instruction": "Schreiben Sie ein Drehbuch für ein Theaterstück über zwei Freundinnen.\nFreundinnen: Kate & Mia\nOrt: Mias Wohnung"}
+{"id": "alpagasus-1151", "instruction": "Verfassen Sie einen Limerick über einen Familienhund."}
+{"id": "alpagasus-1152", "instruction": "Beschreiben Sie die Argumente für und gegen die Wehrpflicht."}
+{"id": "alpagasus-1153", "instruction": "Verfassen Sie ein Haiku über den Sommer"}
+{"id": "alpagasus-1154", "instruction": "Beschreiben Sie Möglichkeiten, wie Menschen die Umwelt schonen können."}
+{"id": "alpagasus-1155", "instruction": "Entwickeln Sie ein Spiel, um Kindern den Klimawandel näherzubringen."}
+{"id": "alpagasus-1156", "instruction": "Beschreiben Sie das Geschmacksprofil des jeweiligen Lebensmittels.\nErdbeereis"}
+{"id": "alpagasus-1157", "instruction": "Formulieren Sie ein Argument zur Unterstützung eines bedingungslosen Grundeinkommens."}
+{"id": "alpagasus-1158", "instruction": "Erstellen Sie eine Liste mit 10 Verben zum Thema Kochen"}
+{"id": "alpagasus-1159", "instruction": "Erstellen Sie einen Datensatz von 5-6 Städten mit ihren Bundesstaats- und Bezirksinformationen"}
+{"id": "alpagasus-1160", "instruction": "Generieren Sie vor dem folgenden Hintergrund eine Schlagzeile für einen Nachrichtenbeitrag.\nDem gewählten Bürgermeister der Stadt wird Unterschlagung vorgeworfen."}
+{"id": "alpagasus-1161", "instruction": "Entwickeln Sie vor dem Hintergrund des folgenden Kontexts einen passenden Titel für ein Buch.\nDie Geschichte handelt von einer Gruppe Teenager, die gegen das Unterdrückungsregime rebellieren, das in ihrem Zuhause die Macht übernommen hat."}
+{"id": "alpagasus-1162", "instruction": "Erstellen Sie anhand der folgenden Zeichnung eine passende Bildunterschrift.\n![alt text](https://image.shutterstock.com/image-vector/colored-sign-nature-protect-people-260nw-746876663.jpg)"}
+{"id": "alpagasus-1163", "instruction": "Erstellen Sie eine Kurzgeschichte über ein Abenteuer in einem Zauberwald."}
+{"id": "alpagasus-1164", "instruction": "Erstellen Sie eine Liste mit den Punkten, die Sie bei der Inspektion eines Gebrauchtwagens überprüfen möchten."}
+{"id": "alpagasus-1165", "instruction": "Ersetzen Sie den Platzhalter durch die erwartete Nominalphrase.\nIch muss einen [Platzhalter] finden."}
+{"id": "alpagasus-1166", "instruction": "Erstellen Sie ein Beispiel für ein Menüelement, bei dem Olivenöl verwendet wird."}
+{"id": "alpagasus-1167", "instruction": "Erklären Sie die Beziehung zwischen Big Data und maschinellem Lernen."}
+{"id": "alpagasus-1168", "instruction": "Beschreiben Sie, was eine API ist und welchen Zweck sie hat."}
+{"id": "alpagasus-1169", "instruction": "Verwandeln Sie die gegebene Story-Aufforderung in eine einzeilige Zusammenfassung.\nIn dem kleinen Dorf Blaise gibt es eine alte Legende, die besagt, dass jeder, der drei Nächte im verfluchten Wald überlebt, unglaubliche Kräfte erlangt."}
+{"id": "alpagasus-1170", "instruction": "Beschreiben Sie das gegebene Geschäftsmodell in einem Satz.\nFreemium"}
+{"id": "alpagasus-1171", "instruction": "Sagen Sie mir die Synonyme von „verblüfft“."}
+{"id": "alpagasus-1172", "instruction": "Erstellen Sie eine Liste mit Gegenständen, die Sie im Sommer an den Strand mitnehmen möchten."}
+{"id": "alpagasus-1173", "instruction": "Erarbeiten Sie fünf wissenschaftliche Fakten über Säugetiere."}
+{"id": "alpagasus-1174", "instruction": "Wählen Sie passende Adjektive aus, um das angegebene Nomen zu beschreiben.\nUrlaub"}
+{"id": "alpagasus-1175", "instruction": "Verfassen Sie eine entsprechende Antwort auf die folgende Kundendienst-E-Mail.\nSehr geehrter [Name],\n\nIch habe ein Produkt von Ihrer Website gekauft und der Artikel kam kaputt an. Ich möchte es zurückgeben und eine volle Rückerstattung erhalten.\n\nVielen Dank,\n[Name]"}
+{"id": "alpagasus-1176", "instruction": "Welche Alternativen gibt es für Entwicklungsteams, die mit dem Mangel an persönlicher Zusammenarbeit zu kämpfen haben?"}
+{"id": "alpagasus-1177", "instruction": "Wer hat den Dosenöffner erfunden?"}
+{"id": "alpagasus-1178", "instruction": "Erstellen Sie mithilfe der gegebenen Eingaben einen Blogbeitrag mit dem Titel „Die Vorteile der Technologie“.\nWir leben in einer Welt, in der sich die Technologie ständig weiterentwickelt."}
+{"id": "alpagasus-1179", "instruction": "Schreiben Sie eine witzige Metapher für das folgende Objekt.\nEin Buch"}
+{"id": "alpagasus-1180", "instruction": "Überlegen Sie sich eine Geschichte mit den folgenden Figuren und Gegenständen.\nFiguren: Maus, Tiger, Fisch; Gegenstände: Ball, Teekanne"}
+{"id": "alpagasus-1181", "instruction": "Erstellen Sie eine Zeile für ein Gedicht über einen Apfel."}
+{"id": "alpagasus-1182", "instruction": "Generieren Sie einen Satz zur Begrüßung eines Kunden"}
+{"id": "alpagasus-1183", "instruction": "Geben Sie mir eine Liste mit fünf Gewürzen und ihrer Verwendung."}
+{"id": "alpagasus-1184", "instruction": "Erstellen Sie eine Liste der Reiseziele, die Sie besuchen möchten."}
+{"id": "alpagasus-1185", "instruction": "Geben Sie mir einige Möglichkeiten zur Lösung des Verkehrsstaus."}
+{"id": "alpagasus-1186", "instruction": "In den Nachrichten und anderen Quellen wird behauptet, dass die Demokratie weltweit an Boden verliert. Geben Sie ein aktuelles Beispiel, um diese Behauptung zu untermauern."}
+{"id": "alpagasus-1187", "instruction": "Erklären Sie die Bedeutung von Vielfalt und Inklusion in der Technologiebranche."}
+{"id": "alpagasus-1188", "instruction": "Schreiben Sie einen Artikel über die Bedeutung von Vielfalt."}
+{"id": "alpagasus-1189", "instruction": "Nennen Sie mir einen Grund, warum jemand ein VPN einer Standard-Internetverbindung vorziehen sollte."}
+{"id": "alpagasus-1190", "instruction": "Verwandle den gegebenen Satz in einen Aussagesatz.\nSollen wir jetzt gehen?"}
+{"id": "alpagasus-1191", "instruction": "Bitten Sie in einer E-Mail an einen Arbeitskollegen um ein Treffen, um ein bestimmtes Projekt zu besprechen.\nProjekt: KI-Assistenten"}
+{"id": "alpagasus-1192", "instruction": "Klassifizieren Sie die folgenden drei Elemente als Werkzeuge, Materialien oder Methoden.\n1. Hebel\n2. Schlüssel\n3. Algorithmus"}
+{"id": "alpagasus-1193", "instruction": "Erzähl mir eine Geschichte über ein Lebewesen und seine Eigenschaften."}
+{"id": "alpagasus-1194", "instruction": "Erzeugen Sie einen Dialog zwischen zwei Personen, die Zeugen eines Autounfalls sind."}
+{"id": "alpagasus-1195", "instruction": "Generieren Sie anhand eines vorgegebenen Textes eine Reihe von Fakten, die mit dem Text in Zusammenhang stehen.\nAbraham Lincoln war der 16. Präsident der Vereinigten Staaten."}
+{"id": "alpagasus-1196", "instruction": "Entwickeln Sie eine Geschichte, in der die Hauptfigur lernt, Verantwortung zu übernehmen."}
+{"id": "alpagasus-1197", "instruction": "Erklären Sie anhand des Satzes in einem Satz, warum die zugrunde liegende Stimmung des Satzes negativ ist.\nIch habe meinen Job satt."}
+{"id": "alpagasus-1198", "instruction": "Analysieren Sie die Auswirkungen der gegebenen Aussage auf die Umwelt.\nEin Großteil des Transportwesens ist von Benzin oder Diesel auf Strom umgestiegen."}
+{"id": "alpagasus-1199", "instruction": "Listen Sie alle Länder Afrikas auf."}
+{"id": "alpagasus-1200", "instruction": "Ich muss nächste Woche eine Überraschungsparty für meinen Freund veranstalten. Gebt mir ein paar Ideen für die Dekoration."}
+{"id": "alpagasus-1201", "instruction": "Verfassen Sie einen Rap-Vers über die Macht der Freundschaft."}
+{"id": "alpagasus-1202", "instruction": "Listen Sie drei Online-Marketing-Tipps auf, um den Website-Verkehr zu steigern."}
+{"id": "alpagasus-1203", "instruction": "Schreiben Sie eine kreative Geschichte, wenn Sie eine Schreibaufgabe erhalten.\nEin verfluchtes Ei, das nachts zum Leben erwacht"}
+{"id": "alpagasus-1204", "instruction": "Beschreiben Sie, warum eine vielfältige Belegschaft notwendig ist."}
+{"id": "alpagasus-1205", "instruction": "Suchen Sie anhand einer Themenliste zu jedem Thema eine Quelle oder ein Zitat.\nThemen: Klimawandel, US-Präsidentschaftswahlen"}
+{"id": "alpagasus-1206", "instruction": "Erzeugen Sie ein Gespräch zwischen zwei Freunden, die sich nach langer Zeit wieder getroffen haben."}
+{"id": "alpagasus-1207", "instruction": "Erklären Sie, was „Garbage in, garbage out“ bedeutet"}
+{"id": "alpagasus-1208", "instruction": "Geben Sie eine 2-Satz-Rezension der folgenden Arbeit ab\nEin Podcast, der die Schnittstelle zwischen Technologie und psychischem Wohlbefinden untersucht"}
+{"id": "alpagasus-1209", "instruction": "Beschreiben Sie den Prozess der natürlichen Selektion in 1–2 Sätzen."}
+{"id": "alpagasus-1210", "instruction": "Erstellen Sie eine Liste mit Gegenständen für den perfekten Campingausflug im Sommer."}
+{"id": "alpagasus-1211", "instruction": "Fassen Sie den Artikel über das neue Computersystem im Unternehmen zusammen.\nDas Unternehmen hat kürzlich in ein neues Computersystem investiert, das zur Automatisierung manueller Prozesse und zur Steigerung der Effizienz entwickelt wurde. Dieses System nutzt künstliche Intelligenz, um Kundendaten zu interpretieren, automatisch Berichte zu erstellen und Kundenabrechnungsprozesse zu automatisieren."}
+{"id": "alpagasus-1212", "instruction": "Entwerfen Sie eine Handelsstrategie für die Aktie XYZ mit mindestens 5 Regeln."}
+{"id": "alpagasus-1213", "instruction": "Fassen Sie das Hauptthema und den Zweck dieses Artikels zusammen.\nhttps://www.kcl.ac.uk/news/artificial-intelligence-clinical-trials"}
+{"id": "alpagasus-1214", "instruction": "Bilden Sie aus einem gegebenen Satz einen ähnlichen Satz mit einer anderen Perspektive.\nEr hatte zu viel Angst, den Fluss zu überqueren."}
+{"id": "alpagasus-1215", "instruction": "Schreiben Sie eine Beschreibung, die die gegebenen Informationen über eine Kreatur vermittelt.\nName: Basilisk\nGröße: 1,80 m hoch\nLebensdauer: 200 Jahre"}
+{"id": "alpagasus-1216", "instruction": "Fügen Sie den folgenden Übergang in den Satz ein.\nEr war ein großartiger Schüler, bekam aber selten Lob.\nÜbergang: Trotz"}
+{"id": "alpagasus-1217", "instruction": "Erstellen Sie eine Liste mit 5 Satzanfängen, die die angegebene Konjunktion verwenden.\nKonjunktion: Obwohl"}
+{"id": "alpagasus-1218", "instruction": "Bilden Sie mit den angegebenen Wörtern einen neuen Satz.\nRose, Geheimnis"}
+{"id": "alpagasus-1219", "instruction": "Erklären Sie, was die Zentripetalkraft ist."}
+{"id": "alpagasus-1220", "instruction": "Kreieren Sie eine neue Maisbrotsorte."}
+{"id": "alpagasus-1221", "instruction": "Beantworten Sie die Frage: Was ist ein Ökosystem?"}
+{"id": "alpagasus-1222", "instruction": "Lösen Sie ein vorgegebenes Matheproblem.\nWenn 4x - 6 = 30, was ist dann der Wert von x?"}
+{"id": "alpagasus-1223", "instruction": "Erstellen Sie eine Definition für die Redewendung „nur einen Steinwurf entfernt“."}
+{"id": "alpagasus-1224", "instruction": "Nennen Sie den Film, der mit der folgenden Zeile beginnt:\n„Das Leben ist wie eine Schachtel Pralinen, man weiß nie, was man bekommt.“"}
+{"id": "alpagasus-1225", "instruction": "Erstellen Sie eine Liste mit zehn Zahlen, die durch 3 teilbar sind"}
+{"id": "alpagasus-1226", "instruction": "Erstellen Sie eine Liste aller Haustiere, die in einer Wohnung gehalten werden können."}
+{"id": "alpagasus-1227", "instruction": "Vergleichen und kontrastieren Sie zwei beliebte Bücher desselben Genres.\nDie Tribute von Panem und Maze Runner"}
+{"id": "alpagasus-1228", "instruction": "Schlagen Sie zwei gute Gerichte für eine vegetarische Party vor."}
+{"id": "alpagasus-1229", "instruction": "Entwerfen Sie ein Gespräch zwischen einem Kunden und einem Kundendienstmitarbeiter."}
+{"id": "alpagasus-1230", "instruction": "Lösen Sie die folgende algebraische Gleichung: 12x + 6 = 66"}
+{"id": "alpagasus-1231", "instruction": "Erstellen Sie einen Slogan für einen Online-Einzelhandelsshop."}
+{"id": "alpagasus-1232", "instruction": "Geben Sie fünf Ratschläge zum Freundefinden."}
+{"id": "alpagasus-1233", "instruction": "Entwickeln Sie eine Metapher, um das Gefühl der Angst zu beschreiben."}
+{"id": "alpagasus-1234", "instruction": "Nennen Sie drei Adverbien, die eine Person beschreiben, die regelmäßig zu spät kommt."}
+{"id": "alpagasus-1235", "instruction": "Schreiben Sie einen Nachrichtenartikel über die Veranstaltung.\nDie Eröffnungszeremonie der Olympischen Spiele 2020 in Tokio fand im Nationalstadion statt."}
+{"id": "alpagasus-1236", "instruction": "Kombinieren Sie die folgenden beiden Sätze und bilden Sie einen Satz.\nDie Katze sprang aufs Bett. Dann legte sie sich hin, um ein Nickerchen zu machen."}
+{"id": "alpagasus-1237", "instruction": "Sagen Sie mir Ihre Meinung zu folgendem Thema:\nDer Einsatz künstlicher Intelligenz im Gesundheitswesen."}
+{"id": "alpagasus-1238", "instruction": "Schlagen Sie Kindern einen nahrhaften Snack vor."}
+{"id": "alpagasus-1239", "instruction": "Erstellen Sie eine Liste mit Dingen, die Menschen helfen, gesund zu bleiben."}
+{"id": "alpagasus-1240", "instruction": "Machen Sie einen Plan zum Lernen für eine Prüfung."}
+{"id": "alpagasus-1241", "instruction": "Schlagen Sie verschiedene Methoden für grüne Energie vor."}
+{"id": "alpagasus-1242", "instruction": "Erstellen Sie eine Analogie für einen Algorithmus"}
+{"id": "alpagasus-1243", "instruction": "Schreiben Sie eine interessante Tatsache über Japan."}
+{"id": "alpagasus-1244", "instruction": "Erstellen Sie eine Liste mit fünf häufigen Missverständnissen über die gesundheitlichen Auswirkungen des Rauchens."}
+{"id": "alpagasus-1245", "instruction": "Verfassen Sie einen Aufsatz über die Bedeutung des Sportunterrichts an Schulen."}
+{"id": "alpagasus-1246", "instruction": "Beschreiben Sie, wie das Internet zum Leben der Menschen beigetragen hat."}
+{"id": "alpagasus-1247", "instruction": "Beantworten Sie die Frage: Was ist der Unterschied zwischen einem privaten und einem öffentlichen Schlüssel?"}
+{"id": "alpagasus-1248", "instruction": "Schreiben Sie eine Abfrage in PostgreSQL, um Kunden mit Bestellungen in einem bestimmten Monat aufzulisten.\nMonat: April 2021"}
+{"id": "alpagasus-1249", "instruction": "Begrüßen Sie den Kunden im gegebenen Kontext\nKontext: Der Kunde bittet um Hilfe bei einer Bestellung."}
+{"id": "alpagasus-1250", "instruction": "Erzeugen Sie einen realistischen Dialog zwischen zwei Personen."}
+{"id": "alpagasus-1251", "instruction": "Gestalten Sie einen Raum, der dem vorgegebenen Stil entspricht.\nVintage-Stil."}
+{"id": "alpagasus-1252", "instruction": "Erstellen Sie eine einzigartige Metapher für eine schwere Person."}
+{"id": "alpagasus-1253", "instruction": "Erstellen Sie einen Titel für eine Geschichte über einen verlorenen Hund."}
+{"id": "alpagasus-1254", "instruction": "Benutzen Sie verschiedene Ausdrücke und Wörter, um den gegebenen Satz umzuschreiben.\nEr war sehr müde und konnte nicht weiter."}
+{"id": "alpagasus-1255", "instruction": "Beschreiben Sie die Atmosphäre der fiktiven Umgebung."}
+{"id": "alpagasus-1256", "instruction": "Stellen Sie ein Abendessen mit ausgewogenen Nährstoffen für zwei Personen zusammen."}
+{"id": "alpagasus-1257", "instruction": "Überprüfen Sie das Layout der Homepage einer Website und kommentieren Sie die Benutzererfahrung der Website.\nhttps://www.apple.com/"}
+{"id": "alpagasus-1258", "instruction": "Entwerfen Sie einen Speiseplan für jemanden, der sich vegan ernährt."}
+{"id": "alpagasus-1259", "instruction": "Erstellen Sie eine Online-Werbung für ein Produkt.\nProdukt: Feuchtigkeitsseife"}
+{"id": "alpagasus-1260", "instruction": "Schreiben Sie ein Haiku-Gedicht zum vorgegebenen Thema.\nändern"}
+{"id": "alpagasus-1261", "instruction": "Machen Sie einen Vorschlag für eine unterhaltsame Aktivität, die man mit Freunden unternehmen kann."}
+{"id": "alpagasus-1262", "instruction": "Schlagen Sie einen neuen Namen für ein auf Tiernahrung spezialisiertes Startup-Unternehmen vor."}
+{"id": "alpagasus-1263", "instruction": "Stellen Sie eine Liste mit Naturschönheiten in den Vereinigten Staaten zusammen."}
+{"id": "alpagasus-1264", "instruction": "Stellen Sie ein Outfit für ein Abendessen zusammen."}
+{"id": "alpagasus-1265", "instruction": "Bieten Sie drei Möglichkeiten, den Wasserverbrauch zu Hause zu reduzieren."}
+{"id": "alpagasus-1266", "instruction": "Erstellen Sie eine Liste mit möglichen Themen für einen Podcast zum Thema Fotografie"}
+{"id": "alpagasus-1267", "instruction": "Machen Sie Vorschläge, wie eine Website barrierefreier gestaltet werden kann."}
+{"id": "alpagasus-1268", "instruction": "Erstellen Sie eine Liste mit 10 Ideen für Aktivitäten bei einer Outreach-Veranstaltung, um das Interesse an der Psychologie zu fördern."}
+{"id": "alpagasus-1269", "instruction": "Stellen Sie sich vor, Sie sprechen mit einem Kind und erklären Sie ihm das Konzept der DNA."}
+{"id": "alpagasus-1270", "instruction": "Warum ist es wichtig, geistiges Eigentum zu schützen?"}
+{"id": "alpagasus-1271", "instruction": "Erstellen Sie eine Liste mit fünf interessanten Technologiethemen."}
+{"id": "alpagasus-1272", "instruction": "Erfinde eine Geschichte mit einer fiktiven Protagonistin namens Lydia"}
+{"id": "alpagasus-1273", "instruction": "Vervollständige den unvollständigen Satz.\nIch weiß, es klingt verrückt, aber"}
+{"id": "alpagasus-1274", "instruction": "Schreiben Sie einen beschreibenden Satz mit dem angegebenen Nomen.\nRegenbogen"}
+{"id": "alpagasus-1275", "instruction": "Berechnen Sie den Rest, wenn 12345 durch 11 geteilt wird."}
+{"id": "alpagasus-1276", "instruction": "Berechnen Sie die 5. Potenz von 3."}
+{"id": "alpagasus-1277", "instruction": "Teilen Sie Ihre Meinung auf Grundlage der gegebenen Informationen.\nNeuere Studien haben ergeben, dass Technologie ein wirksames Instrument ist, um Schüler im Klassenzimmer zu motivieren und zu unterrichten."}
+{"id": "alpagasus-1278", "instruction": "Beschreiben Sie, warum die jeweilige Figur ein Held ist.\nWonder Woman"}
+{"id": "alpagasus-1279", "instruction": "Bewerten Sie die Bücher auf einer Fünf-Sterne-Skala.\nDracula, Dune, Jane Eyre"}
+{"id": "alpagasus-1280", "instruction": "Erklären Sie, warum es wichtig ist, sinnvolle Gespräche mit Ihren Kollegen zu führen."}
+{"id": "alpagasus-1281", "instruction": "Beschreiben Sie anhand des Namens einer Pflanze die Pflegehinweise.\nGeldbaum"}
+{"id": "alpagasus-1282", "instruction": "Beschreiben Sie ein konkretes Sicherheitsrisiko, das in einem Online-System auftreten könnte."}
+{"id": "alpagasus-1283", "instruction": "Erstellen Sie eine dynamische Abfrage, um eine große Tabelle mit Benutzerdaten zu filtern\nTabelle: user_data in MongoDB\nSpalten: _id, Benutzername, Geschlecht\nFilter: Männlich"}
+{"id": "alpagasus-1284", "instruction": "Konvertieren Sie den folgenden in JavaScript geschriebenen Code in Python.\nvar sum = 0;\nfor (var i = 1; i < 10; i++) {\nif ( i % 2 === 0 ) {\nsum += i;\n}\n}"}
+{"id": "alpagasus-1285", "instruction": "Entwerfen Sie eine Umfrage, um die Kundenzufriedenheit mit einem neuen Online-Shop zu messen."}
+{"id": "alpagasus-1286", "instruction": "Erstellen Sie ein dreizeiliges Gedicht zum Thema Liebe."}
+{"id": "alpagasus-1287", "instruction": "Erstellen Sie ein neues Rezept basierend auf einer vorgegebenen Zutatenliste.\nZutaten: \n- Weißer Reis\n- Eier\n- Milch\n- Salz"}
+{"id": "alpagasus-1288", "instruction": "Bewerten Sie dieses Programm hinsichtlich seiner Stärken und Schwächen.\nProgramm: Dieses 12-wöchige Programm bietet kognitive Verhaltenstherapie, um Menschen mit Depressionen zu helfen."}
+{"id": "alpagasus-1289", "instruction": "Erstellen Sie eine Geschichte anhand der Liste der Charaktere und des Schauplatzes.\nCharaktere:\n- Alex, ein Teenager\n- Ryan, ein Klassenkamerad von Alex\n- Jane, eine ältere Schwester von Alex\n\nSchauplatz:\nKleinstadt im ländlichen North Carolina"}
+{"id": "alpagasus-1290", "instruction": "Erstellen Sie ein Flussdiagramm, um die verschiedenen Schritte zur Einrichtung eines Heimnetzwerks zu erklären."}
+{"id": "alpagasus-1291", "instruction": "Bearbeiten Sie den Absatz, indem Sie ihm eine bessere Struktur geben.\nViele Menschen nehmen sich ein Jahr Auszeit, um die Welt zu erkunden. Eine Auszeit vom akademischen Alltag kann dabei helfen, einzigartige Lebenserfahrungen zu sammeln. Das Sammeln neuer Erfahrungen kann auch lehrreich sein. Studenten sollten sich diese Erfahrung nicht entgehen lassen."}
+{"id": "alpagasus-1292", "instruction": "Wie würden Sie einen Kollegen motivieren, seine Deadline einzuhalten?"}
+{"id": "alpagasus-1293", "instruction": "Entwerfe ein Kostüm für einen Superheldencharakter, der der folgenden Beschreibung entspricht.\nSuperkraft des Helden: Kann Magnetismus kontrollieren und manipulieren"}
+{"id": "alpagasus-1294", "instruction": "Vergleichen Sie die Vorteile und Grenzen des Hostens einer Website auf einem öffentlichen Server mit denen auf einem privaten Server."}
+{"id": "alpagasus-1295", "instruction": "Nennen Sie Gegenstände im Haus, die Strom verbrauchen."}
+{"id": "alpagasus-1296", "instruction": "Können Sie eine Empfehlung für den Einstieg in den IT-Bereich geben?"}
+{"id": "alpagasus-1297", "instruction": "Fügen Sie dem Dialog einen dritten Sprecher hinzu.\nSprecher A: Ich hatte gestern Abend viel Spaß auf der Party.\nSprecher B: Ja, ich auch."}
+{"id": "alpagasus-1298", "instruction": "Vervollständige die Geschichte mit einem passenden Ende.\nEs war einmal ein tapferer Ritter, der sich auf den Weg machte, um einen Drachen zu töten. Nach vielen Reisetagen erreichte er die Höhle des Drachens...."}
+{"id": "alpagasus-1299", "instruction": "Erstellen Sie einen Lebenslauf für einen Softwareentwickler.\nName: Joe Smith\nAusbildung: Bachelor in Informatik\nErfahrung: 2 Jahre Erfahrung in der Softwareentwicklung"}
+{"id": "alpagasus-1300", "instruction": "Fassen Sie den Artikel zusammen und denken Sie sich einen Titel aus.\nArtikel: Die NASA hat kürzlich neue Beweise für urzeitliche Ozeane auf dem Mars vorgelegt. Diese neuen Beweise befeuern die Debatte darüber, ob es auf dem Planeten jemals Leben gab. Zu den Funden gehören neue Mineralvorkommen und geologische Merkmale, die auf die Existenz von flüssigem Wasser in ferner Vergangenheit schließen lassen."}
+{"id": "alpagasus-1301", "instruction": "Transkribieren Sie die Sprachnotiz, die in einen Text umgewandelt wurde.\nSprachnotiz: „Hey, du musst mir etwas zu essen mitbringen. Kannst du mir eine kleine Pizza und ein paar Chicken Wings besorgen?“"}
+{"id": "alpagasus-1302", "instruction": "Schreiben Sie die Aussage aus der Perspektive der zweiten Person neu.\nDer Mieter ist dafür verantwortlich, sich beim Vermieter zu melden, wenn eine Reparatur notwendig ist."}
+{"id": "alpagasus-1303", "instruction": "Wie kann man motiviert bleiben, um seine Ziele zu erreichen?"}
+{"id": "alpagasus-1304", "instruction": "Wann sollte man mit dem Investieren beginnen?"}
+{"id": "alpagasus-1305", "instruction": "Schlagen Sie Möglichkeiten vor, um den Abfall zu Hause zu reduzieren."}
+{"id": "alpagasus-1306", "instruction": "Vergleichen Sie die Bedeutungen von „lay“ und „lie“"}
+{"id": "alpagasus-1307", "instruction": "Schreiben Sie ein JQuery-Skript, um alle HTML-Elemente mit der Klasse „hide-this“ auszublenden."}
+{"id": "alpagasus-1308", "instruction": "Beschreiben Sie die Große Pyramide von Gizeh in einem Satz."}
+{"id": "alpagasus-1309", "instruction": "Schlagen Sie einige natürliche Methoden zum Aufhellen der Zähne vor."}
+{"id": "alpagasus-1310", "instruction": "Erstellen Sie für jedes der 5 vorgegebenen Themen eine Liste mit 5 Wörtern.\nTiere, Länder, Sport, Musik, Filme"}
+{"id": "alpagasus-1311", "instruction": "Schlagen Sie einige Gewohnheiten vor, die zur Erhaltung der geistigen Gesundheit beitragen."}
+{"id": "alpagasus-1312", "instruction": "Erstellen Sie eine Liste mit Schlagwörtern aus der Datenwissenschaft"}
+{"id": "alpagasus-1313", "instruction": "Füge dem folgenden Gedicht eine Zeile hinzu, um es zu vervollständigen.\nRosen sind rot\nVeilchen sind blau\nDer Winter ist da"}
+{"id": "alpagasus-1314", "instruction": "Stellen Sie sich eine Situation vor, in der Sie online mit einem Fremden sprechen. Geben Sie mir Ratschläge, wie ich böswillige Absichten erkennen und vermeiden kann."}
+{"id": "alpagasus-1315", "instruction": "Bilden Sie einen Satz mit mindestens drei Teilsätzen."}
+{"id": "alpagasus-1316", "instruction": "Schreiben Sie eine To-Do-Liste für ein Vorstellungsgespräch."}
+{"id": "alpagasus-1317", "instruction": "Wie kann die Welt ihre Kohlendioxid-Emissionen reduzieren?"}
+{"id": "alpagasus-1318", "instruction": "Sag mir, wie man ein kleines Feuer macht."}
+{"id": "alpagasus-1319", "instruction": "Sagen Sie mir, wie man die Farbe Blau beschreibt."}
+{"id": "alpagasus-1320", "instruction": "Erstellen Sie einen 5-Wörter-Slogan für ein Reisebüro."}
+{"id": "alpagasus-1321", "instruction": "Generieren Sie einen einzigartigen Benutzernamen unter Berücksichtigung der folgenden Kriterien.\nName: Sarah\nEigenschaften: sarkastisch"}
+{"id": "alpagasus-1322", "instruction": "Denken Sie an eine Liste von 5 Tieren, die mit dem Buchstaben „K“ beginnen."}
+{"id": "alpagasus-1323", "instruction": "Erstellen Sie eine Liste mit 10 lustigen Aktivitäten für ein Familientreffen."}
+{"id": "alpagasus-1324", "instruction": "Erstellen Sie eine Bildunterschrift für dieses Foto\nhttps://images.unsplash.com/photo-1574643147860-3bb18d6fe2f0\n?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"}
+{"id": "alpagasus-1325", "instruction": "Bearbeiten Sie den folgenden Satz, um eine lebendigere Szene zu schaffen.\nDer Wind wehte im Park"}
+{"id": "alpagasus-1326", "instruction": "Geben Sie 5 Adjektive an, die die folgende Figur beschreiben.\nJess ist eine aufstrebende Schauspielerin."}
+{"id": "alpagasus-1327", "instruction": "Schreiben Sie ein Haiku, das Regen beschreibt."}
+{"id": "alpagasus-1328", "instruction": "Vervollständigen Sie die folgende Analogie.\nSchlafen : Wachen ::"}
+{"id": "alpagasus-1329", "instruction": "Bearbeiten Sie diesen Text, um ihn prägnant zu gestalten.\nIn den Vereinigten Staaten hat sich eine massenmediengesteuerte Kultur entwickelt, in der Marken verwendet werden, um Identitätsbilder darzustellen und die Konsumkultur zu prägen."}
+{"id": "alpagasus-1330", "instruction": "Schreiben Sie einen Satz, der die folgenden Ausdrücke enthält.\n„kristallklarer See“"}
+{"id": "alpagasus-1331", "instruction": "Erstellen Sie eine entsprechende Aufgabenliste für ein Kundenprojekt.\nKundenprojekt: Organisation einer Firmenveranstaltung"}
+{"id": "alpagasus-1332", "instruction": "Erstellen Sie eine magnetische Überschrift, um für das folgende Produkt zu werben.\nInstantkaffee"}
+{"id": "alpagasus-1333", "instruction": "Erstellen Sie ein Blatt Papier mit einer Liste von Obst und Gemüse."}
+{"id": "alpagasus-1334", "instruction": "Erzeugen Sie zwei alternative Möglichkeiten, um dasselbe auszudrücken.\nIch habe letzte Nacht 10 Stunden geschlafen."}
+{"id": "alpagasus-1335", "instruction": "Vergleichen und kontrastieren Sie Mitose und Meiose."}
+{"id": "alpagasus-1336", "instruction": "Schreiben Sie ein kurzes Gedicht über den Herbst."}
+{"id": "alpagasus-1337", "instruction": "Charakterisieren Sie den Protagonisten im Buch.\nBuch: Jane Eyre"}
+{"id": "alpagasus-1338", "instruction": "Erstellen Sie einen Reinigungsplan für ein Büro."}
+{"id": "alpagasus-1339", "instruction": "Wie würden Sie eine Entschuldigung gegenüber einem Freund formulieren?"}
+{"id": "alpagasus-1340", "instruction": "Erstellen Sie eine Liste mit 10 Buchempfehlungen zum angegebenen Thema.\nHistorische Fiktion"}
+{"id": "alpagasus-1341", "instruction": "Generieren Sie eine Schlagzeile."}
+{"id": "alpagasus-1342", "instruction": "Konstruieren Sie eine Analogie zur Ethik."}
+{"id": "alpagasus-1343", "instruction": "Erklären Sie die Bedeutung und Verwendung der folgenden unregelmäßigen Verben.\n- Laufen\n- Zeichnen\n- Denken"}
+{"id": "alpagasus-1344", "instruction": "Fügen Sie die fehlenden Wörter hinzu, um die Metapher zu vervollständigen.\nDas Leben ist ein _______, voller ________."}
+{"id": "alpagasus-1345", "instruction": "Übersetzen Sie diesen Satz ins Spanische.\nDas macht Spaß."}
+{"id": "alpagasus-1346", "instruction": "Sie werden gebeten, eine Geschichte zu einem ausgewählten Thema zu erzählen.\nThema: In den Park gehen"}
+{"id": "alpagasus-1347", "instruction": "Beschreibe den angegebenen Gegenstand in 3 Sätzen.\nGegenstand: Bücherregal"}
+{"id": "alpagasus-1348", "instruction": "Verfassen Sie ein Gedicht mit 7 Zeilen und verwenden Sie die vorgegebenen Wörter\nRegenschirm, Schiene, Wasser, Himmel, Gras, Blatt"}
+{"id": "alpagasus-1349", "instruction": "Finden Sie zwei Lösungen für dieses Matheproblem\n2x + 6 = 16"}
+{"id": "alpagasus-1350", "instruction": "Beschreiben Sie, wie der Mond die Gezeiten beeinflusst"}
+{"id": "alpagasus-1351", "instruction": "Stellen Sie sich vor, Sie sind in einer Bäckerei und werden gebeten, einen Kuchen zu backen. Beschreiben Sie den Kuchen ausführlich."}
+{"id": "alpagasus-1352", "instruction": "Wie verändert die Covid-19-Pandemie die Welt?"}
+{"id": "alpagasus-1353", "instruction": "Bilden Sie fünf Wörter mit einem Buchstaben Ihres Namens"}
+{"id": "alpagasus-1354", "instruction": "Was bedeutet die Phrase „Es war einmal“?"}
+{"id": "alpagasus-1355", "instruction": "Berechnen Sie die Quadratwurzel eines gegebenen numerischen Wertes.\nZahl: 64"}
+{"id": "alpagasus-1356", "instruction": "Erstellen Sie eine Metapher, die das Konzept der Resilienz ausdrückt."}
+{"id": "alpagasus-1357", "instruction": "Schlagen Sie bei einer Benutzerabfrage einen relevanten Titel vor.\nAbfrage: Beste Hotels in London"}
+{"id": "alpagasus-1358", "instruction": "Schreiben Sie einen Aufsatz über die Bedeutung unterschiedlicher Perspektiven."}
+{"id": "alpagasus-1359", "instruction": "Vergleichen und kontrastieren Sie DNA und RNA."}
+{"id": "alpagasus-1360", "instruction": "Welche Art von Ausgabe würde ein GPT-Assistent als Antwort auf diese Anweisung erstellen?\nBeschreiben Sie die Phasen eines Produkteinführungszyklus."}
+{"id": "alpagasus-1361", "instruction": "Beschreiben Sie den Zweck von DNS (Domain Name System)."}
+{"id": "alpagasus-1362", "instruction": "Lassen Sie vom GPT-Assistenten einen passenden Titel für einen Blogbeitrag generieren."}
+{"id": "alpagasus-1363", "instruction": "Erstelle eine Geschichte im Präsens, die dem gegebenen Kontext folgt.\nWolf trifft eine freundliche Biene, die ihn in einen geheimen Garten bringt."}
+{"id": "alpagasus-1364", "instruction": "Erklären Sie, was eine „Root-Cause-Analyse“ ist."}
+{"id": "alpagasus-1365", "instruction": "Erzeugen Sie einen Dialog zwischen einem Kunden und einem Verkäufer in einem Kaufhaus."}
+{"id": "alpagasus-1366", "instruction": "Finden Sie die fehlende Zahl in der folgenden Reihenfolge: 4, 8, 12, 16, 20, __"}
+{"id": "alpagasus-1367", "instruction": "Verändern Sie den folgenden Satz vom Passiv ins Aktiv:\nDas Gemälde wurde vom Künstler geschaffen."}
+{"id": "alpagasus-1368", "instruction": "Überlegen Sie sich drei kreative Lösungen zur Reduzierung der Luftverschmutzung."}
+{"id": "alpagasus-1369", "instruction": "Bilden Sie drei verschiedene Adjektive zur Beschreibung der Freiheitsstatue."}
+{"id": "alpagasus-1370", "instruction": "Welches ist das zweitgrößte Land der Welt?"}
+{"id": "alpagasus-1371", "instruction": "Warum ist Recycling wichtig?"}
+{"id": "alpagasus-1372", "instruction": "Erstellen Sie eine Eselsbrücke, um sich die Hauptstädte der drei baltischen Länder zu merken."}
+{"id": "alpagasus-1373", "instruction": "Erstellen Sie eine Geschichte mit diesen drei Wörtern: Sternenhimmel, Flüstern, Fluss."}
+{"id": "alpagasus-1374", "instruction": "Beschreiben Sie die Bedeutung des Satzes: „Um es kurz zu machen.“"}
+{"id": "alpagasus-1375", "instruction": "Erstellen Sie eine Liste mit drei Elementen im Zusammenhang mit dem tropischen Regenwald."}
+{"id": "alpagasus-1376", "instruction": "Stellen Sie ein neues Outfit für einen Freitagabend zusammen."}
+{"id": "alpagasus-1377", "instruction": "Verfassen Sie einen Entschuldigungsbrief an einen Kunden.\nDer Kunde hat seine Bestellung verspätet erhalten und war mit dem Service nicht zufrieden."}
+{"id": "alpagasus-1378", "instruction": "Schlagen Sie zwei Alternativen zur Energieeinsparung vor."}
+{"id": "alpagasus-1379", "instruction": "Erstellen Sie eine interessante Szene für einen Film, in der es eine große Menschenmenge und einen Kampf zwischen zwei Charakteren gibt."}
+{"id": "alpagasus-1380", "instruction": "Nennen Sie mir das Datum des ersten bemannten Testflugs des Wright Flyer."}
+{"id": "alpagasus-1381", "instruction": "Wie lange umkreist die Sonne die Milchstraße?"}
+{"id": "alpagasus-1382", "instruction": "Überlegen Sie sich ein Rezept für einen gesunden Salat."}
+{"id": "alpagasus-1383", "instruction": "Wie können wir die weltweiten Treibhausgasemissionen reduzieren?"}
+{"id": "alpagasus-1384", "instruction": "Erstellen Sie eine Liste mit gesunden Gewohnheiten, die leicht beizubehalten sind."}
+{"id": "alpagasus-1385", "instruction": "Beschreiben Sie, welche Auswirkungen die Coronavirus-Pandemie auf die Welt hat."}
+{"id": "alpagasus-1386", "instruction": "Geben Sie neue Ideen zur Reduzierung der Lebensmittelverschwendung"}
+{"id": "alpagasus-1387", "instruction": "Übersetzen Sie den folgenden Text ins Deutsche.\nSie planen, das Projekt morgen abzuschließen."}
+{"id": "alpagasus-1388", "instruction": "Listen Sie einige Gegenstände auf, die in einem Auto-Notfallset enthalten sein sollten."}
+{"id": "alpagasus-1389", "instruction": "Bauen Sie ein freundliches Gespräch mit einem Kunden auf.\nHallo, wie kann ich Ihnen helfen?"}
+{"id": "alpagasus-1390", "instruction": "Was ist eine gute Antwort auf „Mir gefällt nicht, wie du mit mir redest“?\nMir gefällt nicht, wie du mit mir redest."}
+{"id": "alpagasus-1391", "instruction": "Erstellen Sie eine benutzerdefinierte Begrüßung für einen Besucher.\nDer Name des Besuchers ist John."}
+{"id": "alpagasus-1392", "instruction": "Schlagen Sie ein passendes Wort vor, um die Lücke zu füllen.\nDas Logo war hell _______."}
+{"id": "alpagasus-1393", "instruction": "Verfassen Sie einen 500 Wörter langen Aufsatz zum Thema Einsamkeit in Ernest Hemingways Roman „Der alte Mann und das Meer“."}
+{"id": "alpagasus-1394", "instruction": "Erklären Sie, wie die Regierung unter Präsident Dwight D. Eisenhower dazu beitrug, die Kluft zwischen den Vereinigten Staaten und der Sowjetunion während des Kalten Krieges zu überbrücken."}
+{"id": "alpagasus-1395", "instruction": "Finden Sie den 6. Term der folgenden Folge.\n3, 6, 10, 15..."}
+{"id": "alpagasus-1396", "instruction": "Stellen Sie eine Liste mit Empfehlungen zur Reduzierung der Transport-Emissionen bereit."}
+{"id": "alpagasus-1397", "instruction": "Brainstormen Sie drei Erfindungen, die das globale Problem der Plastikverschmutzung lösen könnten."}
+{"id": "alpagasus-1398", "instruction": "Wählen Sie den richtigen Ton für diesen Satz.\nBitte kontaktieren Sie uns, um weitere Informationen zu erhalten."}
+{"id": "alpagasus-1399", "instruction": "Nennen Sie zwei Muskeln, die zum Öffnen des Kiefers verwendet werden."}
+{"id": "alpagasus-1400", "instruction": "Beschreiben Sie die Farbfamilie der Koralle."}
+{"id": "alpagasus-1401", "instruction": "Erstellen Sie eine SQL-Abfrage, die eine Tabelle erstellt.\nTabellenname: Bücher\n\nAttribute:\n- book_id (int)\n- title (varchar)\n- author (varchar)\n- publisher (varchar)\n- publication_date (date)"}
+{"id": "alpagasus-1402", "instruction": "Rezitieren Sie die erste Strophe von „The Road Not Taken“ von Robert Frost."}
+{"id": "alpagasus-1403", "instruction": "Geben Sie auf eine gestellte Frage eine Antwort mit einem logisch schlüssigen Argument.\nWarum ist Demokratie wichtig?"}
+{"id": "alpagasus-1404", "instruction": "Bilden Sie einen Satz, der die Verwendung eines Antonyms demonstriert."}
+{"id": "alpagasus-1405", "instruction": "Übersetzen Sie einen gegebenen Satz in eine mathematische Gleichung.\nDie Summe zweier Zahlen ist fünf."}
+{"id": "alpagasus-1406", "instruction": "Formulieren Sie anhand einer Tatsache eine Frage, die zu dieser Tatsache führt.\nÜber 30 Millionen Amerikaner haben Diabetes."}
+{"id": "alpagasus-1407", "instruction": "Wandeln Sie 2 Unzen in Milliliter um."}
+{"id": "alpagasus-1408", "instruction": "Erstellen Sie eine Kleinanzeige für ein gebrauchtes Fahrrad."}
+{"id": "alpagasus-1409", "instruction": "Erstellen Sie eine Analogie, um ein komplexes Konzept zu erklären."}
+{"id": "alpagasus-1410", "instruction": "Erstellen Sie eine Liste mit Wörtern, die mit dem Begriff „Essen“ in Zusammenhang stehen."}
+{"id": "alpagasus-1411", "instruction": "Verfassen Sie ein Beispiel für ein Haiku-Gedicht"}
+{"id": "alpagasus-1412", "instruction": "Erstellen Sie einen Absatz, der die Auswirkungen des Klimawandels auf Familienbetriebe beschreibt.\nKeine Eingabe erforderlich."}
+{"id": "alpagasus-1413", "instruction": "Erklären Sie, wie „Typen“ in Programmiersprachen verwendet werden.\nKeine Eingabe erforderlich."}
+{"id": "alpagasus-1414", "instruction": "Erstellen Sie eine Geburtstagskarte für einen engen Freund, indem Sie ein Gedicht schreiben.\nName des Empfängers: Jane"}
+{"id": "alpagasus-1415", "instruction": "Schreiben Sie einen Aufsatz über die Vorteile des öffentlichen Nahverkehrs.\nKeine Eingabe erforderlich."}
+{"id": "alpagasus-1416", "instruction": "Entwerfen Sie einen Chatbot-Gesprächsablauf, um eine Restaurantreservierung vorzunehmen."}
+{"id": "alpagasus-1417", "instruction": "Nennen Sie zwei Nachteile der Verwendung eines Cloud-basierten Datensystems."}
+{"id": "alpagasus-1418", "instruction": "Nennen Sie fünf Vorteile, die die Nutzung eines Hundes als Hilfsmittel mit sich bringt."}
+{"id": "alpagasus-1419", "instruction": "Fassen Sie den aktuellen Stand der erneuerbaren Energien in den USA zusammen."}
+{"id": "alpagasus-1420", "instruction": "Listen Sie die Unterschiede zwischen amerikanischem und britischem Englisch auf."}
+{"id": "alpagasus-1421", "instruction": "Erklären Sie, warum es wichtig ist, einen Notfallplan zu haben."}
+{"id": "alpagasus-1422", "instruction": "Erstellen Sie einen Titel für eine Forschungsarbeit zum Thema Tierrechte."}
+{"id": "alpagasus-1423", "instruction": "Analysieren Sie die folgenden Rezeptzutaten, um herauszufinden, für welches Gericht sie bestimmt sind:\n-1/2 Tasse Butter\n-2 Esslöffel gehackter Knoblauch\n-2 Esslöffel Allzweckmehl\n-1/2 Teelöffel getrockneter Thymian\n-1/4 Teelöffel Pfeffer\n-2 Tassen Hühnerbrühe\n-1/4 Tasse trockener Weißwein\n-1 Pfund Hähnchenbrust ohne Knochen und Haut\n-2 Esslöffel gehackte frische Petersilie"}
+{"id": "alpagasus-1424", "instruction": "Beantworten Sie diese Richtig-oder-Falsch-Frage: Die Hauptstadt Frankreichs ist London."}
+{"id": "alpagasus-1425", "instruction": "Vereinbaren Sie ein Treffen zwischen zwei verschiedenen Personen\nJohn Smith und Marc Jones"}
+{"id": "alpagasus-1426", "instruction": "Erweitern Sie diesen Satz: „Die Technologie hat die Art und Weise revolutioniert, wie wir"}
+{"id": "alpagasus-1427", "instruction": "Berechnen Sie die Hypothenuse des rechtwinkligen Dreiecks im Eingabefeld.\na = 4, b = 3"}
+{"id": "alpagasus-1428", "instruction": "Schreiben Sie einen beschreibenden Satz über ein Objekt.\nEine Blume"}
+{"id": "alpagasus-1429", "instruction": "Bilden Sie einen Satz mit den Wörtern „glücklich“, „fröhlich“ und „begeistert“."}
+{"id": "alpagasus-1430", "instruction": "Beschreiben Sie die Bedeutung des Ausdrucks „Carpe Diem“."}
+{"id": "alpagasus-1431", "instruction": "Überlegen Sie sich eine kreative Möglichkeit, Plastiklöffel zu verwenden"}
+{"id": "alpagasus-1432", "instruction": "Nennen Sie fünf Vorteile eines Haustieres"}
+{"id": "alpagasus-1433", "instruction": "Gestalten Sie eine Weihnachtskarte für ein Kind.\nBetreff: Winterferien"}
+{"id": "alpagasus-1434", "instruction": "Gestalten Sie ein Buchcover passend zum Titel.\nTitel: „Die Magie der Natur“"}
+{"id": "alpagasus-1435", "instruction": "Erstellen Sie eine Silhouette des angegebenen Objekts.\nObjekt: Vogel"}
+{"id": "alpagasus-1436", "instruction": "Erstellen Sie eine Liste von Elementen für ein Inhaltsverzeichnis.\nBuchtitel: Das Sonnensystem erkunden"}
+{"id": "alpagasus-1437", "instruction": "Berechnen Sie die Gesamtkosten für die angegebenen Eingaben.\nPreis pro Artikel: 7,50 $\nMenge: 3\nSteuersatz: 10 %"}
+{"id": "alpagasus-1438", "instruction": "Erstellen Sie ein Haiku-Gedicht mit folgender Aufforderung.\nAufforderung: Herbst"}
+{"id": "alpagasus-1439", "instruction": "Identifizieren Sie die gemeinsamen Merkmale einer gesunden Ernährung."}
+{"id": "alpagasus-1440", "instruction": "Beschreiben Sie die historischen Ereignisse, die zur Gründung der Vereinten Nationen führten."}
+{"id": "alpagasus-1441", "instruction": "Identifizieren Sie die am syrischen Konflikt beteiligten Länder."}
+{"id": "alpagasus-1442", "instruction": "Vergleichen Sie die Vorteile von gegrilltem Fisch mit denen von frittiertem Fisch"}
+{"id": "alpagasus-1443", "instruction": "Schlagen Sie Möglichkeiten zur Reduzierung der Umweltverschmutzung vor"}
+{"id": "alpagasus-1444", "instruction": "Erstellen Sie eine Analogie, die die Bedeutung des Wortes „verwüsten“ erklärt."}
+{"id": "alpagasus-1445", "instruction": "Fassen Sie die wichtigsten Punkte des folgenden Artikels über soziale Medien und ihre Auswirkungen zusammen.\nSoziale Medien sind im 21. Jahrhundert zu einem unglaublich mächtigen Werkzeug geworden. Sie ermöglichen es den Menschen, Bilder und Videos sofort zu teilen, sich mit Freunden auf der ganzen Welt zu verbinden und auf Nachrichten und Updates aus einer Vielzahl von Quellen zuzugreifen. Dies kann zwar eine positive Sache sein, hat aber auch einige Nachteile. Soziale Medien können zu einem Zeitfresser werden, der Zeit von produktiveren Aktivitäten raubt, und können ernsthafte Auswirkungen auf die psychische Gesundheit einer Person haben. Sie können auch zur Verbreitung falscher Informationen und für Cybermobbing verwendet werden."}
+{"id": "alpagasus-1446", "instruction": "Schreiben Sie eine Metapher, die einen langsamen Prozess beschreibt"}
+{"id": "alpagasus-1447", "instruction": "Identifizieren Sie die Vergangenheits-, Gegenwarts- und Zukunftsform des Verbs „gehen“."}
+{"id": "alpagasus-1448", "instruction": "Verfassen Sie einen einprägsamen Slogan für ein Unternehmen, das nachhaltige Energiequellen entwickelt."}
+{"id": "alpagasus-1449", "instruction": "Vervollständige den Liedtext\nDu kannst dich nicht beeilen, Liebling, nein, du musst einfach warten"}
+{"id": "alpagasus-1450", "instruction": "Verfassen Sie eine überzeugende E-Mail, um Ihren Leser davon zu überzeugen, 500 $ für Ihre Wohltätigkeitsveranstaltung zu spenden."}
+{"id": "alpagasus-1451", "instruction": "Erstellen Sie eine kurze Demonstration zur Herstellung von Bananenbrot."}
+{"id": "alpagasus-1452", "instruction": "Geben Sie eine detaillierte Beschreibung eines Cloud-basierten Datenspeichersystems."}
+{"id": "alpagasus-1453", "instruction": "Entwerfen Sie einen Algorithmus zur Erkennung von Plagiaten in wissenschaftlichen Arbeiten."}
+{"id": "alpagasus-1454", "instruction": "Verfassen Sie einen Social-Media-Beitrag, um für eine neue Steuerbuchhaltungssoftware zu werben."}
+{"id": "alpagasus-1455", "instruction": "Beschreiben Sie die Bedeutung von Soft Skills im Arbeitsumfeld."}
+{"id": "alpagasus-1456", "instruction": "Verfassen Sie einen Bericht über die Auswirkungen der globalen Erwärmung auf die Arktisregion."}
+{"id": "alpagasus-1457", "instruction": "Nennen Sie drei Shopping-Websites, auf denen Sie Computerteile kaufen können."}
+{"id": "alpagasus-1458", "instruction": "\"es regnet nicht\" ins Spanische übersetzen"}
+{"id": "alpagasus-1459", "instruction": "Erstellen Sie ein Beispiel für einen regulären Ausdruck, der mit Telefonnummern aus den USA und Kanada übereinstimmt."}
+{"id": "alpagasus-1460", "instruction": "Erklären Sie in einem Satz, was kontinuierliche Integration (CI) ist."}
+{"id": "alpagasus-1461", "instruction": "Erklären Sie, warum ein Land Zölle erheben kann"}
+{"id": "alpagasus-1462", "instruction": "Wie kann man sicherstellen, dass seine Daten sicher sind?"}
+{"id": "alpagasus-1463", "instruction": "Welche Staaten haben die meiste Wildnis?"}
+{"id": "alpagasus-1464", "instruction": "Welche Praktiken sind mit der Aufrechterhaltung sicherer Software verbunden?"}
+{"id": "alpagasus-1465", "instruction": "Wie hat die digitale Technologie die Kommunikation in der Gesellschaft verbessert?"}
+{"id": "alpagasus-1466", "instruction": "Welche Auswirkungen hatte die industrielle Revolution auf die Umwelt?"}
+{"id": "alpagasus-1467", "instruction": "Fassen Sie den politischen Prozess zur Verabschiedung eines Gesetzes zusammen."}
+{"id": "alpagasus-1468", "instruction": "Finden Sie die Grundursachen der globalen Erwärmung."}
+{"id": "alpagasus-1469", "instruction": "Erstellen Sie eine Liste mit Tipps zum Umgang mit Prüfungsstress."}
+{"id": "alpagasus-1470", "instruction": "Erstellen Sie eine einzigartige Geschichte (Titel und Inhalt in <100 Wörtern) über zwei Personen am Flughafen."}
+{"id": "alpagasus-1471", "instruction": "Entwickeln Sie drei kreative Ideen zum Upcycling von Haushaltsgegenständen."}
+{"id": "alpagasus-1472", "instruction": "Entwickeln Sie eine Idee für ein digitales Produkt"}
+{"id": "alpagasus-1473", "instruction": "Schlagen Sie zwei Möglichkeiten vor, wie ein Unternehmen Kosten senken kann"}
+{"id": "alpagasus-1474", "instruction": "Geben Sie den Namen und die Adresse eines Restaurants in New York an.\nKeine Eingabe."}
+{"id": "alpagasus-1475", "instruction": "Erstellen Sie ein Programm, um anhand des Textes vorherzusagen, ob es sich bei einer E-Mail um Spam handelt."}
+{"id": "alpagasus-1476", "instruction": "Erstellen Sie eine Liste mit Eingaben für die Anweisung und klassifizieren Sie diese nach Anweisungstyp."}
+{"id": "alpagasus-1477", "instruction": "Beschreiben Sie, wie Sie eine Marketing-E-Mail schreiben."}
+{"id": "alpagasus-1478", "instruction": "Bilden Sie einen Satz, der mithilfe einer Metapher die Schönheit eines Sonnenaufgangs beschreibt."}
+{"id": "alpagasus-1479", "instruction": "Beschreiben Sie eine Stadt, die Sie gerne besuchen würden."}
+{"id": "alpagasus-1480", "instruction": "Identifizieren Sie im folgenden Satz Verbesserungsbereiche.\nDer schnelle braune Fuchs sprang über den faulen Hund"}
+{"id": "alpagasus-1481", "instruction": "Erklären Sie, warum es sich lohnt, eine Fremdsprache zu lernen."}
+{"id": "alpagasus-1482", "instruction": "Nennen Sie fünf Vorteile, die der Verzehr von mehr Obst und Gemüse mit sich bringt."}
+{"id": "alpagasus-1483", "instruction": "Entwickeln Sie zwei kreative Story-Ideen."}
+{"id": "alpagasus-1484", "instruction": "Beschreiben Sie, was die Kaffeemaschine tun soll, wenn der Benutzer die Taste „Brühen“ drückt."}
+{"id": "alpagasus-1485", "instruction": "Erstellen Sie ein Haiku mit den folgenden Schlüsselwörtern: blauer Himmel, Brücke, Sonnenuntergang"}
+{"id": "alpagasus-1486", "instruction": "Erstellen Sie eine Lösung, die KI nutzt, um den Kundenservice zu verbessern."}
+{"id": "alpagasus-1487", "instruction": "Erstellen Sie einen Slogan, der die Mission der Marke widerspiegelt.\nVital Home"}
+{"id": "alpagasus-1488", "instruction": "Schreiben Sie ein Listengedicht über den Sommer."}
+{"id": "alpagasus-1489", "instruction": "Erarbeiten Sie ein paar Gesprächsanregungen für zwei Personen, die über ein gemeinsames Hobby sprechen."}
+{"id": "alpagasus-1490", "instruction": "Erstellen Sie eine personalisierte Begrüßungsnachricht für einen Kunden.\nKundenname: Jennifer"}
+{"id": "alpagasus-1491", "instruction": "Stellen Sie ein Rezept für selbstgemachte Chips zur Verfügung."}
+{"id": "alpagasus-1492", "instruction": "Erinnere mich morgen um 10 Uhr daran, Eier zu kaufen."}
+{"id": "alpagasus-1493", "instruction": "Erstellen Sie eine Liste mit Wörtern, die mit dem Wort „Sommer“ in Verbindung stehen."}
+{"id": "alpagasus-1494", "instruction": "Vergleichen und kontrastieren Sie zwei Evolutionstheorien."}
+{"id": "alpagasus-1495", "instruction": "Ersetzen Sie das Wort „EINFÜGEN“ durch etwas Kreatives.\nWir müssen der Brainstorming-Sitzung noch ein paar weitere Ideen EINFÜGEN."}
+{"id": "alpagasus-1496", "instruction": "Erstellen Sie eine Abfrage, um die 5 Filme mit der höchsten Bewertung auf der Website auszuwählen"}
+{"id": "alpagasus-1497", "instruction": "Entwerfen Sie eine Umfrage mit 10 Fragen zum Online-Shopping"}
+{"id": "alpagasus-1498", "instruction": "Erstellen Sie einen Story-Starter.\n<keine Eingabe>"}
+{"id": "alpagasus-1499", "instruction": "Bearbeiten Sie die folgende Beschreibung, um den Ton zu verbessern und sie professioneller zu gestalten.\nHallo zusammen! Mein Name ist John und ich bin Softwareentwickler. Ich programmiere seit der Highschool und habe vor Kurzem meinen Bachelor in Informatik abgeschlossen."}
+{"id": "alpagasus-1500", "instruction": "Erstellen Sie eine Geschichte über eine Figur, die sich zwischen zwei Wegen entscheiden muss."}
+{"id": "alpagasus-1501", "instruction": "Schreiben Sie einen Dankesbrief an einen Professor!"}
+{"id": "alpagasus-1502", "instruction": "Welche Vorteile bietet das Erlernen einer Fremdsprache?"}
+{"id": "alpagasus-1503", "instruction": "Schlagen Sie eine Lösung zur Reduzierung der CO2-Emissionen im Transportsektor vor."}
+{"id": "alpagasus-1504", "instruction": "Schreibe eine Liedstrophe mit den vorgegebenen Wörtern.\nFunke, Nacht, Sterne, Herrschaft"}
+{"id": "alpagasus-1505", "instruction": "Bilden Sie ein Gleichnis, um Punkt X mit Punkt Y zu vergleichen.\nX = Starker Regen\nY = Ein endloser Wasserfall"}
+{"id": "alpagasus-1506", "instruction": "Bilden Sie einen Satz, der erklärt, dass die Winterferien vor der Tür stehen."}
+{"id": "alpagasus-1507", "instruction": "Wer hat die UEFA Champions League 2020 gewonnen?"}
+{"id": "alpagasus-1508", "instruction": "Schreiben Sie eine kurze Beschreibung Ihres Hauses"}
+{"id": "alpagasus-1509", "instruction": "Schlagen Sie einen Ort für ein romantisches Abendessen vor"}
+{"id": "alpagasus-1510", "instruction": "Identifizieren Sie die englischsprachigen Länder"}
+{"id": "alpagasus-1511", "instruction": "Erstellen Sie eine Stellenbeschreibung für einen Ingenieur für künstliche Intelligenz."}
+{"id": "alpagasus-1512", "instruction": "Erstellen Sie eine Liste aller im folgenden Artikel erwähnten Länder.\nDie Ausbreitung des Coronavirus hat Menschen in Ländern auf der ganzen Welt betroffen. In den Vereinigten Staaten, Italien, Spanien und Frankreich war das Virus besonders verheerend. Regierungsbeamte in Indien, China, Deutschland und dem Vereinigten Königreich haben strenge Vorschriften erlassen, um die Ansteckung zu verlangsamen."}
+{"id": "alpagasus-1513", "instruction": "Erstellen Sie eine Liste mit Gerichten, die ein Veganer kochen kann."}
+{"id": "alpagasus-1514", "instruction": "Erzähl mir eine lustige Tatsache über Schildkröten"}
+{"id": "alpagasus-1515", "instruction": "Überlegen Sie sich eine kreative Möglichkeit, zwei Dinge zu kombinieren.\nRegenmantel und Cupcake"}
+{"id": "alpagasus-1516", "instruction": "Bilden Sie eine Metapher, indem Sie zwei Objekte miteinander vergleichen.\nStern und Blume"}
+{"id": "alpagasus-1517", "instruction": "Entwickeln Sie eine iPhone-App, mit der Menschen ihre tägliche Wasseraufnahme verfolgen können."}
+{"id": "alpagasus-1518", "instruction": "Kreieren Sie ein Rezept für eine aufregende neue Saftkombination."}
+{"id": "alpagasus-1519", "instruction": "Schlagen Sie eine Geschäftsidee vor, die für eine Person geeignet ist, die in einer ländlichen Gegend lebt und nur über begrenzte Mittel verfügt."}
+{"id": "alpagasus-1520", "instruction": "Erstellen Sie eine Metapher, um eine hohe Arbeitsbelastung mit einem Objekt zu vergleichen."}
+{"id": "alpagasus-1521", "instruction": "Sagen Sie mir ein Synonym für „glücklich“."}
+{"id": "alpagasus-1522", "instruction": "Erstellen Sie eine Einkaufsliste für den wöchentlichen Lebensmitteleinkauf."}
+{"id": "alpagasus-1523", "instruction": "Schreiben Sie diesen Satz um, ohne seine Bedeutung zu verändern.\nDer Lehrer forderte die Schüler auf, ihre Aufsätze abzugeben."}
+{"id": "alpagasus-1524", "instruction": "Nennen Sie vier verschiedene Transportarten."}
+{"id": "alpagasus-1525", "instruction": "Formulieren Sie diesen Satz mit anderen Worten neu.\nEr ist sehr ehrgeizig und möchte immer der Beste sein."}
+{"id": "alpagasus-1526", "instruction": "Beschreiben Sie ein berühmtes Gemälde."}
+{"id": "alpagasus-1527", "instruction": "Erstellen Sie Fragen für ein Mathe-Quiz."}
+{"id": "alpagasus-1528", "instruction": "Erklären Sie den Begriff „kulturelle Aneignung“."}
+{"id": "alpagasus-1529", "instruction": "Fassen Sie die jüngsten Entwicklungen im Bereich des automatisierten Fahrens zusammen."}
+{"id": "alpagasus-1530", "instruction": "Nennen Sie zwei Möglichkeiten, beim Lebensmitteleinkauf Geld zu sparen"}
+{"id": "alpagasus-1531", "instruction": "Generieren Sie eine Medienabfrage, die den Inhalt an die Gerätebreite anpasst"}
+{"id": "alpagasus-1532", "instruction": "Erstellen Sie angesichts des Szenarios eine Liste mit drei Vorteilen, die die Haltung eines Haustieres mit sich bringt."}
+{"id": "alpagasus-1533", "instruction": "Sammeln und fassen Sie fünf Fakten zur Apollo-11-Mission zusammen."}
+{"id": "alpagasus-1534", "instruction": "Wir schlagen fünf Tipps vor, wie Sie sich bei einem formellen Anlass gut kleiden."}
+{"id": "alpagasus-1535", "instruction": "Wie verbreitet sich ein Virus?"}
+{"id": "alpagasus-1536", "instruction": "Erarbeiten Sie eine plausible Entschuldigung für Ihr Zuspätkommen zu einem Meeting."}
+{"id": "alpagasus-1537", "instruction": "Beschreiben Sie den Geschmack italienischer Küche."}
+{"id": "alpagasus-1538", "instruction": "Überprüfen Sie, ob die angegebene Eingabe ein Anagramm ist oder nicht.\nhören\nstill"}
+{"id": "alpagasus-1539", "instruction": "Entwickeln Sie kreative Ideen, um Diversitätsprobleme am Arbeitsplatz anzugehen"}
+{"id": "alpagasus-1540", "instruction": "Begrüßen Sie den Besucher freundlich."}
+{"id": "alpagasus-1541", "instruction": "Schlagen Sie einen Ort in den Vereinigten Staaten vor, den Sie besuchen möchten."}
+{"id": "alpagasus-1542", "instruction": "Beschreiben Sie die Bedeutung von Beharrlichkeit."}
+{"id": "alpagasus-1543", "instruction": "Schreiben Sie einen Artikel über die Vorteile der Verwendung eines GPT-Modells für das Verständnis natürlicher Sprache."}
+{"id": "alpagasus-1544", "instruction": "Welche Technologien nutzen selbstfahrende Autos?"}
+{"id": "alpagasus-1545", "instruction": "Erstellen Sie eine Überschrift für einen Artikel, der die Bedeutung von Backup-Systemen diskutiert."}
+{"id": "alpagasus-1546", "instruction": "Wie können wir unsere CO2-Emissionen reduzieren?"}
+{"id": "alpagasus-1547", "instruction": "Finden Sie Worte, um ein Strandfest zu beschreiben."}
+{"id": "alpagasus-1548", "instruction": "Erstellen Sie eine Liste mit Sicherheitsmaßnahmen, die der Protagonist einer Geschichte auf einer Reise treffen sollte."}
+{"id": "alpagasus-1549", "instruction": "Gibt eine Liste der für ein Handwerk benötigten Werkzeuge aus.\nDas Handwerk ist ein Pappmaché-Spielzeug."}
+{"id": "alpagasus-1550", "instruction": "Erstellen Sie einige Themen zum Thema Finanzen."}
+{"id": "alpagasus-1551", "instruction": "Multiplizieren Sie 174 und 3."}
+{"id": "alpagasus-1552", "instruction": "Erklären Sie die Unterschiede zwischen Vögeln und Säugetieren"}
+{"id": "alpagasus-1553", "instruction": "Erstellen Sie eine Produktbeschreibung, die die Funktionen des Mobiltelefons hervorhebt.\nProdukt: Samsung Galaxy S20"}
+{"id": "alpagasus-1554", "instruction": "Erstellen Sie eine Liste mit fünf Vorteilen des Lesens."}
+{"id": "alpagasus-1555", "instruction": "Welcher US-Bundesstaat hat die höchste durchschnittliche Höhe?"}
+{"id": "alpagasus-1556", "instruction": "Beschreiben Sie die Unterschiede zwischen zwei Artikeln\nApple iPhone 12 und Samsung Galaxy S20"}
+{"id": "alpagasus-1557", "instruction": "Geben Sie ein relevantes Beispiel für die folgende Anweisung.\nFinden Sie den Durchschnitt von drei Zahlen"}
+{"id": "alpagasus-1558", "instruction": "Erzählen Sie mir etwas über einen Nissan Leaf."}
+{"id": "alpagasus-1559", "instruction": "Fügen Sie einer Lebensmitteleinkaufsliste 5 Artikel hinzu."}
+{"id": "alpagasus-1560", "instruction": "Nennen Sie einige Vorteile der Nutzung sozialer Medien."}
+{"id": "alpagasus-1561", "instruction": "Bestimmen Sie, wie viele Kalorien eine Tasse gekochter brauner Reis hat"}
+{"id": "alpagasus-1562", "instruction": "Beschreibe die Farben eines Sonnenuntergangs"}
+{"id": "alpagasus-1563", "instruction": "Erstellen Sie eine Liste mit fünf Möglichkeiten zum Stressabbau nach einem anstrengenden Arbeitstag."}
+{"id": "alpagasus-1564", "instruction": "Generieren Sie anhand der Eingaben einige Fakten zum Thema.\nWas ist eine Konstellation?"}
+{"id": "alpagasus-1565", "instruction": "Nennen Sie drei Softwareprogramme, die für die Unternehmensbuchhaltung verwendet werden."}
+{"id": "alpagasus-1566", "instruction": "Erstellen Sie einen Absatz, der einen Sommertag im Park beschreibt"}
+{"id": "alpagasus-1567", "instruction": "Nennen Sie vier Pflanzenarten in einem Wüstenbiom"}
+{"id": "alpagasus-1568", "instruction": "Erklären Sie, wie sich Infektionskrankheiten verbreiten"}
+{"id": "alpagasus-1569", "instruction": "Beschreiben Sie in wenigen Worten den Klang, den der gegebene Gegenstand erzeugt.\nDjembe"}
+{"id": "alpagasus-1570", "instruction": "Identifizieren Sie 3 Emotionen, die das gegebene Zitat vermittelt.\n„Manchmal bringen uns die schlechten Dinge, die in unserem Leben passieren, direkt auf den Weg zu den besten Dingen, die uns jemals passieren werden.“"}
+{"id": "alpagasus-1571", "instruction": "Stellen Sie die wichtigsten Elemente für ein gutes Gespräch bereit."}
+{"id": "alpagasus-1572", "instruction": "Beschreiben Sie die Geographie der Region namens Alaska."}
+{"id": "alpagasus-1573", "instruction": "Beschreiben Sie die verwendete bildliche Sprache in einem Satz.\nSie war ein Licht in der Dunkelheit."}
+{"id": "alpagasus-1574", "instruction": "Schreiben Sie eine Geschichte mit diesen 5 Wörtern: Lehrer, lösen, Labyrinth, Notizbuch, Struktur"}
+{"id": "alpagasus-1575", "instruction": "Verfassen Sie ein Gedicht mit diesen 4 Wörtern: Traurigkeit, erkunden, heilig, flüstern"}
+{"id": "alpagasus-1576", "instruction": "Geben Sie eine detaillierte Beschreibung eines Strandes im Sommer."}
+{"id": "alpagasus-1577", "instruction": "Beschreiben Sie die Präsidentschaft von George Washington"}
+{"id": "alpagasus-1578", "instruction": "Bilden Sie einen syntaktisch korrekten Satz mit den Wörtern: Speer, verfolgen, Feind"}
+{"id": "alpagasus-1579", "instruction": "Erstellen Sie einen Zeitplan für das Mathematik-Lernen"}
+{"id": "alpagasus-1580", "instruction": "Beschreibe die Landschaft in drei Dreiteilen."}
+{"id": "alpagasus-1581", "instruction": "Nimm die Eingaben an und schreibe einen Piratentoast\nStelle dich der Herausforderung"}
+{"id": "alpagasus-1582", "instruction": "Erfinden Sie eine Entschuldigung dafür, warum Sie nicht an einem Meeting teilnehmen können"}
+{"id": "alpagasus-1583", "instruction": "Bilden Sie anhand der folgenden Definition einen Satz mit dem Wort.\nAbrupt oder wütend wegschicken"}
+{"id": "alpagasus-1584", "instruction": "Erstellen Sie einen lustigen Slogan für eine neue Eisdiele."}
+{"id": "alpagasus-1585", "instruction": "Erklären Sie den Unterschied zwischen Cloud Computing und Edge Computing."}
+{"id": "alpagasus-1586", "instruction": "Erstellen Sie aus einer Liste von Wörtern ein Gedicht.\nHingabe, Liebe, Unendlichkeit"}
+{"id": "alpagasus-1587", "instruction": "Generieren Sie den Titel eines Blogbeitrags basierend auf dem folgenden Text.\nIn diesem Artikel wird erörtert, wie künstliche Intelligenz zur Verbesserung des Kundendienstes eingesetzt werden kann."}
+{"id": "alpagasus-1588", "instruction": "Beschreibe den Geschmack einer Erdbeere mit fünf Worten."}
+{"id": "alpagasus-1589", "instruction": "Empfehlen Sie einen schnellen und einfachen Snack."}
+{"id": "alpagasus-1590", "instruction": "Verfassen Sie ein Haiku, das sich auf das gegebene Beispiel bezieht\nOzean"}
+{"id": "alpagasus-1591", "instruction": "Beschreiben Sie die Atmosphäre einer geschäftigen Stadt an einem Sonntagnachmittag."}
+{"id": "alpagasus-1592", "instruction": "Formulieren Sie Fragen, die mit dem Satz in Zusammenhang stehen.\nIn ihrer Freizeit arbeitet sie gerne im Garten."}
+{"id": "alpagasus-1593", "instruction": "Erstellen Sie eine Liste mit fünf einzigartigen Merkmalen des betreffenden Tieres.\nHund"}
+{"id": "alpagasus-1594", "instruction": "Erstellen Sie ein Haiku über den Winter."}
+{"id": "alpagasus-1595", "instruction": "Passen Sie den folgenden Satz so an, dass er formeller klingt.\nIch glaube nicht, dass sich der Aufwand lohnt."}
+{"id": "alpagasus-1596", "instruction": "Wie können wir den Wasserverbrauch in unserem täglichen Leben reduzieren?"}
+{"id": "alpagasus-1597", "instruction": "Bearbeiten Sie den Artikel, um ihn für die Leser interessanter zu gestalten.\nAutonome Roboter sind computergesteuerte Maschinen, die so programmiert sind, dass sie eine bestimmte Aufgabe ohne menschliches Zutun ausführen. Autonome Roboter werden zunehmend in einer Vielzahl von Branchen eingesetzt, von der Fertigung über das Gesundheitswesen bis hin zur Sicherheit."}
+{"id": "alpagasus-1598", "instruction": "Welche Strategien kann eine Regierung zur Reduzierung der Luftverschmutzung nutzen?"}
+{"id": "alpagasus-1599", "instruction": "Schlagen Sie einen Dessertnamen basierend auf den bereitgestellten Zutaten vor\nSchokolade, Erdbeeren, Macadamianüsse"}
+{"id": "alpagasus-1600", "instruction": "Erklären Sie uns anhand einer Zutatenliste, wie man eine einfache vegane Mahlzeit zubereitet.\nNudeln, Tomaten, rote Zwiebeln, Knoblauch."}
+{"id": "alpagasus-1601", "instruction": "Schlagen Sie fünf Marketingtaktiken für eine Produkteinführung vor."}
+{"id": "alpagasus-1602", "instruction": "Nennen Sie einige gängige Verwendungsmöglichkeiten eines bestimmten Gegenstands\nSchraubendreher"}
+{"id": "alpagasus-1603", "instruction": "Sagen Sie mir, wie man im Winter Kräuter anbauen kann."}
+{"id": "alpagasus-1604", "instruction": "Bestimmen Sie das chemische Symbol von Silber."}
+{"id": "alpagasus-1605", "instruction": "Ordnen Sie die folgenden Gedichte ihrem jeweiligen Stil zu.\nI. Ich wanderte einsam wie eine Wolke,\ndie hoch über Tälern und Hügeln schwebt,\nals ich auf einmal eine Menge,\neine Schar goldener Narzissen sah\n\nII. Ich schleuderte ekstatische Fröhlichkeit\nin die Tiefen meines Geistes,\nmein Herz wird die glückliche Erde segnen\nfür den schönen, süßen Traum, den ich finde\n\nIII. Auf dem Kirchhof des Dorfes\nsteht sie; in ihrer rautenbraunen Gestalt,\nmit dem lehmkalten Rasen der begrabenen Toten\nunter ihren so weisen Füßen\n\nIV. Bleib, bleib zu Hause, mein Herz, und ruhe;\nHäusliche Herzen sind am glücklichsten,\ndenn diejenigen, die wandern, wissen nicht,\nwo sie eine gesegnetere Welt finden werden"}
+{"id": "alpagasus-1606", "instruction": "Erläutern Sie ein Beispiel für eine Metapher im Zusammenhang mit Hoffnung."}
+{"id": "alpagasus-1607", "instruction": "Bestimmen Sie die Hauptstadt von Peru."}
+{"id": "alpagasus-1608", "instruction": "Übersetzen Sie den Satz \"Lasst uns Spaß haben\" ins Spanische"}
+{"id": "alpagasus-1609", "instruction": "Nennen Sie fünf Möglichkeiten zur Reduzierung der Verwendung von Einwegkunststoffen."}
+{"id": "alpagasus-1610", "instruction": "Entwickeln Sie eine innovative Lösung zur Reduzierung von Lebensmittelabfällen."}
+{"id": "alpagasus-1611", "instruction": "Sortieren Sie die amerikanischen Bundesstaaten nach der Bevölkerung."}
+{"id": "alpagasus-1612", "instruction": "Wie können digitale Geldbörsen genutzt werden, um die finanzielle Inklusion zu verbessern?"}
+{"id": "alpagasus-1613", "instruction": "Unterscheiden Sie zwischen einer Wellenfunktion und einem Wellenpaket."}
+{"id": "alpagasus-1614", "instruction": "Überlegen Sie sich eine andere Art, „die Wellen brechen ans Ufer“ zu sagen."}
+{"id": "alpagasus-1615", "instruction": "Erstellen Sie eine kreative und fantasievolle Beschreibung eines Außerirdischen"}
+{"id": "alpagasus-1616", "instruction": "Schreiben Sie eine Beschreibung der wichtigsten Touristenattraktion einer britischen Stadt.\nLondon"}
+{"id": "alpagasus-1617", "instruction": "Übersetzen Sie diesen Satz ins Französische: „Ich wünsche Ihnen einen schönen Tag.“"}
+{"id": "alpagasus-1618", "instruction": "Erstellen Sie ein Haiku-Gedicht mit den bereitgestellten Wörtern.\nWind, Wolken, Himmel"}
+{"id": "alpagasus-1619", "instruction": "Welche zählen zu den besten Fernsehsendungen aller Zeiten?"}
+{"id": "alpagasus-1620", "instruction": "Erstellen Sie eine beschreibende Phrase für ein Gemälde mit einem Wald im Sonnenuntergang"}
+{"id": "alpagasus-1621", "instruction": "Nennen Sie drei Möglichkeiten, Cybermobbing zu verhindern"}
+{"id": "alpagasus-1622", "instruction": "Finden Sie das teuerste Restaurant in New York"}
+{"id": "alpagasus-1623", "instruction": "Beschreibe Flüsse in 5 Worten."}
+{"id": "alpagasus-1624", "instruction": "Ändern Sie den folgenden Satz so, dass er eine anschauliche Beschreibung enthält:\nDie Sonne war sehr heiß."}
+{"id": "alpagasus-1625", "instruction": "Beschreiben Sie, wie Maschinen Menschen bei ihren täglichen Aufgaben helfen können."}
+{"id": "alpagasus-1626", "instruction": "Erstellen Sie ein Haiku über die Jahreszeiten."}
+{"id": "alpagasus-1627", "instruction": "Erstellen Sie drei zum Nachdenken anregende Fragen zu einer neuen App für Essenslieferungen."}
+{"id": "alpagasus-1628", "instruction": "Geben Sie fünf Synonyme für das Wort „positiv“ an."}
+{"id": "alpagasus-1629", "instruction": "Erstellen Sie eine kreative Geschichte über eine Prinzessin und einen Drachen."}
+{"id": "alpagasus-1630", "instruction": "Nennen Sie ein Beispiel einer gefährdeten Art und beschreiben Sie, warum sie in Gefahr ist."}
+{"id": "alpagasus-1631", "instruction": "Beschreiben Sie drei Vorteile der Online-Bildung."}
+{"id": "alpagasus-1632", "instruction": "Listen Sie fünf Tipps zum Schutz der Daten in einer Organisation auf."}
+{"id": "alpagasus-1633", "instruction": "Bearbeiten Sie diesen Artikel, um die Wortanzahl um 20 % zu reduzieren.\nDie Auswirkungen der globalen Erwärmung auf unseren Planeten werden immer deutlicher, von höheren Temperaturen über steigende Meeresspiegel bis hin zum Artensterben. Viele der auftretenden Veränderungen sind katastrophal und führen zu schweren wirtschaftlichen Störungen und in einigen Ländern sogar zu Unruhen. Trotz der Dringlichkeit ist es für jeden von uns überraschend einfach, einen Beitrag zur Verringerung der Auswirkungen des Klimawandels zu leisten. Einfache Schritte wie die Reduzierung der Emissionen fossiler Brennstoffe, weniger Fleisch zu essen und keine Lebensmittel zu verschwenden, können bereits einen großen positiven Effekt haben, wenn sich genügend Menschen darum bemühen. Wir alle müssen jetzt handeln, bevor es zu spät ist, und die Welt zu einem gesünderen, sichereren Ort für zukünftige Generationen machen."}
+{"id": "alpagasus-1634", "instruction": "Übersetzen Sie „Wo ist der Laden?“ ins Deutsche."}
+{"id": "alpagasus-1635", "instruction": "Bewerten Sie den Ausdruck 4+2*3."}
+{"id": "alpagasus-1636", "instruction": "Erklären Sie, wie Gürtelrose verursacht wird"}
+{"id": "alpagasus-1637", "instruction": "Entwickeln Sie eine kreative Idee für einen Horrorfilm"}
+{"id": "alpagasus-1638", "instruction": "Überlegen Sie sich fünf Wortkombinationen, die die Farbe Blau beschreiben"}
+{"id": "alpagasus-1639", "instruction": "Erstellen Sie eine Überschrift für einen Nachrichtenartikel über das Aussterben einer Tierart."}
+{"id": "alpagasus-1640", "instruction": "Beschreiben Sie den Unterschied zwischen den folgenden beiden Wörtern: „Analogie“ und „Metapher“"}
+{"id": "alpagasus-1641", "instruction": "Erstellen Sie ein Passwort, das mindestens 9 Zeichen enthält und Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen enthält."}
+{"id": "alpagasus-1642", "instruction": "Erstellen Sie eine Reihe von 8 Wörtern, die das Laufen beschreiben."}
+{"id": "alpagasus-1643", "instruction": "Beschreiben Sie, wie Sie ein romantisches Date planen würden"}
+{"id": "alpagasus-1644", "instruction": "Nennen Sie drei beliebte Lieder aus den 90ern."}
+{"id": "alpagasus-1645", "instruction": "Beschreiben Sie eine Möglichkeit zur ordnungsgemäßen Entsorgung gefährlicher Abfälle."}
+{"id": "alpagasus-1646", "instruction": "Identifizieren Sie drei anwendbare Sicherheitsmaßnahmen zur Verhinderung von Bränden im Haus"}
+{"id": "alpagasus-1647", "instruction": "Denken Sie an ein reales Beispiel für die folgende Analogie.\nAngst ist für Mut wie"}
+{"id": "alpagasus-1648", "instruction": "Beschreiben Sie den Schauplatz des Stücks Hamlet."}
+{"id": "alpagasus-1649", "instruction": "Schlagen Sie anhand einer Kundenbeschreibung eine für ihn geeignete Pizzasorte vor.\nDer Kunde ist Vegetarier, mag aber auch scharfes Essen."}
+{"id": "alpagasus-1650", "instruction": "Meilen in Kilometer umrechnen\nMeilen: 5"}
+{"id": "alpagasus-1651", "instruction": "Erstellen Sie einen Plan zur Abfallreduzierung im Büro."}
+{"id": "alpagasus-1652", "instruction": "Beschreibe das Geräusch von Regen."}
+{"id": "alpagasus-1653", "instruction": "Generieren Sie einen Story-Anfang."}
+{"id": "alpagasus-1654", "instruction": "Schreiben Sie ein Haiku-Gedicht mit spezifischem Kontext\nEinen Berg besteigen"}
+{"id": "alpagasus-1655", "instruction": "Erklären Sie, was es bedeutet, „Veränderungen herbeizuführen“."}
+{"id": "alpagasus-1656", "instruction": "Nennen Sie die fünf wichtigsten Nahrungsmittelgruppen."}
+{"id": "alpagasus-1657", "instruction": "Beschreiben Sie, was ein Online-Bildbearbeitungsprogramm leisten kann."}
+{"id": "alpagasus-1658", "instruction": "Beschreiben Sie, was passiert, wenn Sie ein Formular auf einer Website absenden."}
+{"id": "alpagasus-1659", "instruction": "Erstellen Sie einen Menüpunkt für das Restaurant."}
+{"id": "alpagasus-1660", "instruction": "Fassen Sie den folgenden Text zusammen:\n\nDie Welt ist durch den technologischen Fortschritt immer vernetzter und globalisierter geworden. Dies hat zu einer stärkeren gegenseitigen Abhängigkeit zwischen Ländern, Kulturen und Menschen geführt. Die Technologie hat die Kommunikation verbessert und den Austausch von Informationen und Ressourcen ermöglicht. Dies hat Geschäftsmöglichkeiten geschaffen und zu wirtschaftlicher Effizienz, Wachstum und Zusammenarbeit auf der ganzen Welt geführt."}
+{"id": "alpagasus-1661", "instruction": "Schreiben Sie einen Satz im Futur II."}
+{"id": "alpagasus-1662", "instruction": "Erstellen Sie eine Liste der US-Präsidenten."}
+{"id": "alpagasus-1663", "instruction": "Wie viele Fuß sind eine Meile?"}
+{"id": "alpagasus-1664", "instruction": "Verfassen Sie eine formelle E-Mail, um einen Professor um eine Verlängerung für ein Projekt zu bitten."}
+{"id": "alpagasus-1665", "instruction": "Entdecken Sie, wie das Wetter morgen um 11 Uhr in New York ist."}
+{"id": "alpagasus-1666", "instruction": "Beschreiben Sie in einigen Zeilen die Vorgehensweise beim Kuchenbacken."}
+{"id": "alpagasus-1667", "instruction": "Beschreiben Sie den Himmel bei Sonnenuntergang."}
+{"id": "alpagasus-1668", "instruction": "Schlagen Sie einige Aktivitäten für einen Tag am Strand vor."}
+{"id": "alpagasus-1669", "instruction": "Erstellen Sie einen Tweet, um auf die Bedeutung des Maskentragens während der Covid-19-Pandemie aufmerksam zu machen."}
+{"id": "alpagasus-1670", "instruction": "Generieren Sie 20 Wörter, die mit dem Wort „Katze“ in Zusammenhang stehen."}
+{"id": "alpagasus-1671", "instruction": "Wie können Unternehmen SaaS (Software as a Service) nutzen, um Kosten zu senken?"}
+{"id": "alpagasus-1672", "instruction": "Erstellen Sie einen Plan zur Reduzierung der Treibhausgasemissionen."}
+{"id": "alpagasus-1673", "instruction": "Welche Möglichkeiten gibt es, ein Gemüsegericht geschmacklich interessanter zu gestalten?"}
+{"id": "alpagasus-1674", "instruction": "Generieren Sie eine entsprechende Antwort, wenn ein Kunde einen Termin absagt"}
+{"id": "alpagasus-1675", "instruction": "Nennen Sie fünf Vorteile der Verwendung der Blockchain-Technologie."}
+{"id": "alpagasus-1676", "instruction": "Erzeugen Sie einen Dialog zwischen zwei Freunden, die über ein Buch diskutieren"}
+{"id": "alpagasus-1677", "instruction": "Erklären Sie die Auswirkungen der Technologie auf die Bildung."}
+{"id": "alpagasus-1678", "instruction": "Komponieren Sie einen Jingle für ein Biolebensmittel.\n\nBei dem Biolebensmittel handelt es sich um einen pflanzlichen Proteinriegel namens „Plant Power“."}
+{"id": "alpagasus-1679", "instruction": "Entwickeln Sie ein überzeugendes Argument für ein Verbot von Plastikstrohhalmen."}
+{"id": "alpagasus-1680", "instruction": "Berechnen Sie die Summe aller Zahlen von 1 bis 100."}
+{"id": "alpagasus-1681", "instruction": "Listen Sie mindestens 5 gefährdete Tiere auf."}
+{"id": "alpagasus-1682", "instruction": "Generieren Sie ein Beispiel für gültigen HTML-Code."}
+{"id": "alpagasus-1683", "instruction": "Erstellen Sie eine Liste mit 5 beliebten Songs aus den 1990er Jahren."}
+{"id": "alpagasus-1684", "instruction": "Erstellen Sie eine Liste mit 10 Punkten mit Möglichkeiten zum Geldsparen."}
+{"id": "alpagasus-1685", "instruction": "Schreiben Sie eine Abfrage, um alle Kunden auszuwählen, deren Abonnement noch aktiv ist.\nTabellenname: Kunden\nSpalten: ID, Name, Abonnement, Status"}
+{"id": "alpagasus-1686", "instruction": "Erstellen Sie eine effiziente Route für einen Kurier, um fünf Pakete auszuliefern.\nDie folgenden fünf Pakete müssen an die folgenden Orte geliefert werden:\nPaket 1 – 400 Main Street\nPaket 2 – 850 Commerce Street\nPaket 3 – 340 Crofton Lane\nPaket 4 – 74 Lantana Drive\nPaket 5 – 871 Hilltop Road"}
+{"id": "alpagasus-1687", "instruction": "Schlagen Sie einen Satz Regeln für ein Klassenzimmer vor."}
+{"id": "alpagasus-1688", "instruction": "Verfassen Sie eine Textantwort, die Mitgefühl zeigt."}
+{"id": "alpagasus-1689", "instruction": "Erstellen Sie einen Bericht zu einem bestimmten Thema.\nDer Einfluss sozialer Medien auf die Bildung"}
+{"id": "alpagasus-1690", "instruction": "Erstellen Sie eine Zeitleiste der Computertechnologie von 1960-1980"}
+{"id": "alpagasus-1691", "instruction": "Erstellen Sie zwei unterschiedliche Synonyme für das Wort „verrückt“."}
+{"id": "alpagasus-1692", "instruction": "Erstelle einen Limerick zum Thema „Freunde“."}
+{"id": "alpagasus-1693", "instruction": "Schlagen Sie einige gesunde Frühstücksspeisen vor."}
+{"id": "alpagasus-1694", "instruction": "Geben Sie ein Adjektiv an, um jemanden zu beschreiben, der immer fröhlich ist."}
+{"id": "alpagasus-1695", "instruction": "Nennen Sie einige Naturkatastrophen, die sich in den letzten zehn Jahren in Kuba ereignet haben."}
+{"id": "alpagasus-1696", "instruction": "Beschreiben Sie ein schwieriges Problem, mit dem Ihr Team in der Vergangenheit konfrontiert war, und wie Sie es gelöst haben."}
+{"id": "alpagasus-1697", "instruction": "Nennen Sie einige Krankheiten, die durch eine mangelhafte Ernährung beim Menschen verursacht werden."}
+{"id": "alpagasus-1698", "instruction": "Erstellen Sie ein 3-zeiliges Gedicht mit den folgenden Wörtern: einsam, Baum, Fluss"}
+{"id": "alpagasus-1699", "instruction": "Beschreiben Sie die Form dieser Figur.\n![alt-text](https://i.pinimg.com/originals/56/d2/11/56d21173c782feb4d4305a4800eabcd4.png)"}
+{"id": "alpagasus-1700", "instruction": "Welche Vorteile bietet der Einsatz von KI für Unternehmen?"}
+{"id": "alpagasus-1701", "instruction": "Geben Sie ein realistisches Beispiel, wie KI den Kundenservice verbessern kann."}
+{"id": "alpagasus-1702", "instruction": "Erstellen Sie einen Blogbeitragstitel zu diesem Thema\nSo steigern Sie Motivation und Produktivität bei der Arbeit von zu Hause aus"}
+{"id": "alpagasus-1703", "instruction": "Erstellen Sie ein Gedicht mit 8 Zeilen zu je 4 Wörtern."}
+{"id": "alpagasus-1704", "instruction": "Beschreiben Sie eine bedeutungsvolle Interaktion zwischen zwei Personen."}
+{"id": "alpagasus-1705", "instruction": "Finden Sie den nächstgelegenen Bahnhof zum Van Gogh Museum in Amsterdam."}
+{"id": "alpagasus-1706", "instruction": "Schlagen Sie Lösungen zur Reduzierung der Luftverschmutzung vor"}
+{"id": "alpagasus-1707", "instruction": "Definieren Sie den Begriff „Data Science“"}
+{"id": "alpagasus-1708", "instruction": "Fassen Sie die Bedeutung des Schlafes zusammen"}
+{"id": "alpagasus-1709", "instruction": "Geben Sie Beispiele dafür, wie Unternehmen künstliche Intelligenz nutzen"}
+{"id": "alpagasus-1710", "instruction": "Machen Sie einen Erdbeer-Smoothie."}
+{"id": "alpagasus-1711", "instruction": "Was ist der höchste Berg Europas?"}
+{"id": "alpagasus-1712", "instruction": "Erfinden Sie eine Metapher, in der Sie die Liebe mit einem Tier vergleichen."}
+{"id": "alpagasus-1713", "instruction": "Erstellen Sie eine geschlossene Eingabeaufforderung für einen Chatbot zu Sportnachrichten."}
+{"id": "alpagasus-1714", "instruction": "Überlegen Sie sich einen kreativen Satz, der erklärt, wie Sie sich heute fühlen."}
+{"id": "alpagasus-1715", "instruction": "Beschreiben Sie den Geschmack einer Mango in drei bis fünf Sätzen."}
+{"id": "alpagasus-1716", "instruction": "Identifizieren Sie eine Ressource, die der Schüler nutzen kann, um etwas über ein bestimmtes Thema zu lernen.\nThema: Der Bürgerkrieg"}
+{"id": "alpagasus-1717", "instruction": "Finden Sie Synonyme für eine Liste von Wörtern.\nWörter: Wütend, Zurückhaltend, Verärgert"}
+{"id": "alpagasus-1718", "instruction": "Kategorisieren Sie verschiedene Arten von Jobs in Berufsfelder.\nJobs: Arzt, Buchhalter, Lehrer, Schauspieler"}
+{"id": "alpagasus-1719", "instruction": "Beschreiben Sie die Hauptelemente eines politischen Systems."}
+{"id": "alpagasus-1720", "instruction": "Übersetzen Sie den folgenden Satz ins Spanische: „Ich freue mich sehr darauf, Spanisch zu lernen.“"}
+{"id": "alpagasus-1721", "instruction": "Schreiben Sie einen historischen Bericht über die Entdeckung des Penicillins"}
+{"id": "alpagasus-1722", "instruction": "Beschreiben Sie den Einfluss von Mobiltelefonen auf die Kommunikation"}
+{"id": "alpagasus-1723", "instruction": "Erstellen Sie eine Liste mit Fragen, die ein neuer Lehrer seinen Schülern in der ersten Schulwoche stellen sollte"}
+{"id": "alpagasus-1724", "instruction": "Klassifizieren Sie den folgenden Tweet als „positiv“, „negativ“ oder „neutral“: \n\n(Tweet) Endlich ist das Projekt fertig!"}
+{"id": "alpagasus-1725", "instruction": "Welche Vorteile bietet der Einsatz künstlicher Intelligenz für die Marktanalyse?"}
+{"id": "alpagasus-1726", "instruction": "Erklären Sie, was der Begriff „Beweislast“ bedeutet."}
+{"id": "alpagasus-1727", "instruction": "Erklären Sie, warum Online-Banking sicherer ist als physisches Banking."}
+{"id": "alpagasus-1728", "instruction": "Warum ist maschinelles Lernen für Unternehmen wichtig?"}
+{"id": "alpagasus-1729", "instruction": "Erstellen Sie eine Personifizierung der Sonne."}
+{"id": "alpagasus-1730", "instruction": "Verfassen Sie als Antwort auf die gegebene Eingabe ein Haiku.\nBlätter fallen von den Bäumen."}
+{"id": "alpagasus-1731", "instruction": "Verfassen Sie eine E-Mail, in der Sie Kunden zu einer Veranstaltung einladen\nVeranstaltung: 10. Jahrestag meines Unternehmens"}
+{"id": "alpagasus-1732", "instruction": "Erstellen Sie eine Liste der fünf wichtigsten Merkmale für einen 4.000 m² großen Garten"}
+{"id": "alpagasus-1733", "instruction": "Erstellen Sie einen Tweet, um für einen Ausverkauf zu werben\nVeranstaltung: Ausverkauf zum 10-jährigen Jubiläum meines Unternehmens"}
+{"id": "alpagasus-1734", "instruction": "Welchen Einfluss hatte der Erste Weltkrieg auf den Lauf der Geschichte?"}
+{"id": "alpagasus-1735", "instruction": "Erklären Sie, warum es wichtig ist, die Eigenschaften von Wellen zu verstehen"}
+{"id": "alpagasus-1736", "instruction": "Beschreiben Sie das Klimasystem der Erde."}
+{"id": "alpagasus-1737", "instruction": "Nennen Sie zwei bedeutende politische Parteien in Indien"}
+{"id": "alpagasus-1738", "instruction": "Füllen Sie die Lücke mit einem einzigen Wort aus.\nEr war _____, als er die Neuigkeiten hörte."}
+{"id": "alpagasus-1739", "instruction": "Bewerten Sie die Stimmung des Satzes auf einer Skala von 1 bis 5.\nIch hatte heute eine tolle Zeit am Strand."}
+{"id": "alpagasus-1740", "instruction": "Erstellen Sie eine Liste mit gesunden Mahlzeiten, die Sie zum Mittagessen einpacken können."}
+{"id": "alpagasus-1741", "instruction": "Nennen Sie zehn Tiere, die im tropischen Regenwald leben."}
+{"id": "alpagasus-1742", "instruction": "Finden Sie den kostengünstigsten Weg, diese Waren von China in die USA zu versenden.\n4000 Pfund Waren, Versandzeit 10 Tage, Versandkosten dürfen 5000 $ nicht überschreiten"}
+{"id": "alpagasus-1743", "instruction": "Formulieren Sie ein Sprichwort über die Wichtigkeit des Lernens"}
+{"id": "alpagasus-1744", "instruction": "Schlagen Sie einen Popsong vor, den ich mir anhören sollte."}
+{"id": "alpagasus-1745", "instruction": "Fassen Sie das folgende Leitbild des Unternehmens zusammen.\nWir in unserem Unternehmen streben danach, die Welt zu einem besseren Ort zu machen, indem wir Menschen mit Technologie verbinden und innovative Lösungen bereitstellen, die den globalen Bedürfnissen gerecht werden."}
+{"id": "alpagasus-1746", "instruction": "Erstellen Sie eine Restaurantbewertung für dieses Restaurant.\nPanera Bread"}
+{"id": "alpagasus-1747", "instruction": "Berechnen Sie das Volumen der Kugel mit dem angegebenen Radius.\nRadius: 12"}
+{"id": "alpagasus-1748", "instruction": "Erstellen Sie eine Liste der Elemente, die für die Organisation eines erfolgreichen virtuellen Meetings erforderlich sind."}
+{"id": "alpagasus-1749", "instruction": "Konvertieren Sie den folgenden Computercode von Python nach Java.\ndef greet(name):\nprint(f\"Hello, {name}!\")"}
+{"id": "alpagasus-1750", "instruction": "Übersetzen Sie diesen Satz vom Spanischen ins Englische: El sol no brilla hoy."}
+{"id": "alpagasus-1751", "instruction": "Beschreiben Sie den auditorischen Kortex."}
+{"id": "alpagasus-1752", "instruction": "Können Sie ein paar Tipps zur Optimierung der Website-Ladegeschwindigkeit geben?"}
+{"id": "alpagasus-1753", "instruction": "Ich muss meinen Flug ändern, kann mich aber nicht an die genauen Details erinnern. Können Sie mir helfen, meine Flugdetails nachzuschlagen?\nName: John Smith\nFlugdatum: 5. Juli 2021"}
+{"id": "alpagasus-1754", "instruction": "Erstellen Sie einen einprägsamen Slogan zur Bewerbung eines Produkts.\nProdukt: Probiotisches Nahrungsergänzungsmittel"}
+{"id": "alpagasus-1755", "instruction": "Typischerweise in der Wüste vorkommende Tiere"}
+{"id": "alpagasus-1756", "instruction": "Schlagen Sie Möglichkeiten zur Reduzierung des Kohlenstoffausstoßes vor"}
+{"id": "alpagasus-1757", "instruction": "Nehmen Sie eine gegebene Aussage und machen Sie sie überzeugender.\nWir sollten den öffentlichen Nahverkehr zugänglicher machen"}
+{"id": "alpagasus-1758", "instruction": "Erstellen Sie Produktbeschreibungen für ein Bambus-Schneidebrett."}
+{"id": "alpagasus-1759", "instruction": "Fassen Sie die Geschichte von Romeo und Julia in einem Satz zusammen."}
+{"id": "alpagasus-1760", "instruction": "Welche Schritte kann ich unternehmen, um Lebensmittelverschwendung zu vermeiden?"}
+{"id": "alpagasus-1761", "instruction": "Ist der folgende Satz im Aktiv oder Passiv geschrieben?\nDie Skulptur wurde vom Künstler handgefertigt."}
+{"id": "alpagasus-1762", "instruction": "Was ist der Unterschied zwischen normalem Eis und Gelato?"}
+{"id": "alpagasus-1763", "instruction": "Identifizieren Sie 5 verschiedene Arten der Marketingausrichtung"}
+{"id": "alpagasus-1764", "instruction": "Formulieren Sie einen Satz, der das Konzept „Empowerment“ beschreibt."}
+{"id": "alpagasus-1765", "instruction": "Generieren Sie eine entsprechende Antwort auf diese Anweisung: „Beschreiben Sie die Arten der Gesichtserkennungstechnologie, die in Sicherheitssystemen verwendet werden.“"}
+{"id": "alpagasus-1766", "instruction": "Erstellen Sie eine Beschreibung eines Traums, den eine Figur haben könnte."}
+{"id": "alpagasus-1767", "instruction": "Was verstehen wir unter maßgeschneiderter Software?"}
+{"id": "alpagasus-1768", "instruction": "Erstellen Sie eine Abfrage in SQL, um die Mitarbeiter zu finden, die in der Marketingabteilung arbeiten."}
+{"id": "alpagasus-1769", "instruction": "Welche Techniken helfen einem Einzelnen, seinen Stress abzubauen?"}
+{"id": "alpagasus-1770", "instruction": "Recherchieren und schreiben Sie 5 interessante Fakten über Ihre Stadt\nLos Angeles, USA"}
+{"id": "alpagasus-1771", "instruction": "Schlagen Sie eine umweltfreundliche Art zu reisen vor"}
+{"id": "alpagasus-1772", "instruction": "Analysieren Sie, warum eine bestimmte Branche erfolgreich ist\nSpielebranche"}
+{"id": "alpagasus-1773", "instruction": "Bilden Sie einen Satz, der die folgenden beiden Wörter kombiniert: „Erinnerung“ und „Zeit“."}
+{"id": "alpagasus-1774", "instruction": "Ordnen Sie diese Wörter ihren Synonymen zu:\n* Bewundernswert - \n* Revolutionär - \n* Gefeiert -"}
+{"id": "alpagasus-1775", "instruction": "Formulieren Sie diese Aussage so um, dass sie motivierender wirkt: „Sie haben hart gearbeitet, aber keine großen Fortschritte gemacht.“"}
+{"id": "alpagasus-1776", "instruction": "Wandeln Sie 12 Unzen in Gramm um."}
+{"id": "alpagasus-1777", "instruction": "Schreiben Sie diesen Satz in formeller Sprache um: „Ich werde ein neues Telefon kaufen.“"}
+{"id": "alpagasus-1778", "instruction": "Erstellen Sie ein Haiku zum Thema Natur."}
+{"id": "alpagasus-1779", "instruction": "Wählen Sie drei Gründe aus, warum jemand seinen Job aufgeben könnte."}
+{"id": "alpagasus-1780", "instruction": "Schreiben Sie einen Satz, der die Traurigkeit zerbrochener Träume ausdrückt"}
+{"id": "alpagasus-1781", "instruction": "Identifizieren Sie zwei Sicherheitstipps, die beim Benutzen einer Leiter beachtet werden sollten."}
+{"id": "alpagasus-1782", "instruction": "Erstellen Sie einen Text, der die Vorteile der Nutzung von Solarenergie beschreibt."}
+{"id": "alpagasus-1783", "instruction": "Erstellen Sie eine Liste mit vier Vitaminen und ihren entsprechenden Vorteilen"}
+{"id": "alpagasus-1784", "instruction": "Beschreiben Sie das Gefühl, einen großen Preis zu gewinnen."}
+{"id": "alpagasus-1785", "instruction": "Bilden Sie einen gültigen spanischen Satz mit den folgenden Vokabeln.\nWörter: bailar, gustar, triste"}
+{"id": "alpagasus-1786", "instruction": "Erklären Sie, warum der folgende Satz grammatikalisch falsch ist.\nIch habe einen Hund gesehen."}
+{"id": "alpagasus-1787", "instruction": "Erstellen Sie eine Analogie, um das Konzept eines Schwarzen Lochs zu veranschaulichen."}
+{"id": "alpagasus-1788", "instruction": "Beschreiben Sie, wie die verborgene Welt aussah, die John entdeckte."}
+{"id": "alpagasus-1789", "instruction": "Wie trägt Vielfalt am Arbeitsplatz zur Innovation bei?"}
+{"id": "alpagasus-1790", "instruction": "Fassen Sie die Vor- und Nachteile des Einsatzes künstlicher Intelligenz am Arbeitsplatz zusammen."}
+{"id": "alpagasus-1791", "instruction": "Schreiben Sie einen Blogbeitrag mit dem Titel „Top 5 Tipps zum Stressmanagement“"}
+{"id": "alpagasus-1792", "instruction": "Sag mir, was eine Suchmaschine ist"}
+{"id": "alpagasus-1793", "instruction": "Beantworten Sie diese Frage: Wie funktionieren Suchmaschinen?"}
+{"id": "alpagasus-1794", "instruction": "Erstellen Sie eine Liste der im Klassenzimmer gefundenen Gegenstände"}
+{"id": "alpagasus-1795", "instruction": "Erzeugen Sie eine Metapher über Kreativität"}
+{"id": "alpagasus-1796", "instruction": "Erstellen Sie eine überzeugende Überschrift für einen Artikel über die Umweltvorteile einer veganen Ernährung."}
+{"id": "alpagasus-1797", "instruction": "Wie würden Sie jemandem antworten, der sagt: „Du hörst mir nie zu“?"}
+{"id": "alpagasus-1798", "instruction": "Erstellen Sie einen passenden Titel für einen Blogbeitrag mit Tipps und Tricks zur Verbesserung der Schreibfähigkeiten."}
+{"id": "alpagasus-1799", "instruction": "Schreiben Sie eine Überschrift für einen Artikel über die Vorteile des Einsatzes von KI im Finanzsektor."}
+{"id": "alpagasus-1800", "instruction": "Bilden Sie einen Satz im Present Perfect."}
+{"id": "alpagasus-1801", "instruction": "Formulieren Sie eine angemessene Entschuldigung für das Versäumen eines Termins."}
+{"id": "alpagasus-1802", "instruction": "Nennen Sie mir drei Möglichkeiten, wie wir die Luftverschmutzung reduzieren können."}
+{"id": "alpagasus-1803", "instruction": "Erstelle ein Rezept für einen veganen Frühstücksmuffin mit folgenden Zutaten: Hafermehl, Mandelmilch und Blaubeeren."}
+{"id": "alpagasus-1804", "instruction": "Erstellen Sie eine Anzeige, die für das folgende Produkt wirbt:\nIntelligenter Wecker"}
+{"id": "alpagasus-1805", "instruction": "Erstellen Sie eine entsprechende SQL-Abfrage, um die angeforderten Daten abzurufen.\nAngeforderte Daten: Finden Sie alle Kunden, die sich in New York befinden."}
+{"id": "alpagasus-1806", "instruction": "Berechnen Sie mit dem Satz des Pythagoras die Entfernung zwischen den beiden Punkten.\nPunkte (2, 6) und (9, 3)"}
+{"id": "alpagasus-1807", "instruction": "Erstellen Sie ein Regex-Muster, das mit allen Namen übereinstimmt.\nAlle Namen sollten mit einem Großbuchstaben beginnen, gefolgt von allen Buchstaben."}
+{"id": "alpagasus-1808", "instruction": "Wie würden Sie das angegebene Produkt bewerten?\nProdukt: Apple iPhone 12"}
+{"id": "alpagasus-1809", "instruction": "Nennen Sie die Vor- und Nachteile der jeweiligen Situation.\nSituation: Arbeiten von zu Hause aus."}
+{"id": "alpagasus-1810", "instruction": "Erfinden Sie eine Geschichte über eine Person, die die Sterne nutzt, um mit ihren Lieben zu kommunizieren."}
+{"id": "alpagasus-1811", "instruction": "Erstellen Sie eine Liste mit zehn Maßnahmen, mit denen Sie Strom sparen können."}
+{"id": "alpagasus-1812", "instruction": "Geben Sie Beispiele für Primzahlen"}
+{"id": "alpagasus-1813", "instruction": "Entwickeln Sie eine kreative, aber umsetzbare Idee zur Einführung einer neuen Online-Plattform."}
+{"id": "alpagasus-1814", "instruction": "Nennen Sie alle Noten innerhalb einer Oktave (einschließlich Kreuze und Bs)."}
+{"id": "alpagasus-1815", "instruction": "Entwerfen Sie ein Logo für ein Sportartikelgeschäft."}
+{"id": "alpagasus-1816", "instruction": "Generieren Sie mit den folgenden Eingaben einen passenden Witz.\nEin Geist und ein Vampir"}
+{"id": "alpagasus-1817", "instruction": "Listen Sie die Bundesstaaten der Vereinigten Staaten von Amerika in alphabetischer Reihenfolge auf."}
+{"id": "alpagasus-1818", "instruction": "Geben Sie eine kurze Beschreibung der Figur „Achilles“ aus der griechischen Mythologie."}
+{"id": "alpagasus-1819", "instruction": "Geben Sie ein Beispiel, wann die Verwendung der Phrase „alle Jubeljahre einmal“ angebracht wäre."}
+{"id": "alpagasus-1820", "instruction": "Ermitteln Sie den Grund, warum manche Menschen keinen Zugang zur Gesundheitsversorgung haben."}
+{"id": "alpagasus-1821", "instruction": "Schreiben Sie 5 Fragen zur COVID-19-Situation"}
+{"id": "alpagasus-1822", "instruction": "Erstellen Sie eine aufmerksamkeitsstarke Schlagzeile für die folgenden Nachrichten:\nDie mexikanische Regierung hat ein Gesetz zum Schutz der Rechte von Migranten verabschiedet."}
+{"id": "alpagasus-1823", "instruction": "Schreiben Sie diesen Satz um, indem Sie ein anderes Verb verwenden.\nSie holte das Gebäck aus der Bäckerei."}
+{"id": "alpagasus-1824", "instruction": "Generieren Sie einen zufälligen 5-stelligen Code."}
+{"id": "alpagasus-1825", "instruction": "Finden Sie die ersten 10 Primzahlen."}
+{"id": "alpagasus-1826", "instruction": "Erklären Sie das Konzept „Software as a Service“ (SaaS)."}
+{"id": "alpagasus-1827", "instruction": "Zeigen Sie, wie eine Umfrage gestaltet wird."}
+{"id": "alpagasus-1828", "instruction": "Erstellen Sie eine Tabelle für das Wachstum der EU-Bevölkerung von 2000 bis 2021."}
+{"id": "alpagasus-1829", "instruction": "Erstellen Sie eine Liste mit fünf Dingen, die Menschen tun können, um umweltfreundlich zu sein."}
+{"id": "alpagasus-1830", "instruction": "Erstellen Sie eine fiktive Figur basierend auf den folgenden drei Eigenschaften:\ntalentiert, ehrgeizig und verschwiegen"}
+{"id": "alpagasus-1831", "instruction": "Schreiben Sie einen Artikel darüber, wie Online-Lernen immer beliebter wird."}
+{"id": "alpagasus-1832", "instruction": "Generieren Sie 5 Adjektive, um eine Fernsehsendung zu beschreiben."}
+{"id": "alpagasus-1833", "instruction": "Veranschaulichen Sie, wie man einen Schokoladeneisbecher zubereitet."}
+{"id": "alpagasus-1834", "instruction": "Konstruieren Sie einen Dialog für einen angenehmen Austausch zwischen zwei Personen."}
+{"id": "alpagasus-1835", "instruction": "Konstruieren Sie einen Dialog für zwei Personen, die über etwas unterschiedlicher Meinung sind."}
+{"id": "alpagasus-1836", "instruction": "Erstellen Sie ein personalisiertes Motto für ein Unternehmen.\nKampanien-Aufstand"}
+{"id": "alpagasus-1837", "instruction": "Widerlegen Sie die folgende Behauptung: Obst ist kein gesunder Snack."}
+{"id": "alpagasus-1838", "instruction": "Erstellen Sie eine Profilbeschreibung für einen Personal Trainer"}
+{"id": "alpagasus-1839", "instruction": "Fügen Sie einer vorhandenen Vokabelliste 10 Wörter hinzu.\nVorhandene Vokabelliste: glücklich, traurig, lustig, wütend, verängstigt, aufgeregt, voller Energie, müde, verwirrt, frustriert"}
+{"id": "alpagasus-1840", "instruction": "Vogelbeobachtung – geben Sie eine Beschreibung eines bestimmten Vogels.\nRotschwanzbussard"}
+{"id": "alpagasus-1841", "instruction": "Finden Sie heraus, bei welcher Temperatur Wasser siedet."}
+{"id": "alpagasus-1842", "instruction": "Ermitteln Sie die Entfernung zwischen zwei Punkten mit den folgenden Koordinaten.\nPunkt A: (2, 3)\nPunkt B: (6, 4)"}
+{"id": "alpagasus-1843", "instruction": "Erstellen Sie eine Zeichentrickfigur, die einer Maus ähnelt."}
+{"id": "alpagasus-1844", "instruction": "Listen Sie die fünf Sinne des Menschen auf."}
+{"id": "alpagasus-1845", "instruction": "Nennen Sie ein Beispiel für ein ballaststoffreiches Nahrungsmittel."}
+{"id": "alpagasus-1846", "instruction": "Ändern Sie den Text, sodass er ein Imperativ ist.\nSie sollten sich für das Rennen anmelden."}
+{"id": "alpagasus-1847", "instruction": "eine passende Analogie schaffen\nSchreiben ist wie ein Puzzle machen"}
+{"id": "alpagasus-1848", "instruction": "Erstellen Sie einen Absatz, der eine Verfolgungsjagd zwischen zwei Fahrern beschreibt."}
+{"id": "alpagasus-1849", "instruction": "Schreiben Sie ein Akrostichon zum Thema „Freundschaft“"}
+{"id": "alpagasus-1850", "instruction": "Ordnen Sie die Definition dem Wort zu:\nOutlaw\nDefinition: Eine Person, die das Gesetz bricht.\nWort: Outlaw"}
+{"id": "alpagasus-1851", "instruction": "Ordnen Sie sie mithilfe der folgenden Phrase zu einem sinnvollen Satz:\nweit verbreitet, langsam, erkannt"}
+{"id": "alpagasus-1852", "instruction": "Lösen Sie die folgende mathematische Gleichung.\n4 * 4 * 4 * 4 - 10"}
+{"id": "alpagasus-1853", "instruction": "Verfassen Sie eine Liedstrophe.\nDer Schmerz einer verlorenen Liebe."}
+{"id": "alpagasus-1854", "instruction": "Erstellen Sie eine Einkaufsliste mit fünf Zutaten für ein gesundes Frühstück"}
+{"id": "alpagasus-1855", "instruction": "Überlegen Sie sich drei Möglichkeiten, wie das gegebene System verbessert werden könnte\nFlughafensicherheitssystem"}
+{"id": "alpagasus-1856", "instruction": "Entwerfen Sie einen Roboter, der den Rasen mähen kann."}
+{"id": "alpagasus-1857", "instruction": "Erstellen Sie einen Dialog zwischen zwei Personen, die über die globale Erwärmung diskutieren."}
+{"id": "alpagasus-1858", "instruction": "Was war die erste Facebook-Funktion?"}
+{"id": "alpagasus-1859", "instruction": "Erstellen Sie ein Haiku-Gedicht, das zum Eingabesatz passt.\nDer Herbst ist dieses Jahr früh gekommen."}
+{"id": "alpagasus-1860", "instruction": "Finden Sie drei berühmte Personen, die am 22. Juni geboren wurden."}
+{"id": "alpagasus-1861", "instruction": "Identifizieren Sie das bevölkerungsreichste Land der Welt."}
+{"id": "alpagasus-1862", "instruction": "Überlegen Sie sich ein inspirierendes Zitat."}
+{"id": "alpagasus-1863", "instruction": "Bilden Sie einen Satz mit einer Metapher, um einen freundschaftlichen Wettkampf zu beschreiben."}
+{"id": "alpagasus-1864", "instruction": "Finden Sie den Wert von x.\n4x - 2 = 10"}
+{"id": "alpagasus-1865", "instruction": "Erstellen Sie mit den gegebenen Informationen einen kurzen Dialog.\nFiguren: Nancy und John\nThema: Buch"}
+{"id": "alpagasus-1866", "instruction": "Schlagen Sie einen Dialog vor, um die gegebene Situation zu lösen.\nFiguren: Alex und Nancy\nSituation: Nancy möchte Alex ihr Buch leihen, aber Alex möchte es nicht lesen."}
+{"id": "alpagasus-1867", "instruction": "Erstellen Sie einen Marketingslogan für einen Campingladen."}
+{"id": "alpagasus-1868", "instruction": "Erstellen Sie ein Website-Feedbackformular."}
+{"id": "alpagasus-1869", "instruction": "Erfinde eine Geschichte, die den Satz beendet.\nDer Fluss schlängelte sich durch den Wald,"}
+{"id": "alpagasus-1870", "instruction": "Geben Sie der folgenden Buchbesprechung eine Punktzahl von 5.\nIch habe dieses Buch wirklich genossen. Es war eine spannende Lektüre und hatte eine interessante Handlung."}
+{"id": "alpagasus-1871", "instruction": "Beschreiben Sie den Wärmeübertragungsprozess."}
+{"id": "alpagasus-1872", "instruction": "Erklären Sie, warum Kohlendioxid als Treibhausgas gilt."}
+{"id": "alpagasus-1873", "instruction": "Erzeugen Sie einen Dialog zwischen einem Kundendienstmitarbeiter und einem Kunden, der eine Beschwerde hat."}
+{"id": "alpagasus-1874", "instruction": "Überlegen Sie sich eine Überschrift für einen Artikel über die Schwierigkeiten der Heimarbeit."}
+{"id": "alpagasus-1875", "instruction": "Erstellen Sie ein kurzes Gedicht im Haiku-Stil (3 Zeilen mit jeweils 5-7-5 Silben)."}
+{"id": "alpagasus-1876", "instruction": "Recherchieren Sie einen berühmten Koch, der sich pflanzlich ernährt, fassen Sie seinen Werdegang zusammen und geben Sie den Link zu seiner Website an."}
+{"id": "alpagasus-1877", "instruction": "Schreiben Sie eine 5-Satz-Zusammenfassung der Geschichte des Internets"}
+{"id": "alpagasus-1878", "instruction": "Erstellen Sie eine Liste mit 10 Zielen für ein kleines Unternehmen."}
+{"id": "alpagasus-1879", "instruction": "Beschreiben Sie die Charaktereigenschaften von Harry Potter"}
+{"id": "alpagasus-1880", "instruction": "Nennen Sie fünf Vorteile des Spazierengehens"}
+{"id": "alpagasus-1881", "instruction": "Diese Kilometer in Meilen umrechnen\n90 Kilometer"}
+{"id": "alpagasus-1882", "instruction": "Beschreiben Sie den Geruch des Strandes im Frühling."}
+{"id": "alpagasus-1883", "instruction": "Formatieren Sie diesen Text, um ihn leserfreundlicher zu gestalten.\nWir alle machen Fehler, manche schlimmer als andere.\n\nIm Leben geht es darum, zu versuchen, die Dinge richtig zu machen."}
+{"id": "alpagasus-1884", "instruction": "Beschreiben Sie eine Figur im Kontext einer humorvollen Geschichte."}
+{"id": "alpagasus-1885", "instruction": "Erzählen Sie eine Geschichte, die das Konzept von Karma erklärt."}
+{"id": "alpagasus-1886", "instruction": "Erstelle ein vierzeiliges Gedicht"}
+{"id": "alpagasus-1887", "instruction": "Identifizieren Sie die verschiedenen Seiten einer Brücke"}
+{"id": "alpagasus-1888", "instruction": "Erklären Sie die Bedeutung des Recyclings"}
+{"id": "alpagasus-1889", "instruction": "Automatisieren Sie eine E-Mail-Antwort zur Bestätigung der Registrierung eines Benutzers\nJohn Smith, john@example.com"}
+{"id": "alpagasus-1890", "instruction": "Kombinieren Sie die folgenden beiden Arrays ohne Duplikate\n[1, 2, 3] und [3, 4, 5]"}
+{"id": "alpagasus-1891", "instruction": "Erfinde eine originelle Science-Fiction-Geschichte"}
+{"id": "alpagasus-1892", "instruction": "Beschreiben Sie das Bild einer startenden Weltraumrakete."}
+{"id": "alpagasus-1893", "instruction": "Beschreiben Sie die Visualisierung eines wandernden Vogelschwarms."}
+{"id": "alpagasus-1894", "instruction": "Setzen Sie die folgenden Wörter in einen Beispielsatz ein.\nglücklich, essen, Käse"}
+{"id": "alpagasus-1895", "instruction": "Welche Farbe repräsentiert am besten das Gefühl der Gelassenheit?"}
+{"id": "alpagasus-1896", "instruction": "Beschreiben Sie die Bedeutung der Phrase „alle Jubeljahre einmal“."}
+{"id": "alpagasus-1897", "instruction": "Erstelle eine Geschichte basierend auf den folgenden drei Wörtern: Raumschiff, Detektiv, Chor"}
+{"id": "alpagasus-1898", "instruction": "Beschreiben Sie das Wohnzimmer Ihres Hauses"}
+{"id": "alpagasus-1899", "instruction": "Erzeugen Sie ein Haiku mit der angegebenen Wortliste.\nWortliste: Morgen, Blatt, Mond, Wind"}
+{"id": "alpagasus-1900", "instruction": "Bestimmen Sie, ob die angegebene Zahl eine Primzahl ist oder nicht.\nZahl: 97"}
+{"id": "alpagasus-1901", "instruction": "Generieren Sie bei einer natürlichsprachlichen Abfrage eine SQL-Abfrage.\nNatürlichsprachliche Abfrage: Zeigen Sie mir die Anzahl der Personen über 20 in der Datenbank."}
+{"id": "alpagasus-1902", "instruction": "Das Wetter für morgen in San Francisco vorhersagen"}
+{"id": "alpagasus-1903", "instruction": "Generieren Sie 50 Wörter, die mit dem Wort „Baseball“ verknüpft sind."}
+{"id": "alpagasus-1904", "instruction": "Bearbeiten Sie den Satz: „Wenn wir es versuchen, werden wir Erfolg haben.“"}
+{"id": "alpagasus-1905", "instruction": "Ein Kunde verlangt eine Rückerstattung. Schreiben Sie eine höfliche Antwort."}
+{"id": "alpagasus-1906", "instruction": "Nennen Sie fünf gesundheitliche Vorteile, die mit Sport verbunden sind."}
+{"id": "alpagasus-1907", "instruction": "Bewerten Sie den Schwierigkeitsgrad der folgenden Aufgaben auf einer Skala von 1 bis 5.\nEinen Zauberwürfel lösen"}
+{"id": "alpagasus-1908", "instruction": "Entwerfen Sie einen Website-Header, der den Richtlinien zur Barrierefreiheit entspricht."}
+{"id": "alpagasus-1909", "instruction": "Erstellen Sie eine Liste mit drei Sicherheitstipps, die Kinder auf dem Schulweg beachten sollten."}
+{"id": "alpagasus-1910", "instruction": "Finden Sie die entsprechende Kindergröße für eine Damengröße 6"}
+{"id": "alpagasus-1911", "instruction": "Geben Sie mir eine Liste mit gesunden Snacks, die ich essen kann"}
+{"id": "alpagasus-1912", "instruction": "Finden Sie die fünf Schritte zum Meditieren"}
+{"id": "alpagasus-1913", "instruction": "Formulieren Sie ein Argument, um einen Freund zum Reisen zu überreden"}
+{"id": "alpagasus-1914", "instruction": "Erstellen Sie eine fiktive Geschichte über einen weisen alten Einsiedler, der Menschen in Not im Wald hilft."}
+{"id": "alpagasus-1915", "instruction": "Erstellen Sie eine Liste mit Lebensmitteln, die gute Proteinquellen sind."}
+{"id": "alpagasus-1916", "instruction": "Schlagen Sie einer Gruppe von Personen und einem Ziel eine effiziente Möglichkeit vor, wie sie dorthin gelangen können.\n7 Personen, San Francisco"}
+{"id": "alpagasus-1917", "instruction": "Erstellen Sie eine Produktbeschreibung für einen Damen-Hoodie aus Baumwolle."}
+{"id": "alpagasus-1918", "instruction": "Erstellen Sie aus dem vorgegebenen Satz ein Gedicht, indem Sie ihn mit einem anderen Satz kombinieren.\nDer Himmel war in den Farben der Nacht gemalt."}
+{"id": "alpagasus-1919", "instruction": "Entwerfen Sie ein Bewerbungsformular"}
+{"id": "alpagasus-1920", "instruction": "Erklären Sie die Unterschiede zwischen den folgenden Wörtern: „Akzent“ und „Dialekt“."}
+{"id": "alpagasus-1921", "instruction": "Erstellen Sie ein Haiku mit natürlichen Sätzen."}
+{"id": "alpagasus-1922", "instruction": "Beschreiben Sie, was ein gültiges Passwort ausmacht."}
+{"id": "alpagasus-1923", "instruction": "Erstellen Sie eine Liste mit 5 Adjektiven, die einen Blumenstrauß beschreiben"}
+{"id": "alpagasus-1924", "instruction": "Fassen Sie die Informationen in 4 Sätzen zusammen.\nTwitter ist mit Millionen von Nutzern eine der beliebtesten Social-Media-Plattformen. Es hat die Art und Weise verändert, wie Menschen kommunizieren und Informationen austauschen. Es ist eine großartige Möglichkeit, Gespräche zu beginnen, und es ist auch eine großartige Möglichkeit für Unternehmen, ihre Produkte und Dienstleistungen zu vermarkten."}
+{"id": "alpagasus-1925", "instruction": "Generieren Sie einen englischen Satz für die angegebenen französischen Wörter.\nle thé"}
+{"id": "alpagasus-1926", "instruction": "Erstellen Sie eine Metapher, um die Bedeutung des Begriffs „Selbstzweifel“ zu erklären."}
+{"id": "alpagasus-1927", "instruction": "Beschreiben Sie, wie sich die ökologische Landwirtschaft von traditionellen Methoden unterscheidet."}
+{"id": "alpagasus-1928", "instruction": "Bitte geben Sie eine Definition des Wortes „heterogen“."}
+{"id": "alpagasus-1929", "instruction": "Geben Sie 6 Tipps zum Lernen für eine Prüfung."}
+{"id": "alpagasus-1930", "instruction": "Zitieren Sie zwei Werke verschiedener Autoren im MLA-Stil."}
+{"id": "alpagasus-1931", "instruction": "Beschreiben Sie die Auswirkungen neuer Technologien auf den Markt."}
+{"id": "alpagasus-1932", "instruction": "Finden Sie die Summe von 5, 7 und 9"}
+{"id": "alpagasus-1933", "instruction": "Erklären Sie, was der Begriff „Quantenverschränkung“ bedeutet"}
+{"id": "alpagasus-1934", "instruction": "Welches ist das schnellste Landtier der Erde?"}
+{"id": "alpagasus-1935", "instruction": "Teilen Sie fünf Fakten über den Mount Everest."}
+{"id": "alpagasus-1936", "instruction": "Komponieren Sie ein Lied in h-Moll."}
+{"id": "alpagasus-1937", "instruction": "Was ist die beste Erklärung dafür, warum wir Energie sparen sollten?"}
+{"id": "alpagasus-1938", "instruction": "Verfassen Sie ein Gedicht über den Winter mit den angegebenen Schlüsselwörtern.\nSchnee, frostig, Eis, kühl"}
+{"id": "alpagasus-1939", "instruction": "Generieren Sie einen Jingle für die folgende Marke: Nike"}
+{"id": "alpagasus-1940", "instruction": "Erstelle einen poetischen Satz mit Reim, der die Schönheit eines Sonnenaufgangs beschreibt.\nKeine Eingabe"}
+{"id": "alpagasus-1941", "instruction": "Generieren Sie einen Filmtitel, der ein Genre repräsentiert, das Fantasy und Romantik verbindet.\nKeine Eingabe"}
+{"id": "alpagasus-1942", "instruction": "Erfinden Sie ein neues Rezept mit mindestens zwei der folgenden Zutaten: Quinoa, Garnelen, Avocado und Knoblauch."}
+{"id": "alpagasus-1943", "instruction": "Erstellen Sie eine Liste mit Adjektiven, um eine ehrliche Person zu beschreiben."}
+{"id": "alpagasus-1944", "instruction": "Nennen Sie zwei Gerichte, die eine gemeinsame Zutat haben."}
+{"id": "alpagasus-1945", "instruction": "Finden Sie das nächstgelegene Restaurant, das italienische Küche anbietet.\n40.752007, -73.984140"}
+{"id": "alpagasus-1946", "instruction": "Erstellen Sie eine detaillierte Einkaufsliste.\nHaushalt mit vier Erwachsenen."}
+{"id": "alpagasus-1947", "instruction": "Erstellen Sie eine Einkaufsliste für jemanden, der ein Picknick im Freien plant.\nDas Picknick ist für vier Personen."}
+{"id": "alpagasus-1948", "instruction": "Erstellen Sie eine Liste der in Indien verbreiteten Wildtiere"}
+{"id": "alpagasus-1949", "instruction": "Verfassen Sie ein Originalgedicht zum Thema Freude"}
+{"id": "alpagasus-1950", "instruction": "Erstellen Sie eine Liste der von Margaret Atwood geschriebenen Bücher"}
+{"id": "alpagasus-1951", "instruction": "Fügen Sie dieser Geschichte ein Ende hinzu\n\nSara war gefühlt stundenlang unterwegs. Endlich fand sie, wonach sie gesucht hatte."}
+{"id": "alpagasus-1952", "instruction": "Beschreiben Sie das Klima der Sahara."}
+{"id": "alpagasus-1953", "instruction": "Geben Sie eine Definition von Solarenergie."}
+{"id": "alpagasus-1954", "instruction": "Konvertieren Sie den folgenden Codeausschnitt ins Englische.\nfor (int i = 0; i < array.length; i++)"}
+{"id": "alpagasus-1955", "instruction": "Wie werden Adjektive in einem Satz verwendet?"}
+{"id": "alpagasus-1956", "instruction": "Formulieren Sie diesen Satz um, um ihn weniger formell zu machen.\nIch wäre Ihnen äußerst dankbar, wenn Sie mir bis Freitag eine Antwort zukommen lassen würden."}
+{"id": "alpagasus-1957", "instruction": "Erstellen Sie eine Liste mit fünf Adjektiven, die den Geschmack von Schokolade beschreiben."}
+{"id": "alpagasus-1958", "instruction": "Erstellen Sie einen gültigen HTML-Code, um einen Link hinzuzufügen."}
+{"id": "alpagasus-1959", "instruction": "Fassen Sie die Bedeutung der Bürgerrechtsbewegung zusammen."}
+{"id": "alpagasus-1960", "instruction": "Erstellen Sie eine Einkaufsliste für einen Wochenendausflug an den Strand."}
+{"id": "alpagasus-1961", "instruction": "Erstellen Sie einen Bot, der ein Diskussionsforum moderieren kann."}
+{"id": "alpagasus-1962", "instruction": "Schlagen Sie eine Möglichkeit vor, über die neuesten Nachrichten im KI-Bereich auf dem Laufenden zu bleiben."}
+{"id": "alpagasus-1963", "instruction": "Entwickeln Sie ein Programm zum Erkennen und Kennzeichnen beleidigender Sprache."}
+{"id": "alpagasus-1964", "instruction": "Erstellen Sie eine Liste aller Nationalparks in den Vereinigten Staaten."}
+{"id": "alpagasus-1965", "instruction": "Erstellen Sie eine Liste der fünf größten Seen in den Vereinigten Staaten."}
+{"id": "alpagasus-1966", "instruction": "Schreiben Sie 5 Haiku über die Natur."}
+{"id": "alpagasus-1967", "instruction": "Erklären Sie, warum Albert Einstein als einer der einflussreichsten Wissenschaftler gilt."}
+{"id": "alpagasus-1968", "instruction": "Schreiben Sie 5 Tipps für die Arbeit von zu Hause auf."}
+{"id": "alpagasus-1969", "instruction": "Erstellen Sie eine Liste mit 10 leicht zuzubereitenden Rezepten."}
+{"id": "alpagasus-1970", "instruction": "Überlegen Sie sich 5 Aktivitäten für die Geburtstagsparty eines 5-Jährigen."}
+{"id": "alpagasus-1971", "instruction": "Finden Sie eine Schule in der angegebenen Stadt, die sich auf das angegebene Fach konzentriert\nStadt: Los Angeles,\nFach: Informatik"}
+{"id": "alpagasus-1972", "instruction": "Erstellen Sie einen Slogan für eine Online-Plattform mit dem Ziel, Entwicklern pragmatische Ressourcen bereitzustellen."}
+{"id": "alpagasus-1973", "instruction": "Fassen Sie den Inhalt eines Nachrichtenartikels über die Auswirkungen der globalen Erwärmung zusammen.\nhttps://edition.cnn.com/2020/05/19/world/global-warming-impacts-climate-change-trnd/index.html"}
+{"id": "alpagasus-1974", "instruction": "Erstellen Sie eine E-Mail mit der Bitte um ein Treffen mit einem Professor."}
+{"id": "alpagasus-1975", "instruction": "Suchen Sie ein Lied, das zu dieser Stimmung passt: traurig und sanft."}
+{"id": "alpagasus-1976", "instruction": "Finden Sie mir ein nettes Restaurant in der Nähe des Stadtzentrums."}
+{"id": "alpagasus-1977", "instruction": "Übersetzen Sie „la croissance verte“ ins Englische."}
+{"id": "alpagasus-1978", "instruction": "Überlegen Sie sich eine Möglichkeit, trotz der sozialen Distanzierung jemandes Geburtstag zu feiern."}
+{"id": "alpagasus-1979", "instruction": "Verfassen Sie einen Tweet über die Bedeutung eines ökologisch nachhaltigen Lebensstils."}
+{"id": "alpagasus-1980", "instruction": "Überlegen Sie sich eine pädagogische Aktivität für einen Fünfjährigen."}
+{"id": "alpagasus-1981", "instruction": "Bilden Sie einen Satz, um die Bedeutung des Wortes „unnachgiebig“ zu veranschaulichen."}
+{"id": "alpagasus-1982", "instruction": "Liste 3 Websites zum Finden von ermäßigten Hotelangeboten"}
+{"id": "alpagasus-1983", "instruction": "Erstellen Sie ein Zitat über Ausdauer"}
+{"id": "alpagasus-1984", "instruction": "Erstellen Sie eine Liste mit Adjektiven, die einen Wahrsager beschreiben."}
+{"id": "alpagasus-1985", "instruction": "Erstellen Sie eine Liste mit 5 wichtigen Daten der US-Geschichte."}
+{"id": "alpagasus-1986", "instruction": "Erstellen Sie eine Liste mit 6 wichtigen Elementen für eine erfolgreiche Online-Marketingkampagne"}
+{"id": "alpagasus-1987", "instruction": "Entwickeln Sie eine Metapher, um zu erklären, warum es wichtig ist, auf ein Vorstellungsgespräch vorbereitet zu sein."}
+{"id": "alpagasus-1988", "instruction": "Erstellen Sie eine Benutzerpersönlichkeit für einen Geschäftsinhaber, der eine Website für sein neues Reinigungsunternehmen benötigt."}
+{"id": "alpagasus-1989", "instruction": "Beschreiben Sie die Vorteile der Verwendung elektronischer Krankenakten."}
+{"id": "alpagasus-1990", "instruction": "Erstellen Sie eine Liste mit Adjektiven, um das angegebene Nomen zu beschreiben.\nNomen: Katze"}
+{"id": "alpagasus-1991", "instruction": "Schreiben Sie zwei alternative Enden für die folgende Geschichte.\nGeschichte:\nMia hatte den Sommer über ihre Großeltern besucht, aber für sie war es an der Zeit, nach Hause zurückzukehren."}
+{"id": "alpagasus-1992", "instruction": "Verfassen Sie ein fünfzeiliges Gedicht, das den Sonnenuntergang beschreibt."}
+{"id": "alpagasus-1993", "instruction": "Informieren Sie sich über das Rezept für „Apfelkuchen im Teigmantel“ und erstellen Sie die notwendigen Schritte zur Zubereitung des Gerichts."}
+{"id": "alpagasus-1994", "instruction": "Erstelle einen Rap, der die folgenden Wörter verwendet:\nWeisheit, Wissen"}
+{"id": "alpagasus-1995", "instruction": "Schreiben Sie eine Definition (10 Wörter oder weniger) für das Wort „Erleuchtung“."}
+{"id": "alpagasus-1996", "instruction": "Erstellen Sie eine Liste mit den fünf Eigenschaften einer idealen Führungskraft."}
+{"id": "alpagasus-1997", "instruction": "Erstellen Sie eine Überschrift für einen Artikel zum Thema Geldsparen"}
+{"id": "alpagasus-1998", "instruction": "Erklären Sie die Bedeutung des Begriffs „Bestätigungsfehler“"}
+{"id": "alpagasus-1999", "instruction": "Beschreiben Sie das Gefühl der Zufriedenheit"}

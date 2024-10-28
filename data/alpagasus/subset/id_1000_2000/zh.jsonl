@@ -1,0 +1,1000 @@
+{"id": "alpagasus-1000", "instruction": "找出加拿大的首都。输出该城市的名称。"}
+{"id": "alpagasus-1001", "instruction": "重写以下句子以保留其含义。\n要求学生在黑板上画一幅画。"}
+{"id": "alpagasus-1002", "instruction": "给出以下文本，用一句话总结。\n本文介绍了一种从视频数据中学习的新技术。我们的方法基于时间卷积网络，该网络在从每个视频样本中提取的多个时间段上进行训练。我们在多个动作识别数据集上验证了我们的方法，并在现有的最先进算法中取得了有竞争力的结果。"}
+{"id": "alpagasus-1003", "instruction": "描述一次你不得不与一个难相处的人一起工作的经历"}
+{"id": "alpagasus-1004", "instruction": "列出一些有效的技巧以便更好地沟通。"}
+{"id": "alpagasus-1005", "instruction": "创作一首含义深刻的俳句。"}
+{"id": "alpagasus-1006", "instruction": "描述一个虚构的人物。"}
+{"id": "alpagasus-1007", "instruction": "用一句话描述一个人的性格。"}
+{"id": "alpagasus-1008", "instruction": "集思广益，想出烹饪特定食物的不同方法。\n猪排"}
+{"id": "alpagasus-1009", "instruction": "均衡饮食重要吗？"}
+{"id": "alpagasus-1010", "instruction": "为想要学习普通话的学生提供一些建议。"}
+{"id": "alpagasus-1011", "instruction": "使用您选择的标题和主题生成 10 行诗句。\n标题：“内心之旅”\n主题：反思、重生、目的"}
+{"id": "alpagasus-1012", "instruction": "告诉我制作美味冰沙的配料。"}
+{"id": "alpagasus-1013", "instruction": "解释什么是大爆炸理论。"}
+{"id": "alpagasus-1014", "instruction": "提出问题以继续对话\nSheila：我正在尝试探索新的职业道路\nLeo：太好了！"}
+{"id": "alpagasus-1015", "instruction": "为经营网上银行的公司创建标语。"}
+{"id": "alpagasus-1016", "instruction": "给不同国家的某人写一封笔友信。"}
+{"id": "alpagasus-1017", "instruction": "创建火箭的详细图纸。"}
+{"id": "alpagasus-1018", "instruction": "列出彩虹中的颜色。"}
+{"id": "alpagasus-1019", "instruction": "针对学校或社区中出现的问题提出有创意的解决方案。"}
+{"id": "alpagasus-1020", "instruction": "整理一份玛格丽特披萨食谱所需原料的清单。"}
+{"id": "alpagasus-1021", "instruction": "用一句话描述不同类型的云。"}
+{"id": "alpagasus-1022", "instruction": "列出创业的五个步骤。"}
+{"id": "alpagasus-1023", "instruction": "用一个句子描述月亮的不同阶段。"}
+{"id": "alpagasus-1024", "instruction": "生成一组关于如何制作蛋糕的说明。"}
+{"id": "alpagasus-1025", "instruction": "创作一个关于大象的原创故事"}
+{"id": "alpagasus-1026", "instruction": "描述健康饮食"}
+{"id": "alpagasus-1027", "instruction": "撰写一篇 300-400 字的文章，主题如下：\n互联网对沟通的影响"}
+{"id": "alpagasus-1028", "instruction": "创建粉刷墙壁所需材料的清单。"}
+{"id": "alpagasus-1029", "instruction": "解释 IaaS、PaaS 和 SaaS 云计算模型之间的区别。"}
+{"id": "alpagasus-1030", "instruction": "撰写一封有关付款通知的电子邮件给客户。\n亲爱的 [姓名]，\n\n我们写信通知您，我们今天收到了您在 [帐号] 账户上 [付款金额] 的付款。"}
+{"id": "alpagasus-1031", "instruction": "描述一下宇宙中最大的星系。"}
+{"id": "alpagasus-1032", "instruction": "产生磁铁的三种不同用途。"}
+{"id": "alpagasus-1033", "instruction": "写下创建演示文稿的五个步骤。"}
+{"id": "alpagasus-1034", "instruction": "取此方程并解出 x。\n5x + 7 = 57"}
+{"id": "alpagasus-1035", "instruction": "构建一个 SQL 查询来从表“inventory”中查找数量大于 10 的所有记录。"}
+{"id": "alpagasus-1036", "instruction": "将“我喜欢学习”这句话翻译成英语。"}
+{"id": "alpagasus-1037", "instruction": "写一篇有说服力的文章，说明为什么环境保护应该成为优先事项。"}
+{"id": "alpagasus-1038", "instruction": "创作一首有关自然的诗。"}
+{"id": "alpagasus-1039", "instruction": "编写一个查询，返回各部门员工的平均工资。"}
+{"id": "alpagasus-1040", "instruction": "为夏季设计一件新衣服。"}
+{"id": "alpagasus-1041", "instruction": "创建一个包含 5 个问题的列表，可用于评估人们对基本数学概念的熟悉程度。"}
+{"id": "alpagasus-1042", "instruction": "请解释一下从屋外传来的巨大噪音。"}
+{"id": "alpagasus-1043", "instruction": "列出每天吃早餐的4个好处。"}
+{"id": "alpagasus-1044", "instruction": "为我的公司安排虚拟会议的最佳方式是什么？"}
+{"id": "alpagasus-1045", "instruction": "创办新企业时应考虑什么？"}
+{"id": "alpagasus-1046", "instruction": "当有人说他们不知道该如何度过自己的一生时，建议做出回应。"}
+{"id": "alpagasus-1047", "instruction": "建议一种建造更多可持续住房的方法。"}
+{"id": "alpagasus-1048", "instruction": "根据给定的细节生成两个故事场景\n地点：沙漠\n角色：农民"}
+{"id": "alpagasus-1049", "instruction": "为给定的文章推荐一个标题\n揭露对残疾人的歧视"}
+{"id": "alpagasus-1050", "instruction": "根据以下人物和背景写一个故事。\n人物：\n- 刘易斯：一名高中生\n- 威尔逊女士：刘易斯的英语老师\n- 马克：刘易斯的哥哥\n\n背景：\n刘易斯正在上高中英语课。他的老师威尔逊女士正在讲授一堂关于语言力量的课程。教室里的气氛很轻松，每个人都很享受这堂课。下课后，刘易斯和他的哥哥马克一起走回家，他们偶然发现了一家秘密书店。"}
+{"id": "alpagasus-1051", "instruction": "根据以下背景写一封感谢信。\n收件人：你的朋友\n背景：她最近带你出去吃午饭，并付了钱"}
+{"id": "alpagasus-1052", "instruction": "用修辞手法写句子。"}
+{"id": "alpagasus-1053", "instruction": "通过在占位符中填写适当的数据来完成段落。\n亨利八世于 __DATE__ 至 __DATE__ 期间担任英国国王，因他主持了 __NUMBER__ 次婚礼和建立了英国国教而闻名。"}
+{"id": "alpagasus-1054", "instruction": "描述故事中的一个人物。"}
+{"id": "alpagasus-1055", "instruction": "强有力的社交媒体帖子的关键要素是什么？"}
+{"id": "alpagasus-1056", "instruction": "列出针对小型企业的五条营销技巧。"}
+{"id": "alpagasus-1057", "instruction": "给出以下食谱，以分步格式写出说明。\n食谱：巧克力曲奇\n\n配料：\n-1 杯通用面粉\n-1/2 茶匙小苏打\n-1/2 茶匙盐\n-1/2 杯软化黄油\n-1/2 杯白糖\n-1/2 杯红糖\n-1 茶匙香草精\n-1 个鸡蛋\n-1 杯半甜巧克力片"}
+{"id": "alpagasus-1058", "instruction": "找到欧洲最高的山。"}
+{"id": "alpagasus-1059", "instruction": "纽约以什么食物闻名？"}
+{"id": "alpagasus-1060", "instruction": "生成完成给定项目的任务列表。\n项目：启动新网站"}
+{"id": "alpagasus-1061", "instruction": "说出《星球大战：最后的绝地武士》演员的名字。"}
+{"id": "alpagasus-1062", "instruction": "生成名为 Mike 的角色的描述。"}
+{"id": "alpagasus-1063", "instruction": "创建一个助记符来记住五大湖的名称。"}
+{"id": "alpagasus-1064", "instruction": "不使用任何形容词来描述劳拉的性格。"}
+{"id": "alpagasus-1065", "instruction": "生成一份意想不到的食物搭配清单。"}
+{"id": "alpagasus-1066", "instruction": "将以下关于网上商店的描述压缩成一句话的电梯推销。\n这家网上商店专门销售来自世界各地的独特手工珠宝。它提供不仅时尚而且价格实惠的高品质珠宝。"}
+{"id": "alpagasus-1067", "instruction": "撰写电子邮件正文，邀请人们参加有关给定主题的网络研讨会。\n主题：如何使用数据分析来改善您的业务。"}
+{"id": "alpagasus-1068", "instruction": "代表我发送一封电子邮件，邀请一位嘉宾参加活动。\n主题：邀请在活动上发言\n\n亲爱的 [姓名]，\n\n我们想邀请您在 [公司] 组织的即将举行的活动中发言。活动的主题是 [主题]，将于 [日期] 在 [地点] 举行。"}
+{"id": "alpagasus-1069", "instruction": "创建一个聚合来自多个来源的新闻的移动应用程序。"}
+{"id": "alpagasus-1070", "instruction": "根据给定的输入生成新的手表设计。\n图形：卡通人物"}
+{"id": "alpagasus-1071", "instruction": "以不同但等效的形式重写以下表达式。\n4x + 5y - 6z"}
+{"id": "alpagasus-1072", "instruction": "生成与给定情绪相关的单词列表。\n快乐"}
+{"id": "alpagasus-1073", "instruction": "创作一个有创意的故事，故事的结尾包含给定的关键词。\n友谊"}
+{"id": "alpagasus-1074", "instruction": "重新表述句子，用形容词代替。\n这件衣服非常昂贵。"}
+{"id": "alpagasus-1075", "instruction": "生成一份适合青少年从事的工作清单。"}
+{"id": "alpagasus-1076", "instruction": "列出讲法语的国家的列表。"}
+{"id": "alpagasus-1077", "instruction": "从“美国历史”主题生成一组 10 道测试题。"}
+{"id": "alpagasus-1078", "instruction": "编写一组说明来指导用户完成活动。\n活动：种植向日葵"}
+{"id": "alpagasus-1079", "instruction": "创建虚构人物的描述\n无输入"}
+{"id": "alpagasus-1080", "instruction": "告诉我珠穆朗玛峰的海拔"}
+{"id": "alpagasus-1081", "instruction": "创建香蕉冰淇淋的食谱。"}
+{"id": "alpagasus-1082", "instruction": "编辑给定的文章以使其更具说服力。\n我认为学校应该是一个安全的环境，学生可以在这里学习和成长。学校应该是一个让学生感到安全和有保障的地方，可以集中注意力，不受干扰。"}
+{"id": "alpagasus-1083", "instruction": "根据给定的名词推荐三个形容词。\n地球"}
+{"id": "alpagasus-1084", "instruction": "对于给定的输入，生成一个被动语态的句子。\nGus 吃掉了整个蛋糕。"}
+{"id": "alpagasus-1085", "instruction": "说出五种以字母 P 开头的水果。"}
+{"id": "alpagasus-1086", "instruction": "举例说明区块链技术的市场机会。"}
+{"id": "alpagasus-1087", "instruction": "提供该问题的三种可能解决方案。\n一名学生在准备数学考试时遇到了困难。"}
+{"id": "alpagasus-1088", "instruction": "解释为什么理解机器学习模型中的偏见很重要。"}
+{"id": "alpagasus-1089", "instruction": "我们如何才能减少水的浪费？"}
+{"id": "alpagasus-1090", "instruction": "生成一个传达以下内容的标题。\n旧金山湾区正在经历房地产繁荣。"}
+{"id": "alpagasus-1091", "instruction": "建议青少年应养成的5个健康习惯。"}
+{"id": "alpagasus-1092", "instruction": "提供带有正确标点和大写字母的引文。\n获得成功的唯一方法就是拥有热情"}
+{"id": "alpagasus-1093", "instruction": "构造一个包含单词“tangible”和“matter”的英语句子。"}
+{"id": "alpagasus-1094", "instruction": "描述一下勇敢的含义。"}
+{"id": "alpagasus-1095", "instruction": "用“观点”、“完整性”和“多样性”等词语写一段话。"}
+{"id": "alpagasus-1096", "instruction": "解释什么是质数。"}
+{"id": "alpagasus-1097", "instruction": "创建一个比喻来描述漫长而艰难的旅程"}
+{"id": "alpagasus-1098", "instruction": "描述给定生物的物理特征。\n独角兽"}
+{"id": "alpagasus-1099", "instruction": "根据以下信息生成 10 个带注释的参考书目。\n气候变化对人类健康的影响"}
+{"id": "alpagasus-1100", "instruction": "用细节作为提示，构建一个故事。\n地点：纽约市\n时间：春季\n基调：怀旧"}
+{"id": "alpagasus-1101", "instruction": "根据给定的输入文本生成问题列表。\n文本：《哈姆雷特》是威廉·莎士比亚创作的最伟大的悲剧之一。"}
+{"id": "alpagasus-1102", "instruction": "有记录以来最强烈的地震是哪次？"}
+{"id": "alpagasus-1103", "instruction": "制定保护计划以保护用户的敏感数据"}
+{"id": "alpagasus-1104", "instruction": "列出五种有助于减少塑料垃圾的不同活动。"}
+{"id": "alpagasus-1105", "instruction": "根据给定的关键词列表生成论文标题。\n关键词：塑料、回收、废物管理"}
+{"id": "alpagasus-1106", "instruction": "想一个推销一双运动鞋的新方法。"}
+{"id": "alpagasus-1107", "instruction": "描述以下城市的天气：尼日利亚拉各斯"}
+{"id": "alpagasus-1108", "instruction": "创建第二次世界大战期间发生的事件的时间表。"}
+{"id": "alpagasus-1109", "instruction": "创建模板电子邮件，以便在客户购买后跟进客户。"}
+{"id": "alpagasus-1110", "instruction": "写一条客户想要发送给支持团队的消息。\n我收到了错误的产品。"}
+{"id": "alpagasus-1111", "instruction": "写一个表达事实的句子。"}
+{"id": "alpagasus-1112", "instruction": "列出 5 种有助于自动化客户服务的技术。"}
+{"id": "alpagasus-1113", "instruction": "创建一个关于如何取得成功的激励声明。"}
+{"id": "alpagasus-1114", "instruction": "列出人们应该每天刷牙的 5 个理由"}
+{"id": "alpagasus-1115", "instruction": "写一个有说服力的论据来说明为什么休息有益于提高工作效率。"}
+{"id": "alpagasus-1116", "instruction": "创建一篇博客文章，介绍如何与不认识的人交谈。"}
+{"id": "alpagasus-1117", "instruction": "收集有关罗马帝国的 5 个事实"}
+{"id": "alpagasus-1118", "instruction": "使用这些词语造句：美丽、花园、宁静"}
+{"id": "alpagasus-1119", "instruction": "公共交通如何有助于减少空气污染？"}
+{"id": "alpagasus-1120", "instruction": "计算此商品享受 25% 折扣后的最终价格。\n原价：100 美元"}
+{"id": "alpagasus-1121", "instruction": "告诉我如何重置路由器。"}
+{"id": "alpagasus-1122", "instruction": "生成构建电子商务网站所需的所有技术的列表。"}
+{"id": "alpagasus-1123", "instruction": "列出可以在公共卫生研讨会上提出的想法。"}
+{"id": "alpagasus-1124", "instruction": "列出一份在免费网页设计研讨会之前要问参与者的问题清单。"}
+{"id": "alpagasus-1125", "instruction": "列举机器人可以完成的10种不同类型的工作。"}
+{"id": "alpagasus-1126", "instruction": "请列出欧洲五个人口最多的国家的首都。"}
+{"id": "alpagasus-1127", "instruction": "想象一个可以帮助你更快阅读的设备。描述一下这个设备。"}
+{"id": "alpagasus-1128", "instruction": "在两个努力建立联系的人之间创建对话。"}
+{"id": "alpagasus-1129", "instruction": "将给定的文本转换成俳句。\n太阳的明亮光芒高高升上天空"}
+{"id": "alpagasus-1130", "instruction": "描述哪些特点使得区块链技术安全。"}
+{"id": "alpagasus-1131", "instruction": "选择正确的数字子集，这样答案就是正确的。\n4、6、10、16"}
+{"id": "alpagasus-1132", "instruction": "为一家四口推荐一份晚餐菜单。"}
+{"id": "alpagasus-1133", "instruction": "提供一个例子来说明给定的定义。\n隐喻：一种对两个通常不会比较的事物进行比较的修辞手法。"}
+{"id": "alpagasus-1134", "instruction": "生成科学实验的材料清单。\n植物生长实验"}
+{"id": "alpagasus-1135", "instruction": "生成一份建议列表来改进给定的网站。\nwww.example.com"}
+{"id": "alpagasus-1136", "instruction": "提出令人信服的论点来支持艺术在教育中的重要性。"}
+{"id": "alpagasus-1137", "instruction": "减少空气污染的两个最重要的策略是什么？"}
+{"id": "alpagasus-1138", "instruction": "为给定的应用程序设计一个用户界面。\n用于跟踪旧书的应用程序"}
+{"id": "alpagasus-1139", "instruction": "为给定角色设计一套原创服装。\n角色：爱丽丝梦游仙境"}
+{"id": "alpagasus-1140", "instruction": "创建一份有关设置电子邮件帐户的说明列表。"}
+{"id": "alpagasus-1141", "instruction": "用以下短语创作一个虚构的故事。\n“明天会有所不同”"}
+{"id": "alpagasus-1142", "instruction": "描述参加虚拟会议的好处。"}
+{"id": "alpagasus-1143", "instruction": "创建一份包含 6 个步骤的清单，供人们缓解压力"}
+{"id": "alpagasus-1144", "instruction": "什么是电子商务网站？"}
+{"id": "alpagasus-1145", "instruction": "描述过去10年手机使用趋势"}
+{"id": "alpagasus-1146", "instruction": "模拟一个复合句，其中包含“虽然”和名词从句。"}
+{"id": "alpagasus-1147", "instruction": "解释平均值、中位数和众数的概念。"}
+{"id": "alpagasus-1148", "instruction": "告诉我如何解以下数学等式。\n2x + 3y = 15"}
+{"id": "alpagasus-1149", "instruction": "生成一个易于制作且有益健康的食谱。"}
+{"id": "alpagasus-1150", "instruction": "为一部关于两个朋友的戏剧写一个剧本。\n朋友：凯特和米娅\n地点：米娅的公寓"}
+{"id": "alpagasus-1151", "instruction": "创作一首有关家犬的打油诗。"}
+{"id": "alpagasus-1152", "instruction": "描述支持和反对义务兵役的论点。"}
+{"id": "alpagasus-1153", "instruction": "创作一首关于夏天的俳句"}
+{"id": "alpagasus-1154", "instruction": "描述人们善待环境的方法。"}
+{"id": "alpagasus-1155", "instruction": "设计一个游戏来教孩子们了解气候变化。"}
+{"id": "alpagasus-1156", "instruction": "描述给定食物的风味特征。\n草莓冰淇淋"}
+{"id": "alpagasus-1157", "instruction": "构建支持全民基本收入的论点。"}
+{"id": "alpagasus-1158", "instruction": "创建一个包含 10 个与烹饪相关的动词的列表"}
+{"id": "alpagasus-1159", "instruction": "创建包含 5-6 个城市及其州和县信息的数据集"}
+{"id": "alpagasus-1160", "instruction": "根据以下背景，为新闻报道生成标题。\n该市当选市长被指控贪污。"}
+{"id": "alpagasus-1161", "instruction": "根据以下背景，为一本书想出一个合适的标题。\n故事讲述了一群青少年反抗占领他们家园的压迫政权。"}
+{"id": "alpagasus-1162", "instruction": "给出以下绘图，生成适当的标题。\n![alt text](https://image.shutterstock.com/image-vector/colored-sign-nature-protect-people-260nw-746876663.jpg)"}
+{"id": "alpagasus-1163", "instruction": "创作一个关于魔法森林冒险的短篇故事。"}
+{"id": "alpagasus-1164", "instruction": "创建检查二手车时要检查的项目清单。"}
+{"id": "alpagasus-1165", "instruction": "将占位符替换为所需的名词短语。\n我需要找到一个 [占位符]。"}
+{"id": "alpagasus-1166", "instruction": "创建一个使用橄榄油的菜单项的示例。"}
+{"id": "alpagasus-1167", "instruction": "解释大数据和机器学习之间的关系。"}
+{"id": "alpagasus-1168", "instruction": "描述什么是 API 及其用途。"}
+{"id": "alpagasus-1169", "instruction": "将给定的故事提示变成一句话的总结。\n布莱斯小村庄有一个古老的传说，声称任何在被诅咒的森林中生存三个晚上的人都会获得不可思议的力量。"}
+{"id": "alpagasus-1170", "instruction": "用一句话描述给定的商业模式。\n免费增值"}
+{"id": "alpagasus-1171", "instruction": "告诉我“flabbergasted”的同义词。"}
+{"id": "alpagasus-1172", "instruction": "列出夏天去海滩要带的物品清单。"}
+{"id": "alpagasus-1173", "instruction": "生成有关哺乳动物的五个科学事实。"}
+{"id": "alpagasus-1174", "instruction": "选择适当的形容词来描述给定的名词。\n假期"}
+{"id": "alpagasus-1175", "instruction": "撰写适当的回复以回复以下客户服务电子邮件。\n亲爱的 [姓名]，\n\n我从您的网站购买了一件产品，但收到的物品已损坏。我想退货并获得全额退款。\n\n谢谢，\n[姓名]"}
+{"id": "alpagasus-1176", "instruction": "对于缺乏面对面协作的开发团队来说，有哪些可能的替代方案？"}
+{"id": "alpagasus-1177", "instruction": "谁发明了开罐器？"}
+{"id": "alpagasus-1178", "instruction": "使用给定的输入，创建一篇题为“技术的好处”的博客文章\n我们生活在一个技术不断进步的世界。"}
+{"id": "alpagasus-1179", "instruction": "为以下物体写一个诙谐的比喻。\n一本书"}
+{"id": "alpagasus-1180", "instruction": "想出一个包含以下人物和物品的故事。\n人物：老鼠、老虎、鱼；物品：球、茶壶"}
+{"id": "alpagasus-1181", "instruction": "写一行关于苹果的诗。"}
+{"id": "alpagasus-1182", "instruction": "生成一个问候客户的句子"}
+{"id": "alpagasus-1183", "instruction": "请列出五种香料及其用途。"}
+{"id": "alpagasus-1184", "instruction": "列出您想去的旅游目的地的清单。"}
+{"id": "alpagasus-1185", "instruction": "给我一些解决交通拥堵的方法。"}
+{"id": "alpagasus-1186", "instruction": "新闻和其他消息来源一直在声称民主在世界各地正在衰落。请举出最近发生的事件来支持这一说法。"}
+{"id": "alpagasus-1187", "instruction": "解释多元化和包容性在科技行业的重要性。"}
+{"id": "alpagasus-1188", "instruction": "写一篇关于多样性重要性的文章。"}
+{"id": "alpagasus-1189", "instruction": "请告诉我为什么人们应该使用 VPN 而不是标准互联网连接。"}
+{"id": "alpagasus-1190", "instruction": "将给定的句子转换成陈述句。\n我们现在该走了吗？"}
+{"id": "alpagasus-1191", "instruction": "在给同事的电子邮件中，请求开会讨论特定项目。\n项目：人工智能助手"}
+{"id": "alpagasus-1192", "instruction": "将以下三项归类为工具、材料或方法。\n1. 杠杆\n2. 钥匙\n3. 算法"}
+{"id": "alpagasus-1193", "instruction": "给我讲一个关于一种生物及其特征的故事。"}
+{"id": "alpagasus-1194", "instruction": "生成两个目睹车祸的人之间的对话。"}
+{"id": "alpagasus-1195", "instruction": "给定一段文本，生成一系列与该文本相关的事实。\n亚伯拉罕·林肯是美国第 16 任总统。"}
+{"id": "alpagasus-1196", "instruction": "编写一个故事，让主角学会如何负责任。"}
+{"id": "alpagasus-1197", "instruction": "给出这个句子，用一句话解释为什么这个句子的潜在情绪是消极的。\n我厌倦了我的工作。"}
+{"id": "alpagasus-1198", "instruction": "分析给定陈述对环境的影响。\n大多数交通运输已从汽油或柴油转变为电力。"}
+{"id": "alpagasus-1199", "instruction": "列出非洲所有国家。"}
+{"id": "alpagasus-1200", "instruction": "下周我需要为我的朋友举办一个惊喜生日派对。请给我一些装饰方面的想法。"}
+{"id": "alpagasus-1201", "instruction": "创作一段关于友谊的力量的说唱歌词。"}
+{"id": "alpagasus-1202", "instruction": "列出三个增加网站流量的在线营销技巧。"}
+{"id": "alpagasus-1203", "instruction": "给出写作提示，写一个有创意的故事。\n一枚被诅咒的蛋在晚上复活"}
+{"id": "alpagasus-1204", "instruction": "描述为什么需要拥有多元化的劳动力。"}
+{"id": "alpagasus-1205", "instruction": "给出一个主题列表，为每个主题找到一个来源或引文。\n主题：气候变化、美国总统选举"}
+{"id": "alpagasus-1206", "instruction": "生成两个久别重逢的朋友之间的对话。"}
+{"id": "alpagasus-1207", "instruction": "解释“垃圾进，垃圾出”是什么意思"}
+{"id": "alpagasus-1208", "instruction": "用两句话评价以下作品\n探索技术与心理健康之间交集的播客"}
+{"id": "alpagasus-1209", "instruction": "用 1-2 句话描述自然选择的过程。"}
+{"id": "alpagasus-1210", "instruction": "列出夏季完美露营旅行所需的物品清单。"}
+{"id": "alpagasus-1211", "instruction": "总结一下公司新计算机系统的文章。\n公司最近投资了一套新计算机系统，该系统旨在帮助实现手动流程的自动化并提高效率。该系统使用人工智能来解释客户数据、自动生成报告并实现客户计费流程的自动化。"}
+{"id": "alpagasus-1212", "instruction": "为股票 XYZ 设计一个至少包含 5 条规则的交易策略。"}
+{"id": "alpagasus-1213", "instruction": "总结本文的主要主题和目的。\nhttps://www.kcl.ac.uk/news/artificial-intelligence-clinical-trials"}
+{"id": "alpagasus-1214", "instruction": "给定一个句子，生成一个具有不同视角的类似句子。\n他太害怕过河了。"}
+{"id": "alpagasus-1215", "instruction": "写一段描述，传达有关生物的给定信息。\n名称：蛇怪\n尺寸：6 英尺高\n寿命：200 年"}
+{"id": "alpagasus-1216", "instruction": "在句子中插入以下过渡。\n他是一名优秀的学生，但很少受到表扬。\n过渡：尽管"}
+{"id": "alpagasus-1217", "instruction": "列出使用给定连词的 5 个句子开头。\n连词：尽管"}
+{"id": "alpagasus-1218", "instruction": "用给出的单词造一个新句子。\n玫瑰，秘密"}
+{"id": "alpagasus-1219", "instruction": "解释什么是向心力。"}
+{"id": "alpagasus-1220", "instruction": "创造玉米面包的新风味。"}
+{"id": "alpagasus-1221", "instruction": "回答问题：什么是生态系统？"}
+{"id": "alpagasus-1222", "instruction": "给出一个数学问题，解决它。\n如果 4x - 6 = 30，那么 x 的值是多少？"}
+{"id": "alpagasus-1223", "instruction": "为习语“a stones throw away”给出一个定义。"}
+{"id": "alpagasus-1224", "instruction": "请说出以以下台词开头的电影的名字\n“生活就像一盒巧克力，你永远不知道你会得到什么。”"}
+{"id": "alpagasus-1225", "instruction": "生成一个能被 3 整除的 10 个数字的列表"}
+{"id": "alpagasus-1226", "instruction": "列出公寓里可以饲养的所有宠物的清单。"}
+{"id": "alpagasus-1227", "instruction": "比较和对比同一类型的两本流行书籍。\n《饥饿游戏》和《移动迷宫》"}
+{"id": "alpagasus-1228", "instruction": "推荐两道适合素食聚会的美味菜肴。"}
+{"id": "alpagasus-1229", "instruction": "设计客户和客服人员之间的对话。"}
+{"id": "alpagasus-1230", "instruction": "解下列代数方程：12x + 6 = 66"}
+{"id": "alpagasus-1231", "instruction": "为在线零售商店生成一个口号。"}
+{"id": "alpagasus-1232", "instruction": "给出五条关于交朋友的建议。"}
+{"id": "alpagasus-1233", "instruction": "产生一个比喻来描述焦虑的感觉。"}
+{"id": "alpagasus-1234", "instruction": "说出三个描述经常迟到的人的副词。"}
+{"id": "alpagasus-1235", "instruction": "撰写有关该活动的新闻文章。\n东京 2020 年奥运会开幕式在国家体育场举行。"}
+{"id": "alpagasus-1236", "instruction": "将以下两个句子合并成一个句子。\n猫跳上了床。然后它躺下小睡。"}
+{"id": "alpagasus-1237", "instruction": "请就以下主题发表你的看法。\n人工智能在医疗保健中的应用。"}
+{"id": "alpagasus-1238", "instruction": "为孩子们推荐一种有营养的零食。"}
+{"id": "alpagasus-1239", "instruction": "列出有助于人们保持健康的事物的清单。"}
+{"id": "alpagasus-1240", "instruction": "制定考试学习计划。"}
+{"id": "alpagasus-1241", "instruction": "建议不同的绿色能源方法。"}
+{"id": "alpagasus-1242", "instruction": "为算法创建一个类比"}
+{"id": "alpagasus-1243", "instruction": "写一个有关日本的有趣的事实。"}
+{"id": "alpagasus-1244", "instruction": "列出关于吸烟对健康影响的 5 个常见误解。"}
+{"id": "alpagasus-1245", "instruction": "撰写一篇关于学校体育教育重要性的文章。"}
+{"id": "alpagasus-1246", "instruction": "描述互联网对人们的生活有何贡献。"}
+{"id": "alpagasus-1247", "instruction": "回答问题——私钥和公钥有什么区别？"}
+{"id": "alpagasus-1248", "instruction": "在 PostgreSQL 中编写查询以列出特定月份有订单的客户。\n月份：2021 年 4 月"}
+{"id": "alpagasus-1249", "instruction": "在给定的上下文中问候客户\n上下文：客户正在寻求订单方面的帮助。"}
+{"id": "alpagasus-1250", "instruction": "在两个人之间产生现实的对话。"}
+{"id": "alpagasus-1251", "instruction": "设计一个符合给定风格的房间。\n复古风格。"}
+{"id": "alpagasus-1252", "instruction": "为体重较重的人生成一个独特的隐喻。"}
+{"id": "alpagasus-1253", "instruction": "为一个关于走失的狗的故事想一个标题。"}
+{"id": "alpagasus-1254", "instruction": "用各种语言和词语重写给定的句子。\n他很累，再也走不动了。"}
+{"id": "alpagasus-1255", "instruction": "描述虚构场景的氛围。"}
+{"id": "alpagasus-1256", "instruction": "制定一份营养均衡的双人晚餐菜单。"}
+{"id": "alpagasus-1257", "instruction": "给定一个网站，查看主页布局并评论该网站的用户体验。\nhttps://www.apple.com/"}
+{"id": "alpagasus-1258", "instruction": "为遵循纯素食饮食的人设计一份膳食计划。"}
+{"id": "alpagasus-1259", "instruction": "为产品创建在线广告。\n产品：保湿香皂"}
+{"id": "alpagasus-1260", "instruction": "就给定的主题写一首俳句。\n改变"}
+{"id": "alpagasus-1261", "instruction": "提出一个可以与朋友一起进行的有趣活动的建议。"}
+{"id": "alpagasus-1262", "instruction": "为一家专门从事宠物食品的初创公司推荐一个新名称。"}
+{"id": "alpagasus-1263", "instruction": "编制一份美国自然风景名胜名单。"}
+{"id": "alpagasus-1264", "instruction": "为晚餐约会准备一套衣服。"}
+{"id": "alpagasus-1265", "instruction": "提供三种减少家庭用水的方法。"}
+{"id": "alpagasus-1266", "instruction": "创建有关摄影的播客的可能主题列表"}
+{"id": "alpagasus-1267", "instruction": "提供有关如何使网站更易于访问的建议。"}
+{"id": "alpagasus-1268", "instruction": "列出在外展活动中可以开展的 10 项活动的想法，以提高人们对心理学的兴趣。"}
+{"id": "alpagasus-1269", "instruction": "想象一下你正在和一个孩子交谈，解释 DNA 的概念。"}
+{"id": "alpagasus-1270", "instruction": "为什么保护知识产权很重要？"}
+{"id": "alpagasus-1271", "instruction": "列出五个与技术相关的有趣话题。"}
+{"id": "alpagasus-1272", "instruction": "编一个故事，主角是莉迪亚"}
+{"id": "alpagasus-1273", "instruction": "完成未完成的句子。\n我知道这听起来很疯狂，但是"}
+{"id": "alpagasus-1274", "instruction": "使用给定的名词写一个描述性句子。\n彩虹"}
+{"id": "alpagasus-1275", "instruction": "计算12345除以11的余数。"}
+{"id": "alpagasus-1276", "instruction": "计算3的5次方。"}
+{"id": "alpagasus-1277", "instruction": "根据给定的信息分享您的观点。\n最近的研究发现，技术是课堂上吸引和教育学生的有效工具。"}
+{"id": "alpagasus-1278", "instruction": "描述为什么给定的角色是英雄。\n神奇女侠"}
+{"id": "alpagasus-1279", "instruction": "给出一份书单，按五星标准对它们进行评分\n《德古拉》、《沙丘》、《简爱》"}
+{"id": "alpagasus-1280", "instruction": "解释为什么与同事进行有意义的对话很重要。"}
+{"id": "alpagasus-1281", "instruction": "给出植物的名称，描述护理说明。\n金钱树"}
+{"id": "alpagasus-1282", "instruction": "描述在线系统中可能发生的特定安全风险。"}
+{"id": "alpagasus-1283", "instruction": "创建动态查询以过滤大量用户数据表\n表：MongoDB 中的 user_data\n列：_id、用户名、性别\n过滤器：男性"}
+{"id": "alpagasus-1284", "instruction": "将以下用 JavaScript 编写的代码转换为 Python。\nvar sum = 0;\nfor (var i = 1; i < 10; i++) {\nif ( i % 2 === 0 ) {\nsum += i;\n}\n}"}
+{"id": "alpagasus-1285", "instruction": "设计一项调查来衡量客户对新网上商店的满意度。"}
+{"id": "alpagasus-1286", "instruction": "创作一首以爱情为主题的三行诗。"}
+{"id": "alpagasus-1287", "instruction": "根据给定的配料清单生成新食谱。\n配料：\n- 白米\n- 鸡蛋\n- 牛奶\n- 盐"}
+{"id": "alpagasus-1288", "instruction": "评估该计划的优点和缺点。\n计划：这个为期 12 周的计划提供认知行为疗法，帮助人们应对抑郁症。"}
+{"id": "alpagasus-1289", "instruction": "根据角色列表和背景创作一个故事。\n角色：\n- Alex，青少年\n- Ryan，Alex 的同学\n- Jane，Alex 的姐姐\n\n背景：\n北卡罗来纳州乡村小镇"}
+{"id": "alpagasus-1290", "instruction": "构建流程图来解释建立家庭网络的不同步骤。"}
+{"id": "alpagasus-1291", "instruction": "编辑段落，使其结构更好。\n许多人利用间隔年探索世界。暂时摆脱学术常规可以帮助人们获得独特的生活体验。获得新的体验也可以很有教育意义。学生不应该错过这种体验。"}
+{"id": "alpagasus-1292", "instruction": "您会如何激励同事在截止日期前完成任务？"}
+{"id": "alpagasus-1293", "instruction": "为符合以下描述的超级英雄角色设计一套服装。\n英雄的超能力：可以控制和操纵磁力"}
+{"id": "alpagasus-1294", "instruction": "比较在公共服务器和私人服务器上托管网站的优点和局限性。"}
+{"id": "alpagasus-1295", "instruction": "说出房屋周围使用电的物体的名称。"}
+{"id": "alpagasus-1296", "instruction": "您能就如何进入 IT 领域给出一些建议吗？"}
+{"id": "alpagasus-1297", "instruction": "在对话中添加第三个说话者。\n说话者 A：昨晚在聚会上我玩得很开心。\n说话者 B：是的，我也是。"}
+{"id": "alpagasus-1298", "instruction": "用合适的结尾完成故事。\n从前有一位勇敢的骑士，他踏上了屠龙之旅。经过许多天的旅行，他到达了龙穴……"}
+{"id": "alpagasus-1299", "instruction": "为软件工程师构建一份简历。\n姓名：Joe Smith\n学历：计算机科学学士学位\n经验：2 年软件工程经验"}
+{"id": "alpagasus-1300", "instruction": "总结文章并想出标题。\n文章：NASA 最近公布了火星上存在古代海洋的新证据。这一新证据引发了关于火星是否曾存在生命的争论。研究结果包括新的矿藏和地质特征，表明远古时期存在液态水。"}
+{"id": "alpagasus-1301", "instruction": "将语音注释转录为文本。\n语音注释：“嘿，我需要你帮我拿些食物。你能给我拿一个小披萨和一些鸡翅吗？”"}
+{"id": "alpagasus-1302", "instruction": "使用第二人称视角重写该陈述。\n如果需要维修，租客将负责与房东跟进。"}
+{"id": "alpagasus-1303", "instruction": "人们怎样才能保持动力去实现自己的目标？"}
+{"id": "alpagasus-1304", "instruction": "什么时候应该开始投资？"}
+{"id": "alpagasus-1305", "instruction": "建议减少家庭浪费的方法。"}
+{"id": "alpagasus-1306", "instruction": "比较“lay”和“lie”的含义"}
+{"id": "alpagasus-1307", "instruction": "编写一个 Jquery 脚本来隐藏所有具有“hide-this”类的 HTML 元素。"}
+{"id": "alpagasus-1308", "instruction": "用一句话描述吉萨大金字塔。"}
+{"id": "alpagasus-1309", "instruction": "建议一些自然的牙齿美白方法。"}
+{"id": "alpagasus-1310", "instruction": "为给定的 5 个主题分别生成一个 5 字列表。\n动物、国家、体育、音乐、电影"}
+{"id": "alpagasus-1311", "instruction": "建议一些有助于保持心理健康的习惯。"}
+{"id": "alpagasus-1312", "instruction": "生成数据科学流行语列表"}
+{"id": "alpagasus-1313", "instruction": "在下面的诗中添加一行来完成它。\n玫瑰是红色的\n紫罗兰是蓝色的\n冬天来了"}
+{"id": "alpagasus-1314", "instruction": "想象一下你在网上与陌生人交谈的情况，请告诉我如何识别和避免任何恶意。"}
+{"id": "alpagasus-1315", "instruction": "生成一个至少包含三个从句的句子。"}
+{"id": "alpagasus-1316", "instruction": "写一份求职面试的待办事项清单。"}
+{"id": "alpagasus-1317", "instruction": "世界应如何减少碳排放？"}
+{"id": "alpagasus-1318", "instruction": "告诉我怎样生小火。"}
+{"id": "alpagasus-1319", "instruction": "告诉我如何描述蓝色。"}
+{"id": "alpagasus-1320", "instruction": "为一家旅行社创建一个五字口号。"}
+{"id": "alpagasus-1321", "instruction": "考虑以下标准生成一个唯一的用户名。\n姓名：Sarah\n特征：讽刺"}
+{"id": "alpagasus-1322", "instruction": "想出以字母“K”开头的 5 种动物的列表。"}
+{"id": "alpagasus-1323", "instruction": "创建一份家庭聚会十项有趣活动的清单。"}
+{"id": "alpagasus-1324", "instruction": "为这张照片生成照片标题\nhttps://images.unsplash.com/photo-1574643147860-3bb18d6fe2f0\n?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"}
+{"id": "alpagasus-1325", "instruction": "编辑以下句子以创建更生动的场景。\n公园里风吹来"}
+{"id": "alpagasus-1326", "instruction": "提供 5 个形容词来描述以下角色。\n杰西是一位有抱负的女演员。"}
+{"id": "alpagasus-1327", "instruction": "写一首描写雨的俳句。"}
+{"id": "alpagasus-1328", "instruction": "完成以下类比。\n睡眠 : 清醒 ::"}
+{"id": "alpagasus-1329", "instruction": "编辑此文本以使其简洁。\n在美国，已经发展出一种大众媒体驱动的文化，其中品牌被用来描绘身份形象并塑造消费文化。"}
+{"id": "alpagasus-1330", "instruction": "写一个包含以下短语的句子。\n“清澈见底的湖泊”"}
+{"id": "alpagasus-1331", "instruction": "为客户项目创建适当的任务列表。\n客户项目：组织公司活动"}
+{"id": "alpagasus-1332", "instruction": "创建有吸引力的标题来宣传以下产品。\n速溶咖啡"}
+{"id": "alpagasus-1333", "instruction": "制作一张纸，列出水果和蔬菜的清单。"}
+{"id": "alpagasus-1334", "instruction": "想出两种表达同一件事的替代方式。\n我昨晚睡了 10 个小时。"}
+{"id": "alpagasus-1335", "instruction": "比较和对比有丝分裂和减数分裂。"}
+{"id": "alpagasus-1336", "instruction": "创作一首关于秋天的短诗。"}
+{"id": "alpagasus-1337", "instruction": "描述书中主人公的性格。\n书：简·爱"}
+{"id": "alpagasus-1338", "instruction": "制定办公室的清洁计划。"}
+{"id": "alpagasus-1339", "instruction": "您会如何向朋友道歉？"}
+{"id": "alpagasus-1340", "instruction": "列出与给定主题相关的 10 本推荐书籍。\n历史小说"}
+{"id": "alpagasus-1341", "instruction": "生成新闻标题。"}
+{"id": "alpagasus-1342", "instruction": "构建一个关于道德的类比。"}
+{"id": "alpagasus-1343", "instruction": "解释下列每个不规则动词的含义和用法。\n- 跑步\n- 画画\n- 思考"}
+{"id": "alpagasus-1344", "instruction": "添加缺失的单词以完成比喻。\n生活是一场_______，充满了________。"}
+{"id": "alpagasus-1345", "instruction": "把这句话翻译成西班牙语。\n这很有趣。"}
+{"id": "alpagasus-1346", "instruction": "你被要求讲述一个关于所选主题的故事。\n主题：去公园"}
+{"id": "alpagasus-1347", "instruction": "用 3 句话描述给定的物品。\n物品：书架"}
+{"id": "alpagasus-1348", "instruction": "使用提供的单词创作一首 7 行诗\n雨伞、铁轨、水、天空、草、叶子"}
+{"id": "alpagasus-1349", "instruction": "找到这道数学题的两个解\n2x + 6 = 16"}
+{"id": "alpagasus-1350", "instruction": "描述月球如何影响潮汐"}
+{"id": "alpagasus-1351", "instruction": "想象一下，你在一家面包店，被要求做一个蛋糕。详细描述一下这个蛋糕。"}
+{"id": "alpagasus-1352", "instruction": "新冠疫情如何改变世界？"}
+{"id": "alpagasus-1353", "instruction": "用您名字中的字母生成五个单词"}
+{"id": "alpagasus-1354", "instruction": "“once upon a time”这句话是什么意思？"}
+{"id": "alpagasus-1355", "instruction": "给定一个数值，计算其平方根。\n数字：64"}
+{"id": "alpagasus-1356", "instruction": "创建一个表达弹性概念的比喻。"}
+{"id": "alpagasus-1357", "instruction": "给出用户查询，建议相关标题。\n查询：伦敦最佳酒店"}
+{"id": "alpagasus-1358", "instruction": "写一篇关于多元化观点的重要性的文章。"}
+{"id": "alpagasus-1359", "instruction": "比较和对比 DNA 和 RNA。"}
+{"id": "alpagasus-1360", "instruction": "GPT 助手会根据此指令创建什么类型的输出？\n描述产品发布周期的各个阶段。"}
+{"id": "alpagasus-1361", "instruction": "描述 DNS（域名系统）的用途。"}
+{"id": "alpagasus-1362", "instruction": "让 GPT 助手为博客文章生成合适的标题。"}
+{"id": "alpagasus-1363", "instruction": "根据给定的上下文，用现在时态编写一个故事。\n狼遇到了一只友好的蜜蜂，它带他去了一个秘密花园。"}
+{"id": "alpagasus-1364", "instruction": "解释什么是“根本原因分析”。"}
+{"id": "alpagasus-1365", "instruction": "生成百货商店顾客和销售人员之间的对话。"}
+{"id": "alpagasus-1366", "instruction": "按以下序列查找缺失的数字：4、8、12、16、20、__"}
+{"id": "alpagasus-1367", "instruction": "将以下句子从被动语态改为主动语态：\n这幅画是由艺术家创作的。"}
+{"id": "alpagasus-1368", "instruction": "想出三个创造性的解决方案来减少空气污染。"}
+{"id": "alpagasus-1369", "instruction": "创建三个不同的形容词来描述自由女神像。"}
+{"id": "alpagasus-1370", "instruction": "世界上第二大国家是哪个？"}
+{"id": "alpagasus-1371", "instruction": "回收为何如此重要？"}
+{"id": "alpagasus-1372", "instruction": "创建一个助记符来记住波罗的海三国的首都。"}
+{"id": "alpagasus-1373", "instruction": "用这三个词生成一个故事：星光灿烂、耳语、河流。"}
+{"id": "alpagasus-1374", "instruction": "描述短语“长话短说”的含义。"}
+{"id": "alpagasus-1375", "instruction": "生成与热带雨林相关的三项事物的清单。"}
+{"id": "alpagasus-1376", "instruction": "为周五晚上的外出准备一套新衣服。"}
+{"id": "alpagasus-1377", "instruction": "给顾客写一封道歉信。\n顾客迟迟收到订单，对所提供的服务不满意。"}
+{"id": "alpagasus-1378", "instruction": "建议两种节约能源的方案。"}
+{"id": "alpagasus-1379", "instruction": "为一部涉及一大群人以及两个角色之间打斗的电影创建一个有趣的场景。"}
+{"id": "alpagasus-1380", "instruction": "请告诉我莱特飞行器首次载人试飞的日期。"}
+{"id": "alpagasus-1381", "instruction": "太阳绕银河系公转的周期是多少？"}
+{"id": "alpagasus-1382", "instruction": "想出一份健康沙拉的食谱。"}
+{"id": "alpagasus-1383", "instruction": "我们如何才能减少全球温室气体排放？"}
+{"id": "alpagasus-1384", "instruction": "列出一份易于维持的健康习惯清单。"}
+{"id": "alpagasus-1385", "instruction": "描述冠状病毒大流行对世界的影响。"}
+{"id": "alpagasus-1386", "instruction": "为减少食物浪费提供新思路"}
+{"id": "alpagasus-1387", "instruction": "将下面的文字翻译成德语。\n他们计划明天完成这个项目。"}
+{"id": "alpagasus-1388", "instruction": "列出一些应包含在应急汽车工具包中的物品。"}
+{"id": "alpagasus-1389", "instruction": "与顾客进行友好交谈。\n您好，有什么可以帮您的吗？"}
+{"id": "alpagasus-1390", "instruction": "“我不喜欢你跟我说话的方式”该如何回答？\n我不喜欢你跟我说话的方式。"}
+{"id": "alpagasus-1391", "instruction": "为访客创建自定义问候语。\n访客的名字是约翰。"}
+{"id": "alpagasus-1392", "instruction": "建议一个合适的词来填空。\n标志色彩鲜艳。"}
+{"id": "alpagasus-1393", "instruction": "就欧内斯特·海明威的小说《老人与海》中体现的孤独主题撰写一篇500字的文章。"}
+{"id": "alpagasus-1394", "instruction": "解释德怀特·艾森豪威尔总统的政府如何帮助弥合冷战期间美国和苏联之间的差距。"}
+{"id": "alpagasus-1395", "instruction": "找出下列数列的第 6 项。\n3、6、10、15……"}
+{"id": "alpagasus-1396", "instruction": "提供减少交通运输排放的建议清单。"}
+{"id": "alpagasus-1397", "instruction": "集思广益，提出三项可以解决全球塑料污染问题的发明。"}
+{"id": "alpagasus-1398", "instruction": "为这个句子选择正确的语调。\n请联系我们以获取更多信息。"}
+{"id": "alpagasus-1399", "instruction": "说出两块用来张开下颌的肌肉。"}
+{"id": "alpagasus-1400", "instruction": "描述珊瑚的颜色系列。"}
+{"id": "alpagasus-1401", "instruction": "构建一个创建表的 SQL 查询。\n表名：Books\n\n属性：\n- book_id (int)\n- title (varchar)\n- author (varchar)\n- publisher (varchar)\n- publication_date (date)"}
+{"id": "alpagasus-1402", "instruction": "背诵罗伯特·弗罗斯特的《未选择的路》的第一节。"}
+{"id": "alpagasus-1403", "instruction": "提出一个问题，用合乎逻辑的论据提供答案。\n为什么民主很重要？"}
+{"id": "alpagasus-1404", "instruction": "构造一个句子来演示反义词的用法。"}
+{"id": "alpagasus-1405", "instruction": "给出一个句子，将其翻译成一个数学等式。\n两个数字的总和是五。"}
+{"id": "alpagasus-1406", "instruction": "给定一个事实，提出一个引出该事实的问题。\n超过 3000 万美国人患有糖尿病。"}
+{"id": "alpagasus-1407", "instruction": "将 2 盎司转换为毫升。"}
+{"id": "alpagasus-1408", "instruction": "创建二手自行车的分类广告。"}
+{"id": "alpagasus-1409", "instruction": "产生一个类比来解释一个复杂的概念。"}
+{"id": "alpagasus-1410", "instruction": "生成与术语“食物”相关的单词列表。"}
+{"id": "alpagasus-1411", "instruction": "创作一首俳句示例"}
+{"id": "alpagasus-1412", "instruction": "生成一段描述气候变化对家庭农场影响的段落。\n无需输入。"}
+{"id": "alpagasus-1413", "instruction": "解释“类型”在编程语言中的用法。\n无需输入。"}
+{"id": "alpagasus-1414", "instruction": "通过写一首诗为亲密的朋友制作生日贺卡。\n收件人姓名：简"}
+{"id": "alpagasus-1415", "instruction": "写一篇关于公共交通好处的文章。\n无需输入。"}
+{"id": "alpagasus-1416", "instruction": "设计一个聊天机器人对话流程来预订餐厅。"}
+{"id": "alpagasus-1417", "instruction": "说出使用基于云的数据系统的两个缺点。"}
+{"id": "alpagasus-1418", "instruction": "列出使用狗协助的五个好处。"}
+{"id": "alpagasus-1419", "instruction": "总结美国可再生能源的现状。"}
+{"id": "alpagasus-1420", "instruction": "列出美式英语和英式英语之间的差异。"}
+{"id": "alpagasus-1421", "instruction": "解释为什么制定应急计划很重要。"}
+{"id": "alpagasus-1422", "instruction": "为有关动物权利的研究论文生成标题。"}
+{"id": "alpagasus-1423", "instruction": "对以下食谱成分进行逆向工程，以确定其用途：\n-1/2 杯黄油\n-2 汤匙蒜末\n-2 汤匙通用面粉\n-1/2 茶匙干百里香\n-1/4 茶匙胡椒粉\n-2 杯鸡汤\n-1/4 杯干白葡萄酒\n-1 磅去骨去皮鸡胸肉\n-2 汤匙切碎的新鲜欧芹"}
+{"id": "alpagasus-1424", "instruction": "回答这道是非题：法国的首都是伦敦。"}
+{"id": "alpagasus-1425", "instruction": "安排两个不同的人会面\n约翰·史密斯和马克·琼斯"}
+{"id": "alpagasus-1426", "instruction": "延伸这句话：“科技彻底改变了我们"}
+{"id": "alpagasus-1427", "instruction": "计算输入框中直角三角形的斜边。\na = 4，b = 3"}
+{"id": "alpagasus-1428", "instruction": "写一个描述物体的句子。\n一朵花"}
+{"id": "alpagasus-1429", "instruction": "使用“高兴”、“喜悦”和“激动”等词语造句。"}
+{"id": "alpagasus-1430", "instruction": "描述短语“carpe diem”的含义。"}
+{"id": "alpagasus-1431", "instruction": "想出一种创造性的方式来使用塑料勺子"}
+{"id": "alpagasus-1432", "instruction": "说出养宠物的五个好处"}
+{"id": "alpagasus-1433", "instruction": "为孩子制作一张节日贺卡。\n主题：冬季假期"}
+{"id": "alpagasus-1434", "instruction": "设计与标题相关的书籍封面。\n标题：“大自然的魔力”"}
+{"id": "alpagasus-1435", "instruction": "制作给定物体的轮廓。\n物体：鸟"}
+{"id": "alpagasus-1436", "instruction": "创建目录的元素列表。\n书名：探索太阳系"}
+{"id": "alpagasus-1437", "instruction": "计算给定输入的总成本。\n每件商品价格：7.50 美元\n数量：3\n税率：10%"}
+{"id": "alpagasus-1438", "instruction": "根据以下提示创作一首俳句。\n提示：秋天"}
+{"id": "alpagasus-1439", "instruction": "确定健康饮食的共同特征。"}
+{"id": "alpagasus-1440", "instruction": "描述导致联合国成立的历史事件。"}
+{"id": "alpagasus-1441", "instruction": "确定卷入叙利亚冲突的国家。"}
+{"id": "alpagasus-1442", "instruction": "比较吃烤鱼和炸鱼的好处"}
+{"id": "alpagasus-1443", "instruction": "建议减少环境污染的方法"}
+{"id": "alpagasus-1444", "instruction": "创建一个类比来解释“devastate”这个词的含义。"}
+{"id": "alpagasus-1445", "instruction": "总结以下关于社交媒体及其影响的文章的要点。\n社交媒体已成为 21 世纪非常强大的工具。它允许人们即时分享图片和视频，与世界各地的朋友联系，并从各种来源获取新闻和更新。虽然这可能是一件好事，但也有一些缺点。社交媒体可能会浪费时间，占用更有成效的活动的时间，并可能对人的心理健康产生严重影响。它还可能被用来传播虚假信息和网络欺凌。"}
+{"id": "alpagasus-1446", "instruction": "写一个比喻来描述缓慢的过程"}
+{"id": "alpagasus-1447", "instruction": "识别动词“walk”的过去时、现在时和将来时。"}
+{"id": "alpagasus-1448", "instruction": "为一家设计可持续电源的公司撰写一个朗朗上口的口号。"}
+{"id": "alpagasus-1449", "instruction": "完成歌词\n爱情不能催促，你只能等待"}
+{"id": "alpagasus-1450", "instruction": "撰写一封令人信服的电子邮件，说服您的读者向您的慈善筹款活动捐赠 500 美元。"}
+{"id": "alpagasus-1451", "instruction": "制作一个关于如何制作香蕉面包的简短演示。"}
+{"id": "alpagasus-1452", "instruction": "提供基于云的数据存储系统的详细描述。"}
+{"id": "alpagasus-1453", "instruction": "设计一种算法来检测学术论文中的抄袭行为。"}
+{"id": "alpagasus-1454", "instruction": "起草一篇社交媒体帖子来推广一款新的税务客户会计软件。"}
+{"id": "alpagasus-1455", "instruction": "描述软技能在工作环境中的重要性。"}
+{"id": "alpagasus-1456", "instruction": "撰写一份关于全球变暖对北极地区影响的报告。"}
+{"id": "alpagasus-1457", "instruction": "说出 3 个可以购买计算机零件的购物网站。"}
+{"id": "alpagasus-1458", "instruction": "将“没有下雨”翻译为西班牙语"}
+{"id": "alpagasus-1459", "instruction": "创建一个匹配美国和加拿大电话号码的正则表达式的示例。"}
+{"id": "alpagasus-1460", "instruction": "用一句话解释什么是持续集成（CI）。"}
+{"id": "alpagasus-1461", "instruction": "解释为什么一个国家可能会使用关税"}
+{"id": "alpagasus-1462", "instruction": "人们如何确保他们的数据是安全的？"}
+{"id": "alpagasus-1463", "instruction": "哪些州的荒野最多？"}
+{"id": "alpagasus-1464", "instruction": "哪些实践与维护安全软件相关？"}
+{"id": "alpagasus-1465", "instruction": "数字技术如何改善社会沟通？"}
+{"id": "alpagasus-1466", "instruction": "工业革命对环境有何影响？"}
+{"id": "alpagasus-1467", "instruction": "总结通过一项法律的政治过程。"}
+{"id": "alpagasus-1468", "instruction": "找到全球变暖的根本原因。"}
+{"id": "alpagasus-1469", "instruction": "列出一份关于如何在考试期间控制压力的技巧清单。"}
+{"id": "alpagasus-1470", "instruction": "创作一个关于机场上的两个人的独特故事（标题和内容均不超过 100 字）。"}
+{"id": "alpagasus-1471", "instruction": "提出三个创意想法来升级家居物品。"}
+{"id": "alpagasus-1472", "instruction": "提出一个数字产品的想法"}
+{"id": "alpagasus-1473", "instruction": "建议企业削减成本的两种方法"}
+{"id": "alpagasus-1474", "instruction": "提供纽约一家餐馆的名称和地址。\n无需输入。"}
+{"id": "alpagasus-1475", "instruction": "创建一个程序，根据电子邮件的文本预测它是否是垃圾邮件。"}
+{"id": "alpagasus-1476", "instruction": "创建指令输入列表并对指令类型进行分类。"}
+{"id": "alpagasus-1477", "instruction": "描述如何撰写营销电子邮件。"}
+{"id": "alpagasus-1478", "instruction": "创建一个使用比喻的句子来描述日出的美丽。"}
+{"id": "alpagasus-1479", "instruction": "描述一个你想参观的城市。"}
+{"id": "alpagasus-1480", "instruction": "找出以下句子中需要改进的地方。\n敏捷的棕色狐狸跳过了懒狗"}
+{"id": "alpagasus-1481", "instruction": "解释为什么学习一门外语是一项值得的努力。"}
+{"id": "alpagasus-1482", "instruction": "列出多吃水果和蔬菜的五个好处。"}
+{"id": "alpagasus-1483", "instruction": "产生两个有创意的故事想法。"}
+{"id": "alpagasus-1484", "instruction": "描述当用户按下“冲泡”按钮时咖啡机应该做什么。"}
+{"id": "alpagasus-1485", "instruction": "使用以下关键词创作俳句：蓝天、桥梁、日落"}
+{"id": "alpagasus-1486", "instruction": "创建使用人工智能来改善客户服务的解决方案。"}
+{"id": "alpagasus-1487", "instruction": "制作一个能反映品牌使命的标语。\nVital Home"}
+{"id": "alpagasus-1488", "instruction": "写一首关于夏天的诗。"}
+{"id": "alpagasus-1489", "instruction": "为两个人谈论共同的爱好生成一些对话提示。"}
+{"id": "alpagasus-1490", "instruction": "为客户创建个性化的问候信息。\n客户姓名：Jennifer"}
+{"id": "alpagasus-1491", "instruction": "提供自制薯片的食谱。"}
+{"id": "alpagasus-1492", "instruction": "明天上午 10 点提醒我买鸡蛋。"}
+{"id": "alpagasus-1493", "instruction": "列出与“夏季”相关的单词列表。"}
+{"id": "alpagasus-1494", "instruction": "比较和对比两种进化理论。"}
+{"id": "alpagasus-1495", "instruction": "用一些有创意的东西代替“插入”这个词\n我们需要在头脑风暴会议中插入更多想法。"}
+{"id": "alpagasus-1496", "instruction": "构建查询以选择网站上评分最高的 5 部电影"}
+{"id": "alpagasus-1497", "instruction": "设计一份与网上购物相关的 10 个问题调查"}
+{"id": "alpagasus-1498", "instruction": "创建故事开头。\n<无输入>"}
+{"id": "alpagasus-1499", "instruction": "编辑以下描述以改善语气并使其更专业。\n大家好！我叫约翰，是一名软件开发人员。我从高中开始就一直在编写代码，最近获得了计算机科学学士学位。"}
+{"id": "alpagasus-1500", "instruction": "构思一个关于必须在两条道路之间做出选择的人物的故事。"}
+{"id": "alpagasus-1501", "instruction": "给教授写一封感谢信！"}
+{"id": "alpagasus-1502", "instruction": "学习一门外语有什么好处？"}
+{"id": "alpagasus-1503", "instruction": "提出减少交通运输领域碳排放的解决方案。"}
+{"id": "alpagasus-1504", "instruction": "用给定的单词写一段歌词。\n火花、夜晚、星星、统治"}
+{"id": "alpagasus-1505", "instruction": "创建一个明喻来比较项目 X 和项目 Y。\nX = 大雨\nY = 无尽的瀑布"}
+{"id": "alpagasus-1506", "instruction": "生成一个句子来解释寒假即将来临。"}
+{"id": "alpagasus-1507", "instruction": "谁赢得了 2020 年欧洲冠军联赛？"}
+{"id": "alpagasus-1508", "instruction": "简要描述一下你的房子"}
+{"id": "alpagasus-1509", "instruction": "推荐一个适合浪漫晚餐的地方"}
+{"id": "alpagasus-1510", "instruction": "识别英语国家"}
+{"id": "alpagasus-1511", "instruction": "为人工智能工程师生成职位描述。"}
+{"id": "alpagasus-1512", "instruction": "整理以下文章中提到的所有国家/地区的列表\n冠状病毒的传播已影响到世界各国人民。在美国、意大利、西班牙和法国，该病毒尤其具有破坏性。印度、中国、德国和英国的政府官员已实施严格的规定以帮助减缓传染。"}
+{"id": "alpagasus-1513", "instruction": "创建一份素食主义者可以烹饪的菜肴清单。"}
+{"id": "alpagasus-1514", "instruction": "告诉我一个关于海龟的有趣事实"}
+{"id": "alpagasus-1515", "instruction": "给出两件物品，想出一个创造性的方法将它们组合起来。\n雨衣和纸杯蛋糕"}
+{"id": "alpagasus-1516", "instruction": "给定两个物体，创建一个比喻来比较它们。\n星星和花朵"}
+{"id": "alpagasus-1517", "instruction": "设计一款 iPhone 应用程序，帮助人们追踪他们的每日饮水量。"}
+{"id": "alpagasus-1518", "instruction": "创造一种令人兴奋的全新果汁组合的配方。"}
+{"id": "alpagasus-1519", "instruction": "建议一个适合居住在农村且资源有限的人的商业理念。"}
+{"id": "alpagasus-1520", "instruction": "创建一个比喻，将繁重的工作量比作一个物体。"}
+{"id": "alpagasus-1521", "instruction": "告诉我“快乐”的同义词。"}
+{"id": "alpagasus-1522", "instruction": "生成每周杂货购物清单。"}
+{"id": "alpagasus-1523", "instruction": "重写这个句子，但不要改变其含义。\n老师要求学生交论文。"}
+{"id": "alpagasus-1524", "instruction": "说出四种不同的交通方式。"}
+{"id": "alpagasus-1525", "instruction": "用不同的词语重述这句话。\n他非常有野心，总是想成为最好的。"}
+{"id": "alpagasus-1526", "instruction": "描述一幅著名的画。"}
+{"id": "alpagasus-1527", "instruction": "生成数学测验问题。"}
+{"id": "alpagasus-1528", "instruction": "解释“文化挪用”一词。"}
+{"id": "alpagasus-1529", "instruction": "总结自动驾驶领域的最新发展。"}
+{"id": "alpagasus-1530", "instruction": "说出两种省钱的方法"}
+{"id": "alpagasus-1531", "instruction": "生成使内容缩放至设备宽度的媒体查询"}
+{"id": "alpagasus-1532", "instruction": "鉴于这种情况，列出养宠物的三个好处。"}
+{"id": "alpagasus-1533", "instruction": "收集并总结有关阿波罗 11 号任务的五个事实。"}
+{"id": "alpagasus-1534", "instruction": "建议五条参加正式活动时着装得体的技巧。"}
+{"id": "alpagasus-1535", "instruction": "病毒如何传播？"}
+{"id": "alpagasus-1536", "instruction": "为会议迟到找一个合理的借口。"}
+{"id": "alpagasus-1537", "instruction": "描述一下意大利食物的味道。"}
+{"id": "alpagasus-1538", "instruction": "检查给定的输入是否是字谜。\n听\n静默"}
+{"id": "alpagasus-1539", "instruction": "提出创造性的想法来解决工作场所的多样性问题"}
+{"id": "alpagasus-1540", "instruction": "以友好的方式迎接访客。"}
+{"id": "alpagasus-1541", "instruction": "建议一个美国旅游地点。"}
+{"id": "alpagasus-1542", "instruction": "形容毅力十足的含义。"}
+{"id": "alpagasus-1543", "instruction": "撰写一篇关于使用 GPT 模型进行自然语言理解的优势的文章。"}
+{"id": "alpagasus-1544", "instruction": "自动驾驶汽车使用了哪些技术？"}
+{"id": "alpagasus-1545", "instruction": "为讨论备份系统重要性的文章生成标题。"}
+{"id": "alpagasus-1546", "instruction": "我们如何才能减少碳排放？"}
+{"id": "alpagasus-1547", "instruction": "找一些词语来描述海滩节。"}
+{"id": "alpagasus-1548", "instruction": "列出故事主角在旅途中应采取的安全措施。"}
+{"id": "alpagasus-1549", "instruction": "输出工艺品所需工具的列表。\n工艺品是纸制玩具。"}
+{"id": "alpagasus-1550", "instruction": "产生一些与金融相关的主题。"}
+{"id": "alpagasus-1551", "instruction": "将 174 乘以 3。"}
+{"id": "alpagasus-1552", "instruction": "解释鸟类和哺乳动物之间的区别"}
+{"id": "alpagasus-1553", "instruction": "创建产品描述，突出手机的功能。\n产品：三星 Galaxy S20"}
+{"id": "alpagasus-1554", "instruction": "列出阅读的五大好处。"}
+{"id": "alpagasus-1555", "instruction": "美国哪个州的平均海拔最高？"}
+{"id": "alpagasus-1556", "instruction": "描述两款产品之间的区别\nApple iPhone 12 和 Samsung Galaxy S20"}
+{"id": "alpagasus-1557", "instruction": "给出以下指令的相关示例。\n求三个数字的平均值"}
+{"id": "alpagasus-1558", "instruction": "告诉我一些有关日产聆风的信息。"}
+{"id": "alpagasus-1559", "instruction": "在购物清单中添加 5 件商品。"}
+{"id": "alpagasus-1560", "instruction": "列举一些使用社交媒体的优点。"}
+{"id": "alpagasus-1561", "instruction": "确定一杯煮熟的糙米含有多少卡路里"}
+{"id": "alpagasus-1562", "instruction": "描述日落的颜色"}
+{"id": "alpagasus-1563", "instruction": "列出辛苦工作一天后减轻压力的五种方法。"}
+{"id": "alpagasus-1564", "instruction": "根据输入，生成一些有关该主题的事实。\n什么是星座？"}
+{"id": "alpagasus-1565", "instruction": "说出三种用于商业会计的软件。"}
+{"id": "alpagasus-1566", "instruction": "生成一段描述公园夏日的段落"}
+{"id": "alpagasus-1567", "instruction": "说出沙漠生物群系中的四种植物"}
+{"id": "alpagasus-1568", "instruction": "解释传染病如何传播"}
+{"id": "alpagasus-1569", "instruction": "用几个词描述给定物品发出的声音。\n非洲鼓"}
+{"id": "alpagasus-1570", "instruction": "找出这句话所传达的 3 种情感。\n“有时，我们生活中发生的坏事会直接让我们走上通往最美好事物的道路。”"}
+{"id": "alpagasus-1571", "instruction": "提供良好对话的最重要元素。"}
+{"id": "alpagasus-1572", "instruction": "描述阿拉斯加地区的地理状况。"}
+{"id": "alpagasus-1573", "instruction": "给出一个句子，描述所用的比喻性语言\n她是黑暗中的一盏明灯"}
+{"id": "alpagasus-1574", "instruction": "用这 5 个词写一个故事：老师、解决、迷宫、笔记本、结构"}
+{"id": "alpagasus-1575", "instruction": "用这四个词写一首诗：悲伤、探索、神圣、低语"}
+{"id": "alpagasus-1576", "instruction": "详细描述一下夏季的海滩。"}
+{"id": "alpagasus-1577", "instruction": "描述乔治·华盛顿的总统任期"}
+{"id": "alpagasus-1578", "instruction": "使用这些词生成一个语法正确的句子：spear、purse、enemy"}
+{"id": "alpagasus-1579", "instruction": "制定数学学习时间表"}
+{"id": "alpagasus-1580", "instruction": "用三个三来形容风景。"}
+{"id": "alpagasus-1581", "instruction": "接受意见并写下海盗祝酒词\n迎接挑战"}
+{"id": "alpagasus-1582", "instruction": "编造一个不能参加会议的借口"}
+{"id": "alpagasus-1583", "instruction": "根据以下定义，用该词造句。\n突然或愤怒地送走"}
+{"id": "alpagasus-1584", "instruction": "为新开的冰淇淋店创建一个有趣的口号。"}
+{"id": "alpagasus-1585", "instruction": "解释云计算和边缘计算之间的区别。"}
+{"id": "alpagasus-1586", "instruction": "给出一个单词列表，创作一首诗。\n奉献、爱、无限"}
+{"id": "alpagasus-1587", "instruction": "根据以下文本生成博客文章的标题。\n本文讨论了如何使用人工智能来改善客户服务。"}
+{"id": "alpagasus-1588", "instruction": "用五个词描述草莓的味道。"}
+{"id": "alpagasus-1589", "instruction": "推荐一种简单快捷的小吃。"}
+{"id": "alpagasus-1590", "instruction": "创作一首与给定示例相关的俳句\n海洋"}
+{"id": "alpagasus-1591", "instruction": "描述周日下午繁忙城市的氛围。"}
+{"id": "alpagasus-1592", "instruction": "提出与句子相关的问题。\n她喜欢在空闲时间做园艺。"}
+{"id": "alpagasus-1593", "instruction": "列出给定动物的五个独特特征。\n狗"}
+{"id": "alpagasus-1594", "instruction": "创作一首关于冬天的俳句。"}
+{"id": "alpagasus-1595", "instruction": "修改以下句子，使其听起来更正式。\n我认为这不值得付出努力。"}
+{"id": "alpagasus-1596", "instruction": "我们在日常生活中怎样才能减少用水量？"}
+{"id": "alpagasus-1597", "instruction": "编辑文章，使其更吸引读者。\n自主机器人是计算机控制的机器，经过编程，无需任何人工输入即可执行特定任务。自主机器人越来越多地应用于各种行业，从制造业到医疗保健再到安全。"}
+{"id": "alpagasus-1598", "instruction": "政府可以采取什么策略来减少空气污染？"}
+{"id": "alpagasus-1599", "instruction": "根据提供的配料推荐一个甜点名称\n巧克力、草莓、澳洲坚果"}
+{"id": "alpagasus-1600", "instruction": "给出一份配料表，告诉我们如何准备一份简单的素食餐。\n意大利面、西红柿、红洋葱、大蒜。"}
+{"id": "alpagasus-1601", "instruction": "为产品发布建议五种营销策略。"}
+{"id": "alpagasus-1602", "instruction": "说出给定物品的一些常见用途\n螺丝刀"}
+{"id": "alpagasus-1603", "instruction": "告诉我一种在冬天种植药草的方法。"}
+{"id": "alpagasus-1604", "instruction": "确定银的化学符号。"}
+{"id": "alpagasus-1605", "instruction": "将以下诗歌归类为适当的风格。\n\nI. 我像一朵云一样孤独地徘徊\n\n飘浮在山谷和山丘上空，\n\n突然间，我看到一群人，\n一大群金色的水仙花\n\nII. 在我心灵的空洞中\n\n抛出狂喜的欢笑，\n\n我的心会祝福这幸福的大地\n\n因为我找到了美丽而甜蜜的梦\n\nIII. 在村庄的教堂院子里\n\n她站在那里；穿着褐色的衣服，\n\n脚下是埋葬死者的泥土般冰冷的草皮\n\n如此睿智\n\nIV. 待在家里，我的心，休息吧；\n\n居家的心是最幸福的，\n\n对于那些流浪的人来说，他们不知道\n\n在哪里可以找到更幸福"}
+{"id": "alpagasus-1606", "instruction": "生成一个与希望相关的隐喻的例子。"}
+{"id": "alpagasus-1607", "instruction": "确定秘鲁的首都。"}
+{"id": "alpagasus-1608", "instruction": "将“让我们玩得开心”这句话翻译成西班牙语"}
+{"id": "alpagasus-1609", "instruction": "说出五种减少一次性塑料使用量的方法。"}
+{"id": "alpagasus-1610", "instruction": "提出减少食物浪费的创新解决方案。"}
+{"id": "alpagasus-1611", "instruction": "按人口对美国各州进行排序。"}
+{"id": "alpagasus-1612", "instruction": "如何使用数字钱包来提高金融包容性？"}
+{"id": "alpagasus-1613", "instruction": "区分波函数和波包。"}
+{"id": "alpagasus-1614", "instruction": "想出另一种说法来表达“海浪冲击着海岸”"}
+{"id": "alpagasus-1615", "instruction": "创造性地、富有想象力地描述外星人"}
+{"id": "alpagasus-1616", "instruction": "给出一个英国城市，描述其主要旅游景点\n伦敦"}
+{"id": "alpagasus-1617", "instruction": "将这句话翻译成法语：“祝你度过愉快的一天。”"}
+{"id": "alpagasus-1618", "instruction": "使用提供的词语创作一首俳句。\n风、云、天空"}
+{"id": "alpagasus-1619", "instruction": "有史以来最精彩的电视节目有哪些？"}
+{"id": "alpagasus-1620", "instruction": "为一幅描绘日落森林的画作创建一个描述性短语"}
+{"id": "alpagasus-1621", "instruction": "列举三种预防网络欺凌的方法"}
+{"id": "alpagasus-1622", "instruction": "寻找纽约最昂贵的餐厅"}
+{"id": "alpagasus-1623", "instruction": "用 5 个词描述河流。"}
+{"id": "alpagasus-1624", "instruction": "修改以下句子，使其包含生动的描述：\n太阳很热。"}
+{"id": "alpagasus-1625", "instruction": "描述机器如何帮助人们完成日常任务。"}
+{"id": "alpagasus-1626", "instruction": "创作一首有关季节的俳句。"}
+{"id": "alpagasus-1627", "instruction": "针对新的外卖应用提出 3 个发人深省的问题。"}
+{"id": "alpagasus-1628", "instruction": "提供“positive”这个词的五个同义词。"}
+{"id": "alpagasus-1629", "instruction": "构思一个关于公主和龙的有创意的故事。"}
+{"id": "alpagasus-1630", "instruction": "列举一个濒危物种的例子并描述它为何濒临灭绝。"}
+{"id": "alpagasus-1631", "instruction": "描述在线教育的三个好处。"}
+{"id": "alpagasus-1632", "instruction": "列出五个确保组织内数据安全的技巧。"}
+{"id": "alpagasus-1633", "instruction": "编辑本文以减少 20% 的字数。\n全球变暖对地球的影响越来越明显，从气温升高到海平面上升再到物种灭绝。许多正在发生的变化都是灾难性的，导致严重的经济混乱，甚至一些国家出现内乱。然而，尽管情况紧迫，但我们每个人都可以出奇地轻松地为减少气候变化的影响做出贡献。如果足够多的人做出努力，减少化石燃料排放、少吃肉和不浪费食物等简单措施已经可以产生重大的积极影响。我们必须趁为时未晚，立即采取行动，为子孙后代创造一个更健康、更安全的世界。"}
+{"id": "alpagasus-1634", "instruction": "将“商店在哪里？”翻译成德语。"}
+{"id": "alpagasus-1635", "instruction": "计算表达式 4+2*3。"}
+{"id": "alpagasus-1636", "instruction": "解释带状疱疹是如何引起的"}
+{"id": "alpagasus-1637", "instruction": "为恐怖电影提出创意"}
+{"id": "alpagasus-1638", "instruction": "想出五个词组合来描述蓝色"}
+{"id": "alpagasus-1639", "instruction": "为有关动物灭绝事件的新闻文章生成标题。"}
+{"id": "alpagasus-1640", "instruction": "描述以下两个词的区别：“类比”和“隐喻”"}
+{"id": "alpagasus-1641", "instruction": "创建一个至少包含 9 个字符的密码，包括大写和小写字母、数字和特殊字符。"}
+{"id": "alpagasus-1642", "instruction": "生成一系列由 8 个字组成的描述运行的情况。"}
+{"id": "alpagasus-1643", "instruction": "描述一下你如何计划一次浪漫的约会"}
+{"id": "alpagasus-1644", "instruction": "说出三首 90 年代流行的歌曲。"}
+{"id": "alpagasus-1645", "instruction": "描述正确处理危险废物的方法。"}
+{"id": "alpagasus-1646", "instruction": "确定三种适用的安全措施以防止家庭火灾"}
+{"id": "alpagasus-1647", "instruction": "为下面的类比想一个现实生活中的例子。\n恐惧之于勇气，就像"}
+{"id": "alpagasus-1648", "instruction": "描述戏剧《哈姆雷特》的背景。"}
+{"id": "alpagasus-1649", "instruction": "根据顾客的描述，推荐一种适合他们的披萨。\n顾客是素食主义者，但也喜欢辛辣的食物。"}
+{"id": "alpagasus-1650", "instruction": "将英里转换为公里\n英里：5"}
+{"id": "alpagasus-1651", "instruction": "制定计划减少办公室浪费。"}
+{"id": "alpagasus-1652", "instruction": "描写雨的声音。"}
+{"id": "alpagasus-1653", "instruction": "生成故事的开头。"}
+{"id": "alpagasus-1654", "instruction": "写一首有具体背景的俳句\n爬山"}
+{"id": "alpagasus-1655", "instruction": "解释“影响改变”的含义。"}
+{"id": "alpagasus-1656", "instruction": "说出五大主要食物类别的名称。"}
+{"id": "alpagasus-1657", "instruction": "描述在线照片编辑器可以做什么。"}
+{"id": "alpagasus-1658", "instruction": "描述当您在网站上提交表单时发生的情况。"}
+{"id": "alpagasus-1659", "instruction": "生成餐厅菜单项。"}
+{"id": "alpagasus-1660", "instruction": "总结以下文本：\n\n由于技术的进步，世界变得越来越紧密和全球化。这导致国家、文化和人民之间的相互依存度增加。技术改善了沟通，允许共享信息和资源。这为企业创造了机会，并带来了全球经济效率、增长和合作。"}
+{"id": "alpagasus-1661", "instruction": "用将来完成时写一个句子。"}
+{"id": "alpagasus-1662", "instruction": "生成美国总统列表。"}
+{"id": "alpagasus-1663", "instruction": "一英里等于多少英尺？"}
+{"id": "alpagasus-1664", "instruction": "撰写一封正式的电子邮件，向教授请求延长项目期限。"}
+{"id": "alpagasus-1665", "instruction": "了解明天上午 11 点纽约的天气状况。"}
+{"id": "alpagasus-1666", "instruction": "写几行概述烘烤蛋糕的过程。"}
+{"id": "alpagasus-1667", "instruction": "描述日落时的天空。"}
+{"id": "alpagasus-1668", "instruction": "建议一些适合海滩一日游的活动。"}
+{"id": "alpagasus-1669", "instruction": "创建一条推文来宣传在 Covid-19 疫情期间戴口罩的重要性。"}
+{"id": "alpagasus-1670", "instruction": "生成20个与单词“cat”相关的单词。"}
+{"id": "alpagasus-1671", "instruction": "组织如何使用 SaaS（软件即服务）来降低成本？"}
+{"id": "alpagasus-1672", "instruction": "制定减少温室气体排放的计划。"}
+{"id": "alpagasus-1673", "instruction": "有哪些方法可以让蔬菜菜肴的味道更加有趣？"}
+{"id": "alpagasus-1674", "instruction": "当客户取消预约时生成适当的回复"}
+{"id": "alpagasus-1675", "instruction": "提出使用区块链技术的五大好处。"}
+{"id": "alpagasus-1676", "instruction": "引发两个朋友之间讨论一本书的对话"}
+{"id": "alpagasus-1677", "instruction": "解释技术对教育的影响。"}
+{"id": "alpagasus-1678", "instruction": "为一款保健食品创作一首广告歌。\n这款保健食品是一款名为“Plant Power”的植物蛋白棒。"}
+{"id": "alpagasus-1679", "instruction": "提出禁止使用塑料吸管的有说服力的论据。"}
+{"id": "alpagasus-1680", "instruction": "计算从 1 到 100 的所有数字的总和。"}
+{"id": "alpagasus-1681", "instruction": "列出至少 5 种濒危动物。"}
+{"id": "alpagasus-1682", "instruction": "生成有效 HTML 代码的示例。"}
+{"id": "alpagasus-1683", "instruction": "生成 20 世纪 90 年代流行歌曲的列表。"}
+{"id": "alpagasus-1684", "instruction": "列出 10 项省钱方法的清单。"}
+{"id": "alpagasus-1685", "instruction": "编写查询以选择订阅仍处于活动状态的所有客户。\n表名称：customers\n列：id、name、subscription、status"}
+{"id": "alpagasus-1686", "instruction": "为快递员创建一条高效的路线来递送五个包裹。\n以下五个包裹需要在以下位置递送：\n包裹 1 - 400 Main Street\n包裹 2 - 850 Commerce Street\n包裹 3 - 340 Crofton Lane\n包裹 4 - 74 Lantana Drive\n包裹 5 - 871 Hilltop Road"}
+{"id": "alpagasus-1687", "instruction": "建议制定一套课堂规则。"}
+{"id": "alpagasus-1688", "instruction": "创建表达同情的文本回复。"}
+{"id": "alpagasus-1689", "instruction": "针对给定主题生成报告。\n社交媒体对教育的影响"}
+{"id": "alpagasus-1690", "instruction": "创建 1960 年至 1980 年的计算机技术时间表"}
+{"id": "alpagasus-1691", "instruction": "为“疯狂”一词创建两个不同的同义词。"}
+{"id": "alpagasus-1692", "instruction": "创作一首以“朋友”为主题的打油诗。"}
+{"id": "alpagasus-1693", "instruction": "推荐一些健康的早餐食品。"}
+{"id": "alpagasus-1694", "instruction": "用形容词来形容某个总是开朗的人。"}
+{"id": "alpagasus-1695", "instruction": "说出过去十年中古巴发生的一些自然灾害。"}
+{"id": "alpagasus-1696", "instruction": "描述您的团队过去面临的一个具有挑战性的问题以及您如何解决它。"}
+{"id": "alpagasus-1697", "instruction": "说出一些由于人类缺乏适当营养而引起的疾病。"}
+{"id": "alpagasus-1698", "instruction": "用以下词语创作一首三行诗：孤独、树、河流"}
+{"id": "alpagasus-1699", "instruction": "描述该图形的形状。\n![alt-text](https://i.pinimg.com/originals/56/d2/11/56d21173c782feb4d4305a4800eabcd4.png)"}
+{"id": "alpagasus-1700", "instruction": "企业如何从使用人工智能中获益？"}
+{"id": "alpagasus-1701", "instruction": "提供人工智能如何改善客户服务的现实例子。"}
+{"id": "alpagasus-1702", "instruction": "根据此主题创建博客文章标题\n如何在家工作时提高积极性和工作效率"}
+{"id": "alpagasus-1703", "instruction": "生成一首 8 行、每行 4 个词的诗。"}
+{"id": "alpagasus-1704", "instruction": "描述两个人之间有意义的互动。"}
+{"id": "alpagasus-1705", "instruction": "查找距离阿姆斯特丹梵高博物馆最近的火车站。"}
+{"id": "alpagasus-1706", "instruction": "提出减少空气污染的解决方案"}
+{"id": "alpagasus-1707", "instruction": "定义“数据科学”一词"}
+{"id": "alpagasus-1708", "instruction": "总结睡眠的重要性"}
+{"id": "alpagasus-1709", "instruction": "举例说明企业如何使用人工智能"}
+{"id": "alpagasus-1710", "instruction": "做一杯草莓冰沙。"}
+{"id": "alpagasus-1711", "instruction": "欧洲最高的山是哪座？"}
+{"id": "alpagasus-1712", "instruction": "创建一个将爱比作动物的比喻。"}
+{"id": "alpagasus-1713", "instruction": "为聊天机器人创建一个有关体育新闻的封闭式提示。"}
+{"id": "alpagasus-1714", "instruction": "想出一个有创意的句子来解释你今天的感受。"}
+{"id": "alpagasus-1715", "instruction": "用三到五句话描述芒果的味道。"}
+{"id": "alpagasus-1716", "instruction": "确定学生可以用来了解特定主题的资源。\n主题：内战"}
+{"id": "alpagasus-1717", "instruction": "查找单词列表的同义词。\n单词：愤怒、沉默寡言、加重"}
+{"id": "alpagasus-1718", "instruction": "将不同类型的工作归类为职业领域。\n工作：医生、会计、教师、演员"}
+{"id": "alpagasus-1719", "instruction": "描述政治制度的主要要素。"}
+{"id": "alpagasus-1720", "instruction": "将以下句子翻译成西班牙语：“我很高兴学习西班牙语。”"}
+{"id": "alpagasus-1721", "instruction": "写一篇关于青霉素发现的历史记载"}
+{"id": "alpagasus-1722", "instruction": "描述手机对通讯的影响"}
+{"id": "alpagasus-1723", "instruction": "创建一份新老师在开学第一周应该问学生的问题清单"}
+{"id": "alpagasus-1724", "instruction": "将以下推文分类为“正面”、“负面”或“中性”：\n\n（推文）终于完成了那个项目！"}
+{"id": "alpagasus-1725", "instruction": "利用人工智能进行市场分析有哪些好处？"}
+{"id": "alpagasus-1726", "instruction": "解释“举证责任”一词的含义。"}
+{"id": "alpagasus-1727", "instruction": "解释为什么网上银行比实体银行更安全。"}
+{"id": "alpagasus-1728", "instruction": "机器学习对企业为何重要？"}
+{"id": "alpagasus-1729", "instruction": "创造一个太阳的拟人化形象。"}
+{"id": "alpagasus-1730", "instruction": "根据给定的输入创作一首俳句。\n树叶从树上落下。"}
+{"id": "alpagasus-1731", "instruction": "撰写一封电子邮件邀请客户参加活动\n活动：我的公司成立 10 周年"}
+{"id": "alpagasus-1732", "instruction": "列出一英亩花园的五大特色"}
+{"id": "alpagasus-1733", "instruction": "创建推文以推广促销\n活动：我的企业 10 周年促销"}
+{"id": "alpagasus-1734", "instruction": "第一次世界大战对历史进程有何影响？"}
+{"id": "alpagasus-1735", "instruction": "解释为什么了解波的特性很重要"}
+{"id": "alpagasus-1736", "instruction": "描述地球的气候系统。"}
+{"id": "alpagasus-1737", "instruction": "请说出印度两个重要的政党"}
+{"id": "alpagasus-1738", "instruction": "用一个单词填空\n当他听到这个消息时，他非常激动。"}
+{"id": "alpagasus-1739", "instruction": "按照 1 到 5 的等级对句子的情感进行评分。\n我今天在海滩玩得很开心。"}
+{"id": "alpagasus-1740", "instruction": "列出午餐所需的健康食物选项。"}
+{"id": "alpagasus-1741", "instruction": "说出十种生活在热带雨林的动物。"}
+{"id": "alpagasus-1742", "instruction": "找到将这些货物从中国运送到美国的最经济有效的方式。\n4000 磅货物，运输时间为 10 天，运输费用不得超过 5000 美元"}
+{"id": "alpagasus-1743", "instruction": "构造一个关于学习重要性的谚语"}
+{"id": "alpagasus-1744", "instruction": "推荐一首我应该听的流行歌曲。"}
+{"id": "alpagasus-1745", "instruction": "总结以下公司的使命宣言。\n在我们公司，我们致力于通过将人们与技术联系起来并提供满足全球需求的创新解决方案来让世界变得更美好。"}
+{"id": "alpagasus-1746", "instruction": "为这家餐厅生成餐厅评论。\nPanera Bread"}
+{"id": "alpagasus-1747", "instruction": "计算给定半径的球体的体积。\n半径：12"}
+{"id": "alpagasus-1748", "instruction": "创建组织成功的虚拟会议所需事项的清单。"}
+{"id": "alpagasus-1749", "instruction": "将以下计算机代码从 Python 转换为 Java。\ndefgreet（name）：\nprint（f“Hello，{name}！”）"}
+{"id": "alpagasus-1750", "instruction": "将这句话从西班牙语翻译成英语：El sol no brilla hoy。"}
+{"id": "alpagasus-1751", "instruction": "描述听觉皮层。"}
+{"id": "alpagasus-1752", "instruction": "您能否提出一些优化网站加载速度的建议？"}
+{"id": "alpagasus-1753", "instruction": "我需要更改航班，但我记不清具体细节了。你能帮我查一下我的航班详情吗？\n姓名：约翰·史密斯\n航班日期：2021 年 7 月 5 日"}
+{"id": "alpagasus-1754", "instruction": "创建一个吸引人的短语来推广产品。\n产品：益生菌食品补充剂"}
+{"id": "alpagasus-1755", "instruction": "沙漠中常见的动物"}
+{"id": "alpagasus-1756", "instruction": "建议减少碳排放的方法"}
+{"id": "alpagasus-1757", "instruction": "采取给定的陈述并使其更具说服力。\n我们应该让公共交通更加便捷"}
+{"id": "alpagasus-1758", "instruction": "生成竹砧板的产品描述。"}
+{"id": "alpagasus-1759", "instruction": "用一句话概括罗密欧与朱丽叶的故事。"}
+{"id": "alpagasus-1760", "instruction": "我可以采取哪些措施来防止食物浪费？"}
+{"id": "alpagasus-1761", "instruction": "以下句子是主动语态还是被动语态？\n该雕塑是由艺术家制作的。"}
+{"id": "alpagasus-1762", "instruction": "普通冰淇淋和意式冰淇淋有什么区别？"}
+{"id": "alpagasus-1763", "instruction": "确定 5 种不同类型的营销目标"}
+{"id": "alpagasus-1764", "instruction": "想出一个句子来描述“赋权”的概念"}
+{"id": "alpagasus-1765", "instruction": "对此指令生成适当的响应：“描述安全系统中使用的面部识别技术的类型。”"}
+{"id": "alpagasus-1766", "instruction": "描述一个角色可能做过的梦。"}
+{"id": "alpagasus-1767", "instruction": "我们所说的定制软件是什么意思？"}
+{"id": "alpagasus-1768", "instruction": "在 SQL 中构建一个查询来查找在市场部门工作的员工。"}
+{"id": "alpagasus-1769", "instruction": "哪些技巧可以帮助个人减轻压力？"}
+{"id": "alpagasus-1770", "instruction": "研究并写下关于您所在城市的 5 个有趣事实\n美国洛杉矶"}
+{"id": "alpagasus-1771", "instruction": "推荐一种环保的出行方式"}
+{"id": "alpagasus-1772", "instruction": "分析某个行业成功的原因\n游戏行业"}
+{"id": "alpagasus-1773", "instruction": "创建一个由以下两个单词“记忆”和“时间”组合的句子。"}
+{"id": "alpagasus-1774", "instruction": "将这些词与它们的同义词匹配：\n* 令人钦佩 -\n* 革命性的 -\n* 庆祝的 -"}
+{"id": "alpagasus-1775", "instruction": "重新组织这句话，使其更具激励性：“你一直在努力，但没有看到太大的进步。”"}
+{"id": "alpagasus-1776", "instruction": "将 12 盎司转换为克。"}
+{"id": "alpagasus-1777", "instruction": "用正式语言重写这句话：“要买一部新手机。”"}
+{"id": "alpagasus-1778", "instruction": "创作一首以自然为主题的俳句。"}
+{"id": "alpagasus-1779", "instruction": "选择某人离职的三个原因。"}
+{"id": "alpagasus-1780", "instruction": "写一句话来表达梦想破碎的悲伤"}
+{"id": "alpagasus-1781", "instruction": "确定人们在使用梯子时应遵循的两个安全提示。"}
+{"id": "alpagasus-1782", "instruction": "创建一段文字描述使用太阳能的优势。"}
+{"id": "alpagasus-1783", "instruction": "列出四种维生素及其相应的益处"}
+{"id": "alpagasus-1784", "instruction": "描述一下中大奖的感受。"}
+{"id": "alpagasus-1785", "instruction": "根据以下词汇构建一个有效的西班牙语句子。\n单词：bailar、gustar、triste"}
+{"id": "alpagasus-1786", "instruction": "解释为什么以下句子在语法上不正确。\n我看到了一只狗。"}
+{"id": "alpagasus-1787", "instruction": "创建一个类比来阐明黑洞的概念。"}
+{"id": "alpagasus-1788", "instruction": "描述一下约翰发现的隐秘世界是什么样的。"}
+{"id": "alpagasus-1789", "instruction": "工作场所的多样性如何有助于创新？"}
+{"id": "alpagasus-1790", "instruction": "总结在工作场所使用人工智能的优点和缺点。"}
+{"id": "alpagasus-1791", "instruction": "撰写一篇题为“压力管理的五大秘诀”的博客文章"}
+{"id": "alpagasus-1792", "instruction": "告诉我搜索引擎是什么"}
+{"id": "alpagasus-1793", "instruction": "回答这个问题：搜索引擎如何工作？"}
+{"id": "alpagasus-1794", "instruction": "列出教室里发现的物品清单"}
+{"id": "alpagasus-1795", "instruction": "产生一个关于创造力的比喻"}
+{"id": "alpagasus-1796", "instruction": "为有关纯素食对环境的好处的文章创建一个引人注目的标题。"}
+{"id": "alpagasus-1797", "instruction": "如果有人对你说“你从不听我说话”，你会如何回应？"}
+{"id": "alpagasus-1798", "instruction": "为有关提高写作能力的技巧和窍门的博客文章生成一个合适的标题。"}
+{"id": "alpagasus-1799", "instruction": "为一篇关于在金融领域使用人工智能的好处的文章写一个标题。"}
+{"id": "alpagasus-1800", "instruction": "生成一个现在完成时的句子。"}
+{"id": "alpagasus-1801", "instruction": "对错过预约表示适当的歉意。"}
+{"id": "alpagasus-1802", "instruction": "告诉我减少空气污染的三种方法。"}
+{"id": "alpagasus-1803", "instruction": "使用以下原料制作纯素早餐松饼的食谱：燕麦粉、杏仁奶和蓝莓。"}
+{"id": "alpagasus-1804", "instruction": "制作一个广告来宣传以下产品：\n智能闹钟"}
+{"id": "alpagasus-1805", "instruction": "构建适当的 SQL 查询以检索请求的数据。\n请求的数据：查找位于纽约的所有客户。"}
+{"id": "alpagasus-1806", "instruction": "使用勾股定理计算两点之间的距离。\n点 (2, 6) 和 (9, 3)"}
+{"id": "alpagasus-1807", "instruction": "构建一个与所有名称匹配的正则表达式模式。\n所有名称都应以大写字母开头，后跟所有字母。"}
+{"id": "alpagasus-1808", "instruction": "您如何评价给定的产品？\n产品：Apple iPhone 12"}
+{"id": "alpagasus-1809", "instruction": "提供给定情况的利弊。\n情况：在家工作。"}
+{"id": "alpagasus-1810", "instruction": "构思一个关于一个人利用星星与亲人交流的故事。"}
+{"id": "alpagasus-1811", "instruction": "列出人们可以做十件事来节约电力。"}
+{"id": "alpagasus-1812", "instruction": "给出素数的例子"}
+{"id": "alpagasus-1813", "instruction": "产生一个有创意且可行的想法来推出一个新的在线平台。"}
+{"id": "alpagasus-1814", "instruction": "说出一个八度内的所有音符的名称（包括升号和降号）。"}
+{"id": "alpagasus-1815", "instruction": "为一家体育器材商店设计一个标志。"}
+{"id": "alpagasus-1816", "instruction": "使用以下输入生成一个合适的笑话。\n鬼魂和吸血鬼"}
+{"id": "alpagasus-1817", "instruction": "按字母顺序列出美国各州。"}
+{"id": "alpagasus-1818", "instruction": "简要描述希腊神话中的人物‘阿喀琉斯’。"}
+{"id": "alpagasus-1819", "instruction": "举例说明何时使用短语“once in a blue moon”是适当的。"}
+{"id": "alpagasus-1820", "instruction": "确定某些人无法获得医疗保健的原因。"}
+{"id": "alpagasus-1821", "instruction": "写下 5 个与 COVID-19 情况相关的问题"}
+{"id": "alpagasus-1822", "instruction": "为以下新闻制作一个引人注目的标题\n墨西哥政府已通过立法保护移民权利。"}
+{"id": "alpagasus-1823", "instruction": "使用不同的动词重写这个句子。\n她从面包店拿来了糕点。"}
+{"id": "alpagasus-1824", "instruction": "生成一个随机的 5 位数代码。"}
+{"id": "alpagasus-1825", "instruction": "找出前 10 个质数。"}
+{"id": "alpagasus-1826", "instruction": "解释“软件即服务”（SaaS）的概念。"}
+{"id": "alpagasus-1827", "instruction": "模拟如何设计调查。"}
+{"id": "alpagasus-1828", "instruction": "生成2000年至2021年欧盟人口增长表格。"}
+{"id": "alpagasus-1829", "instruction": "列出人们可以做的五件环保的事情。"}
+{"id": "alpagasus-1830", "instruction": "根据以下三个特质创建一个虚构的人物。\n才华横溢、雄心勃勃、神秘莫测"}
+{"id": "alpagasus-1831", "instruction": "写一篇关于在线学习如何变得越来越流行的文章。"}
+{"id": "alpagasus-1832", "instruction": "生成 5 个形容词来描述一部电视节目。"}
+{"id": "alpagasus-1833", "instruction": "说明如何制作巧克力圣代。"}
+{"id": "alpagasus-1834", "instruction": "构建使两个人能愉快交流的对话。"}
+{"id": "alpagasus-1835", "instruction": "为两个人对某事持有不同意见构建对话。"}
+{"id": "alpagasus-1836", "instruction": "为公司创建个性化座右铭。\n坎帕尼亚起义"}
+{"id": "alpagasus-1837", "instruction": "反驳以下说法：水果不是健康的零食。"}
+{"id": "alpagasus-1838", "instruction": "为私人教练创建个人资料描述"}
+{"id": "alpagasus-1839", "instruction": "将 10 个单词添加到现有词汇表中。\n现有词汇表：快乐、悲伤、有趣、愤怒、害怕、兴奋、精力充沛、疲倦、困惑、沮丧"}
+{"id": "alpagasus-1840", "instruction": "观鸟 - 描述一种特定的鸟。\n红尾鹰"}
+{"id": "alpagasus-1841", "instruction": "了解水的沸点温度是多少。"}
+{"id": "alpagasus-1842", "instruction": "求出具有以下坐标的两个点之间的距离。\n点 A：(2, 3)\n点 B：(6, 4)"}
+{"id": "alpagasus-1843", "instruction": "创建一个类似老鼠的卡通人物。"}
+{"id": "alpagasus-1844", "instruction": "列出人类的五种感官。"}
+{"id": "alpagasus-1845", "instruction": "举一个富含纤维的食物的例子。"}
+{"id": "alpagasus-1846", "instruction": "更改文本，使其成为命令式。\n您应该报名参加比赛。"}
+{"id": "alpagasus-1847", "instruction": "创造一个合适的类比\n写作就像拼拼图"}
+{"id": "alpagasus-1848", "instruction": "创作一段描述两名司机之间的汽车追逐的段落。"}
+{"id": "alpagasus-1849", "instruction": "以“友谊”为题写一首首字母诗"}
+{"id": "alpagasus-1850", "instruction": "将定义与单词匹配：\nOutlaw\n定义：违反法律的人。\n单词：Outlaw"}
+{"id": "alpagasus-1851", "instruction": "使用以下短语，将它们排列成一个有意义的句子\n广泛、缓慢、意识到"}
+{"id": "alpagasus-1852", "instruction": "解决以下数学方程。\n4 * 4 * 4 * 4 - 10"}
+{"id": "alpagasus-1853", "instruction": "创作一首歌的歌词。\n失去爱情的痛苦。"}
+{"id": "alpagasus-1854", "instruction": "列出包含健康早餐所需的五种食材的购物清单"}
+{"id": "alpagasus-1855", "instruction": "想出三种可以改进给定系统的方法\n机场安全系统"}
+{"id": "alpagasus-1856", "instruction": "设计一个能够修剪草坪的机器人。"}
+{"id": "alpagasus-1857", "instruction": "创建两个人讨论全球变暖的对话。"}
+{"id": "alpagasus-1858", "instruction": "Facebook 的第一个功能是什么？"}
+{"id": "alpagasus-1859", "instruction": "生成与输入句子相关的俳句。\n今年秋天来得早。"}
+{"id": "alpagasus-1860", "instruction": "找出 6 月 22 日出生的三位名人。"}
+{"id": "alpagasus-1861", "instruction": "确定世界上人口最多的国家。"}
+{"id": "alpagasus-1862", "instruction": "想出一句鼓舞人心的名言。"}
+{"id": "alpagasus-1863", "instruction": "用比喻的方式写一个句子来描述一场友好的比赛。"}
+{"id": "alpagasus-1864", "instruction": "求 x 的值。\n4x - 2 = 10"}
+{"id": "alpagasus-1865", "instruction": "根据给定的信息构建一个简短的对话。\n人物：南希和约翰\n主题：书"}
+{"id": "alpagasus-1866", "instruction": "建议通过对话解决给定的情况。\n人物：亚历克斯和南希\n情况：南希想把她的书借给亚历克斯，但亚历克斯不想读。"}
+{"id": "alpagasus-1867", "instruction": "为露营商店创建营销口号。"}
+{"id": "alpagasus-1868", "instruction": "创建网站反馈表。"}
+{"id": "alpagasus-1869", "instruction": "写一个故事来结束这个句子。\n河流蜿蜒穿过森林，"}
+{"id": "alpagasus-1870", "instruction": "给以下书评打 5 分。\n我真的很喜欢这本书。读起来很吸引人，情节也很有趣。"}
+{"id": "alpagasus-1871", "instruction": "描述热传递过程。"}
+{"id": "alpagasus-1872", "instruction": "解释为什么二氧化碳被称为温室气体。"}
+{"id": "alpagasus-1873", "instruction": "在客户服务代表和有投诉的客户之间建立对话。"}
+{"id": "alpagasus-1874", "instruction": "想出一篇有关在家工作困难的文章标题。"}
+{"id": "alpagasus-1875", "instruction": "创作一首俳句风格的短诗（3 行，每行 5-7-5 个音节）。"}
+{"id": "alpagasus-1876", "instruction": "研究一位著名的植物厨师，总结他们的职业生涯并提供他们的网站链接。"}
+{"id": "alpagasus-1877", "instruction": "用 5 句话概括互联网的历史"}
+{"id": "alpagasus-1878", "instruction": "列出小企业的 10 个目标。"}
+{"id": "alpagasus-1879", "instruction": "描述哈利波特的性格特征"}
+{"id": "alpagasus-1880", "instruction": "列举散步的五大好处"}
+{"id": "alpagasus-1881", "instruction": "将此公里转换为英里\n90 公里"}
+{"id": "alpagasus-1882", "instruction": "描述春天海滩的气味。"}
+{"id": "alpagasus-1883", "instruction": "格式化此文本以使其更易于阅读\n我们都会犯错，有些人比其他人更严重\n\n努力纠正错误就是生活的意义"}
+{"id": "alpagasus-1884", "instruction": "在幽默故事的背景下描述一个人物。"}
+{"id": "alpagasus-1885", "instruction": "讲一个故事来解释因果报应的概念。"}
+{"id": "alpagasus-1886", "instruction": "编一首四行诗"}
+{"id": "alpagasus-1887", "instruction": "识别桥梁的不同侧面"}
+{"id": "alpagasus-1888", "instruction": "解释回收的重要性"}
+{"id": "alpagasus-1889", "instruction": "自动回复电子邮件以确认用户注册\nJohn Smith，john@example.com"}
+{"id": "alpagasus-1890", "instruction": "合并以下两个不重复的数组\n[1, 2, 3] 和 [3, 4, 5]"}
+{"id": "alpagasus-1891", "instruction": "想出一个原创的科幻故事"}
+{"id": "alpagasus-1892", "instruction": "描述太空火箭发射的视觉效果。"}
+{"id": "alpagasus-1893", "instruction": "描述一群鸟迁徙的视觉形象。"}
+{"id": "alpagasus-1894", "instruction": "将以下单词放入例句中。\n快乐、吃、奶酪"}
+{"id": "alpagasus-1895", "instruction": "什么颜色最能代表宁静的感觉？"}
+{"id": "alpagasus-1896", "instruction": "描述短语“once in a blue moon”的含义。"}
+{"id": "alpagasus-1897", "instruction": "根据以下三个词创作一个故事：宇宙飞船、侦探、合唱团"}
+{"id": "alpagasus-1898", "instruction": "描述一下你家的客厅"}
+{"id": "alpagasus-1899", "instruction": "使用给定的单词列表生成俳句。\n单词列表：早晨、叶子、月亮、风"}
+{"id": "alpagasus-1900", "instruction": "确定给定的数字是否为质数。\n数字：97"}
+{"id": "alpagasus-1901", "instruction": "给定一个自然语言查询，生成一个 SQL 查询。\n自然语言查询：显示数据库中 20 岁以上的人数。"}
+{"id": "alpagasus-1902", "instruction": "预测旧金山明天的天气"}
+{"id": "alpagasus-1903", "instruction": "生成与单词“棒球”相关的 50 个单词。"}
+{"id": "alpagasus-1904", "instruction": "编辑短语：“只要我们努力，我们就会成功”"}
+{"id": "alpagasus-1905", "instruction": "一位顾客要求退款。请写一个礼貌的回复。"}
+{"id": "alpagasus-1906", "instruction": "列出运动带来的五项身体健康益处。"}
+{"id": "alpagasus-1907", "instruction": "按照完成难度，从 1 到 5 给以下内容评分。\n解决魔方"}
+{"id": "alpagasus-1908", "instruction": "设计符合可访问性指南的网站标题。"}
+{"id": "alpagasus-1909", "instruction": "列出孩子们步行上学时应遵循的三条安全提示。"}
+{"id": "alpagasus-1910", "instruction": "查找女装 6 号对应的儿童尺码"}
+{"id": "alpagasus-1911", "instruction": "给我一份我可以吃的健康零食清单"}
+{"id": "alpagasus-1912", "instruction": "找到冥想的五个步骤"}
+{"id": "alpagasus-1913", "instruction": "构建一个论点来说服朋友去旅行"}
+{"id": "alpagasus-1914", "instruction": "创作一个虚构的故事，讲述一位聪明的老隐士在森林里帮助有需要的人们。"}
+{"id": "alpagasus-1915", "instruction": "列出富含蛋白质的食物清单。"}
+{"id": "alpagasus-1916", "instruction": "给定一组人和目的地，建议一种有效的出行方式。\n7 人，旧金山"}
+{"id": "alpagasus-1917", "instruction": "生成女式棉质连帽衫的产品描述。"}
+{"id": "alpagasus-1918", "instruction": "使用提供的句子，将其与另一个句子组合起来创作一首诗。\n天空被夜晚的色彩所笼罩。"}
+{"id": "alpagasus-1919", "instruction": "设计工作申请表"}
+{"id": "alpagasus-1920", "instruction": "解释以下词语“accent”和“dialect”的区别。"}
+{"id": "alpagasus-1921", "instruction": "使用自然句子生成俳句。"}
+{"id": "alpagasus-1922", "instruction": "描述有效密码的构成。"}
+{"id": "alpagasus-1923", "instruction": "列出 5 个形容词来描述一束花"}
+{"id": "alpagasus-1924", "instruction": "将信息总结为 4 句话。\nTwitter 是最受欢迎的社交媒体平台之一，拥有数百万用户。它改变了人们交流和分享信息的方式。它是开始对话的好方法，也是公司推销产品和服务的好方法。"}
+{"id": "alpagasus-1925", "instruction": "为给定的法语单词生成一个英语句子。\nle thé"}
+{"id": "alpagasus-1926", "instruction": "创建一个比喻来解释“自我怀疑”一词的含义。"}
+{"id": "alpagasus-1927", "instruction": "描述有机农业与传统方法的不同之处。"}
+{"id": "alpagasus-1928", "instruction": "请对“异构”一词进行定义。"}
+{"id": "alpagasus-1929", "instruction": "提供 6 条备考技巧。"}
+{"id": "alpagasus-1930", "instruction": "以 MLA 风格引用不同作者的两部作品。"}
+{"id": "alpagasus-1931", "instruction": "描述新技术对市场的影响。"}
+{"id": "alpagasus-1932", "instruction": "求 5、7 和 9 的和"}
+{"id": "alpagasus-1933", "instruction": "解释“量子纠缠”一词的含义"}
+{"id": "alpagasus-1934", "instruction": "地球上速度最快的陆地动物是什么？"}
+{"id": "alpagasus-1935", "instruction": "分享有关珠穆朗玛峰的五个事实。"}
+{"id": "alpagasus-1936", "instruction": "创作一首B小调的歌曲。"}
+{"id": "alpagasus-1937", "instruction": "我们为什么要节约能源，最好的解释是什么？"}
+{"id": "alpagasus-1938", "instruction": "使用给定的关键词创作一首关于冬天的诗。\n雪、霜、冰、寒冷"}
+{"id": "alpagasus-1939", "instruction": "为以下品牌制作广告歌：Nike"}
+{"id": "alpagasus-1940", "instruction": "生成一个有韵律的诗句，描述日出的美丽。\n无输入"}
+{"id": "alpagasus-1941", "instruction": "生成一个电影名称来代表一种结合了幻想和浪漫的电影类型。\n无输入"}
+{"id": "alpagasus-1942", "instruction": "编写一个新食谱，包含以下至少两种原料：藜麦、虾、鳄梨和大蒜。"}
+{"id": "alpagasus-1943", "instruction": "列出形容词列表来描述一个诚实的人。"}
+{"id": "alpagasus-1944", "instruction": "说出两种采用相同原料的菜肴。"}
+{"id": "alpagasus-1945", "instruction": "查找最近的提供意大利美食的餐厅。\n40.752007, -73.984140"}
+{"id": "alpagasus-1946", "instruction": "生成一份详细的购物清单。\n四名成年人的家庭。"}
+{"id": "alpagasus-1947", "instruction": "为计划户外野餐的人创建一份购物清单。\n野餐可供四人参加。"}
+{"id": "alpagasus-1948", "instruction": "生成印度常见野生动物清单"}
+{"id": "alpagasus-1949", "instruction": "创作一首以欢乐为主题的原创诗歌"}
+{"id": "alpagasus-1950", "instruction": "生成玛格丽特·阿特伍德所著书籍的列表"}
+{"id": "alpagasus-1951", "instruction": "为这个故事添加结尾\n\n萨拉已经走了好几个小时了。最后，她找到了她一直在寻找的东西。"}
+{"id": "alpagasus-1952", "instruction": "描述撒哈拉沙漠的气候。"}
+{"id": "alpagasus-1953", "instruction": "提供太阳能的定义。"}
+{"id": "alpagasus-1954", "instruction": "将以下代码片段转换为英文。\nfor (int i = 0; i < array.length; i++)"}
+{"id": "alpagasus-1955", "instruction": "形容词在句子中如何使用？"}
+{"id": "alpagasus-1956", "instruction": "重新表述这句话，使其不那么正式。\n如果您能在周五之前给我答复，我将不胜感激。"}
+{"id": "alpagasus-1957", "instruction": "列出五个形容词来描述巧克力的味道。"}
+{"id": "alpagasus-1958", "instruction": "构建有效的 HTML 代码来添加链接。"}
+{"id": "alpagasus-1959", "instruction": "总结民权运动的重要性。"}
+{"id": "alpagasus-1960", "instruction": "创建周末海滩之旅的购物清单。"}
+{"id": "alpagasus-1961", "instruction": "创建一个可以主持讨论论坛的机器人。"}
+{"id": "alpagasus-1962", "instruction": "建议一种及时了解 AI 领域最新消息的方法。"}
+{"id": "alpagasus-1963", "instruction": "开发一个程序来识别和标记攻击性语言。"}
+{"id": "alpagasus-1964", "instruction": "汇编美国所有国家公园的列表。"}
+{"id": "alpagasus-1965", "instruction": "生成美国五大湖泊的列表。"}
+{"id": "alpagasus-1966", "instruction": "写 5 首有关自然的俳句。"}
+{"id": "alpagasus-1967", "instruction": "解释为什么阿尔伯特·爱因斯坦被称为最具影响力的科学家之一。"}
+{"id": "alpagasus-1968", "instruction": "写下 5 条在家工作的技巧。"}
+{"id": "alpagasus-1969", "instruction": "生成一份包含 10 种易于制作的食谱的列表。"}
+{"id": "alpagasus-1970", "instruction": "为 5 岁孩子的生日聚会想出 5 项活动。"}
+{"id": "alpagasus-1971", "instruction": "查找指定城市中专注于指定主题的学校\n城市：洛杉矶，\n主题：计算机科学"}
+{"id": "alpagasus-1972", "instruction": "为一个旨在为开发者提供实用资源的在线平台生成一个口号。"}
+{"id": "alpagasus-1973", "instruction": "总结一篇有关全球变暖影响的新闻文章的内容。\nhttps://edition.cnn.com/2020/05/19/world/global-warming-impacts-climate-change-trnd/index.html"}
+{"id": "alpagasus-1974", "instruction": "创建一封电子邮件，请求与教授会面。"}
+{"id": "alpagasus-1975", "instruction": "找到一首符合这种心情的歌曲：悲伤而柔和。"}
+{"id": "alpagasus-1976", "instruction": "帮我找一家市中心附近的好餐馆。"}
+{"id": "alpagasus-1977", "instruction": "将“绿色增长”翻译成英语。"}
+{"id": "alpagasus-1978", "instruction": "想出一种在社交疏远期间庆祝某人生日的方法。"}
+{"id": "alpagasus-1979", "instruction": "起草一条关于环境可持续生活方式的重要性的推文。"}
+{"id": "alpagasus-1980", "instruction": "想出一项针对 5 岁儿童的教育活动。"}
+{"id": "alpagasus-1981", "instruction": "生成一个句子来解释“adamant”这个词的含义。"}
+{"id": "alpagasus-1982", "instruction": "列出 3 个查找酒店折扣优惠的网站"}
+{"id": "alpagasus-1983", "instruction": "创作关于毅力的名言"}
+{"id": "alpagasus-1984", "instruction": "生成一个描述算命师的形容词列表。"}
+{"id": "alpagasus-1985", "instruction": "列出美国历史上 5 个重要日期的列表。"}
+{"id": "alpagasus-1986", "instruction": "列出成功的在线营销活动的 6 个重要要素"}
+{"id": "alpagasus-1987", "instruction": "想一个比喻来解释为什么为求职面试做好准备很重要。"}
+{"id": "alpagasus-1988", "instruction": "为需要为其新清洁服务业务建立网站的企业主创建用户角色。"}
+{"id": "alpagasus-1989", "instruction": "描述使用电子病历的好处。"}
+{"id": "alpagasus-1990", "instruction": "创建一个形容词列表来描述给定的名词。\n名词：猫"}
+{"id": "alpagasus-1991", "instruction": "为以下故事写出两个备选结局。\n故事：\n米娅夏天去拜访了她的祖父母，但她回家的时间到了。"}
+{"id": "alpagasus-1992", "instruction": "创作一首五行诗来描述日落。"}
+{"id": "alpagasus-1993", "instruction": "研究“炸苹果派”的食谱并制定制作这道菜所需的步骤。"}
+{"id": "alpagasus-1994", "instruction": "创作一首使用以下词语的说唱歌曲\n智慧、知识"}
+{"id": "alpagasus-1995", "instruction": "为“epiphany”这个词写一个定义（10个字或更少）。"}
+{"id": "alpagasus-1996", "instruction": "列出理想领导者的五个特征。"}
+{"id": "alpagasus-1997", "instruction": "为有关如何省钱的文章生成标题"}
+{"id": "alpagasus-1998", "instruction": "解释“确认偏差”一词的含义"}
+{"id": "alpagasus-1999", "instruction": "描述满足的感觉"}

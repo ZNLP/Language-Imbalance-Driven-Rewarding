@@ -1,0 +1,1000 @@
+{"id": "alpagasus-0", "instruction": "Give three tips for staying healthy."}
+{"id": "alpagasus-1", "instruction": "How can we reduce air pollution?"}
+{"id": "alpagasus-2", "instruction": "Generate a list of ten items a person might need for a camping trip"}
+{"id": "alpagasus-3", "instruction": "Discuss the causes of the Great Depression"}
+{"id": "alpagasus-4", "instruction": "Classify the following into animals, plants, and minerals\nOak tree, copper ore, elephant"}
+{"id": "alpagasus-5", "instruction": "Describe the function of a computer motherboard"}
+{"id": "alpagasus-6", "instruction": "Generate three verbs that mean the same as \"to apologize\""}
+{"id": "alpagasus-7", "instruction": "Compare and contrast the Cuban Missile Crisis and the Vietnam War."}
+{"id": "alpagasus-8", "instruction": "Transcribe the recording into text.\nRecording about the history of Waterloo"}
+{"id": "alpagasus-9", "instruction": "Look up the boiling point of water."}
+{"id": "alpagasus-10", "instruction": "Generate a list of adjectives that describe a person as brave."}
+{"id": "alpagasus-11", "instruction": "Brainstorm possible solutions to reduce water pollution."}
+{"id": "alpagasus-12", "instruction": "Construct an argument to defend the following statement\nAlternative energy sources are critical to solving the climate crisis"}
+{"id": "alpagasus-13", "instruction": "Generate a list of business ideas for a food delivery service."}
+{"id": "alpagasus-14", "instruction": "Edit the following sentence to improve clarity and flow.\nThe restaurant has great food though the prices are a bit hefty"}
+{"id": "alpagasus-15", "instruction": "Imagine you are speaking with a customer who is unsatisfied with the product they bought from you. Construct a response that diffuses the situation."}
+{"id": "alpagasus-16", "instruction": "Generate a list of methods to reduce food waste."}
+{"id": "alpagasus-17", "instruction": "Construct a list of tips to help reduce stress."}
+{"id": "alpagasus-18", "instruction": "Write a review of a recent movie you watched.\nParasite (2019)"}
+{"id": "alpagasus-19", "instruction": "Translate the following phrase into French.\nI miss you"}
+{"id": "alpagasus-20", "instruction": "Create a web page about robotics."}
+{"id": "alpagasus-21", "instruction": "Identify the language used in the given sentence.\nIl est incroyable."}
+{"id": "alpagasus-22", "instruction": "Conver the temperature from Fahrenheit to Celsius.\n94F"}
+{"id": "alpagasus-23", "instruction": "Calculate the area of the triangle.\nBase: 5cm; Height: 6cm"}
+{"id": "alpagasus-24", "instruction": "Find the average of these three numbers.\n2, 5, 10"}
+{"id": "alpagasus-25", "instruction": "Compile a list of 5 US states located in the Mid West."}
+{"id": "alpagasus-26", "instruction": "Create a timeline describing the history of the internet"}
+{"id": "alpagasus-27", "instruction": "Create a job description for the following role\nData Analytics Consultant"}
+{"id": "alpagasus-28", "instruction": "Create a survey question to measure customer satisfaction"}
+{"id": "alpagasus-29", "instruction": "Suggest a good idea for a family photoshoot."}
+{"id": "alpagasus-30", "instruction": "Provide five adjectives that describe a particular animal.\nLion"}
+{"id": "alpagasus-31", "instruction": "Explain why a given topic is important.\nEnvironmental protection"}
+{"id": "alpagasus-32", "instruction": "Describe the sound of the given object.\nWind chime"}
+{"id": "alpagasus-33", "instruction": "Generate a list of questions related to a given topic.\nInnovation"}
+{"id": "alpagasus-34", "instruction": "Summarize the paragraph into a sentence.\nWhen buying furniture, it's important to take into account the overall look and feel of the space. That means that you should ask yourself if the pieces you are selecting are a good match for the existing furnishings as well as what you imagine the overall style to be."}
+{"id": "alpagasus-35", "instruction": "Compose an informative sentence explaining the given term.\nGreen bonds"}
+{"id": "alpagasus-36", "instruction": "Compose a sonnet about the beauty of nature."}
+{"id": "alpagasus-37", "instruction": "What's the difference between a virus and a worm?"}
+{"id": "alpagasus-38", "instruction": "Create a list of items for a picnic."}
+{"id": "alpagasus-39", "instruction": "Gather some recent data related to the increasing rates of unemployment."}
+{"id": "alpagasus-40", "instruction": "Generate a haiku poem."}
+{"id": "alpagasus-41", "instruction": "Classify this text as Fiction or Non-fiction.\nThe universe is estimated to be around 13.8 billion years old."}
+{"id": "alpagasus-42", "instruction": "Translate this sentence from French to English.\nJ'aime faire de la randonnée."}
+{"id": "alpagasus-43", "instruction": "Summarize the advantages of renewable energy."}
+{"id": "alpagasus-44", "instruction": "Provide the lyrics for the song titled “Yesterday”"}
+{"id": "alpagasus-45", "instruction": "Give a definition of \"algae\"."}
+{"id": "alpagasus-46", "instruction": "Supply a phrase to complete this proverb: \"It's better to be safe than ____.\""}
+{"id": "alpagasus-47", "instruction": "Give an example of a convergent boundary."}
+{"id": "alpagasus-48", "instruction": "Analyze the historical significance of the Stonewall Uprising."}
+{"id": "alpagasus-49", "instruction": "Create a sentence that employs a figure of speech."}
+{"id": "alpagasus-50", "instruction": "Describe the major differences between the Catholic and Protestant faiths."}
+{"id": "alpagasus-51", "instruction": "Compose a haiku about cats"}
+{"id": "alpagasus-52", "instruction": "Given a sequence of numbers, calculate the average\n1, 2, 3, 4, 5"}
+{"id": "alpagasus-53", "instruction": "Explain the difference between a personal computer and a server"}
+{"id": "alpagasus-54", "instruction": "Come up with a creative metaphor for smile"}
+{"id": "alpagasus-55", "instruction": "Generate a creative description of a sunset in the beach."}
+{"id": "alpagasus-56", "instruction": "Explain what is meant by the circle of fifths."}
+{"id": "alpagasus-57", "instruction": "Write a definition of \"photoshop\"."}
+{"id": "alpagasus-58", "instruction": "Write a scientific explanation for why the sky is blue."}
+{"id": "alpagasus-59", "instruction": "Describe the effects of climate change."}
+{"id": "alpagasus-60", "instruction": "Name four diseases caused by cold temperatures."}
+{"id": "alpagasus-61", "instruction": "Generate a review for a recent movie\nMovie name: The Martian"}
+{"id": "alpagasus-62", "instruction": "Explain what the article is about in 1 to 2 sentences.\nSummary: This paper describes a novel deep learning technique called Generative Autowavelets (GAW) and examines its uses in natural language processing (NLP) tasks. GAW is a combination of an autoencoder and wavelet transformer, meaning it can both compress features in text and enable structured extraction of these features."}
+{"id": "alpagasus-63", "instruction": "Write a few sentences about the current state of the given topic.\nAutomation"}
+{"id": "alpagasus-64", "instruction": "Explain the implications of the given information.\nA recent study suggests that teenagers are spending too much time on social media."}
+{"id": "alpagasus-65", "instruction": "Generate a sentence that contains the given words.\nmagic, castle, king"}
+{"id": "alpagasus-66", "instruction": "Describe the process of account creation for a website."}
+{"id": "alpagasus-67", "instruction": "Explain the concept of binary search."}
+{"id": "alpagasus-68", "instruction": "Describe the color pink."}
+{"id": "alpagasus-69", "instruction": "Come up with a social media campaign slogan."}
+{"id": "alpagasus-70", "instruction": "Compose a haiku with the provided subject.\nSpring"}
+{"id": "alpagasus-71", "instruction": "Compute the sum of the following numbers.\n5, 10, 20"}
+{"id": "alpagasus-72", "instruction": "Come up with a creative tagline for a beauty product."}
+{"id": "alpagasus-73", "instruction": "Generate a list of fashion trends for Spring 2021."}
+{"id": "alpagasus-74", "instruction": "What is the impact of deforestation on wildlife?"}
+{"id": "alpagasus-75", "instruction": "Provide me a list of diseases that can be caused by smoking."}
+{"id": "alpagasus-76", "instruction": "Make a list of different types of cryptocurrencies."}
+{"id": "alpagasus-77", "instruction": "Outline an itinerary for a three day trip.\nLocation: London, England"}
+{"id": "alpagasus-78", "instruction": "List the benefits of Amazon Web Services."}
+{"id": "alpagasus-79", "instruction": "Generate a limerick poem about a lemur."}
+{"id": "alpagasus-80", "instruction": "Describe the functions of the Endoplasmic Reticulum."}
+{"id": "alpagasus-81", "instruction": "Identify any usage errors in the following sentence.\nWe all need to take a walk on the wile side."}
+{"id": "alpagasus-82", "instruction": "Brainstorm creative ideas for designing a conference room."}
+{"id": "alpagasus-83", "instruction": "List the countries that are in the Schengen area."}
+{"id": "alpagasus-84", "instruction": "Describe the form and structure of a haiku poem."}
+{"id": "alpagasus-85", "instruction": "Explain why trade protectionism can hurt the economy of a country."}
+{"id": "alpagasus-86", "instruction": "Come up with a slogan to describe a new lipstick product."}
+{"id": "alpagasus-87", "instruction": "Propose a transportation solution for a city with rapid population growth."}
+{"id": "alpagasus-88", "instruction": "Construct a timeline for the coronavirus outbreak."}
+{"id": "alpagasus-89", "instruction": "Create a dialogue between a customer and a flight attendant for a plane ride"}
+{"id": "alpagasus-90", "instruction": "Write a haiku about the ocean."}
+{"id": "alpagasus-91", "instruction": "List five ways to reduce energy consumption."}
+{"id": "alpagasus-92", "instruction": "Generate a list of 5 creative ways to use technology in the classroom."}
+{"id": "alpagasus-93", "instruction": "Provide 3 practice questions for multiplication"}
+{"id": "alpagasus-94", "instruction": "Devise a strategic plan for a fashion brand to increase its online presence."}
+{"id": "alpagasus-95", "instruction": "Name 4 different types of art"}
+{"id": "alpagasus-96", "instruction": "Generate 2 sentence of a conversation that takes place between the manager and the customer."}
+{"id": "alpagasus-97", "instruction": "Generate a valid opening statement for a speech about the importance of voting."}
+{"id": "alpagasus-98", "instruction": "Create a to-do list for a given holiday.\nThanksgiving"}
+{"id": "alpagasus-99", "instruction": "Find a sentence that can be used to explain why someone should not use a particular product.\nLaser Hair Removal"}
+{"id": "alpagasus-100", "instruction": "Provide a cause-and-effect explanation for the following statement.\nThe pandemic has led to a significant increase in online shopping."}
+{"id": "alpagasus-101", "instruction": "List five advantages of using solar energy."}
+{"id": "alpagasus-102", "instruction": "Brainstorm some ideas for a fictional novel."}
+{"id": "alpagasus-103", "instruction": "Generate a correct formula to calculate surface area of a triangle"}
+{"id": "alpagasus-104", "instruction": "Generate a metaphor that describes the situation.\nA hardworking student trying to finish an assignment on time."}
+{"id": "alpagasus-105", "instruction": "Calculate the volume of a cylinder with a radius of 10 cm and a height of 5 cm."}
+{"id": "alpagasus-106", "instruction": "Create a table that illustrates the results of a survey.\nThe survey asked people to rate a new website on a scale of 1-5, with 1 being poor and 5 being excellent."}
+{"id": "alpagasus-107", "instruction": "Write a math equation to find the geometric mean between two numbers\n10 and 15"}
+{"id": "alpagasus-108", "instruction": "Describe the difference between plagiarism and copyright infringement."}
+{"id": "alpagasus-109", "instruction": "Create a story about a parrot."}
+{"id": "alpagasus-110", "instruction": "Generate a narrative for describing the following event.\nA balloon ceremony"}
+{"id": "alpagasus-111", "instruction": "Suggest a method to optimize a website’s performance."}
+{"id": "alpagasus-112", "instruction": "Construct a persuasive argument for why a business should invest in SEO."}
+{"id": "alpagasus-113", "instruction": "Generate a sentence that uses the word ‘zephyr’"}
+{"id": "alpagasus-114", "instruction": "Based on the following philosophy passage, determine the author’s primary argument\nIf we are to believe in our most fundamental capacities for understanding the world, we must first pause to look inward and discover our own subjective values and beliefs. Only by recognizing our own subjective universe can we hope to progress forward to a more objective understanding."}
+{"id": "alpagasus-115", "instruction": "Change the sentences from active voice to passive voice.\nShe will write the report."}
+{"id": "alpagasus-116", "instruction": "Describe a situation where a chatbot would be more useful than a human assistant."}
+{"id": "alpagasus-117", "instruction": "Create a recipe for a Creamy Tomato Soup."}
+{"id": "alpagasus-118", "instruction": "Describe the economic system of the United States."}
+{"id": "alpagasus-119", "instruction": "Create a table of ten of the world's wealthiest people."}
+{"id": "alpagasus-120", "instruction": "Predict the weather in Los Angeles tomorrow."}
+{"id": "alpagasus-121", "instruction": "Create a plan for a budget-friendly Thanksgiving meal."}
+{"id": "alpagasus-122", "instruction": "Identify what type of machine learning technique would be applicable for the given task description.\nGiven a large dataset of images, create a model that can accurately classify the images."}
+{"id": "alpagasus-123", "instruction": "Suggest an example that best represents the given concept.\nGenerosity"}
+{"id": "alpagasus-124", "instruction": "Edit the sentence to make formal.\nIt looks altogether like the situation will be getting worse."}
+{"id": "alpagasus-125", "instruction": "Delete the paragraph from this 1000-word article that does not belong.\nThe entire article"}
+{"id": "alpagasus-126", "instruction": "Suggest a snack that you can make in under 5 minutes."}
+{"id": "alpagasus-127", "instruction": "Create a rule for proper hand-washing technique."}
+{"id": "alpagasus-128", "instruction": "Describe the process of thawing frozen food."}
+{"id": "alpagasus-129", "instruction": "Generate an interesting sentence from the given title.\n\"The Death of John F. Kennedy\""}
+{"id": "alpagasus-130", "instruction": "Explain the given concept in one sentence.\nAlgorithmic complexity"}
+{"id": "alpagasus-131", "instruction": "Make a resume for the following job.\nSoftware Engineer"}
+{"id": "alpagasus-132", "instruction": "Create a timeline of the key events surrounding the 2004 Indian Ocean earthquake and tsunami."}
+{"id": "alpagasus-133", "instruction": "Create a non-literal analogy for the process of creating a business."}
+{"id": "alpagasus-134", "instruction": "Write a Haiku poem about a sunset."}
+{"id": "alpagasus-135", "instruction": "Write a customer review for a car wash service."}
+{"id": "alpagasus-136", "instruction": "Find the area of a square shape with side length 5 cm."}
+{"id": "alpagasus-137", "instruction": "Describe the sound of a train passing by."}
+{"id": "alpagasus-138", "instruction": "Create a grocery list for a week's worth of meals.\nMeals for the week: Spaghetti, tacos, grilled chicken, stir-fry"}
+{"id": "alpagasus-139", "instruction": "Describe the taste of an apple."}
+{"id": "alpagasus-140", "instruction": "Explain what is foreshadowing."}
+{"id": "alpagasus-141", "instruction": "Suggest an algorithm to classify musical composition as ‘romantic’ or ‘modern’."}
+{"id": "alpagasus-142", "instruction": "Explain why it is important to stay hydrated."}
+{"id": "alpagasus-143", "instruction": "Given the following sentence, show me how to transform it into a haiku.\nThe soothing moonlight basks the sea"}
+{"id": "alpagasus-144", "instruction": "Suggest some activities for a family game night."}
+{"id": "alpagasus-145", "instruction": "Describe the different stages in the software development lifecycle."}
+{"id": "alpagasus-146", "instruction": "Generate a valid username given a set of user information.\nName: Sarah Jones, Age: 34"}
+{"id": "alpagasus-147", "instruction": "What is the scientific definition of metabolism?"}
+{"id": "alpagasus-148", "instruction": "Generate 3 marketing ideas to increase engagement on a product's social media account."}
+{"id": "alpagasus-149", "instruction": "Generate a list of 3 healthy snacks for children."}
+{"id": "alpagasus-150", "instruction": "Prepare a meal plan for tomorrow for someone who wants to eat healthy and has a limited budget"}
+{"id": "alpagasus-151", "instruction": "Generate a 10 word list of descriptive words for loneliness."}
+{"id": "alpagasus-152", "instruction": "List five steps for writing an essay."}
+{"id": "alpagasus-153", "instruction": "Generate a story describing the emotions of a character in a given situation.\nAlice is stuck in traffic, trying to get to her parent's house for Thanksgiving."}
+{"id": "alpagasus-154", "instruction": "Rewrite this sentence to make the same idea more eloquently.\nOutput should be a single sentence.\nI have a dog, but it's not very well behaved."}
+{"id": "alpagasus-155", "instruction": "In this task, you need to write an appropriate response to the phrase \"take a break\""}
+{"id": "alpagasus-156", "instruction": "Generate a creative activity for a child to do during their summer vacation."}
+{"id": "alpagasus-157", "instruction": "Generate a piece of advice to someone who is feeling unmotivated."}
+{"id": "alpagasus-158", "instruction": "List three benefits of meditation"}
+{"id": "alpagasus-159", "instruction": "From the words given, form a sentence that conveys a feeling of hope and resilience.\ncourage, sun, darkness"}
+{"id": "alpagasus-160", "instruction": "Create a character profile for a female scientist."}
+{"id": "alpagasus-161", "instruction": "Describe the setting of a dark and mysterious forest."}
+{"id": "alpagasus-162", "instruction": "Edit the following sentence to make it more concise: \"In the home, there are often difficulties in managing time for tasks such as cleaning and laundry\""}
+{"id": "alpagasus-163", "instruction": "Construct a SQL query that will retrieve the first 5 records from a table called \"Customers\"."}
+{"id": "alpagasus-164", "instruction": "Recommend a healthy snack for work."}
+{"id": "alpagasus-165", "instruction": "Design a birthday card for a 7 year old."}
+{"id": "alpagasus-166", "instruction": "Construct a balanced equation to represent the reaction.\nFermentation of glucose to ethanol"}
+{"id": "alpagasus-167", "instruction": "Suggest a suitable subtitle for this article\nThe Benefits of Practicing Mindfulness"}
+{"id": "alpagasus-168", "instruction": "Propose a suitable title for the below article\nThis article discusses the current state of the music industry and how technology has had an impact on its evolution."}
+{"id": "alpagasus-169", "instruction": "Create a dialogue between two characters for a conflict resolution."}
+{"id": "alpagasus-170", "instruction": "Generate a list of ideas for an app that helps people save money."}
+{"id": "alpagasus-171", "instruction": "Classify the following text into either fiction or non-fiction.\nThe novel \"The Catcher in the Rye\" by J.D. Salinger follows the story of a teenage boy named Holden Caulfield."}
+{"id": "alpagasus-172", "instruction": "Construct an argument supporting the implementation of green energy."}
+{"id": "alpagasus-173", "instruction": "Describe some of the benefits of a vegetarian diet."}
+{"id": "alpagasus-174", "instruction": "Print all the prime numbers between 1 and 50."}
+{"id": "alpagasus-175", "instruction": "Describe the flavor profile of the following type of cuisine\nJapanese"}
+{"id": "alpagasus-176", "instruction": "Find the square root of 156.\n<no input>"}
+{"id": "alpagasus-177", "instruction": "What could result from the following business decision?\nIncreasing the price of a product by 10%"}
+{"id": "alpagasus-178", "instruction": "Generate two interesting facts about potatoes."}
+{"id": "alpagasus-179", "instruction": "Generate a headline for a story about the death of a famous actor.\nActor: Will Smith"}
+{"id": "alpagasus-180", "instruction": "Given an input containing a fragment of an article, complete the article by providing the rest of the content.\nJulia is a programming language designed for technical computing. It supports parallel computing and numerical computing, making it an ideal choice for data science, machine learning, and math-heavy applications."}
+{"id": "alpagasus-181", "instruction": "Generate a tweet of 140 characters or less that promotes the importance of education."}
+{"id": "alpagasus-182", "instruction": "Write a sentence using the following adjective\nIndomitable"}
+{"id": "alpagasus-183", "instruction": "Construct a paragraph with the provided words.\nWords:\nspring, favorite, greenery, blooming"}
+{"id": "alpagasus-184", "instruction": "Diagnose the following medical symptoms.\nPatient was experience chest pain, a feeling of weakness and fatigue, along with cold sweats and difficulty breathing."}
+{"id": "alpagasus-185", "instruction": "Generate five questions on the given topic.\nThe Impact of Technology on Education"}
+{"id": "alpagasus-186", "instruction": "Insert sentences in the following paragraph to make it more coherent.\nThe use of AI has been increasing rapidly in recent years. Impact this has on society. What are the potential benefits and risks?"}
+{"id": "alpagasus-187", "instruction": "Write a 300 word report on the benefits of using AI in the criminal justice system."}
+{"id": "alpagasus-188", "instruction": "Compile a list of ethical considerations for the development of AI systems."}
+{"id": "alpagasus-189", "instruction": "Identify the nearest airport based on the given coordinates.\n40.728157, -73.794853"}
+{"id": "alpagasus-190", "instruction": "Output the synonyms of the word \"opportunity\""}
+{"id": "alpagasus-191", "instruction": "Define ‘Exploratory Data Analysis’."}
+{"id": "alpagasus-192", "instruction": "Generate a list of benefits that can be derived from a healthy lifestyle."}
+{"id": "alpagasus-193", "instruction": "Present an argument in favor of using public transportation."}
+{"id": "alpagasus-194", "instruction": "Search the web for the most common symptoms of the flu."}
+{"id": "alpagasus-195", "instruction": "Generate a list of items to pack for a night camping trip."}
+{"id": "alpagasus-196", "instruction": "Rewrite this statement as an imperative sentence.\nPlease save the file before closing."}
+{"id": "alpagasus-197", "instruction": "Provide an example of a situation to go with the example.\nPerson A always blames Person B for their mistakes."}
+{"id": "alpagasus-198", "instruction": "Build a chatbot dialogue to take customer order."}
+{"id": "alpagasus-199", "instruction": "Analyze the pros and cons of online shopping."}
+{"id": "alpagasus-200", "instruction": "Generate a list of 6 questions about sustainable energy."}
+{"id": "alpagasus-201", "instruction": "Analyze the effects of poverty on mental health."}
+{"id": "alpagasus-202", "instruction": "Generate a list of 7 reasons why people should exercise regularly."}
+{"id": "alpagasus-203", "instruction": "Generate a list of 8 social media platforms."}
+{"id": "alpagasus-204", "instruction": "Generate a list of questions that you would ask to get to know someone better."}
+{"id": "alpagasus-205", "instruction": "Generate a list of tips for someone who is learning a new language."}
+{"id": "alpagasus-206", "instruction": "Calculate the product of 5 and 3."}
+{"id": "alpagasus-207", "instruction": "Add 3 examples to the following sentence.\nGun violence in the United States can result in..."}
+{"id": "alpagasus-208", "instruction": "Create a web page that sells women's clothing."}
+{"id": "alpagasus-209", "instruction": "Provide a list containing five adjectives to describe an elephant."}
+{"id": "alpagasus-210", "instruction": "Write a short story or a poem"}
+{"id": "alpagasus-211", "instruction": "Name the capital cities of the following three countries\nIndia, Canada, Egypt"}
+{"id": "alpagasus-212", "instruction": "Explain the difference between the two types\nAerobic and anaerobic exercise"}
+{"id": "alpagasus-213", "instruction": "Create a regex pattern to match all lowercase hexadecimal words"}
+{"id": "alpagasus-214", "instruction": "What is the weather forecast for tomorrow?\nNo input."}
+{"id": "alpagasus-215", "instruction": "Tell me a story about a lovable character.\nNo input."}
+{"id": "alpagasus-216", "instruction": "Make a suggestion to the customer regarding the given product.\nA laptop"}
+{"id": "alpagasus-217", "instruction": "What are some methods you can use to combat post-conference fatigue?"}
+{"id": "alpagasus-218", "instruction": "Edit this sentence to improve it.\nI have been learning to paint on canvas for years, and last year I started to do digital art too."}
+{"id": "alpagasus-219", "instruction": "What is the relationship between climate change and ocean acidification?"}
+{"id": "alpagasus-220", "instruction": "How will AI affect the medical industry in the next 10 years?"}
+{"id": "alpagasus-221", "instruction": "Describe the major components of a well-rounded diet."}
+{"id": "alpagasus-222", "instruction": "Provide a solution to reduce emissions from transportation."}
+{"id": "alpagasus-223", "instruction": "Write an original story with a beginning, middle, and end."}
+{"id": "alpagasus-224", "instruction": "Write a story that begins with the sentence: \"As he looked out into the horizon, he saw...\""}
+{"id": "alpagasus-225", "instruction": "Write a detailed description of the Mona Lisa."}
+{"id": "alpagasus-226", "instruction": "Create a list of potential problems with online shopping."}
+{"id": "alpagasus-227", "instruction": "Give advice on how to stay fit and healthy during the pandemic."}
+{"id": "alpagasus-228", "instruction": "Describe the structure of the ocean floor."}
+{"id": "alpagasus-229", "instruction": "Summarize the differences between a tomato and a watermelon."}
+{"id": "alpagasus-230", "instruction": "Create an analogy to explain cloud computing."}
+{"id": "alpagasus-231", "instruction": "Generate a list of factors that contribute to an individual's success."}
+{"id": "alpagasus-232", "instruction": "Brainstorm strategies to reduce food waste."}
+{"id": "alpagasus-233", "instruction": "Identify the potential harms of artificial intelligence."}
+{"id": "alpagasus-234", "instruction": "Outline the pros and cons of technology-driven healthcare."}
+{"id": "alpagasus-235", "instruction": "Create a timeline of the events that led to the given result.\nThe rise of eCommerce"}
+{"id": "alpagasus-236", "instruction": "Describe what the world would be like in a perfect utopian society."}
+{"id": "alpagasus-237", "instruction": "Generate five topic ideas for a podcast on self-care."}
+{"id": "alpagasus-238", "instruction": "Create a Spark SQL query to filter data from the table below.\nTable: Employee\nColumns: Employee_number, Employee_name, Department,  Average_rating\n\nFilter: Department = 'HR'"}
+{"id": "alpagasus-239", "instruction": "Make a list of books and authors in the fantasy genre"}
+{"id": "alpagasus-240", "instruction": "Make a list of countries in South America."}
+{"id": "alpagasus-241", "instruction": "Update the contact list with the new address and phone number\nJohn Smith:\nAddress: 123 Main Street\nPhone number: (123) 456-7890\nNew Address: 456 Park Street\nNew Phone Number: (234) 567-8901"}
+{"id": "alpagasus-242", "instruction": "Write a complex sentence using the provided words\nAlthough, sun, shine"}
+{"id": "alpagasus-243", "instruction": "Generate a metaphor to describe the given concept.\nWeakening of a friendship"}
+{"id": "alpagasus-244", "instruction": "Transform the statement into an interrogative that is at least 5 words long.\nHe won the election"}
+{"id": "alpagasus-245", "instruction": "What are three ways to reduce single-use plastic waste?"}
+{"id": "alpagasus-246", "instruction": "Generate a metaphor that compares life to a journey"}
+{"id": "alpagasus-247", "instruction": "Explain the given phrase and its relevance to the given context.\nContext: Software development\nPhrase: Test-driven development"}
+{"id": "alpagasus-248", "instruction": "Insert a suitable greeting at the beginning of the given email.\nDear [Name],\n\nWe are writing to inform you that your order is ready to be shipped."}
+{"id": "alpagasus-249", "instruction": "Suggest a possible solution to the given problem.\nThe company is not able to attract customers due to outdated website design."}
+{"id": "alpagasus-250", "instruction": "Create a poem with 8 lines that includes the word \"autumn\".\n<no input>"}
+{"id": "alpagasus-251", "instruction": "Name 5 oceans from largest to smallest.\n<no input>"}
+{"id": "alpagasus-252", "instruction": "Given the input, construct a sentence using the given idiom.\nwalk on eggshells"}
+{"id": "alpagasus-253", "instruction": "Differentate between the two words.\nAudience and spectator"}
+{"id": "alpagasus-254", "instruction": "Fill in the blanks to complete the sentence.\nGlobal warming can be reversed by reducing ________ and __________."}
+{"id": "alpagasus-255", "instruction": "Search the web and explain how global warming affects the polar ice caps."}
+{"id": "alpagasus-256", "instruction": "Find the five largest cities in France."}
+{"id": "alpagasus-257", "instruction": "Generate a story starter given this scenario.\nThe dark, silent forest had been filled with rumors lately."}
+{"id": "alpagasus-258", "instruction": "Write a poem using the given word \"freedom\"."}
+{"id": "alpagasus-259", "instruction": "Write a description of a character in the form of a haiku."}
+{"id": "alpagasus-260", "instruction": "Generate a list of any 5 tips for saving money."}
+{"id": "alpagasus-261", "instruction": "Generate a title for a book about personal growth."}
+{"id": "alpagasus-262", "instruction": "Write a description for a barbecue recipe."}
+{"id": "alpagasus-263", "instruction": "Generate a business name for a company that sells Jewelry."}
+{"id": "alpagasus-264", "instruction": "Brainstorm ideas for a children's party."}
+{"id": "alpagasus-265", "instruction": "List 5 things you can do to reduce your carbon footprint."}
+{"id": "alpagasus-266", "instruction": "Tell a story using the following words:\nalien, amazement, disguise, library, purple"}
+{"id": "alpagasus-267", "instruction": "Generate a creative way to market a movie."}
+{"id": "alpagasus-268", "instruction": "Who was the first U.S. President?"}
+{"id": "alpagasus-269", "instruction": "Describe the importance of collaboration in the classroom."}
+{"id": "alpagasus-270", "instruction": "What is the best way to solve this algebraic equation?\n2x + 10 = 20"}
+{"id": "alpagasus-271", "instruction": "What is the major difference between TCP and UDP?"}
+{"id": "alpagasus-272", "instruction": "Calculate the circumference of a circle with a radius of 4 cm."}
+{"id": "alpagasus-273", "instruction": "Suggest a healthy breakfast recipe for a busy morning."}
+{"id": "alpagasus-274", "instruction": "List five benefits of exercising regularly."}
+{"id": "alpagasus-275", "instruction": "Name 5 tips to write concise emails."}
+{"id": "alpagasus-276", "instruction": "Describe a positive experience at a restaurant."}
+{"id": "alpagasus-277", "instruction": "Look up the definition of the word \"anthropomorphism\" and provide a simple explanation."}
+{"id": "alpagasus-278", "instruction": "Brainstorm some ideas on how to reduce water waste."}
+{"id": "alpagasus-279", "instruction": "Generate a list of 5 items we are most likely to find in a garage."}
+{"id": "alpagasus-280", "instruction": "Construct a timeline of the main events in World War II."}
+{"id": "alpagasus-281", "instruction": "Write a script for a customer service chatbot."}
+{"id": "alpagasus-282", "instruction": "Write a Wikipedia page summarizing the details of the given event.\nGreat Chicago Fire"}
+{"id": "alpagasus-283", "instruction": "Find the closest airport to the given location.\nSeattle, Washington"}
+{"id": "alpagasus-284", "instruction": "Create a title for a blog post on protecting user data privacy."}
+{"id": "alpagasus-285", "instruction": "From the given lyrics, create a haiku poem.\nLyrics: \"As the sun sets in the sky, my love for you grows more high\""}
+{"id": "alpagasus-286", "instruction": "Edit the following sentence to be more descriptive: \"It was hot.\""}
+{"id": "alpagasus-287", "instruction": "What new technology is currently being developed to improve the healthcare system?"}
+{"id": "alpagasus-288", "instruction": "Describe a medical invention that can save lives."}
+{"id": "alpagasus-289", "instruction": "Create a marketing strategy to increase product engagement."}
+{"id": "alpagasus-290", "instruction": "What strategies can organizations use to reduce waste?"}
+{"id": "alpagasus-291", "instruction": "Create a mnemonic for remembering the colors of the rainbow."}
+{"id": "alpagasus-292", "instruction": "Write a short description about the biggest butterfly in the world"}
+{"id": "alpagasus-293", "instruction": "Pick a topic and write 3 paragraphs of 200 words each on it\nTopic: The Causes of Global Warming"}
+{"id": "alpagasus-294", "instruction": "Suggest a vocabulary word related to the topic of recycling"}
+{"id": "alpagasus-295", "instruction": "Create a list of 5 items that are commonly found in a school auditorium"}
+{"id": "alpagasus-296", "instruction": "What would happen if the Earth stopped spinning?"}
+{"id": "alpagasus-297", "instruction": "Explain why diversity is important in the workplace."}
+{"id": "alpagasus-298", "instruction": "Create a list of five items to buy in preparation for a hurricane."}
+{"id": "alpagasus-299", "instruction": "Name five ways to reduce stress."}
+{"id": "alpagasus-300", "instruction": "Edit this text so that it sounds more convincing and professional.\nHello! Welcome to my store. We offer a wide variety of products at really great prices and we promise to provide you with excellent customer service!"}
+{"id": "alpagasus-301", "instruction": "What are the names of the three oceans?"}
+{"id": "alpagasus-302", "instruction": "Compare and contrast two countries.\nMexico & India"}
+{"id": "alpagasus-303", "instruction": "Create a list of 8 online stores where I can buy clothes."}
+{"id": "alpagasus-304", "instruction": "Choose a character from a movie or book you can relate to and explain why.\nCharacter: Hermione Granger from Harry Potter"}
+{"id": "alpagasus-305", "instruction": "Given the input, generate a metaphor.\nThe sunset was so beautiful."}
+{"id": "alpagasus-306", "instruction": "Tell me something interesting about the language of birdsong."}
+{"id": "alpagasus-307", "instruction": "Given the input, describe the setting of the scene.\nThe character is walking through a lush forest."}
+{"id": "alpagasus-308", "instruction": "Explain what blockchain technology is."}
+{"id": "alpagasus-309", "instruction": "Multiply 4 and 7."}
+{"id": "alpagasus-310", "instruction": "Troubleshoot the following error message: \"An unknown error occurred. Error code: 500.\""}
+{"id": "alpagasus-311", "instruction": "Describe the difference between an imperative sentence and a declarative sentence."}
+{"id": "alpagasus-312", "instruction": "Generate a list of steps to keep your laptop secure."}
+{"id": "alpagasus-313", "instruction": "Write a script for an automated chatbot."}
+{"id": "alpagasus-314", "instruction": "Formulate a query in SQL to retrieve the names of all authors in the database."}
+{"id": "alpagasus-315", "instruction": "Can you suggest dishes based on the ingredients given?\nchicken, peppers, garlic"}
+{"id": "alpagasus-316", "instruction": "Write a descriptive sentence about the sky."}
+{"id": "alpagasus-317", "instruction": "What are the benefits of exercising?"}
+{"id": "alpagasus-318", "instruction": "Generate a formal apology letter from a company towards a customer.\nDear [person name],\n\nWe regret to inform you that due to some delays in shipment, we were unable to deliver your order on time."}
+{"id": "alpagasus-319", "instruction": "Find the most suspicious activity in this police report.\nOn October 1st, 2019, at approximately 5:45 PM, Officer Adams responded to 123 Main St. for a reported malicious destruction of property. Upon arriving, Officer Adams noticed damage to the door frame of the residence. There were no apparent witnesses, but Officer Adams was able to find what appeared to be the perpetrator's discarded cell phone."}
+{"id": "alpagasus-320", "instruction": "Create a declarative statement about the importance of protecting the environment."}
+{"id": "alpagasus-321", "instruction": "Generate a fictional conversation between two characters\nMan and woman"}
+{"id": "alpagasus-322", "instruction": "Complete the following sentence: The earliest civilisations were found in"}
+{"id": "alpagasus-323", "instruction": "Summarize how quantum computing works."}
+{"id": "alpagasus-324", "instruction": "Find 3 new and creative ways to use banana peels."}
+{"id": "alpagasus-325", "instruction": "Explain why there is an increase in online shopping."}
+{"id": "alpagasus-326", "instruction": "List 5 popular podcast topics."}
+{"id": "alpagasus-327", "instruction": "Compose a sympathy card for a family whose dog has just passed away"}
+{"id": "alpagasus-328", "instruction": "Create a character profile\nRuth"}
+{"id": "alpagasus-329", "instruction": "Give me five words that would be used to describe the following product\nElectric car"}
+{"id": "alpagasus-330", "instruction": "Summarize what a Blockchain is in a single sentence."}
+{"id": "alpagasus-331", "instruction": "Create a comprehensive question about the role of AI in health care."}
+{"id": "alpagasus-332", "instruction": "Write 5 idioms about love."}
+{"id": "alpagasus-333", "instruction": "Choose 3 colors that make a great color combination."}
+{"id": "alpagasus-334", "instruction": "Describe the atmosphere of a campfire."}
+{"id": "alpagasus-335", "instruction": "Construct a sentence describing a book\nBook title: The Great Gatsby"}
+{"id": "alpagasus-336", "instruction": "Generate a list of 5 things everyone should know about history"}
+{"id": "alpagasus-337", "instruction": "Explain the benefits of using technology in the classroom"}
+{"id": "alpagasus-338", "instruction": "Write an original children's story around the given character and theme.\nCharacter: Sam the Rabbit\nTheme: Fear"}
+{"id": "alpagasus-339", "instruction": "Make up a sentence using the following words:  vegetable, powerful, unable"}
+{"id": "alpagasus-340", "instruction": "Create a metaphor that compares the speed of light to something else."}
+{"id": "alpagasus-341", "instruction": "Find the next 3 terms in the following sequence: 4, 6, 9, 12"}
+{"id": "alpagasus-342", "instruction": "Provide an example of a slant rhyme from a poem."}
+{"id": "alpagasus-343", "instruction": "Translates the sentence from German to English.\nEr mag Musik hören."}
+{"id": "alpagasus-344", "instruction": "Generate a title for a blog post about productivity tips."}
+{"id": "alpagasus-345", "instruction": "Describe a happy memory."}
+{"id": "alpagasus-346", "instruction": "Generate a list of five tips to save money on groceries."}
+{"id": "alpagasus-347", "instruction": "Gather key facts about the history of the Death Penalty in the United States."}
+{"id": "alpagasus-348", "instruction": "Think of a solution to reduce water consumption."}
+{"id": "alpagasus-349", "instruction": "What strategies can be used to conserve energy in the home?"}
+{"id": "alpagasus-350", "instruction": "Design a UI interface for a grocery store checkout system."}
+{"id": "alpagasus-351", "instruction": "Generate a list of 10 marketing tips for a new e-commerce store."}
+{"id": "alpagasus-352", "instruction": "How do you think technology has impacted the way people learn?"}
+{"id": "alpagasus-353", "instruction": "Generate a funny one-liner joke about cats."}
+{"id": "alpagasus-354", "instruction": "What are the pros and cons of using machine learning in AI?"}
+{"id": "alpagasus-355", "instruction": "Describe what a skyscraper is in one sentence."}
+{"id": "alpagasus-356", "instruction": "Explain how photosynthesis works in five steps."}
+{"id": "alpagasus-357", "instruction": "Describe the impact WW2 had on world history"}
+{"id": "alpagasus-358", "instruction": "Tell an interesting story about a day in the life of an animal"}
+{"id": "alpagasus-359", "instruction": "Generate a children's story that includes the character of a friendly lion."}
+{"id": "alpagasus-360", "instruction": "Given two colors, suggest a third color to complete the color palette.\nblue and orange"}
+{"id": "alpagasus-361", "instruction": "Produce a list of solutions for improving online security."}
+{"id": "alpagasus-362", "instruction": "Translate this sentence into French.\nThe sun is shining brightly."}
+{"id": "alpagasus-363", "instruction": "Calculate the total cost.\nThere are 6 items with the cost of 4.95 each."}
+{"id": "alpagasus-364", "instruction": "Generate a catchy slogan to promote recycling."}
+{"id": "alpagasus-365", "instruction": "Provide a CSS code for making all text boxes visible on the page."}
+{"id": "alpagasus-366", "instruction": "Create a SQL query to display the names of all employees who work at a specific department.\nDepartment ID: 21"}
+{"id": "alpagasus-367", "instruction": "Formulate an equation to calculate the circumference of a circle given the radius."}
+{"id": "alpagasus-368", "instruction": "Name five environmental issues that are facing our planet."}
+{"id": "alpagasus-369", "instruction": "What is the basic definition of the word \"euphemism\"?"}
+{"id": "alpagasus-370", "instruction": "Write a haiku about falling leaves."}
+{"id": "alpagasus-371", "instruction": "Generate a title for an article about why children should learn meditation."}
+{"id": "alpagasus-372", "instruction": "Create a tagline for a website offering career-counseling services"}
+{"id": "alpagasus-373", "instruction": "Write an email introducing yourself to a professor you will be taking an online course with"}
+{"id": "alpagasus-374", "instruction": "Generate a list of ten movies related to a dystopian theme"}
+{"id": "alpagasus-375", "instruction": "Create an attention-grabbing heading for a blog article about developing your own business"}
+{"id": "alpagasus-376", "instruction": "Generate a list of five questions related to the topic of racial diversity"}
+{"id": "alpagasus-377", "instruction": "Generate a headline for a blog article about online education"}
+{"id": "alpagasus-378", "instruction": "Find a beginning for a story about a person who lives in an extraordinary world"}
+{"id": "alpagasus-379", "instruction": "Generate a title that reflects the given text.\nWhen a successful musician embarks on a cross-country tour, they'll need a lot of organization to keep things running smoothly."}
+{"id": "alpagasus-380", "instruction": "Describe a small business that someone is thinking of starting."}
+{"id": "alpagasus-381", "instruction": "Come up with a list of 10 things people can do to conserve energy."}
+{"id": "alpagasus-382", "instruction": "Come up with a name for a dessert that is gluten-free, vegan, and has blueberries."}
+{"id": "alpagasus-383", "instruction": "Generate a set of 100 words for a baby shower word search"}
+{"id": "alpagasus-384", "instruction": "Write a simple dialogue between customer and shopkeeper"}
+{"id": "alpagasus-385", "instruction": "What is the chemical formula of Ascorbic Acid?"}
+{"id": "alpagasus-386", "instruction": "Write a description of a beautiful beach."}
+{"id": "alpagasus-387", "instruction": "Are there any diseases that can be prevented through vaccination?"}
+{"id": "alpagasus-388", "instruction": "Explain what a pin code is, and list some of its advantages."}
+{"id": "alpagasus-389", "instruction": "Compile a list of five major problems that cause climate change."}
+{"id": "alpagasus-390", "instruction": "Describe the physical appearance of an elephant."}
+{"id": "alpagasus-391", "instruction": "Put these two pieces of text together to make a sentence.\nIt was a beautiful day. The sky was blue."}
+{"id": "alpagasus-392", "instruction": "Find the length of the hypotenuse given two sides\nside_length1 = 5, side_length2 = 6"}
+{"id": "alpagasus-393", "instruction": "Come up with one unique invention"}
+{"id": "alpagasus-394", "instruction": "Generate a list of famous singers"}
+{"id": "alpagasus-395", "instruction": "Which is the hottest planet in our Solar System?"}
+{"id": "alpagasus-396", "instruction": "Describe the colors in a rainbow"}
+{"id": "alpagasus-397", "instruction": "Brainstorm ideas for an app that helps people learn a new language"}
+{"id": "alpagasus-398", "instruction": "Generate a hashtag for an online movement to help support small businesses"}
+{"id": "alpagasus-399", "instruction": "Write a one-line haiku."}
+{"id": "alpagasus-400", "instruction": "Simplify the following expression into its simplest form.\n2(x + 9) + 2(x + 7)"}
+{"id": "alpagasus-401", "instruction": "Generate a creative title for this article.\n[Link to an article]"}
+{"id": "alpagasus-402", "instruction": "Find a quote related to success."}
+{"id": "alpagasus-403", "instruction": "Describe what you would see if you went to the Grand Canyon."}
+{"id": "alpagasus-404", "instruction": "Construct a simile for the following\nPiano"}
+{"id": "alpagasus-405", "instruction": "Insert the missing word from the sentence.\nShe waited at the bus stop for what ___ seemed an eternity."}
+{"id": "alpagasus-406", "instruction": "Compute the volume of a sphere\nRadius = 3"}
+{"id": "alpagasus-407", "instruction": "Write a query to select all users' emails from the \"Users\" database table."}
+{"id": "alpagasus-408", "instruction": "Create a poetic haiku about being alone."}
+{"id": "alpagasus-409", "instruction": "Name 5 famous composers from the Baroque era."}
+{"id": "alpagasus-410", "instruction": "Explain how afforestation helps the environment."}
+{"id": "alpagasus-411", "instruction": "Make this sentence more polite.\nYou should do that as soon as possible"}
+{"id": "alpagasus-412", "instruction": "Create a poem using the theme 'the beauty of nature.'"}
+{"id": "alpagasus-413", "instruction": "Describe a place you recently visited in five sentences."}
+{"id": "alpagasus-414", "instruction": "Generate an example sentence which uses the verb \"devour\"."}
+{"id": "alpagasus-415", "instruction": "Recommend three practices for reducing food waste."}
+{"id": "alpagasus-416", "instruction": "Generate a list of the ingredients needed for a dish.\nPumpkin bread"}
+{"id": "alpagasus-417", "instruction": "Create a recipe for \"Penne Alla Vodka\"."}
+{"id": "alpagasus-418", "instruction": "How can a person develop a healthy sleep routine?"}
+{"id": "alpagasus-419", "instruction": "Describe how robots can be used in hazardous environments"}
+{"id": "alpagasus-420", "instruction": "Generate a song title for a song about unrequited love."}
+{"id": "alpagasus-421", "instruction": "Generate a new headline from the input\nNew Techniques To Combat Climate Change"}
+{"id": "alpagasus-422", "instruction": "What was the name of the first satellite to be sent into space?"}
+{"id": "alpagasus-423", "instruction": "Describe two steps that can help to reduce carbon dioxide emissions"}
+{"id": "alpagasus-424", "instruction": "Create a metaphor for disappointment."}
+{"id": "alpagasus-425", "instruction": "Create a form for people to sign up for a newsletter."}
+{"id": "alpagasus-426", "instruction": "Construct an SQL query to order customers by their first and last name."}
+{"id": "alpagasus-427", "instruction": "Design a mobile game that teaches children about endangered animals."}
+{"id": "alpagasus-428", "instruction": "Suggest a film that would be suitable for a family movie night."}
+{"id": "alpagasus-429", "instruction": "Add a sentence about the importance of customer service to the paragraph below.\nCustomer service is one of the most important aspects of any business."}
+{"id": "alpagasus-430", "instruction": "Write a scene for a romantic comedy."}
+{"id": "alpagasus-431", "instruction": "Describe the advantages of living in a big city."}
+{"id": "alpagasus-432", "instruction": "Create a haiku poem about nature"}
+{"id": "alpagasus-433", "instruction": "Suggest two ways to conserve energy"}
+{"id": "alpagasus-434", "instruction": "Come up with a creative way to present the following statistics\n25% of people in the US own a pet"}
+{"id": "alpagasus-435", "instruction": "Generate a conversation between a teacher and student about a late assignment"}
+{"id": "alpagasus-436", "instruction": "Describe the origin of a given tradition\nThe Thanksgiving Day Parade"}
+{"id": "alpagasus-437", "instruction": "Generate  a description of a strange, dramatic landscape."}
+{"id": "alpagasus-438", "instruction": "Generate a list of ten skills a company may be looking for in a good candidate"}
+{"id": "alpagasus-439", "instruction": "Generate a creative metaphor comparing poetry to magic"}
+{"id": "alpagasus-440", "instruction": "Create a dialogue between two people discussing the topic of climate change."}
+{"id": "alpagasus-441", "instruction": "Make a list of five reasons to recycle."}
+{"id": "alpagasus-442", "instruction": "Suggest a healthy mid-morning snack."}
+{"id": "alpagasus-443", "instruction": "Create a chart that compares the benefits and drawbacks of using a variety of web-based learning systems"}
+{"id": "alpagasus-444", "instruction": "Create a list of 10 helpful tips for designing an effective computer-based education system"}
+{"id": "alpagasus-445", "instruction": "Create a poem from the following words: sunset, mask, distant"}
+{"id": "alpagasus-446", "instruction": "Write a product review for a software program\nThe software is a grammar-checking tool that helps to check and correct grammar errors in written English."}
+{"id": "alpagasus-447", "instruction": "Generate a sentence using the phrase \"the wind blew\"."}
+{"id": "alpagasus-448", "instruction": "Assemble a list of adjectives to describe someone's voice"}
+{"id": "alpagasus-449", "instruction": "Describe one traditional Indian festival"}
+{"id": "alpagasus-450", "instruction": "How can someone save money while on vacation?"}
+{"id": "alpagasus-451", "instruction": "Compose a poem on the theme of autumn."}
+{"id": "alpagasus-452", "instruction": "Describe how the sea looks like when you are standing on the beach."}
+{"id": "alpagasus-453", "instruction": "Explain the differences between synthetic and natural fabrics."}
+{"id": "alpagasus-454", "instruction": "Create a weather update for the following city.\nMadison, Wisconsin"}
+{"id": "alpagasus-455", "instruction": "Find a good restaurant near the address given\n660 Lexington Avenue, New York, NY 10022"}
+{"id": "alpagasus-456", "instruction": "Explain the concept of empathy to me."}
+{"id": "alpagasus-457", "instruction": "Write a poem describing the beauty of 'X'.\nX: A lake"}
+{"id": "alpagasus-458", "instruction": "Generate a creative slogan for 'X'.\nX: A coffee café"}
+{"id": "alpagasus-459", "instruction": "Come up with 10 ideas for 'X'.\nX: A blog on technology"}
+{"id": "alpagasus-460", "instruction": "What techniques can be used to save energy?"}
+{"id": "alpagasus-461", "instruction": "Convert this temperature to Celsius.\n85°F"}
+{"id": "alpagasus-462", "instruction": "Express the given sentiment in your own words.\n\"It is better to have tried and failed than not to have tried at all.\""}
+{"id": "alpagasus-463", "instruction": "Create an instance of a joke using a pun.\nCategory: Food"}
+{"id": "alpagasus-464", "instruction": "Create a culinary recipe for a dinner item.\nDish: Egg Roll"}
+{"id": "alpagasus-465", "instruction": "Compose a haiku poem about a summer day."}
+{"id": "alpagasus-466", "instruction": "Generate a conversation between two people who have just met.\nPeople: John and Kate"}
+{"id": "alpagasus-467", "instruction": "Generate a creative metaphor for describing a sunset."}
+{"id": "alpagasus-468", "instruction": "Come up with a list of vocabulary words related to web development."}
+{"id": "alpagasus-469", "instruction": "Generate a hypothetical computer device"}
+{"id": "alpagasus-470", "instruction": "Create a list of strategies to combat stress."}
+{"id": "alpagasus-471", "instruction": "Change the sentence to use the passive voice.\nHumans have polluted the environment for centuries."}
+{"id": "alpagasus-472", "instruction": "Create a poem that describes the moon."}
+{"id": "alpagasus-473", "instruction": "Suggest two measures to improve air quality in cities"}
+{"id": "alpagasus-474", "instruction": "Describe the role of machine learning in automation"}
+{"id": "alpagasus-475", "instruction": "Generate a valid email address for this person\nJohn Smith"}
+{"id": "alpagasus-476", "instruction": "Add a transition sentence to connect the two paragraphs.\nParagraph 1: The development of language is an absolutely unique trait of humans. It has enabled us to share thoughts, feelings, and ideas, and create a sense of community.\nParagraph 2: Through those exchanges, our abilities have been greatly enhanced, allowing us to progress and to master our environment."}
+{"id": "alpagasus-477", "instruction": "Describe the process of hydropower generation in a few sentences."}
+{"id": "alpagasus-478", "instruction": "Create a 4 line poem about the summer."}
+{"id": "alpagasus-479", "instruction": "Describe the moon in a poetic way."}
+{"id": "alpagasus-480", "instruction": "Rewrite the following poem from a different perspective.\nMy life is my path, made of miles and stiles \nBreaking free has become my only style"}
+{"id": "alpagasus-481", "instruction": "Give a description of a drugstore."}
+{"id": "alpagasus-482", "instruction": "Tell me about your experience with Python programming"}
+{"id": "alpagasus-483", "instruction": "Generate a list of persuasive writing techniques"}
+{"id": "alpagasus-484", "instruction": "Tell me about the different kinds of financial institutions."}
+{"id": "alpagasus-485", "instruction": "Name three famous European landmarks"}
+{"id": "alpagasus-486", "instruction": "Determine the volume of a cube with sides 4 cm long."}
+{"id": "alpagasus-487", "instruction": "Create an intriguing headline for an article about air pollution."}
+{"id": "alpagasus-488", "instruction": "Create a way to solve the given problem.\nHow to reduce data silos."}
+{"id": "alpagasus-489", "instruction": "Describe what is shown in this painting in one sentence\nhttps://works.bepress.com/jing-chen/3/download/"}
+{"id": "alpagasus-490", "instruction": "Explain what temperature is in scientific terms."}
+{"id": "alpagasus-491", "instruction": "How can I combine blue and pink for my bedroom?"}
+{"id": "alpagasus-492", "instruction": "Generate 10 ideas for your DIY project."}
+{"id": "alpagasus-493", "instruction": "How do I improve concentration?"}
+{"id": "alpagasus-494", "instruction": "Create a list of 10 noise pollution control strategies"}
+{"id": "alpagasus-495", "instruction": "classify the given phrases as either a fact or opinion.\nThe United States is the world's largest economy.\nBananas are the best fruit."}
+{"id": "alpagasus-496", "instruction": "Composite a poem about courage.\n\"<noinput>\""}
+{"id": "alpagasus-497", "instruction": "Write a story about a monster that lives in a magical forest"}
+{"id": "alpagasus-498", "instruction": "Come up with a creative title for a course about marketing"}
+{"id": "alpagasus-499", "instruction": "Generate a design for a home automation system."}
+{"id": "alpagasus-500", "instruction": "Describe the use of water in a nuclear power plant."}
+{"id": "alpagasus-501", "instruction": "Give the menu for the Thanksgiving dinner."}
+{"id": "alpagasus-502", "instruction": "Create a new design for a business card.\nLogo of a transportation company 'GoTrans'"}
+{"id": "alpagasus-503", "instruction": "Describe the characteristics of a type of cloud called \"Stratus\"."}
+{"id": "alpagasus-504", "instruction": "Make a joke about a zombie."}
+{"id": "alpagasus-505", "instruction": "Make a smoothie recipe that's delicious and healthy."}
+{"id": "alpagasus-506", "instruction": "Remove all HTML elements from this string.\n\"<p>This is a <strong>test</strong> string.</p>\""}
+{"id": "alpagasus-507", "instruction": "Explain how coastal erosion happens."}
+{"id": "alpagasus-508", "instruction": "Summarize the characteristics of a given type of animal.\nGorilla"}
+{"id": "alpagasus-509", "instruction": "Compose a haiku about a given topic.\nSpring"}
+{"id": "alpagasus-510", "instruction": "Produce a five line haiku poem describing a sunset."}
+{"id": "alpagasus-511", "instruction": "Come up with a metaphor to describe her feelings.\nShe felt like her heart was being pulled in two directions."}
+{"id": "alpagasus-512", "instruction": "Create a metaphor that compares a person to a flower."}
+{"id": "alpagasus-513", "instruction": "Describe a scene of a person sleeping outdoors."}
+{"id": "alpagasus-514", "instruction": "Divide a string of text into three paragraphs, with each paragraph having \nat least five sentences.\nShe was always looking for adventure. She found it in the form of sailing the seven seas. There were dangerous storms and treacherous creatures, but she never gave up."}
+{"id": "alpagasus-515", "instruction": "Explain why recycling is important."}
+{"id": "alpagasus-516", "instruction": "Write an email to a customer offering a recent product.\nCompany Name: SuperTrike\nProduct Name: HoverTrike"}
+{"id": "alpagasus-517", "instruction": "Based on the photo provided, give a detailed description.\n[photo of a car dealership]"}
+{"id": "alpagasus-518", "instruction": "Describe why making a decision can be difficult."}
+{"id": "alpagasus-519", "instruction": "Here we have a list of ingredients for pumpkin pie. Arrange them in the order they should be used in the recipe.\n-Canned pumpkin\n-Eggs\n-Granulated sugar\n-Ground cloves\n-Ground cinnamon\n-Ground ginger\n-Heavy cream\n-Nutmeg"}
+{"id": "alpagasus-520", "instruction": "Describe what the Indian removal policies were about."}
+{"id": "alpagasus-521", "instruction": "Write one sentence that describes the character Nick Carraway in The Great Gatsby"}
+{"id": "alpagasus-522", "instruction": "Give a list of environmental issues in India"}
+{"id": "alpagasus-523", "instruction": "Explain why having a diverse team is important."}
+{"id": "alpagasus-524", "instruction": "What is AI Ethics?"}
+{"id": "alpagasus-525", "instruction": "Compose a tweet about solar energy using at least two facts about solar energy from the following data set.\nSolar_Fact_1:\nSolar energy can reduce your electricity bill.\nSolar_Fact_2:\nThe United States had more than 64 gigawatts (GW) of solar photovoltaic (PV) installed capacity in 2019."}
+{"id": "alpagasus-526", "instruction": "Describe the scenery of a rainforest in the tropical region."}
+{"id": "alpagasus-527", "instruction": "Generate a conversation between two people discussing a current news topic."}
+{"id": "alpagasus-528", "instruction": "Write a 3-line haiku poem about the stars."}
+{"id": "alpagasus-529", "instruction": "Create a list of items needed if a family has a pet dog."}
+{"id": "alpagasus-530", "instruction": "Output a definition of the following term.\nAlgorithmic bias"}
+{"id": "alpagasus-531", "instruction": "Output a list of 5 adjectives that describe the following noun.\nCountry"}
+{"id": "alpagasus-532", "instruction": "Create a metaphor that conveys the idea of freedom."}
+{"id": "alpagasus-533", "instruction": "Invent a new type of dance."}
+{"id": "alpagasus-534", "instruction": "Generate a product idea for a mobile application."}
+{"id": "alpagasus-535", "instruction": "Generate five creative marketing ideas to promote a product."}
+{"id": "alpagasus-536", "instruction": "Find the average of 4, 8, 20 and 11."}
+{"id": "alpagasus-537", "instruction": "Suggest some ideas on how to reduce air pollution in Beijing."}
+{"id": "alpagasus-538", "instruction": "Add a transition between the following two sentences\nThe class is nearly finished. Some students can begin their summer jobs."}
+{"id": "alpagasus-539", "instruction": "Translate the following statement in Japanese\nShe is an excellent teacher"}
+{"id": "alpagasus-540", "instruction": "Find the first prime number that is greater than 50"}
+{"id": "alpagasus-541", "instruction": "Draft a tweet that encourages people to vote in the upcoming election."}
+{"id": "alpagasus-542", "instruction": "Compose a three line poem using the phrase “the night sky.”"}
+{"id": "alpagasus-543", "instruction": "Convert this temperature in Celsius to Fahrenheit.\nTemparature: 22° Celsius"}
+{"id": "alpagasus-544", "instruction": "Write short description about game of chess"}
+{"id": "alpagasus-545", "instruction": "When were atomic weapons first used?"}
+{"id": "alpagasus-546", "instruction": "Generate a story using the following sentence as the start.\nThe old man stepped into the dark woods."}
+{"id": "alpagasus-547", "instruction": "Turn the following phrase into an imperative sentence.\nPlease take out the garbage"}
+{"id": "alpagasus-548", "instruction": "Find three synonyms for the following word: happy"}
+{"id": "alpagasus-549", "instruction": "Create a limerick about cats."}
+{"id": "alpagasus-550", "instruction": "Develop guidelines for finding reliable online sources."}
+{"id": "alpagasus-551", "instruction": "Generate a metaphor for the concept of identity."}
+{"id": "alpagasus-552", "instruction": "Create an introduction for a website on learning English."}
+{"id": "alpagasus-553", "instruction": "What is a bond?"}
+{"id": "alpagasus-554", "instruction": "Offer advice to someone who is starting a business."}
+{"id": "alpagasus-555", "instruction": "Combine the sentences to form a new sentence.\nThe sun rises on the horizon. A new day begins."}
+{"id": "alpagasus-556", "instruction": "Evaluate the statement on a scale of 1 to 5.\nComputer Science is the study of computers and computing."}
+{"id": "alpagasus-557", "instruction": "Give examples of items that can be recycled."}
+{"id": "alpagasus-558", "instruction": "Explain why taking a break can be beneficial"}
+{"id": "alpagasus-559", "instruction": "Describe what a 404 error message is and how to fix it."}
+{"id": "alpagasus-560", "instruction": "Write an English haiku about snow."}
+{"id": "alpagasus-561", "instruction": "Identify the key differences between a butterfly and a moth."}
+{"id": "alpagasus-562", "instruction": "Explain the difference between given two similar words.\nHoarder and Collector"}
+{"id": "alpagasus-563", "instruction": "Generate a rap verse about the given topic.\nTopic: The importance of learning"}
+{"id": "alpagasus-564", "instruction": "Generate five adjectives to describe the air in the room."}
+{"id": "alpagasus-565", "instruction": "Complete the following phrase with a proverb.\n\"Better be safe than ...\""}
+{"id": "alpagasus-566", "instruction": "Summarize the books of J.R.R. Tolkien."}
+{"id": "alpagasus-567", "instruction": "Rewrite the sentence below to include a metaphor.\nThe sun shines brightly on the meadow."}
+{"id": "alpagasus-568", "instruction": "Generate a world-building element for a setting."}
+{"id": "alpagasus-569", "instruction": "With the given input, describe a typical day in the life of a doctor.\nDr. Jane Scott, Pediatrician"}
+{"id": "alpagasus-570", "instruction": "Using data from the given input, generate an email intended to inform your colleagues about the new accounting procedure.\nCompany: Widgets Inc.\nSubject: New Accounting Procedure"}
+{"id": "alpagasus-571", "instruction": "Construct a sentence using the given homophone pair.\nscene - seen"}
+{"id": "alpagasus-572", "instruction": "Describe the contents of the given Wikipedia article in one sentence.\nhttps://en.wikipedia.org/wiki/Data_visualization"}
+{"id": "alpagasus-573", "instruction": "Construct a valid regular expression to match any string ending with ‘@mysite.com'."}
+{"id": "alpagasus-574", "instruction": "Describe the process of transcription in genetic material."}
+{"id": "alpagasus-575", "instruction": "Generate a sentence that expresses optimism."}
+{"id": "alpagasus-576", "instruction": "Describe a way to make a simple, healthy sandwich."}
+{"id": "alpagasus-577", "instruction": "Create a positive affirmation to motivate someone to work hard."}
+{"id": "alpagasus-578", "instruction": "Classify the following sentence as polite, direct, or impolite.\nCan you help me out with this problem?"}
+{"id": "alpagasus-579", "instruction": "Suggest a hobby that someone can do indoors."}
+{"id": "alpagasus-580", "instruction": "Create a list of ten must-visit locations near the given place.\nNew York City"}
+{"id": "alpagasus-581", "instruction": "How can one develop a healthier lifestyle?"}
+{"id": "alpagasus-582", "instruction": "Report the results of the given experiment.\nA 5-day experiment was conducted to test plant growth under 2 different light sources."}
+{"id": "alpagasus-583", "instruction": "Construct an argument in favor of the given idea.\nRaising the minimum wage"}
+{"id": "alpagasus-584", "instruction": "Create a list of ways to improve memory"}
+{"id": "alpagasus-585", "instruction": "Generate a poem in the style of Robert Frost"}
+{"id": "alpagasus-586", "instruction": "Discuss the consequences of introducing AI into the workforce."}
+{"id": "alpagasus-587", "instruction": "Build a recommendation system to recommend new books to a user.\nThe user is looking for books on quantum physics."}
+{"id": "alpagasus-588", "instruction": "Describe the disadvantages of using commercial facial recognition software."}
+{"id": "alpagasus-589", "instruction": "Find the average of the numbers 3, 5, 9, and 11."}
+{"id": "alpagasus-590", "instruction": "List five microsteps that can be taken to reduce air pollution."}
+{"id": "alpagasus-591", "instruction": "Compose an original haiku about the sea."}
+{"id": "alpagasus-592", "instruction": "Create ten multiple-choice questions about the topic of history."}
+{"id": "alpagasus-593", "instruction": "Turn the following sentence into a haiku.\nLife is full of surprises."}
+{"id": "alpagasus-594", "instruction": "Rewrite this sentence to make it more descriptive: \"It was a nice day\"."}
+{"id": "alpagasus-595", "instruction": "Find the numerical solution to 4x + 3 = 9"}
+{"id": "alpagasus-596", "instruction": "Modify the text to make it more formal.\nhey guys im sorry i wont be able to make it tomorrow"}
+{"id": "alpagasus-597", "instruction": "Generate a metaphor that describes a feeling of helplessness."}
+{"id": "alpagasus-598", "instruction": "Generate an acrostic poem.\nSpring"}
+{"id": "alpagasus-599", "instruction": "Describe the consequences of a broken promise."}
+{"id": "alpagasus-600", "instruction": "Describe a situation in which someone is determined to succeed."}
+{"id": "alpagasus-601", "instruction": "Generate a musical piece to reflect a specific emotion.\nEmotion: Eager anticipation"}
+{"id": "alpagasus-602", "instruction": "Classify a piece of text as either neutral, positive, or negative.\n\"This new way of thinking is amazing!\""}
+{"id": "alpagasus-603", "instruction": "Generate a wish for someone's birthday.\nRecipient: My Best Friend"}
+{"id": "alpagasus-604", "instruction": "Given a text, suggest the right audience for the text.\nThis article talks about the importance of maintaining healthy eating habits."}
+{"id": "alpagasus-605", "instruction": "Identify the three most common symptoms of asthma."}
+{"id": "alpagasus-606", "instruction": "Sum up the main points of the given paragraph.\nOne of the main components of educational technology is data-driven instruction (DDI). This type of instruction uses data to provide learners with personalized learning experiences that are tailored to their needs. DDI can improve the efficiency of instruction by helping teachers identify which topics students need help with and honing in on those topics to increase student engagement and achievement."}
+{"id": "alpagasus-607", "instruction": "Suggest two appropriate actions to manage stress."}
+{"id": "alpagasus-608", "instruction": "Suggest two healthy snacks that can be eaten throughout the day."}
+{"id": "alpagasus-609", "instruction": "Write a sentence that explains what data normalization is used for"}
+{"id": "alpagasus-610", "instruction": "What are some ways to reduce air pollution?"}
+{"id": "alpagasus-611", "instruction": "What is the greenhouse effect and why is it bad?"}
+{"id": "alpagasus-612", "instruction": "Explain the concept of money laundering"}
+{"id": "alpagasus-613", "instruction": "Choose the most appropriate synonym to fill in the blank.\nThe man was filled with a sense of _______ as he skipped out of the room."}
+{"id": "alpagasus-614", "instruction": "Generate a story that describes two people, each with different personality traits in a dinner setting.\n<No input>"}
+{"id": "alpagasus-615", "instruction": "Classify the following sentence as praise, criticism, advice, or request.\nPlease be sure to arrive on time."}
+{"id": "alpagasus-616", "instruction": "What would you suggest for a healthy and well-balanced diet?"}
+{"id": "alpagasus-617", "instruction": "Create a list of eight clothing items an individual should have in their wardrobe"}
+{"id": "alpagasus-618", "instruction": "Pick five books which have been influential to the field of Artificial Intelligence"}
+{"id": "alpagasus-619", "instruction": "Generate one creative way to use honey in a recipe."}
+{"id": "alpagasus-620", "instruction": "Generate a creative way to improve the user experience when using a certain product or system.\nGrocery delivery app"}
+{"id": "alpagasus-621", "instruction": "Suggest a 3-step routine to help people stay healthy."}
+{"id": "alpagasus-622", "instruction": "Given a material, describe a process or recipe on how to make it.\nCement"}
+{"id": "alpagasus-623", "instruction": "Given a similar couplet, complete it.\nLife is like a river"}
+{"id": "alpagasus-624", "instruction": "Suggest a healthy snack that requires minimal preparation."}
+{"id": "alpagasus-625", "instruction": "Add 3 details to the text to make it more interesting.\nThe cat sat on the windowsill."}
+{"id": "alpagasus-626", "instruction": "Generate a marketing headline for this product.\nProduct: An online course on learning programming languages."}
+{"id": "alpagasus-627", "instruction": "Generate a list of 5 spooky places in the world."}
+{"id": "alpagasus-628", "instruction": "Explain why exercise is important for health."}
+{"id": "alpagasus-629", "instruction": "Describe what dreams are."}
+{"id": "alpagasus-630", "instruction": "Generate a plausible explanation for why the polar ice caps are melting."}
+{"id": "alpagasus-631", "instruction": "Explain what it means to be a mindful listener"}
+{"id": "alpagasus-632", "instruction": "Write a review of a restaurant you recently visited.\nI recently visited the \"China Bowl\" Chinese buffet in Chicago."}
+{"id": "alpagasus-633", "instruction": "Generate a story about a character living in a post-apocalyptic world."}
+{"id": "alpagasus-634", "instruction": "Write a detailed definition of “Internet of Things (IoT)”"}
+{"id": "alpagasus-635", "instruction": "Describe the major components of the human digestive system."}
+{"id": "alpagasus-636", "instruction": "Make a logical connection among the 3 given concepts.\nConcept 1: FPGA \nConcept 2: ASIC \nConcept 3: GPU"}
+{"id": "alpagasus-637", "instruction": "Rewrite this sentence using a different grammar structure.\nSentence: Mark is an excellent cook."}
+{"id": "alpagasus-638", "instruction": "Give an example of the given word.\nWord: Abstain"}
+{"id": "alpagasus-639", "instruction": "List the ingredients needed to make chocolate mousse."}
+{"id": "alpagasus-640", "instruction": "Write a haiku poem of a serene beach."}
+{"id": "alpagasus-641", "instruction": "Describe your favorite holiday destination.\nNo input"}
+{"id": "alpagasus-642", "instruction": "Write a letter of apology to your friend.\nNo input"}
+{"id": "alpagasus-643", "instruction": "Describe the smell of a summer evening.\nNo input"}
+{"id": "alpagasus-644", "instruction": "Tell me the differences between a sponge and a tissue."}
+{"id": "alpagasus-645", "instruction": "Given a list of facts, generate a summary.\n- The coronavirus first appeared in Wuhan, China in December 2019\n- It is believed to have originated from an animal, most likely a bat \n- Symptoms of the virus include dry cough, fever, and difficulty breathing\n- It has spread to many countries worldwide and has claimed more than half a million lives"}
+{"id": "alpagasus-646", "instruction": "Generate a response for the given user query.\nHow do I turn on AirDrop on my iPhone?"}
+{"id": "alpagasus-647", "instruction": "Identify the sentiment in the text.\nI'm glad to have the opportunity to work with you."}
+{"id": "alpagasus-648", "instruction": "Generate a list of items for a vegetarian Thanksgiving dinner."}
+{"id": "alpagasus-649", "instruction": "Explain why ice cubes float in water."}
+{"id": "alpagasus-650", "instruction": "Compose a poem of 10 lines in the style of a Haiku."}
+{"id": "alpagasus-651", "instruction": "In three words, describe the taste of bitter chocolate."}
+{"id": "alpagasus-652", "instruction": "Write a news headline that summarizes the given information.\nThe Environmental Protection Agency proposed a new policy that will reduce methane emissions from oil and gas sites by 45%."}
+{"id": "alpagasus-653", "instruction": "Construct a metaphor for smile."}
+{"id": "alpagasus-654", "instruction": "Find a specific example of the given keyword.\nKeyword: Humanitarian efforts"}
+{"id": "alpagasus-655", "instruction": "Construct an analogy to explain the given concept.\nConcept: The relationship between cause and effect"}
+{"id": "alpagasus-656", "instruction": "List five healthy eating habits."}
+{"id": "alpagasus-657", "instruction": "How is Deep Learning different from Machine Learning?"}
+{"id": "alpagasus-658", "instruction": "Name five benefits of practicing yoga"}
+{"id": "alpagasus-659", "instruction": "What is a virtual reality (VR) system?"}
+{"id": "alpagasus-660", "instruction": "Generate a story beginning with: “It all started when …”"}
+{"id": "alpagasus-661", "instruction": "What type of digital marketing strategies should a company use to increase its online presence?"}
+{"id": "alpagasus-662", "instruction": "Generate an innovative idea for a product to help people reduce stress."}
+{"id": "alpagasus-663", "instruction": "Make a Twitter post about the importance of mental health."}
+{"id": "alpagasus-664", "instruction": "Create an entertaining quiz to help people learn more about local wildlife."}
+{"id": "alpagasus-665", "instruction": "Generate a poem that celebrates nature."}
+{"id": "alpagasus-666", "instruction": "Make a speech about why consideration for the environment is important."}
+{"id": "alpagasus-667", "instruction": "Write an article for a magazine about how the average person can reduce their environmental impact."}
+{"id": "alpagasus-668", "instruction": "List all of Bill Gates's investments"}
+{"id": "alpagasus-669", "instruction": "Construct a sentence with the following words: personification, monochrome"}
+{"id": "alpagasus-670", "instruction": "Write an essay about the role of technology in education."}
+{"id": "alpagasus-671", "instruction": "Tell me which sentence is more polite.\nI need you to do something.\n\nCould you please do something?"}
+{"id": "alpagasus-672", "instruction": "Combine the two sentences using the conjunction \"but\".\nHe ate breakfast. He didn't brush his teeth."}
+{"id": "alpagasus-673", "instruction": "Name a famous artist from the Renaissance period."}
+{"id": "alpagasus-674", "instruction": "Describe the function of the hippocampus in the brain."}
+{"id": "alpagasus-675", "instruction": "Provide three examples of renewable energy sources."}
+{"id": "alpagasus-676", "instruction": "Generate a new analogy using the following words: bracelet and book"}
+{"id": "alpagasus-677", "instruction": "Generate a persuasive essay that argues in favor of the given topic.\nTopic: The Benefits of Online Education"}
+{"id": "alpagasus-678", "instruction": "Describe the primary benefits of a multi-factor authentication system."}
+{"id": "alpagasus-679", "instruction": "Explain why you should choose an organic mattress."}
+{"id": "alpagasus-680", "instruction": "Find the time complexity of this algorithm.\ndef linearSearch(arr, n, x): \n    for i in range (0, n): \n        if (arr[i] == x): \n            return i \n    return -1"}
+{"id": "alpagasus-681", "instruction": "Create a one line summary of the following content\nWith temperatures rising, sustainability is becoming an ever-important issue in many countries around the world."}
+{"id": "alpagasus-682", "instruction": "Generate a scene description for a zoo full of robots."}
+{"id": "alpagasus-683", "instruction": "Identify 3 ways in which climate change is adversely affecting human health."}
+{"id": "alpagasus-684", "instruction": "Convert the text to an outline format.\nAutism is a complex neurological and developmental disorder that affects communication and behaviour. Autistic people may have impaired social interactions and restricted, repetitive behaviours, interests and activities."}
+{"id": "alpagasus-685", "instruction": "Create a noun phrase to describe the following object:\nA large computer"}
+{"id": "alpagasus-686", "instruction": "Write a satrical sentence about politicians"}
+{"id": "alpagasus-687", "instruction": "Create a metaphor that describes loneliness"}
+{"id": "alpagasus-688", "instruction": "Create a poem about friends that includes at least 3 metaphors."}
+{"id": "alpagasus-689", "instruction": "Edit the following text to make it sound more interesting and captivating.\nJohn is an engineer. He studies at a university and works in a company."}
+{"id": "alpagasus-690", "instruction": "Describe the steps required to build a software application."}
+{"id": "alpagasus-691", "instruction": "List three strategies to reduce carbon emissions."}
+{"id": "alpagasus-692", "instruction": "List ways to improve the user experience when buying online."}
+{"id": "alpagasus-693", "instruction": "Research the concept of virtual reality and explain it in one sentence."}
+{"id": "alpagasus-694", "instruction": "Generate a poem about the joys of nature."}
+{"id": "alpagasus-695", "instruction": "Compose a haiku about diversity and inclusion."}
+{"id": "alpagasus-696", "instruction": "Describe the characteristics of the main character.\nThe protagonist of The Hunger Games"}
+{"id": "alpagasus-697", "instruction": "Generate a parable about friendship."}
+{"id": "alpagasus-698", "instruction": "Compose a haiku about the wonders of technology."}
+{"id": "alpagasus-699", "instruction": "Generate a new type of monster using the given description.\nDescription: A monster made of sand and sea shells."}
+{"id": "alpagasus-700", "instruction": "Generate the next line in the story.\nIt was a stormy night, and she was standing by the window watching it."}
+{"id": "alpagasus-701", "instruction": "What does “algorithm” mean?"}
+{"id": "alpagasus-702", "instruction": "Create a cocktail recipe."}
+{"id": "alpagasus-703", "instruction": "Describe AI in one sentence."}
+{"id": "alpagasus-704", "instruction": "Create a query to find the maximum price in a given table."}
+{"id": "alpagasus-705", "instruction": "How did Ancient Egyptians build the pyramids?"}
+{"id": "alpagasus-706", "instruction": "Create an outdoor scavenger hunt"}
+{"id": "alpagasus-707", "instruction": "List 5 computer programming languages"}
+{"id": "alpagasus-708", "instruction": "What is the blockchain"}
+{"id": "alpagasus-709", "instruction": "Output whether there are 5 divisors for an integer.\n72"}
+{"id": "alpagasus-710", "instruction": "Construct an explanation of the definition of the word 'bounty'."}
+{"id": "alpagasus-711", "instruction": "Find the hypotenuse of a right triangle with sides 3 and 4."}
+{"id": "alpagasus-712", "instruction": "Provide a forecast for the weather in Chicago for the next week."}
+{"id": "alpagasus-713", "instruction": "Brainstorm 5 ways to reduce stress."}
+{"id": "alpagasus-714", "instruction": "Create a response to the following customer complaint.\nI received the wrong order."}
+{"id": "alpagasus-715", "instruction": "Explain the causes of the First World War"}
+{"id": "alpagasus-716", "instruction": "Develop a fitness plan to stay fit and healthy"}
+{"id": "alpagasus-717", "instruction": "Describe the cycles of the moon"}
+{"id": "alpagasus-718", "instruction": "Name items you need for a camping trip"}
+{"id": "alpagasus-719", "instruction": "Name and define the five freedoms of the First Amendment"}
+{"id": "alpagasus-720", "instruction": "List five adjectives that best describe this person.\nPerson: Steve Jobs"}
+{"id": "alpagasus-721", "instruction": "Generate a creative title for a podcast episode."}
+{"id": "alpagasus-722", "instruction": "Construct an argument against the commercialization of sports."}
+{"id": "alpagasus-723", "instruction": "What are the benefits of living a healthy lifestyle?"}
+{"id": "alpagasus-724", "instruction": "Write a short biography of Abraham Lincoln."}
+{"id": "alpagasus-725", "instruction": "Compose a 5-line poem about heartbreak."}
+{"id": "alpagasus-726", "instruction": "Generate a mathematical expression that sums the numbers from 1 to n."}
+{"id": "alpagasus-727", "instruction": "Provide a general answer to the question \"What is artificial intelligence?\"."}
+{"id": "alpagasus-728", "instruction": "Create a recipe for a vegan sandwich."}
+{"id": "alpagasus-729", "instruction": "Create a family budget for $5000/month."}
+{"id": "alpagasus-730", "instruction": "Create a list of five things one should do before traveling."}
+{"id": "alpagasus-731", "instruction": "Describe what would happen if the given situation took place.\nIf the Earth suddenly stopped rotating"}
+{"id": "alpagasus-732", "instruction": "Create a sentence using the given verb and adjective.\nVerb: glow\nAdjective: luminous"}
+{"id": "alpagasus-733", "instruction": "Explain what wind power is."}
+{"id": "alpagasus-734", "instruction": "Select the two most influential people of the twentieth century."}
+{"id": "alpagasus-735", "instruction": "Name the colors of the rainbow."}
+{"id": "alpagasus-736", "instruction": "What is the name of the tallest mountain in North America?"}
+{"id": "alpagasus-737", "instruction": "Describe the taste of a peach."}
+{"id": "alpagasus-738", "instruction": "Explain what an e-commerce platform is."}
+{"id": "alpagasus-739", "instruction": "Create a list of 5 healthy breakfast recipes."}
+{"id": "alpagasus-740", "instruction": "Name five famous paintings"}
+{"id": "alpagasus-741", "instruction": "Generate a metaphor to describe a difficult situation"}
+{"id": "alpagasus-742", "instruction": "Record the following procedure on how to install a software."}
+{"id": "alpagasus-743", "instruction": "Generate a list of 5 things a student should keep in mind when studying for an exam."}
+{"id": "alpagasus-744", "instruction": "What is the most important thing to consider when creating an online course?"}
+{"id": "alpagasus-745", "instruction": "Generate an anti-bullying slogan."}
+{"id": "alpagasus-746", "instruction": "Generate an intriguing headline for a blog post on artificial intelligence."}
+{"id": "alpagasus-747", "instruction": "Describe the impact of the COVID-19 pandemic on the US economy in less than 100 words."}
+{"id": "alpagasus-748", "instruction": "Transform the following sentence into an imperative.\nPlease don't forget to send me the documents."}
+{"id": "alpagasus-749", "instruction": "Is a composer the same as a songwriter?"}
+{"id": "alpagasus-750", "instruction": "Generate a headline for an article about a climate crisis."}
+{"id": "alpagasus-751", "instruction": "Compose an epitaph for a beloved grandmother."}
+{"id": "alpagasus-752", "instruction": "Provide an explanation of what a \"sustainability paradox\" is."}
+{"id": "alpagasus-753", "instruction": "Restore the following sentence using the synonyms provided\nenergetic, wakeful"}
+{"id": "alpagasus-754", "instruction": "Provide three adjectives to describe the color blue"}
+{"id": "alpagasus-755", "instruction": "List six culinary herbs"}
+{"id": "alpagasus-756", "instruction": "Name five things that can be used to protect against sunburn."}
+{"id": "alpagasus-757", "instruction": "Describe the components of language."}
+{"id": "alpagasus-758", "instruction": "What should the student do to prepare for an upcoming exam?"}
+{"id": "alpagasus-759", "instruction": "Create a new setting for a story."}
+{"id": "alpagasus-760", "instruction": "List five reasons why people should exercise daily."}
+{"id": "alpagasus-761", "instruction": "Generate a list of synonyms for 'desolate'."}
+{"id": "alpagasus-762", "instruction": "Generate a metaphor that describes a person's persistent determination."}
+{"id": "alpagasus-763", "instruction": "Suggest 5 healthier substitutes for red meat."}
+{"id": "alpagasus-764", "instruction": "Describe web designing in few sentences."}
+{"id": "alpagasus-765", "instruction": "Name two environmental benefits of bamboo."}
+{"id": "alpagasus-766", "instruction": "What are 5 must-have survival skills?"}
+{"id": "alpagasus-767", "instruction": "Compose a short song about freedom.\n`<noinput>`"}
+{"id": "alpagasus-768", "instruction": "Brainstorm ideas for how to use a bottle of ink."}
+{"id": "alpagasus-769", "instruction": "Choose the appropriate verb for this sentence.\nThe squirrel _____ through the trees."}
+{"id": "alpagasus-770", "instruction": "Explain why democracy is a good form of government."}
+{"id": "alpagasus-771", "instruction": "Share a fact about the oldest living tree on Earth."}
+{"id": "alpagasus-772", "instruction": "Describe the taste and texture of an Indian \"bhindi\" curry."}
+{"id": "alpagasus-773", "instruction": "Create a code snippet using python."}
+{"id": "alpagasus-774", "instruction": "Generate a sentence that describes the power of speech"}
+{"id": "alpagasus-775", "instruction": "Generate a sentence that relates to the theme of entrepreneurship"}
+{"id": "alpagasus-776", "instruction": "Construct a story around this piece of information.\nThe protagonist is a cat called Kit."}
+{"id": "alpagasus-777", "instruction": "Write a query for an SQL database.\nA movie database which has a table of 'movies' and a table of 'actors'."}
+{"id": "alpagasus-778", "instruction": "Describe the uses of artificial intelligence technology in medicine."}
+{"id": "alpagasus-779", "instruction": "Create a marketing slogan that conveys customer satisfaction."}
+{"id": "alpagasus-780", "instruction": "Rate the given essay on a scale of 1 to 10.\nThis essay is discussing the benefits of exercising. Exercise improves the physical and mental health of individuals. Regular exercise can reduce the chance of developing certain diseases, such as heart disease, strokes and diabetes. It can also help to regulate mood and reduce stress. Exercising also helps to improve cognitive functioning, strengthens the bones and joints, and can lead to improved physical fitness and overall wellbeing."}
+{"id": "alpagasus-781", "instruction": "Generate a sample password that follows the given criteria.\nMust contain 12 characters, including one uppercase letter and one number"}
+{"id": "alpagasus-782", "instruction": "Tell me why someone should learn Spanish?"}
+{"id": "alpagasus-783", "instruction": "Synthesize tips for becoming a better public speaker."}
+{"id": "alpagasus-784", "instruction": "Provide a list of benefits for using renewable energy sources."}
+{"id": "alpagasus-785", "instruction": "Describe the steps for changing a tire."}
+{"id": "alpagasus-786", "instruction": "Write a brief description of fireworks."}
+{"id": "alpagasus-787", "instruction": "How does a spellchecker work?"}
+{"id": "alpagasus-788", "instruction": "What is the history of the Atlantic slave trade?"}
+{"id": "alpagasus-789", "instruction": "Create a unique poem with 8 lines"}
+{"id": "alpagasus-790", "instruction": "Create a plausible scenario where someone uses the following phrase\n\"It's time to take control\""}
+{"id": "alpagasus-791", "instruction": "Write a convincing argument in favor of using GPT models."}
+{"id": "alpagasus-792", "instruction": "Explain the differences between fossil fuels and renewable energy sources."}
+{"id": "alpagasus-793", "instruction": "Create a detailed timeline for the events of World War II."}
+{"id": "alpagasus-794", "instruction": "Name the seven continents."}
+{"id": "alpagasus-795", "instruction": "Explain the functions of ribosomes in a cell."}
+{"id": "alpagasus-796", "instruction": "Describe the properties of natural gas."}
+{"id": "alpagasus-797", "instruction": "Describe a sunset you have seen in the past."}
+{"id": "alpagasus-798", "instruction": "When did the Second World War end?"}
+{"id": "alpagasus-799", "instruction": "Generate a list of ten items needed for camping."}
+{"id": "alpagasus-800", "instruction": "Generate a short bio for a professional chef."}
+{"id": "alpagasus-801", "instruction": "Create a headline for an article about electric cars."}
+{"id": "alpagasus-802", "instruction": "Calculate the surface area of a sphere with radius 5"}
+{"id": "alpagasus-803", "instruction": "Provide three guidelines for a healthy lifestyle."}
+{"id": "alpagasus-804", "instruction": "Express this quantity in a different unit.\n15 centimeters"}
+{"id": "alpagasus-805", "instruction": "Compose a tweet that encourages social distacity."}
+{"id": "alpagasus-806", "instruction": "Find a specific product or service that uses AI."}
+{"id": "alpagasus-807", "instruction": "Equate hope and resilience."}
+{"id": "alpagasus-808", "instruction": "Write a thank you note for a friend."}
+{"id": "alpagasus-809", "instruction": "Make a list of vegetables suitable for planting in summer."}
+{"id": "alpagasus-810", "instruction": "Provide a suggestion for a cold snack that is suitable for a child."}
+{"id": "alpagasus-811", "instruction": "Suggest a type of exercise that someone can practice indoors."}
+{"id": "alpagasus-812", "instruction": "Describe the current social distancing guidelines."}
+{"id": "alpagasus-813", "instruction": "Generate an example of personification."}
+{"id": "alpagasus-814", "instruction": "What are the benefits of using a cloud storage system?"}
+{"id": "alpagasus-815", "instruction": "How does social media affect the way we communicate?"}
+{"id": "alpagasus-816", "instruction": "Explain the concept of system recovery."}
+{"id": "alpagasus-817", "instruction": "Rate the following movie trailer using a 1-5 star rating.\nhttps://www.youtube.com/watch?v=wwCD9B042do"}
+{"id": "alpagasus-818", "instruction": "Come up with three different ways to save money."}
+{"id": "alpagasus-819", "instruction": "Name 3 software applications relevant to the healthcare industry"}
+{"id": "alpagasus-820", "instruction": "Describe what a hard drive does"}
+{"id": "alpagasus-821", "instruction": "How can I conserve water at home?"}
+{"id": "alpagasus-822", "instruction": "Provide 3 examples of countries that have recently experienced war"}
+{"id": "alpagasus-823", "instruction": "Tell me why communication is an important skill."}
+{"id": "alpagasus-824", "instruction": "List some common kitchen tools."}
+{"id": "alpagasus-825", "instruction": "Rate the given article from 1 to 5?\nThe article is titled: \"Using AI To Help Diagnose Cancer Earlier Than Ever\""}
+{"id": "alpagasus-826", "instruction": "List some sustainable sources of energy."}
+{"id": "alpagasus-827", "instruction": "Describe the solar system"}
+{"id": "alpagasus-828", "instruction": "Suggest a unique way to spend the weekend in your city."}
+{"id": "alpagasus-829", "instruction": "Suggest two methods to reduce water wastage"}
+{"id": "alpagasus-830", "instruction": "Compare and contrast two different sources of capital\nEquity and debt"}
+{"id": "alpagasus-831", "instruction": "Arrange the sentence fragments below into a meaningful sentence.\nFragment 1: strong social media presence \nFragment 2: It is important for businesses"}
+{"id": "alpagasus-832", "instruction": "Composer a melody for a song about a summer night."}
+{"id": "alpagasus-833", "instruction": "Compose a Haiku poem centered around the concept of happiness."}
+{"id": "alpagasus-834", "instruction": "Fill in the blanks in the following sentence in an appropriate and grammatically correct way:\n\nThe city had to ____ its proposal due to the lack of ____ support."}
+{"id": "alpagasus-835", "instruction": "Explain the meaning of the proverb at the end of the sentence.\nShe must have gathered her thoughts when she said \"A bird in hand is worth two in the bush\"."}
+{"id": "alpagasus-836", "instruction": "Suggest actions that can be taken to reduce global warming"}
+{"id": "alpagasus-837", "instruction": "Rewrite this sentence using different words to convey the same meaning.\nHe begrudgingly accepted the offer."}
+{"id": "alpagasus-838", "instruction": "Compare the countries India and Japan in 5 sentences."}
+{"id": "alpagasus-839", "instruction": "Calculate the volume of the following box.\nThe box is 4ft long, 3ft wide, and 1ft high."}
+{"id": "alpagasus-840", "instruction": "Suggest technology which can be used in an outdoor farming environment.\nNo input required."}
+{"id": "alpagasus-841", "instruction": "Write an example of a modal verb with an appropriate context.\nNo input required."}
+{"id": "alpagasus-842", "instruction": "Reconstruct the missing sentence.\nSmiling burns approximately two calories a minute. And [missing sentence]"}
+{"id": "alpagasus-843", "instruction": "What is the busiest airport in the world?"}
+{"id": "alpagasus-844", "instruction": "Generate a short story with a climax and resolution."}
+{"id": "alpagasus-845", "instruction": "Create a mnemonic device to help a person remember the planets in the solar system."}
+{"id": "alpagasus-846", "instruction": "Write a query to find all customers who live in the state of California."}
+{"id": "alpagasus-847", "instruction": "Describe the following painting in at least 10 words.\nhttps://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Edgar_Degas_059.jpg/640px-Edgar_Degas_059.jpg"}
+{"id": "alpagasus-848", "instruction": "Generate a news headline about a recent event."}
+{"id": "alpagasus-849", "instruction": "Where can people experience snorkelling?"}
+{"id": "alpagasus-850", "instruction": "Recommend a type of exercise for people with lower back pain."}
+{"id": "alpagasus-851", "instruction": "Propose a solution to reduce the negative effects of plastic on the environment."}
+{"id": "alpagasus-852", "instruction": "Propose an alternative solution to the following problem:\nThe current system of food delivery is inefficient and leads to wastage."}
+{"id": "alpagasus-853", "instruction": "Categorize the following types of literature:\npoetry, novels, play"}
+{"id": "alpagasus-854", "instruction": "How would you design a countertop to hold up to 25lbs?"}
+{"id": "alpagasus-855", "instruction": "Generate a list of activity ideas for a family gathering."}
+{"id": "alpagasus-856", "instruction": "Write an analysis of the following quote.\n\"The greatest glory in living lies not in never falling, but in rising every time we fall.\" - Nelson Mandela"}
+{"id": "alpagasus-857", "instruction": "Create a list of items that create a harmonious atmosphere in the living space."}
+{"id": "alpagasus-858", "instruction": "Generate a metaphor related to the following topic.\nThe power of the internet"}
+{"id": "alpagasus-859", "instruction": "Describe the painting with five adjectives.\nVincent Van Gogh's The Starry Night."}
+{"id": "alpagasus-860", "instruction": "Describe how the color blue relates to nature."}
+{"id": "alpagasus-861", "instruction": "Suggest a gift for a 3 year old."}
+{"id": "alpagasus-862", "instruction": "Edit the following sentence to use the active voice instead of passive voice.\nThe work was completed by Mary"}
+{"id": "alpagasus-863", "instruction": "List the counties of Ireland."}
+{"id": "alpagasus-864", "instruction": "Describe what DNA is."}
+{"id": "alpagasus-865", "instruction": "Construct a query to find all customers from a certain date range.\nTable: customers"}
+{"id": "alpagasus-866", "instruction": "Compose a song using only these two words\nstars, night"}
+{"id": "alpagasus-867", "instruction": "Describe the symptoms of a cold"}
+{"id": "alpagasus-868", "instruction": "Given an event description, generate an informative and interesting sentence about the event.\nA carnival is happening next weekend at the park to benefit the homeless."}
+{"id": "alpagasus-869", "instruction": "Generate a question that will get the user to divulge some more information.\nThe user just told the bot they are having a bad day."}
+{"id": "alpagasus-870", "instruction": "Generate a creative poem describing the night sky."}
+{"id": "alpagasus-871", "instruction": "What are the differences between a standard resume and a CV?"}
+{"id": "alpagasus-872", "instruction": "How would you calculate the average of two numbers?"}
+{"id": "alpagasus-873", "instruction": "Describe a potential consequence of global warming."}
+{"id": "alpagasus-874", "instruction": "Summarize the principles of Feng Shui and how they are used in modern life."}
+{"id": "alpagasus-875", "instruction": "Explain the concept of self-actualization."}
+{"id": "alpagasus-876", "instruction": "Generate a story of 5 sentences, given the following premise:\nThree siblings find an old kite while playing in the yard."}
+{"id": "alpagasus-877", "instruction": "Given the following words, create a descriptive sentence.\nRose, sweet, fragrance."}
+{"id": "alpagasus-878", "instruction": "Brainstorm a relevant title for the following article.\nThe Benefits of Utilizing Recycled Materials"}
+{"id": "alpagasus-879", "instruction": "Generate a memorable story that the audience can relate to."}
+{"id": "alpagasus-880", "instruction": "Generate a list of steps for starting a new business."}
+{"id": "alpagasus-881", "instruction": "Generate a list of tips for a healthy lifestyle."}
+{"id": "alpagasus-882", "instruction": "Generate a song using the following context and melody.\nContext: A love song\nMelody:"}
+{"id": "alpagasus-883", "instruction": "Automatically generate a design given the following description and color palette.\nDescription: An abstract flower pattern\nColor Palette: #f61900, #d24000, #a4ae01, #78c706, #0168f4"}
+{"id": "alpagasus-884", "instruction": "Automatically generate a logo given the following business name and design guidelines.\nBusiness Name: Awesome Cafe\nDesign Guidelines: Abstract design with an emphasis on vibrant colors."}
+{"id": "alpagasus-885", "instruction": "Generate a valid HTML page given the following content.\nHeader: Welcome to My Website\nContent: \nThis is my website where I feature my photography work. I hope you enjoy looking through my portfolio!"}
+{"id": "alpagasus-886", "instruction": "Generate a list of 10 natural numbers between given two numbers.\nNumbers: 5, 25"}
+{"id": "alpagasus-887", "instruction": "Write a 300 words article about the importance of self-care."}
+{"id": "alpagasus-888", "instruction": "Compose a poem with a provided theme\nTheme: A journey to success"}
+{"id": "alpagasus-889", "instruction": "Given the design, create a product name\nDesign: A robot lawnmower"}
+{"id": "alpagasus-890", "instruction": "Tell me about the history of the US National Park System."}
+{"id": "alpagasus-891", "instruction": "Construct a metaphor that captures the feeling of joy."}
+{"id": "alpagasus-892", "instruction": "Add an appropriate ending to the given story.\nKamal was a young man who lived an unhappy life. He had few friends and was always stuck in a mundane routine."}
+{"id": "alpagasus-893", "instruction": "Generate a list of 8 benefits of eating healthy."}
+{"id": "alpagasus-894", "instruction": "Give a sentence that describes this situation.\nTwo men are walking down a path, one of them carrying a backpack."}
+{"id": "alpagasus-895", "instruction": "Come up with a one-word synonym for this phrase.\nExtremely difficult"}
+{"id": "alpagasus-896", "instruction": "Explain why the following phrase is incorrect: \"Your was late\"."}
+{"id": "alpagasus-897", "instruction": "Describe the predominant emotion in the given text\nThe big cat lay in the grass, intently observing the mesmerizing beauty of the meadow beneath him, feeling the cool and gentle breeze caressing him."}
+{"id": "alpagasus-898", "instruction": "Come up with 3 interesting facts about honeybees."}
+{"id": "alpagasus-899", "instruction": "Explain the difference between a manual and an automatic transmission"}
+{"id": "alpagasus-900", "instruction": "Given a user comment, identify whether it is a complaint or a compliment.\nComment: Wow, the delivery was really fast!"}
+{"id": "alpagasus-901", "instruction": "Given a user query, detect the intent and respond with a suitable answer.\nUser Query: How tall is Mount Everest?"}
+{"id": "alpagasus-902", "instruction": "Why is it important to do regular physical exercises every day?"}
+{"id": "alpagasus-903", "instruction": "Write an apt email in 150 words, thanking your current boss for providing you an opportunity for growth."}
+{"id": "alpagasus-904", "instruction": "You are provided with the following word list, create a poem of 10 lines that explains the theme of hope:\nLight, heart, hope, courage, stars, dream, clouds, sky"}
+{"id": "alpagasus-905", "instruction": "Analyze the given story and provide two comments on its theme.\nOnce upon a time there was a young musician who wanted to share his music with the world. Despite his family's discouragement, he traveled around the world, performing to strangers and finding new friends."}
+{"id": "alpagasus-906", "instruction": "Who are the current members of the United Nations Security Council?"}
+{"id": "alpagasus-907", "instruction": "Describe the Water Cycle."}
+{"id": "alpagasus-908", "instruction": "How can companies use artificial intelligence (AI) to increase their profits?"}
+{"id": "alpagasus-909", "instruction": "Look up a famous figure and summarize their life and accomplishments.\nLouis Armstrong"}
+{"id": "alpagasus-910", "instruction": "Create a checklist to help a person stay organized."}
+{"id": "alpagasus-911", "instruction": "Generate a product review with the following information\nProduct: Headphones\nRating: 4.5/5"}
+{"id": "alpagasus-912", "instruction": "Write a sample tweet based on the keyword\nBudget"}
+{"id": "alpagasus-913", "instruction": "Generate an appropriate headline\nScientists discover link between air pollution and heart health"}
+{"id": "alpagasus-914", "instruction": "Come up with an appropriate pun"}
+{"id": "alpagasus-915", "instruction": "Come up with a sentence introducing this topic: Cybersecurity"}
+{"id": "alpagasus-916", "instruction": "How can artificial intelligence be used in healthcare?"}
+{"id": "alpagasus-917", "instruction": "Create a response for a customer who has an issue with the product delivery.\nA customer has emailed to report he has been waiting for 5 days and still has not received his product."}
+{"id": "alpagasus-918", "instruction": "Generate an example of a customer service conversation involving the keyword \"shipping\"."}
+{"id": "alpagasus-919", "instruction": "Given an article, summarize the main points in 5 sentences.\nArticle:\nAI chatbots are computer programs that use natural language processing (NLP), artificial intelligence, and machine learning (ML) technologies to simulate human conversations with customers. AI chatbots have become increasingly popular in the customer service industry, as they can quickly provide answers to customer questions, offer product and service advice, and guide customers through complex procedures. AI chatbots can also save businesses time and money by automating repetitive customer service tasks, such as account management and support, and helping reduce customer service costs."}
+{"id": "alpagasus-920", "instruction": "Generate a simple task-oriented conversation up to 5 turns."}
+{"id": "alpagasus-921", "instruction": "Given a scenario, come up with a solution.\nScenario:\nYou are a high school student struggling to balance school and extracurricular activities."}
+{"id": "alpagasus-922", "instruction": "Describe the benefits of using an online shopping cart system."}
+{"id": "alpagasus-923", "instruction": "Give an example that fits the following definition.\nA micronation is a country or state that is not recognized by any other country."}
+{"id": "alpagasus-924", "instruction": "Follow this instruction - sing a song about joy"}
+{"id": "alpagasus-925", "instruction": "Using the given words, create a haiku.\nsilence, night, moon."}
+{"id": "alpagasus-926", "instruction": "Explain how artificial intelligence can benefit healthcare."}
+{"id": "alpagasus-927", "instruction": "How can we reduce online security threats?"}
+{"id": "alpagasus-928", "instruction": "Generate a list of strategies for improving customer service."}
+{"id": "alpagasus-929", "instruction": "Create a ‘nice-to-have’ list for a product inventory system."}
+{"id": "alpagasus-930", "instruction": "Generate a list of house cleaning tips."}
+{"id": "alpagasus-931", "instruction": "Create a list of skills required to become a software engineer."}
+{"id": "alpagasus-932", "instruction": "Translate this sentence into Spanish: \"I will never give up\""}
+{"id": "alpagasus-933", "instruction": "How could living in a big city affect a person's life?"}
+{"id": "alpagasus-934", "instruction": "Compose a tweet about the dangers of overexposure to social media."}
+{"id": "alpagasus-935", "instruction": "Generate a title for a blog post on the topic of renewable energy."}
+{"id": "alpagasus-936", "instruction": "Describe the scientific consensus on climate change."}
+{"id": "alpagasus-937", "instruction": "What countries speak Spanish?"}
+{"id": "alpagasus-938", "instruction": "Name three manufacturing processes."}
+{"id": "alpagasus-939", "instruction": "Create a program that takes an array and outputs the largest element\n[1, 3, 15, 20, 8, 9]"}
+{"id": "alpagasus-940", "instruction": "Write an email to the new trainee to welcome him/her.\nABC Company"}
+{"id": "alpagasus-941", "instruction": "Create a poem using the words \"sun,\" \"moon,\" and \"stars\"."}
+{"id": "alpagasus-942", "instruction": "Explain why technology can be beneficial in education."}
+{"id": "alpagasus-943", "instruction": "Generate a scenario with dialogs between 2 characters given their identifying traits.\nCharacter 1: Intelligent but unmotivated adolescent\nCharacter 2: Caring and enthusiastic teacher"}
+{"id": "alpagasus-944", "instruction": "Generate dialog between two characters given their traits.\nCharacter 1: Know-it-all and judgmental\nCharacter 2: Shy and self-conscious"}
+{"id": "alpagasus-945", "instruction": "Given a scenario, design a game level.\nThe hero must rescue their comrade from an ancient temple"}
+{"id": "alpagasus-946", "instruction": "Come up with a title appropriate to the following scenario.\nA group of brave adventurers embark on a quest to save the world"}
+{"id": "alpagasus-947", "instruction": "Generate a story that follows the following arc.\nProtagonist learns a lesson, then triumphs over adversity"}
+{"id": "alpagasus-948", "instruction": "Edit the following sentence to better express the idea.\nLying is bad because it damages relationships."}
+{"id": "alpagasus-949", "instruction": "Given a recipe, change the number of servings from 8 to 4.\n8 large eggs"}
+{"id": "alpagasus-950", "instruction": "Generate a creative story that conveys the message, 'Every act of kindness makes the world a better place.'"}
+{"id": "alpagasus-951", "instruction": "Explain the relationship between the nouns and pronouns in the sentence \"Jennifer shared the simple recipe with Tom and she.\""}
+{"id": "alpagasus-952", "instruction": "Compose a sentence using the following words: organize, activities"}
+{"id": "alpagasus-953", "instruction": "Describe what is the setting of this painting\nThe Starry Night"}
+{"id": "alpagasus-954", "instruction": "Cite a particular piece of evidence to support the sentence\nViolent video games have been proven to increase aggressive behavior"}
+{"id": "alpagasus-955", "instruction": "Generate a holiday-themed poem."}
+{"id": "alpagasus-956", "instruction": "What is the main ingredient in guacamole?"}
+{"id": "alpagasus-957", "instruction": "List the six states in the New England region of the United States"}
+{"id": "alpagasus-958", "instruction": "Explain the difference between acute stress and chronic stress."}
+{"id": "alpagasus-959", "instruction": "Calculate the standard deviation of the given list of numbers.\n[4, 8, 1, 10]"}
+{"id": "alpagasus-960", "instruction": "What is your opinion about this essay?\nThis essay argues that it is important to respect differences among people of different cultures."}
+{"id": "alpagasus-961", "instruction": "Convert this time from military to standard.\n14:30"}
+{"id": "alpagasus-962", "instruction": "Summarize the main idea of this paragraph.\nWhile the cause of global warming is generally agreed upon, the extent to which humans are responsible is still heavily debated. The majority of climate experts agree that human activities, such as burning fossil fuels and deforestation, are probably responsible for at least a significant portion, if not the majority, of recent global warming."}
+{"id": "alpagasus-963", "instruction": "Generate a poem with six lines and a rhyme scheme of AABB CC.\nTheme: Nature"}
+{"id": "alpagasus-964", "instruction": "Create a new product design for a child's toy.\nProduct: Robot dinosaur"}
+{"id": "alpagasus-965", "instruction": "Describe three web browsers."}
+{"id": "alpagasus-966", "instruction": "Make a list of five activities you can do outdoors to stay active during the winter."}
+{"id": "alpagasus-967", "instruction": "Re-write the following sentence in a more formal and polite way.\nPlease do the task as soon as possible."}
+{"id": "alpagasus-968", "instruction": "Name four benefits of jogging."}
+{"id": "alpagasus-969", "instruction": "Compose a tweet about GPT-3."}
+{"id": "alpagasus-970", "instruction": "Suggest a solution to reduce air pollution."}
+{"id": "alpagasus-971", "instruction": "Describe what a computer virus is."}
+{"id": "alpagasus-972", "instruction": "Outline the key features of the web application for a car rental business."}
+{"id": "alpagasus-973", "instruction": "What are some strategies for teaching mathematics to elementary school children?"}
+{"id": "alpagasus-974", "instruction": "List 5 adjectives that describe an elephant."}
+{"id": "alpagasus-975", "instruction": "Write a poem using the following words: climate, transform, and nature."}
+{"id": "alpagasus-976", "instruction": "Describe the color of the sky"}
+{"id": "alpagasus-977", "instruction": "Translate this sentence into German: “That is a very nice car\""}
+{"id": "alpagasus-978", "instruction": "Generate a list of ten objects related to the beach"}
+{"id": "alpagasus-979", "instruction": "Generate an acrostic poem for the word \"INSPIRE\"."}
+{"id": "alpagasus-980", "instruction": "Explain why this product could be used as an affordable gift\nA USB car charger"}
+{"id": "alpagasus-981", "instruction": "Give two methods to reduce stress"}
+{"id": "alpagasus-982", "instruction": "On a scale of 1 to 5, rate the following employee's performance in the past month.\n* Assisted with 3 customer service inquiries\n* Provided technical support to 2 customers\n* Resolved 3 project-related issues"}
+{"id": "alpagasus-983", "instruction": "List the first five presidents of the United States of America."}
+{"id": "alpagasus-984", "instruction": "Name three things people can do to help the environment."}
+{"id": "alpagasus-985", "instruction": "Create a new poem with the given template.\n\"Love is like a ___\""}
+{"id": "alpagasus-986", "instruction": "Develop a creative analogy describing evolution."}
+{"id": "alpagasus-987", "instruction": "Add an additional sentence to the following story.\nKaren picked up the red stone, feeling its weight in her palm."}
+{"id": "alpagasus-988", "instruction": "Construct a conversation between two people related to the topic.\nDriving electric vehicles"}
+{"id": "alpagasus-989", "instruction": "List the products in the photo.\n(photo of a grocery store)"}
+{"id": "alpagasus-990", "instruction": "Construct a valid English sentence that uses the phrase “as a result”."}
+{"id": "alpagasus-991", "instruction": "You need to write a catchy title for a blog post about the importance of taking breaks."}
+{"id": "alpagasus-992", "instruction": "Write a review for a book you read last month.\nI recently read \"The Hunger Games\" by Suzanne Collins."}
+{"id": "alpagasus-993", "instruction": "Write a review of a hotel you stayed at.\nI recently stayed at the Bellagio in Las Vegas."}
+{"id": "alpagasus-994", "instruction": "Based on the Wikipedia article below, create a 100-word summary of the concept.\nFlow (psychology)\nFlow, also known as the zone, is the mental state of operation in which a person performing an activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity. In essence, flow is characterized by the complete absorption in what one does, and a resulting loss in one's sense of space and time."}
+{"id": "alpagasus-995", "instruction": "Describe the flavor profile of a licorice candy."}
+{"id": "alpagasus-996", "instruction": "Generate a recipe for garlic Italian dressing."}
+{"id": "alpagasus-997", "instruction": "Give an example of a polite phrase for when someone is leaving your house."}
+{"id": "alpagasus-998", "instruction": "Generate a game plan for a client struggling with eating habits."}
+{"id": "alpagasus-999", "instruction": "Generate a unique name for a fictional character."}
