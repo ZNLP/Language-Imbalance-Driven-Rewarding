@@ -79,28 +79,15 @@ bash ./scripts/batch_translate.sh
 
 ## 📈 Train
 
+Our training is mostly performed on [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) code base. Please refer to that repo for more details.
+
 ## 📈 Evaluation
 
-We perform evaluation on several image-based benchmarks. Please see our paper for the more details.
-
-<div align=center>
-<img width="100%" src="document/evaluation.jpg"/>
-</div>
-
-If you want to evaluate the model on image-based benchmarks, please use the evaluation scripts  for automatic evaluation.
-
 ```bash
-bash scripts/evaluate.sh
+bash scripts/ebatch_inference_for_eval.sh
 ```
 
-For gqa we need to use the following script separately for evaluation.
-
-```bash
-unzip -d ./uni_interleaved/utils/gqa_metrics_src/ ./uni_interleaved/utils/gqa_metrics_src/train_choices.zip
-python ./uni_interleaved/utils/gqa_eval.py
-```
-
-## 👀 Examples
+## 👀 Experiments
 
 We provide some results in this section. More detailed results can be found in our paper.
 
@@ -118,12 +105,12 @@ We provide some results in this section. More detailed results can be found in o
 <details>
 <summary>Click to expand more examples</summary>
 <p align="center">
-    <img src="assets/mt_bench.png" width="60%" height="60%" alt="The Multilingual MT-Bench Benchmark">
-    <p align="center">Multilingual Benchmark Performance</p>
-    <img src="assets/multilingual_NLP_tasks.png" width="60%" height="60%" alt="The Multilingual NLP Benchmarks">
-    <p align="center">Performance Across Multilingual NLP Tasks</p>
-    <img src="assets/mgsm.png" width="60%" height="60%" alt="The MGSM benchmark">
-    <p align="center">Mathematical Reasoning in Low-Resource Languages (MGSM)</p>
+    <img src="assets/mt_bench.png" width="60%" height="60%">
+    <p align="center">The Multilingual MT-Bench Benchmark</p>
+    <img src="assets/multilingual_NLP_tasks.png" width="60%" height="60%">
+    <p align="center">The Multilingual NLP Benchmarks</p>
+    <img src="assets/mgsm.png" width="60%" height="60%">
+    <p align="center">Model performances on MGSM benchmark on LLama-3-8B-Instruct</p>
 </p>
 </details>
 </div>
