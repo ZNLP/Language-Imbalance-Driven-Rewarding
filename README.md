@@ -31,7 +31,7 @@
 
 ## 🔥 Update
 
-- [28/10/2024]🔥We release the [code](https://github.com/james-yw/Language-Imbalance-Driven-Rewarding) for Language Imbalance Driven Rewarding!
+- [28/10/2024]🔥We release the [code](https://github.com/ZNLP/Language-Imbalance-Driven-Rewarding) for Language Imbalance Driven Rewarding!
 - [11/10/2024]🔥Language Imbalance Driven Rewarding is coming! We release the [paper](https://arxiv.org/pdf/2405.15232)!
 
 ## 👀 Contents
@@ -52,7 +52,7 @@ Please follow the instructions below to install the required packages.
 1. Clone this repository
 
 ```bash
-https://github.com/james-yw/Language-Imbalance-Driven-Rewarding.git
+https://github.com/ZNLP/Language-Imbalance-Driven-Rewarding.git
 ```
 
 2. Install Package
