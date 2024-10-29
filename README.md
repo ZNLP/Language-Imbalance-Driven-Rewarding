@@ -30,7 +30,7 @@
 <font size=5><div align='center' >  [[📖 arXiv Paper](https://arxiv.org/pdf/2405.15232)] </div></font>
 
 ## Overview
-We introduce **Language Imbalance Driven Rewarding**, a novel approach that leverages the inherent capability imbalance across different languages in large language models (LLMs) as a reward signal for iterative self-improvement. By applying iterative **Direct Preference Optimization (DPO)** training, LIDR not only enhances the performance of non-dominant languages but also improves outcomes in dominant languages. 
+We introduce **Language Imbalance Driven Rewarding**, a novel approach that leverages the inherent capability imbalance across different languages in large language models (LLMs) as a reward signal for iterative self-improvement. By applying iterative DPO training, our approach _not only enhances the performance of non-dominant languages but also improves outcomes in dominant languages._ 
 
 Our goal with this approach is to contribute a new perspective to the multilingual LLM community by challenging the assumption that language imbalance is solely a challenge to be mitigated. We hope this approach will inspire further exploration into _multilingual self-improvement_ in LLMs, broadening the horizon for more balanced and capable language models.
 
