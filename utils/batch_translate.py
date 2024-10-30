@@ -177,10 +177,6 @@ def main(args):
     else:
         raise ValueError("Question file should be json or jsonl format.")           
 
-
-    # data = data[:100]
-
-
     # write results
     if getattr(args, "save_dir", None) is None and getattr(args, "save_file", None) is None:
         raise ValueError("save_dir or save_file should be provided.")

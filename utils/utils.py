@@ -17,7 +17,7 @@ def load_json(file_path):
     data = []
     with open(file_path, "r") as f:
         try:
-            data = json.load(f)  # 直接加载整个文件
+            data = json.load(f) 
         except json.JSONDecodeError as e:
             print(colored(f"JSON Decode Exception when reading the file: {file_path}\nError: {e}", "red"))
         except Exception as e:

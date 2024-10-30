@@ -13,18 +13,6 @@ from transformers import AutoTokenizer
 
 from trans_prompts import TRANS_INSTRUCTION
 
-# # sft llama2 prompt
-# SFT_PROMPT = (
-#     "<sys>You are a helpful assistant.</sys>\n\n"
-#     "<user>{instruction}</user>\n\n"
-#     "<assistant>"
-# )
-
-# llama-3-chat prompt
-
-# PREFIX = (
-#     "Please answer the following question in {language}.\n\n"
-# )
 PREFIX = {
     "zh": "请用中文回答下面的问题。\n\n",
     "en": "Please answer the following question in English.\n\n",
@@ -115,7 +103,7 @@ class LlamaInferce(object):
 def parse_args():
     args = argparse.ArgumentParser()
 
-    args.add_argument('-c', '--checkpoint_dir', type=str, default="/mnt/workspace/workgroup/huaike.wc/pretrained_models/transformers/Meta-Llama-3-8B-Instruct", help="folder of model checkpoint.")
+    args.add_argument('-c', '--checkpoint_dir', type=str, default="/pretrained_models/transformers/Meta-Llama-3-8B-Instruct", help="folder of model checkpoint.")
 
     args.add_argument('--verbose', action="store_true", help="print intermediate result on screen")
     args.add_argument('--temperature', type=float, default=0.8, help="for sampling")
@@ -162,20 +150,6 @@ if __name__ == "__main__":
         print(colored(f"Question: {question}\n", "yellow"))
 
 
-    # from transformers import AutoTokenizer
-    # tokenizer = AutoTokenizer.from_pretrained(args.checkpoint_dir)
-
-    # messages = [
-    #     {"role": "system", "content": "You are a pirate chatbot who always responds in pirate speak!"},
-    #     {"role": "user", "content": "When did Virgin Australia start operating?\n\nVirgin Australia, the trading name of Virgin Australia Airlines Pty Ltd, is an Australian-based airline. It is the largest airline by fleet size to use the Virgin brand. It commenced services on 31 August 2000 as Virgin Blue, with two aircraft on a single route.[3] It suddenly found itself as a major airline in Australia's domestic market after the collapse of Ansett Australia in September 2001. The airline has since grown to directly serve 32 cities in Australia, from hubs in Brisbane, Melbourne and Sydney.[4]"},
-    # ]
-
-    # question = tokenizer.apply_chat_template(messages,
-    #     tokenize=False, 
-    #     add_generation_prompt=True)
-
-    # import pdb; pdb.set_trace()
-
     responser = LlamaInferce(args, question)
 
     # run reponser
@@ -183,12 +157,3 @@ if __name__ == "__main__":
     prompts = [prompt]
     outputs = llm.generate(prompts, sampling_params)
     responser.get_llm_response(outputs[0])
-
-
-    
-    # # save responses
-    # full_reponses = "\n\n".join(reponser.reponses)
-    # with open("log.txt", "w") as f:
-    #     f.write(full_reponses)
-
-
