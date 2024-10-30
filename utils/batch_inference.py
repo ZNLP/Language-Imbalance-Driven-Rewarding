@@ -183,7 +183,6 @@ def main(args):
     elif getattr(args, "save_dir", None) is not None:
         if not os.path.exists(args.save_dir):
             os.makedirs(args.save_dir, exist_ok=True)
-        # save_file = os.path.join(args.save_dir, os.path.basename(args.question_file) + f".prediction.with_{args.checkpoint_dir.split('/')[-1]}." + time.strftime("%Y%m%d%H%M%S") + ".jsonl")
         save_file = os.path.join(args.save_dir, os.path.basename(args.question_file) + f".prediction.with_{args.checkpoint_dir.split('/')[-1]}.temp_{args.temperature}_seed_{args.seed}_repeat_{args.repetition_penalty}.jsonl")
     elif getattr(args, "save_file", None) is not None:
         if not os.path.exists(os.path.dirname(args.save_file)):
