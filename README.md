@@ -35,18 +35,37 @@ We introduce **Language Imbalance Driven Rewarding**, a novel approach that leve
 Our goal with this approach is to contribute a new perspective to the multilingual LLM community by challenging the assumption that language imbalance is solely a challenge to be mitigated. We hope this approach will inspire further exploration into _multilingual self-improvement_ in LLMs, broadening the horizon for more balanced and capable language models.
 
 ## 🔥 Update
-
+- [01/08/2025] We have released all checkpoints used in our work  on [🤗HuggingFace](https://huggingface.co/collections/James-WYang/language-imbalance-driven-rewarding-68871dd4f0f7573b8e1d059a). Apologies for the delay!
+- [23/01/2025]🍉Language Imbalance Driven Rewarding has been accepted by ICLR 2025!
 - [28/10/2024]🔥We release the [code](https://github.com/ZNLP/Language-Imbalance-Driven-Rewarding) for Language Imbalance Driven Rewarding!
 - [11/10/2024]🔥Language Imbalance Driven Rewarding is coming! We release the [paper](https://arxiv.org/pdf/2405.15232)!
 
 ## 👀 Contents
-
+- [Models](#Models)
 - [Setup](#Setup)
 - [Preparation](#Preparation)
 - [Train](#Train)
 - [Evaluation](#Evaluation)
 - [Experiments](#Experiments)
 - [Citation](#citation)
+
+## 🔓 Models
+| Model Name                                                                                 | 🤗HuggingFace   |
+|--------------------------------------------------------------------------------------------|--------|
+| LIDR_M0_Qwen2-7B-Instruct_en_es_ru_de_fr                                                  | https://huggingface.co/James-WYang/LIDR_M0_Qwen2-7B-Instruct_en_es_ru_de_fr    |
+| LIDR_M0_Llama-2-7b-chat-hf_en_es_ru_de_fr                                                 | https://huggingface.co/James-WYang/LIDR_M0_Llama-2-7b-chat-hf_en_es_ru_de_fr    |
+| LIDR_M0_Llama-2-7b-chat-hf_en_ja_ko_it_th                                                 | https://huggingface.co/James-WYang/LIDR_M0_Llama-2-7b-chat-hf_en_ja_ko_it_th    |
+| LIDR_M0_Meta-Llama-3-8B-Instruct_en_es_ru_de_fr                                          | https://huggingface.co/James-WYang/LIDR_M0_Meta-Llama-3-8B-Instruct_en_es_ru_de_fr    |
+| LIDR_M0_Meta-Llama-3-8B-Instruct_translate_by_system_en_th_bn_sw                         | https://huggingface.co/James-WYang/LIDR_M0_Meta-Llama-3-8B-Instruct_translate_by_system_en_th_bn_sw    |
+| LIDR_M0_Meta-Llama-3-8B-Instruct_en_th_bn_sw                                             | https://huggingface.co/James-WYang/LIDR_M0_Meta-Llama-3-8B-Instruct_en_th_bn_sw    |
+| LIDR_M1_Qwen2-7B-Instruct_en_es_ru_de_fr                                                  | https://huggingface.co/James-WYang/LIDR_M1_Qwen2-7B-Instruct_en_es_ru_de_fr    |
+| LIDR_M1_Llama-2-7b-chat-hf_en_es_ru_de_fr                                                 | https://huggingface.co/James-WYang/LIDR_M1_Llama-2-7b-chat-hf_en_es_ru_de_fr    |
+| LIDR_M1_Llama-2-7b-chat-hf_en_ja_ko_it_th                                                 | https://huggingface.co/James-WYang/LIDR_M1_Llama-2-7b-chat-hf_en_ja_ko_it_th    |
+| LIDR_M1_Meta-Llama-3-8B-Instruct_en_es_ru_de_fr                                          | https://huggingface.co/James-WYang/LIDR_M1_Meta-Llama-3-8B-Instruct_en_es_ru_de_fr    |
+| LIDR_M1_Meta-Llama-3-8B-Instruct_translate_by_system_en_th_bn_sw                         | https://huggingface.co/James-WYang/LIDR_M1_Meta-Llama-3-8B-Instruct_translate_by_system_en_th_bn_sw    |
+| LIDR_M1_Meta-Llama-3-8B-Instruct_en_th_bn_sw                                             | https://huggingface.co/James-WYang/LIDR_M1_Meta-Llama-3-8B-Instruct_en_th_bn_sw    |
+| LIDR_Multilingual_Reasoning_M0_Meta-Llama-3-8B-Instruct_en_es_ru_de_fr                  | https://huggingface.co/James-WYang/LIDR_Multilingual_Reasoning_M0_Meta-Llama-3-8B-Instruct_en_es_ru_de_fr    |
+| LIDR_Multilingual_Reasoning_M1_Meta-Llama-3-8B-Instruct_en_es_ru_de_fr                  | https://huggingface.co/James-WYang/LIDR_Multilingual_Reasoning_M1_Meta-Llama-3-8B-Instruct_en_es_ru_de_fr    |
 
 
 ## 📷 Setup
@@ -127,9 +146,9 @@ We provide some results in this section. More detailed results can be found in o
 
 ## Schedule
 
-- [x] Release training & evaluation code
+- ☑️ Release training & evaluation code
 
-- [ ] Release GPT-4 Score code
+- ☑️ Release ALL checkpoints
 
 ## Citation
 
