@@ -27,7 +27,7 @@
     <img src="assets/outline.png" width="100%" height="100%">
 </p>
 
-<font size=5><div align='center' >  [[📖 arXiv Paper](https://arxiv.org/pdf/2405.15232)] </div></font>
+<font size=5><div align='center' >  [[📖 arXiv Paper](https://arxiv.org/pdf/2410.08964)] </div></font>
 
 ## Overview
 We introduce **Language Imbalance Driven Rewarding**, a novel approach that leverages the inherent capability imbalance across different languages in large language models (LLMs) as a reward signal for iterative self-improvement. By applying iterative DPO training, our approach _not only enhances the performance of non-dominant languages but also improves outcomes in dominant languages._ 
